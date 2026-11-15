@@ -16,21 +16,35 @@ summary: >-
   Reported Kemal's Saturday speech as only the prelude to the Assembly's abolition decisions.
 quote:
   text: >-
-    n'était, que le: prélude des décisions importantes que vient d'adopter l'Assemblée nationale turque
+    Le discours prononcé par Mustapha Kemal, samedi dernier, n'était que le prélude des décisions importantes
+    que vient d'adopter l'Assemblée nationale turque.
   language: fr
   translation: >-
-    was only the prelude to the important decisions which the Turkish National Assembly has just adopted
+    The speech delivered by Mustapha Kemal last Saturday was only the prelude to the important decisions which
+    the Turkish National Assembly has just adopted.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 3, under the heading 'Après la suppression'. Reporting; no stated view. Gallica ContentSearch fragment,
-  OCR copied as given; view number is Gallica's, not necessarily the printed page.
+  Page 3, the opening sentence of 'Après la suppression du Califat', a commentary signed 'G. V.' in the
+  foreign news. It lists what is already done (the caliph deposed, the caliphate abolished, the dynasty
+  banished, the palaces turned into museums) and goes on: 'On voit combien profonde sont les dernières
+  réformes introduites dans l'ancienne Turquie par le kemalisme victorieux.' The sentence quoted is reporting;
+  the piece as a whole reads the reforms as the work of military chiefs set on freeing their country from the
+  Western powers.
 node: Paris Dailies and the Abolition of the Caliphate, March 1924
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k401251s
+    page: "3"
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica bpt6k401251s ContentSearch; masthead MERCREDI [5] MARS 1924
-  method: Gallica ContentSearch fragment via ms fetch
-  note: Verbatim in PAG_3 under 'Après la suppression' (colon is OCR noise). Neutral reporting.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    L'Humanité, 5 March 1924, p. 3, col. 1 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k401251s/f3/full/max/0/default.jpg)
+  method: >-
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
+  note: >-
+    On the scan the sentence reads 'n'était que le prélude': the comma and colon of the earlier quote
+    ('n'était, que le: prélude') were OCR noise, and the quote now has the whole sentence as printed. Heading
+    'Après la suppression du Califat'; signed 'G. V.' at the end of the commentary.
+  checked_on: "2026-11-15"

@@ -16,23 +16,34 @@ summary: >-
   Called the new policy lay and national and said its principles are understood and upheld by Kemal, against
   the Caliph's protest.
 quote:
-  text: ces principes sont compris et maintenus par Moustapha' Kemal paclia
+  text: En revanche, ces principes sont compris et maintenus par Moustapha Kemal pacha.
   language: fr
-  translation: these principles are understood and upheld by Mustapha Kemal Pasha
+  translation: By contrast, these principles are understood and upheld by Mustapha Kemal Pasha.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 1. The leader's 'principes' are not defined in the fragments; same view also reports Indian Muslims'
-  indignation and that 'on va trop loin' (voice not shown). Tone inferred as approving. Gallica ContentSearch
-  fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+  Front page, in the leader 'Bulletin du jour: La suppression du khalifat', dated Paris, 4 March. The
+  principles are 'les principes mêmes sur lesquels repose l'Etat turc', which, the leader says, those who lean
+  on foreign influence, as the ex-caliph seems to have done, 'méconnaissent complètement'. It goes on to quote
+  Kemal's Smyrna speech of 22 February on the army, and calls Turkey's present course an 'évolution qui a pour
+  double but de rendre au peuple turc la plénitude de ses qualités originelles et d'ouvrir son esprit aux
+  progrès de l'Occident'. The 'on va trop loin' of the same leader is its own answer to London reports that
+  the abolition angers Indian Muslims.
 node: Paris Dailies and the Abolition of the Caliphate, March 1924
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k2453995
+    page: "1"
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k2453995, PAG_1 (and PAG_2)
-  method: ms fetch ContentSearch (queries principes, laique, protesté)
+  checked_against: >-
+    Le Temps, 5 March 1924, p. 1, cols. 1-2 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k2453995/f1/full/max/0/default.jpg)
+  method: >-
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
   note: >-
-    Exact; 'politique laique et nationale' PAG_1 and caliph's protest after Kemal's speech PAG_2 support the
-    claim. Issue date from ark not independently confirmed.
-  checked_on: "2026-10-30"
+    On the scan: 'En revanche, ces principes sont compris et maintenus par Moustapha Kemal pacha. Parlant à
+    Smyrne, le 22 février ...'. The earlier quote ('Moustapha' Kemal paclia') was the OCR's reading; it now
+    has the sentence as printed. Column 1 of the leader has 'La politique laïque et nationale qui se développe
+    ainsi entraînera d'autres conséquences', which supports the summary; the tone is approving, as recorded.
+  checked_on: "2026-11-15"

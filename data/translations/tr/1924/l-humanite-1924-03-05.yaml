@@ -4,24 +4,32 @@
 id: l-humanite-1924-03-05
 voice: L'Humanité
 role: Paris komünist günlük gazetesi
-quote: Türk Millet Meclisi'nin yeni kabul ettiği önemli kararların yalnızca başlangıcıydı
+quote: >-
+  Mustafa Kemal'in geçen cumartesi yaptığı konuşma, Türk Millet Meclisi'nin henüz kabul ettiği önemli
+  kararların yalnızca başlangıcıydı.
 quote_kind: translated
 summary: >-
   Kemal'in cumartesi günkü konuşmasını, Meclis'in ilga kararlarının yalnızca bir başlangıcı olarak aktardı.
 caveat: >-
-  Görünüm 3, 'Après la suppression' başlığı altında. Haber aktarımı; belirtilmiş bir görüş yok. Gallica
-  ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
-  numarası olmayabilir.
+  Sayfa 3, dış haberlerde 'G. V.' imzalı bir yorum yazısı olan 'Après la suppression du Califat'nın açılış
+  cümlesi. Halihazırda yapılanları (halifenin tahttan indirilmesi, hilafetin kaldırılması, hanedanın sürgün
+  edilmesi, sarayların müzeye dönüştürülmesi) sıralar ve şöyle devam eder: 'On voit combien profonde sont les
+  dernières réformes introduites dans l'ancienne Turquie par le kemalisme victorieux.' Alıntılanan cümle haber
+  aktarımı niteliğindedir; yazının bütünü ise reformları, ülkelerini Batılı güçlerden kurtarmaya kararlı
+  askeri şeflerin eseri olarak okur.
 verification_note: >-
-  PAG_3'te 'Après la suppression' başlığı altında birebir aynı (iki nokta üst üste OCR gürültüsüdür). Tarafsız
-  haber aktarımı.
-verification_method: ms fetch aracılığıyla Gallica ContentSearch parçası
+  Taramada cümle 'n'était que le prélude' şeklindedir: önceki alıntıda yer alan virgül ve iki nokta üst üste
+  ('n'était, que le: prélude') OCR gürültüsüydü ve alıntı artık basıldığı haliyle tam cümleyi içermektedir.
+  Başlık 'Après la suppression du Califat'; yorumun sonunda 'G. V.' imzası bulunmaktadır.
+verification_method: >-
+  Sayfa taraması BnF açık görüntü hizmeti (openapi.bnf.fr IIIF) üzerinden gözle okundu; Gallica
+  görüntüleyicisi ve OCR'ı betiklere bot kontrolüyle yanıt vermektedir
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1dc1e2aacc89
   role: eeeadc09fd53
-  quote: 2f148110c410
+  quote: a15e03189872
   summary: acade4685548
-  caveat: 322666c1fcf3
-  verification_note: 21b2a9ef6a3f
-  verification_method: 25cd88e6eafd
+  caveat: ee989ed62846
+  verification_note: f322f756f286
+  verification_method: 3a9c1310013a

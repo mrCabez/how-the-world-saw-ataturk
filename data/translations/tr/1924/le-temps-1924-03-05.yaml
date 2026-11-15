@@ -4,26 +4,34 @@
 id: le-temps-1924-03-05
 voice: Le Temps
 role: Paris yarı resmî günlük gazetesi
-quote: bu ilkeler Mustafa Kemal Paşa tarafından anlaşılmakta ve korunmaktadır
+quote: Buna karşılık bu ilkeler Mustafa Kemal Paşa tarafından anlaşılmakta ve korunmaktadır.
 quote_kind: translated
 summary: >-
   Yeni politikayı laik ve millî olarak nitelendirdi ve Halife'nin protestosuna karşı bu politikanın
   ilkelerinin Kemal tarafından anlaşılıp korunduğunu belirtti.
 caveat: >-
-  Görünüm 1. Başmakaledeki 'principes' parçalarda tanımlanmamıştır; aynı görünüm ayrıca Hint Müslümanlarının
-  infialini ve 'on va trop loin' dendiğini (kimin söylediği görünmüyor) aktarmaktadır. Tonun onaylayıcı olduğu
-  çıkarımına varılmıştır. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
-  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+  Birinci sayfa, Paris, 4 Mart tarihli 'Bulletin du jour: La suppression du khalifat' başlıklı başyazıda. Söz
+  konusu ilkeler 'les principes mêmes sur lesquels repose l'Etat turc'tür; başyazıya göre, eski halifenin
+  yaptığı anlaşıldığı üzere yabancı nüfuza dayananlar bunları 'méconnaissent complètement'. Yazı, Kemal'in 22
+  Şubat'ta İzmir'de ordu üzerine yaptığı konuşmadan alıntı yaparak devam eder ve Türkiye'nin mevcut gidişatını
+  bir 'évolution qui a pour double but de rendre au peuple turc la plénitude de ses qualités originelles et
+  d'ouvrir son esprit aux progrès de l'Occident' olarak adlandırır. Aynı başyazıdaki 'on va trop loin'
+  ifadesi, hilafetin kaldırılmasının Hint Müslümanlarını kızdırdığı yönündeki Londra haberlerine kendi verdiği
+  yanıttır.
 verification_note: >-
-  Birebir aynı; PAG_1'deki 'politique laique et nationale' ve PAG_2'deki Kemal'in konuşmasının ardından
-  halifenin protestosu iddiayı desteklemektedir. ark'tan alınan sayı tarihi bağımsız olarak doğrulanmadı.
-verification_method: "ms fetch ContentSearch (sorgular: principes, laique, protesté)"
+  Taramada: 'En revanche, ces principes sont compris et maintenus par Moustapha Kemal pacha. Parlant à Smyrne,
+  le 22 février ...'. Önceki alıntı ('Moustapha' Kemal paclia') OCR okumasıydı; şimdi basıldığı haliyle
+  cümleyi içermektedir. Başyazının 1. sütununda özeti destekleyen 'La politique laïque et nationale qui se
+  développe ainsi entraînera d'autres conséquences' ifadesi yer alır; ton, kaydedildiği gibi onaylayıcıdır.
+verification_method: >-
+  Sayfa taraması BnF açık görüntü hizmeti (openapi.bnf.fr IIIF) üzerinden gözle okundu; Gallica
+  görüntüleyicisi ve OCR'ı betiklere bot kontrolüyle yanıt vermektedir
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d5ca4c141833
   role: e6898d5c7551
-  quote: 2862874c22d7
+  quote: 18aa277f84bf
   summary: "568846562691"
-  caveat: dcdd34c36304
-  verification_note: c5d80c4b35a0
-  verification_method: 1e3fdac55743
+  caveat: 8ca1cd623a50
+  verification_note: af1b4b9f2066
+  verification_method: 3a9c1310013a

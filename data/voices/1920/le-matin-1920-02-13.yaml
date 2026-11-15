@@ -15,24 +15,33 @@ evidence: P
 summary: >-
   Tied Kemal to the wartime Young Turk chiefs Enver and Talaat while Marash was being evacuated.
 quote:
-  text: i'hornme des Enver îocha et des ïalaat
+  text: Mustapha Kemal, l'homme des Enver pacha et des Talaat
   language: fr
-  translation: the man of the Enver Pashas and the Talaats
+  translation: Mustapha Kemal, the man of the Enver Pashas and the Talaats
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 3. The OCR does not show whether the closing 'il dicte ses volontés à tous les gouvernements' is Kemal
-  or an associate; the Enver-Talaat label attaches to Kemal either way. Gallica ContentSearch fragment, OCR
-  copied as given; view number is Gallica's, not necessarily the printed page.
+  Page 3, in the item 'Un nouveau remaniement du cabinet turc', subheaded 'Le gouvernement de Constantinople
+  reste aux mains des nationalistes'. The whole sentence: 'En rapports étroits avec Mustapha Kemal, l'homme
+  des Enver pacha et des Talaat, il dicte ses volontés à tous les gouvernements.' Its subject is the
+  Constantinople Chamber, which the paper calls a 'Parlement-croupion' of 110 deputies 'composé exclusivement
+  d'éléments extrêmes'; so the one who dictates is the Chamber, not Kemal.
 node: Paris Press and the Cilicia War, February 1920
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k5731487
+    page: "3"
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k5731487, PAG_3 fragment
+  checked_against: >-
+    Le Matin, 13 February 1920, p. 3, col. 2 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k5731487/f3/full/max/0/default.jpg)
   method: >-
-    ms fetch ContentSearch (OAI metadata bot_blocked, so paper and date not independently confirmed)
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
   note: >-
-    Fragment 'Mustapha Kemal, i'hornme des Enver îocha et des ïalaat, il dicte ses vülontés à eus les
-    gouvernements' matches the quote verbatim (OCR). Issue date not independently verified.
-  checked_on: "2026-10-30"
+    On the scan: 'Ce Parlement-croupion de 110 députés, au lieu de 280, est composé exclusivement d'éléments
+    extrêmes. En rapports étroits avec Mustapha Kemal, l'homme des Enver pacha et des Talaat, il dicte ses
+    volontés à tous les gouvernements.' The date line of the page reads '13-2-20'. Until this check the quote
+    stood as the OCR gave it ('i'hornme des Enver îocha et des ïalaat') and had been matched only against that
+    OCR; it now reads as printed.
+  checked_on: "2026-11-15"

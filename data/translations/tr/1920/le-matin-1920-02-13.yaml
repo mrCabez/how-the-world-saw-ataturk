@@ -4,26 +4,32 @@
 id: le-matin-1920-02-13
 voice: Le Matin
 role: Paris'te yayımlanan yüksek tirajlı günlük gazete
-quote: Enver Paşaların ve Talatların adamı
+quote: Mustafa Kemal, Enver Paşa'ların ve Talat'ların adamı
 quote_kind: translated
 summary: >-
   Maraş tahliye edilirken Kemal'i savaş döneminin Jön Türk şefleri Enver ve Talat ile ilişkilendirdi.
 caveat: >-
-  Görünüm 3. OCR metni, sondaki 'il dicte ses volontés à tous les gouvernements' ifadesinin Kemal'e mi yoksa
-  bir yakınına mı ait olduğunu göstermiyor; Enver-Talat yaftası her iki durumda da Kemal'e yapıştırılıyor.
-  Gallica ContentSearch kesiti, OCR olduğu gibi kopyalandı; görünüm numarası Gallica'ya aittir, basılı sayfa
-  numarası olmayabilir.
+  Sayfa 3, 'Un nouveau remaniement du cabinet turc' başlıklı ve 'Le gouvernement de Constantinople reste aux
+  mains des nationalistes' alt başlıklı haberde. Cümlenin tamamı: 'En rapports étroits avec Mustapha Kemal,
+  l'homme des Enver pacha et des Talaat, il dicte ses volontés à tous les gouvernements.' Cümlenin öznesi,
+  gazetenin 'composé exclusivement d'éléments extrêmes' niteliğinde 110 mebustan oluşan bir
+  'Parlement-croupion' (güdük parlamento) olarak adlandırdığı İstanbul Meclisi'dir; dolayısıyla iradesini
+  dikte eden Kemal değil, Meclis'tir.
 verification_note: >-
-  'Mustapha Kemal, i'hornme des Enver îocha et des ïalaat, il dicte ses vülontés à eus les gouvernements'
-  kesiti alıntıyla birebir örtüşüyor (OCR). Sayı tarihi bağımsız olarak doğrulanmadı.
+  Taramada: 'Ce Parlement-croupion de 110 députés, au lieu de 280, est composé exclusivement d'éléments
+  extrêmes. En rapports étroits avec Mustapha Kemal, l'homme des Enver pacha et des Talaat, il dicte ses
+  volontés à tous les gouvernements.' Sayfanın tarih satırında '13-2-20' yazmaktadır. Bu kontrole kadar alıntı
+  OCR'ın verdiği biçimiyle ('i'hornme des Enver îocha et des ïalaat') duruyordu ve yalnızca o OCR çıktısıyla
+  eşleştirilmişti; şimdi basılı metindeki haliyle yer almaktadır.
 verification_method: >-
-  ms fetch ContentSearch (OAI üstverisi bot_blocked olduğundan gazete ve tarih bağımsız olarak doğrulanamadı)
+  Sayfa taraması BnF açık görüntü hizmeti (openapi.bnf.fr IIIF) üzerinden gözle okundu; Gallica
+  görüntüleyicisi ve OCR'ı betiklere bot kontrolüyle yanıt vermektedir
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 290c331affe3
   role: 4e6225d74128
-  quote: ce6513b0511a
+  quote: b519fdb8f939
   summary: 6ea87e8ffaff
-  caveat: ec076cc763a1
-  verification_note: d1a504c47c1a
-  verification_method: c494c7992b1f
+  caveat: 3bb05ea4b533
+  verification_note: 3809d2a89b73
+  verification_method: 3a9c1310013a
