@@ -18,8 +18,8 @@ summary: >-
 quote:
   text: O, Hitler’den de Mussolini’den de, Ruzvelt’ten de büyüktür.
   language: tr
-  translation: greater than Hitler, greater than Mussolini, greater than Roosevelt
-  translated_by: "machine: research agent"
+  translation: He is greater than Hitler, than Mussolini and than Roosevelt.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
 caveat: >-

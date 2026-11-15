@@ -8,10 +8,11 @@ quote: Türklük var oldukça eserlerin meydanda görülecek ve sen ölmeyeceksi
 quote_kind: original-turkish
 summary: Ardından yas tutan şiirler ve ağıtlar yayımladı (6 Aralık 1938 sayısı).
 caveat: >-
-  Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir. Toksoy ayrıca Romanya Türk toplumunun
-  onu kendi lideri olarak gördüğünü belirtir (1939 kaydı), ancak bunu özellikle bu gazete için söylemez.
-  Türkçe metin makalede basıldığı gibidir (s. 191, dn. 66); gazetenin sözlerinin Türk basınındaki aktarım
-  biçimidir.
+  Toksoy bu sözleri 1938 tarihli bir Türk gazetesinden değil, 2005 tarihli bir sempozyum bildirisinden
+  almaktadır; Türk Birliği bizzat Romanya'daki Türk topluluğunun Türkçe yayımlanan bir gazetesi olabilir ve bu
+  durumda Türkçe metin özgün metindir (bu husus belirtilmemiştir). Toksoy ayrıca Romanya'daki Türk
+  topluluğunun onu kendi lideri olarak gördüğünü söylemektedir (1939 tarihli kayıt), ancak bunu özellikle bu
+  gazete için belirtmemektedir. Türkçe metin makalede basıldığı şekildedir (s. 191, dn. 66).
 mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
 verification_note: >-
   "The minority treated him as its own leader" (Azınlık ona kendi lideri gibi davrandı) ifadesi Toksoy'da yer
@@ -22,9 +23,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 644beb21dd73
   role: 85ec4a685473
-  quote: 8efa86a61192
+  quote: 21510d15dbc6
   summary: 972ae7fdb5ed
-  caveat: 480eef430eeb
+  caveat: d5d1e6ba5ae5
   mediated_by: 374a97c5054a
   verification_note: 9b33ab28d515
   verification_method: 939bb46a04c3

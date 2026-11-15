@@ -16,24 +16,34 @@ evidence: S
 summary: >-
   Supreme figure who turned a half-Eastern caliph-recognising nation into a modern secular national state;
   foreign policy a model in history.
+quote:
+  text: >-
+    Filhakika vücuda getirmiş olduğu eser, yarı şarklı olan ve halifenin şahsıyla, dini yegâne bir kuvvet
+    olarak tanıyan bir milleti modern, laik ve milli bir devlet haline getirmesidir.
+  language: tr
+  translation: >-
+    In truth, the work he brought into being is that he turned a half-Eastern nation, which recognised as its
+    one force the person of the caliph and religion, into a modern, secular and national state.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Akşam 16 Nov 1938 p. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 caveat: >-
   Paper titles in Toksoy are phonetic and sometimes garbled; identifications presumed; foreign originals not
-  seen. The article reports this in indirect speech (p. 179: 'National Tidence, Atatürk’ü şahsiyet ve
-  kabiliyetin en büyük timsali ve XX. asrın en muazzam olayını yaratan adam olarak tanımlamıştır.'), so there
-  are no words of the paper's to quote; until 16 Nov 2026 the record carried an English rendering of that
-  sentence as a quote.
+  seen. Toksoy first reports the paper's view in indirect speech (the source of the summary) and then quotes
+  it, inside quotation marks; the quote is that quotation, as the article prints it in Turkish, the Turkish
+  press's rendering of the paper's words.
 node: Copenhagen and Oslo, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
     archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
 verification:
   verdict: confirmed
+  quote_found: true
   checked_against: >-
     sources/toksoy-2006-atatürk-yolu-european-press.txt sec. K ('National Tidence': 'XX. asrin en muazzam
     olayini yaratan adam'; 'yari sarkli ... halifenin sahsiyle ... modern, laik ve milli bir devlet')
   method: local
   note: >-
     Quote is Toksoy's paraphrase of the paper's wording ('created the most tremendous event of the 20th
-    century'), not a direct quote.
+    century'), not a direct quote. The quotation was read on the page of the article on 16 Nov 2026.
   checked_on: "2026-10-29"

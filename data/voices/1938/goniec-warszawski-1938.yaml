@@ -18,8 +18,8 @@ summary: >-
 quote:
   text: Atatürk’ün ölümü enternasyonal mahiyette bir hadisedir.
   language: tr
-  translation: an event of international character
-  translated_by: "machine: research agent"
+  translation: Atatürk's death is an event of international character.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
 caveat: >-

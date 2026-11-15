@@ -4,26 +4,29 @@
 id: universul-1938
 voice: Universul
 role: Bükreş günlük gazetesi
+quote: >-
+  Romanya’nın sadık dostu olan Atatürk, Romen efkâr-ı umumiyesinin sadık dostluğunu da kazanmıştır. Romen
+  milleti de bu acı günlerde Türk milletine dostane teselli hissiyatını sunmaktadır
+quote_kind: original-turkish
 summary: >-
   Onu Romanya'nın sadık bir dostu olarak nitelendirdi; eski bir Osmanlı bakanına ait ikinci bir yazı ise onu
   Balkan Antantı'nın kurucularından biri olarak andı.
 caveat: >-
-  Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir. Makale bunu dolaylı anlatımla
-  aktarmaktadır (s. 192: 'Bükreş Universal Gazetesi, Atatürk’ü zamanın en büyük adamlarından biri olarak kabul
-  etmiş ve yayınladığı başmakalesinde, Atatürk’ün hayatını uzun bir şekilde anlattıktan sonra şu sözlere yer
-  vermiştir;'), dolayısıyla gazeteden alıntılanacak doğrudan bir söz bulunmamaktadır; 16 Kasım 2026'ya kadar
-  kayıt, bu cümlenin İngilizce çevirisini bir alıntı olarak taşımaktaydı.
+  Rumence özgün metinler görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir. Toksoy önce gazetenin görüşünü
+  dolaylı anlatımla (özetin kaynağı) aktarmakta ve ardından tırnak içinde alıntılamaktadır; alıntı, makalede
+  Türkçe basıldığı şekliyle, Türk basınının gazetenin sözlerini aktarım biçimi olan bu alıntıdır.
 mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
 verification_note: >-
   Alıntı Toksoy'un Türkçesinden çevrilmiştir; gazete Toksoy'da 'Universal' olarak geçmektedir, Universul ile
-  özdeşleştirme nota aittir.
+  özdeşleştirme nota aittir. Alıntı 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b5bea80dba9a
   role: f208d42b916b
   summary: bafe05e0c03f
-  caveat: a97c1f1b1dfc
+  caveat: 30d25f18c061
   mediated_by: 374a97c5054a
-  verification_note: 38545913216a
+  verification_note: 39264cc5218c
   verification_method: 939bb46a04c3
+  quote: 3b82e1cbcac0

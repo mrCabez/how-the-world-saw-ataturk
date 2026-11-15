@@ -18,8 +18,8 @@ summary: >-
 quote:
   text: Atatürk’ün dehası, saltanatın beş asırdır yapamadığını yaptı.
   language: tr
-  translation: Atatürk's genius did what a sultanate could not do in five centuries
-  translated_by: "machine: research agent"
+  translation: Atatürk's genius did what the sultanate had been unable to do in five centuries.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
 caveat: >-

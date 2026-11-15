@@ -22,9 +22,10 @@ quote:
     çiçeklendiğini görmek istedim.
   language: tr
   translation: >-
-    I never expected reward or gratitude… like a gardener who raises flowers with great love and wants nothing
-    from them.
-  translated_by: "machine: research agent"
+    I never expected reward or gratitude. Perhaps, like a gardener who raises flowers with great love and
+    zeal, expecting nothing from them, I too wanted to give my nation a strong and happy life and see it
+    flower.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: Toksoy 2010 (Romanian originals not seen)
 caveat: >-

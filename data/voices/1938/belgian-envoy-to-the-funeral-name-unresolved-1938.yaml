@@ -22,11 +22,11 @@ quote:
     Atatürk denilen güneşti. Atatürk'ün kaybı yalnız Türkiye için değil, bütün dünya için büyük bir kayıptı
   language: tr
   translation: >-
-    I have the good fortune to have known Atatürk personally. I have a deep respect for him. When I was in
-    Ankara I always looked at the sun. But I did not see the sun on the horizon; I saw it in Çankaya. For the
-    true sun was the sun called Atatürk in Çankaya. Atatürk's loss is a great loss not only for Turkey but for
-    the whole world.
-  translated_by: "machine: research agent"
+    I am fortunate to have known Atatürk personally. I have a deep respect for him. When I was in Ankara I
+    always used to look at the sun. But I did not see the sun on the horizon; I saw it in Çankaya. For the
+    true sun was the sun called Atatürk in Çankaya. Atatürk's loss was a great loss not only for Turkey but
+    for the whole world.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: Toksoy 2006 CTAD ← Akşam 20 Nov 1938 p. 3
 caveat: >-

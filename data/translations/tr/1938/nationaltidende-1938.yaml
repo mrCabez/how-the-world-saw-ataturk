@@ -4,26 +4,31 @@
 id: nationaltidende-1938
 voice: Nationaltidende
 role: Danimarka günlük gazetesi
+quote: >-
+  Filhakika vücuda getirmiş olduğu eser, yarı şarklı olan ve halifenin şahsıyla, dini yegâne bir kuvvet olarak
+  tanıyan bir milleti modern, laik ve milli bir devlet haline getirmesidir.
+quote_kind: original-turkish
 summary: >-
   Yarı Doğulu, halifeyi tanıyan bir milleti modern, laik bir ulusal devlete dönüştüren yüce şahsiyet; dış
   politikası tarihte bir örnek.
 caveat: >-
-  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
-  dildeki asılları görülmemiştir. Makale bunu dolaylı anlatımla aktarır (s. 179: 'National Tidence, Atatürk’ü
-  şahsiyet ve kabiliyetin en büyük timsali ve XX. asrın en muazzam olayını yaratan adam olarak
-  tanımlamıştır.'), dolayısıyla gazetenin doğrudan alıntılanacak sözleri yoktur; 16 Kasım 2026'ya kadar
-  kayıtta bu cümlenin İngilizce çevirisi alıntı olarak yer almaktaydı.
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri varsayımsaldır; yabancı dildeki
+  asılları görülmemiştir. Toksoy önce gazetenin görüşünü dolaylı anlatımla aktarır (özetin kaynağı budur) ve
+  ardından tırnak içinde alıntılar; alıntı, makalenin Türkçe olarak bastığı, Türk basınının gazetenin
+  sözlerini aktarım biçimi olan o alıntıdır.
 mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 verification_note: >-
-  Alıntı doğrudan bir alıntı değil, Toksoy'un gazetenin ifadelerini ('created the most tremendous event of the
-  20th century') kendi sözleriyle aktarmasıdır.
+  Alıntı, doğrudan bir alıntı değil, Toksoy'un gazetenin ifadelerini ('created the most tremendous event of
+  the 20th century') kendi sözleriyle aktarmasıdır. Alıntı 16 Kasım 2026 tarihinde makalenin sayfasından
+  okunmuştur.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8f0e21ac5e92
   role: e08a7b3845d0
   summary: 2c811bd763ff
-  caveat: 903f429e1643
+  caveat: 0ba7f8a10da8
   mediated_by: 272e58105c39
-  verification_note: 3a13292c5524
+  verification_note: bc8eb3e8d265
   verification_method: 939bb46a04c3
+  quote: 751f1aa22cc0

@@ -21,8 +21,10 @@ quote:
     Türkiye bütün dünyanın takdirine layıktır ve Avrupa milletler ailesi içinde şerefli Türkiye’nin nüfuzu
     büyüktür
   language: tr
-  translation: Turkey deserves the admiration of the whole world.
-  translated_by: "machine: research agent"
+  translation: >-
+    Turkey deserves the admiration of the whole world, and within the family of European nations the influence
+    of honoured Turkey is great.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: >-
   Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi

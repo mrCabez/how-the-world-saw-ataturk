@@ -16,14 +16,16 @@ summary: Printed poems and elegies mourning him (6 Dec 1938 issue).
 quote:
   text: Türklük var oldukça eserlerin meydanda görülecek ve sen ölmeyeceksin Atatürk!
   language: tr
-  translation: you will not die, Atatürk, while Turkishness exists
-  translated_by: "machine: research agent"
-  is_translation: true
+  translation: >-
+    As long as Turkishness exists your works will stand in plain view and you will not die, Atatürk!
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: Toksoy 2010 (Romanian originals not seen)
 caveat: >-
-  Romanian originals not seen; translated from Toksoy's Turkish. Toksoy separately says the Romanian Turkish
-  community regarded him as its leader (1939 item), but not specifically of this paper. The Turkish is as the
-  article prints it (p. 191, fn 66); it is the Turkish press's rendering of the paper's words.
+  Toksoy takes the words from a 2005 conference paper, not from a 1938 Turkish daily; Türk Birliği may itself
+  have been a Turkish-language paper of the Turkish community in Romania, in which case the Turkish is the
+  original (that is not stated). Toksoy separately says the Romanian Turkish community regarded him as its
+  leader (1939 item), but not specifically of this paper. The Turkish is as the article prints it (p. 191, fn
+  66).
 node: Romania Hangs the Black Flags, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009

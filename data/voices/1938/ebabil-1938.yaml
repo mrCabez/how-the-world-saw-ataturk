@@ -22,9 +22,11 @@ quote:
     zilletten şerefe götüren Atatürk öldü. Zulmün en büyük düşmanı, ebedi Kemalizm rejiminin kurucusu öldü.
   language: tr
   translation: >-
-    the man who drove out the sultans, who shattered armies ... the greatest enemy of tyranny, founder of the
-    eternal regime of Kemalism ... died
-  translated_by: "machine: research agent"
+    Mustafa Kemal, who drove out the sultans and shattered the armies, the hero of Çanakkale, the creator of
+    Sakarya, is dead. Atatürk, who made Turkey out of nothing, raised it to the rank of the strongest states,
+    and led the homeland from slavery to freedom, from abasement to honour, is dead. The greatest enemy of
+    tyranny, the founder of the eternal regime of Kemalism, is dead.
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)

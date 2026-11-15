@@ -18,8 +18,9 @@ summary: >-
 quote:
   text: Şurası şüphesizdir ki, Atatürk’ün başardığı işler mucize ve harika kabilindendir…
   language: tr
-  translation: what he achieved was of the nature of miracles
-  translated_by: "machine: research agent"
+  translation: >-
+    There is no doubt that the things Atatürk accomplished are of the order of miracles and wonders…
+  translated_by: "machine: claude-fable-5-2"
   is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)

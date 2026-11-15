@@ -4,21 +4,28 @@
 id: an-nahar-1938
 voice: An-Nahar
 role: Beyrut günlük gazetesi
+quote: >-
+  Bütün dünyayı baştanbaşa sarsan bu büyük ölünün hayatını tasvire imkân yoktur… Eşsiz acıya uğrayan Türk
+  milletine derin taziyelerimizi sunarız
+quote_kind: original-turkish
 summary: Onu nadir dâhilerden biri olarak nitelendirdi.
 caveat: >-
   Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının harf
-  çevirileri tahminidir. Makale bunu dolaylı anlatımla aktarır (s. 200, dn. 99), dolayısıyla gazeteden
-  doğrudan alıntılanacak söz yoktur; 16 Kasım 2026'ya kadar kayıt o cümlenin İngilizce aktarımını alıntı
-  olarak taşımaktaydı.
+  çevirileri tahmine dayalıdır. Toksoy, gazetenin görüşünü önce dolaylı anlatımla (özetin kaynağı olarak)
+  aktarır, ardından tırnak içinde doğrudan alıntılar; buradaki alıntı, makalenin Türkçe olarak bastığı
+  şekliyle, gazetenin sözlerinin Türk basını tarafından aktarılmış halidir.
 mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
-verification_note: Türkçesi 'dünyanın çok nadir yetiştirdiği dâhilerden biri'; çevrildi.
+verification_note: >-
+  Türkçesi 'dünyanın çok nadir yetiştirdiği dâhilerden biri'; çevrilmiştir. Alıntı, 16 Kasım 2026 tarihinde
+  makalenin sayfasından okunmuştur.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: cfeddfab0ea1
   role: 31398ab9f0c2
   summary: 27c41fd9e01c
-  caveat: bf12dabd8798
+  caveat: 81df5b139e3d
   mediated_by: 0d9b58c49a68
-  verification_note: 30e2688082c3
+  verification_note: d6ed4bfa39bc
   verification_method: 939bb46a04c3
+  quote: 598f966d320d

@@ -13,18 +13,32 @@ intensity: 1
 artifact: article
 evidence: S
 summary: Called him one of the rare geniuses.
+quote:
+  text: >-
+    Bütün dünyayı baştanbaşa sarsan bu büyük ölünün hayatını tasvire imkân yoktur… Eşsiz acıya uğrayan Türk
+    milletine derin taziyelerimizi sunarız
+  language: tr
+  translation: >-
+    It is impossible to describe the life of this great dead man who shook the whole world from end to end… We
+    offer our deep condolences to the Turkish nation, struck by an unequalled grief
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
 caveat: >-
-  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. The
-  article reports this in indirect speech (p. 200, fn 99), so there are no words of the paper's to quote;
-  until 16 Nov 2026 the record carried an English rendering of that sentence as a quote.
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. Toksoy
+  first reports the paper's view in indirect speech (the source of the summary) and then quotes it, inside
+  quotation marks; the quote is that quotation, as the article prints it in Turkish, the Turkish press's
+  rendering of the paper's words.
 node: Damascus and Beirut Weep, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: confirmed
+  quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.199 (Beyrut-Ennehar)
   method: local
-  note: Turkish 'dünyanın çok nadir yetiştirdiği dâhilerden biri'; translated.
+  note: >-
+    Turkish 'dünyanın çok nadir yetiştirdiği dâhilerden biri'; translated. The quotation was read on the page
+    of the article on 16 Nov 2026.
   checked_on: "2026-10-29"
