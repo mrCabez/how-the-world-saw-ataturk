@@ -10,16 +10,27 @@ summary: >-
   Clifford Sifton'ın talimatıyla asker gönderilmesine karşı çıktı; Türk, bir ilgi nesnesi değil, Kanada'nın
   bağımsızlığı için bir bahane işlevi gördü.
 caveat: >-
-  Alıntı Sifton'ın Dafoe'ya talimatıdır. Stacey 1981 (arama kesitinden okundu); metin kontrol edilmedi
-  (kaynağa erişilemedi, 2026-10-29)
-verification_note: Sifton'ın Dafoe'ya talimatı alıntısı doğrulanmadı.
-verification_method: veri çekme
+  Alıntı, Sifton'ın gazetenin editörü Dafoe'ya yazdığı ve yayımlanmış yazışmalarda basılan bir mektuptaki
+  talimatıdır. Stacey, 18 Eylül ve 4 Ekim 1922 tarihli mektuplara atıfta bulunur; cümlenin bu ikisinden
+  hangisinde yer aldığı okunamadığından ay belirsizdir.
+mediated_by: >-
+  Ramsay Cook (ed.), The Dafoe-Sifton Correspondence 1919-1927 (1966), aktaran C. P. Stacey, Canada and the
+  Age of Conflict, c. 2 (1981)
+verification_note: >-
+  Basılı mektupta: 'I have wired you today that the policy of the Free Press must be one of opposition to
+  sending troops' (üç tarama da birbiriyle örtüşmektedir). Stacey bunu şöyle aktarır: 'the policy of the Free
+  Press must be one of opposition to sending troops ... In my judgment the whole' ve şu notu düşer: 'Sifton to
+  Dafoe, September 18 and October 4, 1922'. Kesitlerden sayfa numaraları ve mektubun tarihi okunamadı.
+verification_method: >-
+  archive.org tam metin araması; yalnızca OCR kesitleri, kitaplar sadece ödünç alınabilir durumda olduğundan
+  hiçbir sayfa açılmadı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0c399227f091
   role: 5e949c66b1ef
   quote: 024d3ab6af61
   summary: 1dc2ae3e3dcb
-  caveat: 831a257ea5e5
-  verification_note: c9c4fb87edf7
-  verification_method: ad8cee67138e
+  caveat: 6bcaeccf2c9b
+  verification_note: daf3fa2cdee4
+  verification_method: 9b948aba5815
+  mediated_by: 6b9649f1abe3

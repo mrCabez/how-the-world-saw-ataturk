@@ -3,22 +3,31 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: giner-de-los-rios-1938
 voice: Bernardo Giner de los Ríos
-role: İspanyol Cumhuriyetçi bakan, cenaze delegesi
+role: İspanya Cumhuriyeti İletişim Bakanı
 summary: >-
-  Cenazede İspanya Cumhuriyeti'ni temsil etmek üzere Ankara'ya gönderilen bir komisyona atandı.
+  Bakanlar kurulunun 18 Kasım'da bir heyet gönderme kararı almasının ardından, bir general ve iki amiralle
+  birlikte İspanya Cumhuriyeti adına Ankara'daki cenaze törenine katıldı.
 caveat: >-
-  Franco'nun Burgos'unun kimseyi gönderip göndermediği saptanmamıştır. Metin kontrol edilmedi (kaynağa
-  erişilemedi 2026-10-29)
-mediated_by: Tüylü Turan 2019 (İspanyol basını)
+  Tarih bakanlar kurulu kararının tarihidir; cenaze töreni 21 Kasım'daydı. Franco'nun Burgos yönetiminin
+  birini gönderip göndermediği tespit edilememiştir. İspanyol gazeteleri ayrıca Sunday Times'ın heyetin
+  uçağının Malta'da düştüğüne dair haberini alaya almıştır (La Voz de Menorca, 23 Kasım 1938).
+mediated_by: >-
+  Tüylü Turan 2019, s. 193-194 ← Justicia Social, 22 Kasım 1938, s. 2; CNT, 23 Kasım 1938, s. 2
 verification_note: >-
-  Tuyluy Turan 2019 erişilebilir değil; Ankara'daki cenazeye gönderilen komisyon kontrol edilmedi
-verification_method: getirme
+  s. 193-194: Bakanlar Kurulu 18 Kasım'da Negrín başkanlığında toplandı ve cenaze töreninde İspanya
+  Cumhuriyeti'ni temsil etmek üzere bir heyetin Ankara'ya gideceğini duyurdu (not 69). 'Törene, İspanya'yı
+  temsilen İletişim Bakanı Senyör Bernardo Giner de los Rios, General Riquelme, Koramiral Matz ve Tuğamiral
+  Fuentes ve Ankara'daki İspanya temsilcisi Calderon katılmıştı' (not 70: Justicia Social, 22 Kasım 1938, s.
+  2; CNT, 23 Kasım 1938, s. 2). İspanyol gazetelerinin kendileri okunmadı.
+verification_method: >-
+  johschool.com adresinden PDF indirildi ve metni okundu; DOI artık derginin yeni sitesine yönlendirmekte olup
+  makale arama yoluyla bulunmaktadır
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d6d084f7caf1
-  role: e550c9b66606
-  summary: e90a181cd3a4
-  caveat: 43da5afbb2bc
-  mediated_by: a14affc07b0f
-  verification_note: 7e74913bc6a9
-  verification_method: ad8cee67138e
+  role: c316d4f7479e
+  summary: 91f336bbf9de
+  caveat: 64ff07454546
+  mediated_by: d8ca077ec9ce
+  verification_note: f7123d322824
+  verification_method: fb51515d692a

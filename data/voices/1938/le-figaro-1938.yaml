@@ -1,16 +1,16 @@
 # yaml-language-server: $schema=../../schema/voice.schema.json
 id: le-figaro-1938
-voice: Le Figaro
-voice_type: press
-role: Paris conservative daily
+voice: Charles de Chambrun
+voice_type: person
+role: Former French ambassador at Ankara, in a signed tribute on the front page of Le Figaro
 country: France
 country_now: France
-domain: press
+domain: diplomacy
 date: "1938-11-11"
 era: funeral
 polarity: admiring
 intensity: 2
-artifact: editorial
+artifact: article
 evidence: P
 summary: >-
   Front-page tribute by a former ambassador at Ankara: a master card of Europe's troubled game struck down; he
@@ -21,17 +21,30 @@ quote:
   language: fr
   translation: In the troubled game of Europe, one of the master cards has just been struck down by fate
   translated_by: "machine: claude-fable-5-2"
+mediated_by: Le Figaro, 11 Nov 1938, p. 1
 caveat: >-
-  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Byline OCR-garbled,
-  author unresolved.
+  Headed 'Hommage à Mustapha Kemal, par Charles de Chambrun, ancien ambassadeur de France à Ankara' and signed
+  at the foot. He writes of the friendly goodwill Kemal showed him 'pendant cinq ans' and of his loyalty to
+  France, and recalls him with General Gouraud at Ankara on the eve of the unveiling of the Dardanelles
+  memorial. The record's id keeps the paper's name: the byline was read only at the check of 15 November 2026.
 node: Paris Reads the Death, 11–12 November 1938
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k4100383
     archived: https://web.archive.org/web/20250708134947/https://gallica.bnf.fr/ark:/12148/bpt6k4100383
+    page: "1"
 verification:
-  verdict: unreachable
-  checked_against: https://gallica.bnf.fr/ark:/12148/bpt6k4100383 (bot_blocked; render hit ALTCHA captcha)
-  method: render
-  note: French quote not verified.
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Le Figaro, 11 November 1938, p. 1 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k4100383/f1/full/max/0/default.jpg)
+  method: >-
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
+  note: >-
+    The article opens with the quote, word for word: 'Dans le jeu troublé de l'Europe, une des cartes
+    maîtresses vient d'être abattue par le destin.' Byline and signature: Charles de Chambrun, 'ancien
+    ambassadeur de France à Ankara'. 'Mustapha Kemal, orgueilleux de son œuvre civilisatrice, parlait de ses
+    victoires avec modestie, il voyait jusqu'au cœur des choses' supports the summary. Until this check the
+    record named Le Figaro as the voice and called the author unresolved.
+  checked_on: "2026-11-15"

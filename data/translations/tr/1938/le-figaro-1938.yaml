@@ -2,24 +2,36 @@
 # source_fingerprints: which English each field was translated from. Leave them as they are.
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: le-figaro-1938
-voice: Le Figaro
-role: Paris muhafazakâr günlük gazetesi
+voice: Charles de Chambrun
+role: Ankara eski Fransız büyükelçisi, Le Figaro'nun birinci sayfasındaki imzalı anma yazısında
 quote: Avrupa'nın çalkantılı oyununda en güçlü kozlardan biri az önce kader tarafından devrildi
 quote_kind: translated
 summary: >-
   Eski bir Ankara büyükelçisinden birinci sayfa saygı yazısı: Avrupa'nın çalkantılı oyununun en güçlü
   kozlarından biri devrildi; zaferlerinden alçakgönüllülükle söz ederdi.
 caveat: >-
-  Alıntı Gallica OCR metninden kopyalandı; makalenin tamamı olarak değil, arama sonucu parçaları olarak
-  okundu. Yazar satırı OCR'da bozulmuş, yazar tespit edilemedi.
-verification_note: Fransızca alıntı doğrulanmadı.
-verification_method: sayfa işleme
+  'Hommage à Mustapha Kemal, par Charles de Chambrun, ancien ambassadeur de France à Ankara' başlığını
+  taşımakta ve alt kısmında imzası yer almaktadır. Kemal'in 'pendant cinq ans' kendisine gösterdiği dostane
+  iyi niyetten ve Fransa'ya bağlılığından söz eder; Çanakkale anıtının açılışının arifesinde Ankara'da General
+  Gouraud ile birlikte olduğu anısını aktarır. Kaydın kimliği (id) gazetenin adını korumaktadır: yazar satırı
+  ancak 15 Kasım 2026 tarihli kontrolde okunmuştur.
+mediated_by: Le Figaro, 11 Kasım 1938, s. 1
+verification_note: >-
+  Yazı kelimesi kelimesine alıntıyla başlar: 'Dans le jeu troublé de l'Europe, une des cartes maîtresses vient
+  d'être abattue par le destin.' Yazar satırı ve imza: Charles de Chambrun, 'ancien ambassadeur de France à
+  Ankara'. 'Mustapha Kemal, orgueilleux de son œuvre civilisatrice, parlait de ses victoires avec modestie, il
+  voyait jusqu'au cœur des choses' ifadesi özeti desteklemektedir. Bu kontrole kadar kayıt, ses (voice) olarak
+  Le Figaro'yu göstermekte ve yazarı çözümlenmemiş olarak nitelendirmekteydi.
+verification_method: >-
+  BnF açık görüntü servisi (openapi.bnf.fr IIIF) üzerinden sayfa taraması gözle okundu; Gallica
+  görüntüleyicisi ve OCR'ı betiklere bot kontrolüyle yanıt vermektedir
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
-  voice: 1b504747d194
-  role: 558a39f95498
+  voice: 42032cd3b992
+  role: 60dd25540aef
   quote: 8475f821497e
   summary: a8542c047ec7
-  caveat: 258f1f0c2343
-  verification_note: a977612665dc
-  verification_method: 37eca5751d1f
+  caveat: 21b4f3c41fac
+  verification_note: 2990f11927f0
+  verification_method: 3a9c1310013a
+  mediated_by: 35146cd01d79

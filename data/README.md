@@ -201,7 +201,7 @@ Every quote that is not in English has an English translation, and `translated_b
 |---|---|
 | `source` | The English is the source's own, for example UNESCO's English text of a French address or the Kremlin's English version of a Russian article. |
 | `machine: research agent` | Written by the AI agent that found the source, before the archive recorded which model made a translation. |
-| `machine: <model>` | A machine translation by the named model. The 233 added on 15 November 2026 are `machine: claude-fable-5-2`; a second model (Gemini) translated the same quotes separately and the two versions were compared. |
+| `machine: <model>` | A machine translation by the named model. The 234 added on 15 November 2026 are `machine: claude-fable-5-2`; a second model (Gemini) translated the same quotes separately and the two versions were compared. |
 | a name or GitHub handle | A person translated it. |
 
 A machine translation has not been read by a person who knows the language unless `reviewed_by` names one. The exhibition says so under the quote.

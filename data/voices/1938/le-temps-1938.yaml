@@ -8,23 +8,47 @@ country_now: France
 domain: press
 date: "1938-11-11"
 era: funeral
-polarity: witness
-intensity: 1
+polarity: admiring
+intensity: 2
 artifact: article
 evidence: P
 summary: >-
-  Retrospective obituary on page 2 placing Turkey as leader of the Balkan Entente and sponsor of the eastern
-  pact.
+  Page-2 obituary: the craftsman of the new Turkey crossed centuries in fifteen years by his own will; his
+  immense work remains.
+quote:
+  text: >-
+    En quinze ans, des siècles ont été franchis, tout cela par la volonté d'un homme qui avait déjà libéré son
+    pays du joug étranger.
+  language: fr
+  translation: >-
+    In fifteen years, centuries were crossed, all of it by the will of a man who had already freed his country
+    from the foreign yoke.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Fragment-level only.
+  Signed 'Louis Réville'. Headed 'Mort de Kemal Ataturk', under the Istanbul telegram of the morning of 10
+  November, with the sections 'La carrière du défunt', 'De Samsoun à Ankara', 'La déchéance du sultan et la
+  proclamation de la République' and 'L'œuvre de quinze ans de république'. It opens: 'Celui qui fut l'artisan
+  de la Turquie nouvelle n'est plus. Tout un peuple pleure le chef vénéré, libérateur du territoire et artisan
+  des réformes qui ont transformé le pays.' It closes: 'Leader de l'Entente balkanique, promotrice du pacte
+  oriental, la Turquie a marqué sa place dans le monde et les compagnons du grand chef sauront maintenir le
+  prestige du pays.' The same article notes nights of receptions 'où le champagne succédait au whisky et au
+  raki national'.
 node: Paris Reads the Death, 11–12 November 1938
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k263753p
+    page: "2"
 verification:
-  verdict: unreachable
-  checked_against: https://gallica.bnf.fr/ark:/12148/bpt6k263753p (bot_blocked)
-  method: fetch
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Le Temps, 11 November 1938, p. 2, col. 2 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k263753p/f2/full/max/0/default.jpg)
+  method: >-
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
   note: >-
-    Could not open Gallica; page-2 retrospective and Balkan Entente / eastern pact content unchecked
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    The obituary is on p. 2 as recorded, and its last sentence has Turkey as 'Leader de l'Entente balkanique,
+    promotrice du pacte oriental'. The record had no quote and stood as 'witness'; the quote was taken from
+    the scan at this check and the stance set to admiring, on the article's own words ('le chef vénéré',
+    'l'œuvre immense reste', 'La mort, pourtant, a vaincu l'invincible').
+  checked_on: "2026-11-15"

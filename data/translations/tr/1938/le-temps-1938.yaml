@@ -4,20 +4,36 @@
 id: le-temps-1938
 voice: Le Temps
 role: Paris yarı resmî günlük gazetesi
+quote: >-
+  On beş yılda yüzyıllar aşıldı; bütün bunlar, ülkesini zaten yabancı boyunduruğundan kurtarmış olan bir
+  adamın iradesiyle gerçekleşti.
+quote_kind: translated
 summary: >-
-  2. sayfada Türkiye'yi Balkan Antantı'nın lideri ve doğu paktının öncüsü konumuna yerleştiren geçmişe dönük
-  vefat yazısı.
+  2. sayfadaki vefat yazısı: yeni Türkiye'nin mimarı kendi iradesiyle on beş yılda yüzyılları aştı; muazzam
+  eseri ayakta kalmaya devam ediyor.
 caveat: >-
-  Alıntı Gallica OCR metninden kopyalandı; makalenin tamamı olarak değil, arama sonucu parçaları olarak
-  okundu. Yalnızca parça düzeyinde.
+  'Louis Réville' imzalıdır. 10 Kasım sabahı İstanbul telgrafının altında, 'Mort de Kemal Ataturk' başlığını
+  taşımakta ve 'La carrière du défunt', 'De Samsoun à Ankara', 'La déchéance du sultan et la proclamation de
+  la République' ile 'L'œuvre de quinze ans de république' bölümlerini içermektedir. Şöyle başlar: 'Celui qui
+  fut l'artisan de la Turquie nouvelle n'est plus. Tout un peuple pleure le chef vénéré, libérateur du
+  territoire et artisan des réformes qui ont transformé le pays.' Şöyle biter: 'Leader de l'Entente
+  balkanique, promotrice du pacte oriental, la Turquie a marqué sa place dans le monde et les compagnons du
+  grand chef sauront maintenir le prestige du pays.' Aynı yazı, 'où le champagne succédait au whisky et au
+  raki national' davet gecelerine de değinir.
 verification_note: >-
-  Gallica açılamadı; 2. sayfadaki geçmişe dönük yazı ile Balkan Antantı / doğu paktı içeriği kontrol edilmedi
-verification_method: veri çekme
+  Vefat yazısı kaydedildiği üzere s. 2'dedir ve son cümlesinde Türkiye 'Leader de l'Entente balkanique,
+  promotrice du pacte oriental' olarak geçmektedir. Kayıtta alıntı yoktu ve 'witness' olarak duruyordu; alıntı
+  bu kontrolde taramadan alındı ve duruşu, yazının kendi ifadelerine ('le chef vénéré', 'l'œuvre immense
+  reste', 'La mort, pourtant, a vaincu l'invincible') dayanarak hayranlık duyan (admiring) olarak belirlendi.
+verification_method: >-
+  BnF açık görüntü servisi (openapi.bnf.fr IIIF) üzerinden sayfa taraması gözle okundu; Gallica
+  görüntüleyicisi ve OCR'ı betiklere bot kontrolüyle yanıt vermektedir
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d5ca4c141833
   role: e6898d5c7551
-  summary: 191d3dca9902
-  caveat: 4bbdcbf3bd09
-  verification_note: 5450297d0e33
-  verification_method: ad8cee67138e
+  summary: 02be30b59693
+  caveat: b2227d206649
+  verification_note: 4a88e3e584f4
+  verification_method: 3a9c1310013a
+  quote: fa3ed0fb2d09

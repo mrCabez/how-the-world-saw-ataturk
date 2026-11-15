@@ -17,18 +17,28 @@ summary: >-
 quote:
   text: British Lion Calls Cubs to Face the Beast of Asia
   language: en
+mediated_by: C. P. Stacey, Canada and the Age of Conflict, vol. 2 (University of Toronto Press, 1981)
 caveat: >-
-  Stacey 1981 (read in search excerpt); headline only, no editorial text. text unchecked (source unreachable
-  2026-10-29)
+  Headline only, no editorial text. Known from histories that quote it; the Globe page itself was not seen and
+  its day in September 1922 was not read.
 node: Canada Says Not Yet at Chanak, September 1922
 sources:
   - url: https://doi.org/10.3138/9781442628137
+  - url: https://archive.org/details/canadaageofconfl00cpst
+    label: Stacey's book on archive.org (lending copy, searchable)
+    accessed: "2026-11-15"
 verification:
-  verdict: unreachable
-  checked_against: https://doi.org/10.3138/9781442628137 (Stacey 1981 book not retrievable)
-  method: fetch
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    C. P. Stacey, Canada and the Age of Conflict (archive.org canadaageofconfl00cpst, which holds both
+    volumes); the same headline in Hillmer and Granatstein, Empire to Umpire (1994), and Thompson and Seager,
+    Canada 1922-1939: Decades of Discord (1985)
+  method: >-
+    archive.org full-text search; OCR snippets only, the books are lending-only and no page was opened
   note: >-
-    Headline 'British Lion Calls Cubs to Face the Beast of Asia' could not be located in any retrievable text;
-    Globe page not seen
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Stacey: 'The Toronto Globe appeared with the streamer headline, 'British Lion Calls Cubs to Face the Beast
+    of Asia.'' Hillmer and Granatstein: 'The Toronto Globe headlined, "British Lion Calls Cubs to Face the
+    Beast of Asia."' Thompson and Seager: it 'was how the Toronto Globe featured the dispatch'. Page numbers
+    could not be read from the snippets. The Globe of September 1922 was not seen.
+  checked_on: "2026-11-15"

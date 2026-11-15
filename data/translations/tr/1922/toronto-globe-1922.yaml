@@ -10,18 +10,24 @@ summary: >-
   Britanya dominyonlarını onun karşısına çıkmaya çağırırken Kemal'i emperyal ucuz kurgu canavarı gibi sunan
   tam sayfa manşet.
 caveat: >-
-  Stacey 1981 (arama kesitinden okundu); yalnızca başlık, başyazı metni yok. Metin kontrol edilmedi (kaynağa
-  ulaşılamadı, 29 Ekim 2026)
+  Yalnızca manşet, başyazı metni yok. Onu aktaran tarih kitaplarından bilinmektedir; Globe sayfasının kendisi
+  görülmemiş ve Eylül 1922'deki günü okunmamıştır.
+mediated_by: C. P. Stacey, Canada and the Age of Conflict, c. 2 (University of Toronto Press, 1981)
 verification_note: >-
-  'British Lion Calls Cubs to Face the Beast of Asia' başlığı erişilebilir hiçbir metinde bulunamadı; Globe
-  sayfası görülmedi
-verification_method: fetch
+  Stacey: 'The Toronto Globe appeared with the streamer headline, 'British Lion Calls Cubs to Face the Beast
+  of Asia.'' Hillmer ve Granatstein: 'The Toronto Globe headlined, "British Lion Calls Cubs to Face the Beast
+  of Asia."' Thompson ve Seager: haberi Toronto Globe'un 'was how the Toronto Globe featured the dispatch'
+  şeklinde verdiğini yazar. Kesitlerden sayfa numaraları okunamadı. Eylül 1922 tarihli Globe görülmedi.
+verification_method: >-
+  archive.org tam metin araması; yalnızca OCR kesitleri, kitaplar sadece ödünç alınabilir durumda olduğundan
+  hiçbir sayfa açılmadı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2a1786c1fc55
   role: 5ac041f38189
   quote: fc686ced1894
   summary: 132653c08f29
-  caveat: c66f9ab9f6c0
-  verification_note: ae84a574c62b
-  verification_method: ad8cee67138e
+  caveat: 0a0a651a8104
+  verification_note: af6fbec1fb7e
+  verification_method: 9b948aba5815
+  mediated_by: 135052eb41ca

@@ -6,17 +6,24 @@ voice: Abdul Kadir Adabi
 role: Malay aydın
 summary: Hilafetin kaldırılmasını kınayan bir Malay aydın olarak anılır.
 caveat: >-
-  İkincil kaynak üzerinden ikincil aktarım; tarih 1924'teki kaldırılıştan çıkarımlandı; yansıma bir
-  çıkarımdır. metin kontrol edilmedi (kaynağa 29 Ekim 2026'da ulaşılamadı)
-mediated_by: Al-Shajarah ders kitabı makalesi
-verification_note: Kaynak makaleye erişilemiyor; iddia ve tarih doğrulanmadı
-verification_method: veri çekme
+  İkincil kaynaktan ikincil kaynak: makale bir Malezya okul tarih ders kitabının onun hakkında söylediklerini
+  aktarmakta ve kendi sözlerinden hiçbir alıntı yapmamaktadır. Tarih, kaynakta geçen bir tarih değil, ilgadan
+  (kaldırılıştan) gelen yıldır; mirror çıkarıma dayalıdır.
+mediated_by: >-
+  Merican ve Akgun 2023 (Al-Shajarah 28:2, s. 290) ← Sejarah Tingkatan 2 (Kuala Lumpur: Dewan Bahasa dan
+  Pustaka, 1989), s. 183
+verification_note: >-
+  s. 290: 'Abdul Kadir Adabi was one of the Malay intellectuals who denounced the dissolution of the
+  caliphate.' Cümle, onun portresini de basan Sejarah Tingkatan 2 (s. 183) ders kitabındaki bir bölümü
+  özetlemektedir. Makale, söyledikleri için bir tarih vermemekte ve kendi sözlerine yer vermemektedir;
+  dolayısıyla 1924 yılı kaynak tarafından desteklenmemektedir.
+verification_method: journals.iium.edu.my adresinden PDF indirildi ve metni okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7926c9796043
   role: 8e9b6858dda3
   summary: 4db696428fc2
-  caveat: 6460d2084d26
-  mediated_by: 70347ffeb2bb
-  verification_note: b9082f8a9a6c
-  verification_method: ad8cee67138e
+  caveat: 4543ac8f2833
+  mediated_by: 98624efd3268
+  verification_note: 25374c048049
+  verification_method: f113315fcbe4

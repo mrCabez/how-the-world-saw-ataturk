@@ -1906,3 +1906,16 @@ Turkish. The words of the quotes did not change, so the Turkish quotes were kept
 Exhibition. Under an English translation the sheet says who made it; for a machine translation that nobody has checked it links to the translation form with the record filled in. The links at the foot of the sheet open the correction and source-check forms the same way, and the link to the file stays for those who edit YAML. The translation form takes English as well as Turkish. Two tour notes were brought into line with the record translations (`elcibey-1992`, `huseyin-avni-tbmm-1922-05-06`).
 
 Counts: 857 quotes, of which 436 are English texts and 421 have a translation (408 by machine, 9 by a contributor, 4 the source's own).
+
+## Six of the nine unopened sources read (2026-11-15)
+
+Issue #5 listed nine records whose source no check had reached. Six were read today without a browser:
+
+- `le-figaro-1938` and `le-temps-1938`. The Gallica viewer and its OCR answer a script with a bot check, but the library's open image service does not: `https://openapi.bnf.fr/iiif/image/v3/ark:/12148/<ark>/f<page>/<region>/max/0/default.jpg` returns the page scan (region `full`, or `x,y,w,h` in pixels of the full image; `info.json` gives its size). Both pages were read by eye. Le Figaro's front-page tribute opens with the quote word for word and is signed Charles de Chambrun, 'ancien ambassadeur de France à Ankara'; the record had the paper as the voice and the author as unresolved, and now has him as the voice (the id keeps the paper's name). Le Temps's page-2 obituary is signed Louis Réville; the record had no quote, and has one now, taken from the scan, with the stance moved from witness to admiring on the article's own words.
+- `giner-de-los-rios-1938`. The DOI now leads to the journal's new site, where the article (Tüylü Turan 2019) is found by search and its PDF is open. He is named, as Minister of Communications, among those who attended for the Spanish Republic; verdict `paraphrase-ok`.
+- `abdul-kadir-adabi-1924`. The Al-Shajarah PDF is open. The sentence is there (p. 290) as the article's account of a Malaysian school textbook; no words of his and no date, so `partial`.
+- `toronto-globe-1922` and `manitoba-free-press-1922`. Stacey's book and the published Dafoe-Sifton correspondence are lending copies on archive.org, and its full-text search returns OCR snippets from them. The Globe headline is in Stacey and in two later histories (`secondary-only`; the Globe page was not seen). Sifton's instruction is in the printed letter in three scans of the correspondence (`confirmed`, on OCR snippets; the letter's date, 18 September or 4 October 1922, was not read).
+
+Three remain `unreachable`: `morning-tribune-1938` and `all-malaya-muslim-missionary-society-1938` (one page on NewspaperSG, which sends a script an empty answer) and `dutch-east-indies-press-1924` (the IIUM repository did not answer at all). They need a browser.
+
+Counts after this: 858 quotes, 422 of them not in English (409 machine translations); `confirmed` 788, `partial` 97, `paraphrase-ok` 58, `secondary-only` 32, `unreachable` 3; 524 admiring, 63 witness.

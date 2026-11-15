@@ -14,19 +14,28 @@ mirror: apostate
 artifact: article
 evidence: S
 summary: Is named as a Malay intellectual who denounced the caliphate's dissolution.
-mediated_by: Al-Shajarah textbook article
+mediated_by: >-
+  Merican and Akgun 2023 (Al-Shajarah 28:2, p. 290) ← Sejarah Tingkatan 2 (Kuala Lumpur: Dewan Bahasa dan
+  Pustaka, 1989), p. 183
 caveat: >-
-  Secondary-on-secondary; date inferred from the 1924 dissolution; mirror is an inference. text unchecked
-  (source unreachable 2026-10-29)
+  Secondary on secondary: the article reports what a Malaysian school history textbook says of him, and quotes
+  no words of his. The date is the year of the dissolution, not a date from the source; mirror is an
+  inference.
 node: Malay Press and the Fall of the Caliphate
 sources:
   - url: https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
     archived: https://web.archive.org/web/20250802140936/https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
+    page: "290"
 verification:
-  verdict: unreachable
+  verdict: partial
   checked_against: >-
-    https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719 (fetch returns invalid_url)
-  method: fetch
-  note: Source article not retrievable; claim and date unverified
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Ahmad Murad Merican and Tayfun Akgun, 'The Consciousness of Turkiye in Malaysia: Ottoman History in
+    Malaysian Secondary History Textbooks (1989-2022)', Al-Shajarah 28:2 (2023), pp. 281-313, at p. 290 (PDF
+    from the journal's site)
+  method: PDF downloaded from journals.iium.edu.my and its text read
+  note: >-
+    p. 290: 'Abdul Kadir Adabi was one of the Malay intellectuals who denounced the dissolution of the
+    caliphate.' The sentence summarises a chapter of the textbook Sejarah Tingkatan 2 (p. 183), which also
+    prints his portrait. The article gives no date for what he said and none of his words, so the year 1924 is
+    not supported by the source.
+  checked_on: "2026-11-15"

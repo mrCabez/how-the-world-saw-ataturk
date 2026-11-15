@@ -2,7 +2,7 @@
 id: giner-de-los-rios-1938
 voice: Bernardo Giner de los Ríos
 voice_type: person
-role: Spanish Republican minister, delegate to funeral
+role: Minister of Communications of the Spanish Republic
 country: Spanish Republic
 country_now: Spain
 domain: politics
@@ -12,17 +12,32 @@ polarity: witness
 intensity: 1
 artifact: visit
 evidence: S+T
-summary: Named to a commission sent to Ankara to represent the Spanish Republic at the funeral.
-mediated_by: Tüylü Turan 2019 (Spanish press)
+summary: >-
+  Attended the Ankara funeral for the Spanish Republic, with a general and two admirals, after the cabinet
+  decided on 18 November to send a commission.
+mediated_by: Tüylü Turan 2019, pp. 193-194 ← Justicia Social, 22 Nov 1938, p. 2; CNT, 23 Nov 1938, p. 2
 caveat: >-
-  Whether Franco's Burgos sent anyone is not established. text unchecked (source unreachable 2026-10-29)
+  The date is that of the cabinet's decision; the funeral was on 21 November. Whether Franco's Burgos sent
+  anyone is not established. The Spanish papers also made fun of a Sunday Times report that the delegation's
+  aeroplane had crashed at Malta (La Voz de Menorca, 23 Nov 1938).
 node: Bernardo Giner de los Ríos
 sources:
   - url: https://doi.org/10.14225/JOH1567
+  - url: https://johschool.com/api/articles/d95f2292-86b8-4004-8a1b-420c1a8a5194/pdf
+    label: The article's PDF on the journal's present site
+    accessed: "2026-11-15"
 verification:
-  verdict: unreachable
-  checked_against: https://doi.org/10.14225/JOH1567 (target_unreachable)
-  method: fetch
-  note: Tuyluy Turan 2019 not retrievable; commission to Ankara funeral unchecked
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+  verdict: paraphrase-ok
+  checked_against: >-
+    Esin Tüylü Turan, 'İspanyolların Gözünden Atatürk'ün Vefatı ve Cenaze Merasimi', Tarih Okulu Dergisi
+    (Journal of History School) 12/39 (April 2019), pp. 176-201, at pp. 193-194 (PDF from the journal's site)
+  method: >-
+    PDF downloaded from johschool.com and its text read; the DOI now leads to the journal's new site, where
+    the article is found by search
+  note: >-
+    pp. 193-194: the Council of Ministers met on 18 November under Negrín and announced that a commission
+    would go to Ankara to represent the Spanish Republic at the funeral (n. 69). 'Törene, İspanya'yı temsilen
+    İletişim Bakanı Senyör Bernardo Giner de los Rios, General Riquelme, Koramiral Matz ve Tuğamiral Fuentes
+    ve Ankara'daki İspanya temsilcisi Calderon katılmıştı' (n. 70: Justicia Social, 22 Nov 1938, p. 2; CNT, 23
+    Nov 1938, p. 2). The Spanish newspapers themselves were not read.
+  checked_on: "2026-11-15"
