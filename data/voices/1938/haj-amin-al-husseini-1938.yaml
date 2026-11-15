@@ -6,7 +6,7 @@ role: Palestinian Arab leader (cabled from Beirut)
 country: Palestine
 country_now: Palestine
 domain: religion
-date: "1938-11"
+date: "1938-11-12"
 era: funeral
 polarity: admiring
 intensity: 1
@@ -16,9 +16,17 @@ summary: >-
   Conveyed the Arab nation of Palestine's condolences for the irreparable loss of the great Atatürk.
 quote:
   text: >-
-    the Arab nation of Palestine presents through you to the noble Turkish people its moved condolences for
-    the irreparable loss … the great Atatürk
-  language: en
+    La nation arabe de Palestine présente par votre intermédiaire au noble peuple turc ses condoléances émues
+    pour la perte irréparable qu'elle vient d'éprouver en la personne du grand Ataturk
+  language: fr
+  translation: >-
+    The Arab nation of Palestine presents through you to the noble Turkish people its heartfelt condolences
+    for the irreparable loss it has just suffered in the person of the great Ataturk
+  translated_by: "machine: claude-fable-5-2"
+caveat: >-
+  Telegram from Beirut, 12/11 16:20, to the president of the Turkish National Assembly, signed 'AMIN HUSSENI'
+  (vol. II, PDF p. 21, sheet 18). Typed in capitals without accents or apostrophes, with two slips,
+  'PRESENETE' and 'CONDOLEANCER'; the quote gives the same words in ordinary French spelling.
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
@@ -27,7 +35,10 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    a local working file (TBMM condolence OCR) (French cable from Beyrouth 12/11, signed Amin Husseni)
-  method: local
-  note: French original translated in record.
-  checked_on: "2026-10-29"
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), vol. II, PDF p. 21
+    (sheet 18): the telegram form
+  method: rendered the PDF page as an image and read the form
+  note: >-
+    The whole message and the header 'BEYROUTH 3600 40 12/11 16/20' were read on the form on 16 Nov 2026.
+    Until then the quote was an English rendering with a gap and the date was the month.
+  checked_on: "2026-11-16"

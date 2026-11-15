@@ -6,16 +6,25 @@ role: Egyptian lower house, president Baha ed-Din Barakat
 country: Egypt
 country_now: Egypt
 domain: politics
-date: "1938-11"
+date: "1938-11-11"
 era: funeral
 polarity: admiring
 intensity: 1
 artifact: telegram
 evidence: P
-summary: Called him a glorious hero, renovator and creator of greater Turkey.
+summary: Called him Turkey's glorious hero, its renovator and the creator of the great Turkey.
 quote:
-  text: glorious hero, renovator and creator of greater Turkey
-  language: en
+  text: >-
+    son glorieux héros son rénovateur et créateur de la grande Turquie le président Kemal Ataturque
+  language: fr
+  translation: >-
+    its glorious hero, its renovator and the creator of the great Turkey, President Kemal Ataturk
+  translated_by: "machine: claude-fable-5-2"
+caveat: >-
+  Telegram from Cairo, 11/11/38 13:30, signed 'president chambre deputes egyptienne baheddine barakat' (vol.
+  II, PDF p. 26, sheet 24). Typed without accents or punctuation: 'partageons grand malheur qui frappe nation
+  turque dans le deces de son glorieux heros son renovateur et createur de la grande turquie le president
+  kemal ataturque'. The earlier English had 'greater Turkey' for 'la grande Turquie'.
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
@@ -24,8 +33,10 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    a local working file telegram Cairo 11/11/38, president of Egyptian Chamber Baheddine Barakat: "son
-    glorieux heros son renovateur et createur de la grande turquie"
-  method: local
-  note: French original, English translation unflagged in record.
-  checked_on: "2026-10-29"
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), vol. II, PDF p. 26
+    (sheet 24): the telegram form
+  method: rendered the PDF page as an image and read the form
+  note: >-
+    The French words and the header 'cairo 43 67 11/11/38 13/30' were read on the form on 16 Nov 2026. Until
+    then the quote was an English rendering alone and the date was the month.
+  checked_on: "2026-11-16"

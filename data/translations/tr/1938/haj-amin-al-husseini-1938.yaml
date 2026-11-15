@@ -5,18 +5,27 @@ id: haj-amin-al-husseini-1938
 voice: Haj Amin al-Husseini
 role: Filistinli Arap lider (Beyrut'tan telgraf çekti)
 quote: >-
-  Filistin Arap milleti, telafisi imkânsız kayıp … büyük Atatürk için aracılığınızla asil Türk halkına duygulu
-  taziyelerini sunar
+  Filistin Arap milleti, büyük Atatürk'ün şahsında henüz uğradığı telafisi imkânsız kayıptan dolayı asil Türk
+  halkına içten taziyelerini sizin aracılığınızla sunar
 quote_kind: translated
 summary: >-
   Büyük Atatürk'ün telafisi imkânsız kaybı dolayısıyla Filistin Arap milletinin taziyelerini iletti.
-verification_note: Fransızca özgün metin kayıtta çevrilmiştir.
-verification_method: yerel
+caveat: >-
+  Beyrut'tan Türkiye Büyük Millet Meclisi Başkanına çekilen telgraf, 12/11 16:20, 'AMIN HUSSENI' imzalı (c.
+  II, PDF s. 21, yaprak 18). Aksan veya kesme işareti olmadan büyük harflerle, 'PRESENETE' ve 'CONDOLEANCER'
+  şeklinde iki dizgi hatasıyla daktilo edilmiştir; alıntıda aynı sözcükler standart Fransızca imlasıyla
+  verilmiştir.
+verification_note: >-
+  Mesajın tamamı ve 'BEYROUTH 3600 40 12/11 16/20' üstbilgisi 16 Kasım 2026 tarihinde form üzerinden okundu. O
+  zamana kadar alıntı bir eksiklik içeren İngilizce çeviriden ibaretti ve tarih sadece ay olarak
+  belirtilmişti.
+verification_method: PDF sayfası görüntüye dönüştürüldü ve form okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7e856308e4e6
   role: d114bc022820
-  quote: 0a64535b02a7
+  quote: 38f4e7660c8b
   summary: ee46cdc42c80
-  verification_note: 5759ff45e918
-  verification_method: 939bb46a04c3
+  verification_note: c8747943c62d
+  verification_method: 8f62f5f2163e
+  caveat: ad3268dc2cc6

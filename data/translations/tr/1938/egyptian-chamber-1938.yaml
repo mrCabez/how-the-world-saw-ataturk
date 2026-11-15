@@ -4,17 +4,27 @@
 id: egyptian-chamber-1938
 voice: Mısır Temsilciler Meclisi (Barakat)
 role: Mısır alt meclisi, başkanı Baha ed-Din Barakat
-quote: şanlı kahraman, daha büyük Türkiye'nin yenileyicisi ve yaratıcısı
+quote: >-
+  onun şanlı kahramanı, yenileyicisi ve büyük Türkiye'nin yaratıcısı Cumhurbaşkanı Kemal Atatürk
 quote_kind: translated
 summary: >-
-  Onu şanlı bir kahraman, daha büyük Türkiye'nin yenileyicisi ve yaratıcısı olarak nitelendirdi.
-verification_note: Özgün metin Fransızca, İngilizce çeviri kayıtta işaretlenmemiş.
-verification_method: yerel
+  Onu Türkiye'nin şanlı kahramanı, yenileyicisi ve büyük Türkiye'nin yaratıcısı olarak nitelendirdi.
+caveat: >-
+  Kahire'den telgraf, 11/11/38 13:30, 'president chambre deputes egyptienne baheddine barakat' imzalı (c. II,
+  PDF s. 26, yaprak 24). Aksansız ve noktalama işareti olmadan daktilo edilmiştir: 'partageons grand malheur
+  qui frappe nation turque dans le deces de son glorieux heros son renovateur et createur de la grande turquie
+  le president kemal ataturque'. Önceki İngilizce çeviride 'la grande Turquie' karşılığı olarak 'greater
+  Turkey' yer alıyordu.
+verification_note: >-
+  Fransızca sözler ve 'cairo 43 67 11/11/38 13/30' üstbilgisi 16 Kasım 2026 tarihinde form üzerinden okundu. O
+  zamana kadar alıntı yalnızca İngilizce bir çeviriden ibaretti ve tarih sadece ay olarak belirtilmişti.
+verification_method: PDF sayfası görüntüye dönüştürüldü ve form okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 537427d8698c
   role: d0d162a84882
-  quote: 2b74b6462a2a
-  summary: 942364fa1c2a
-  verification_note: 6d63695ee416
-  verification_method: 939bb46a04c3
+  quote: be9f50fc9d8c
+  summary: 292278e38a54
+  verification_note: 8d13d3cd9f2b
+  verification_method: 8f62f5f2163e
+  caveat: 3fafb9a7c0de

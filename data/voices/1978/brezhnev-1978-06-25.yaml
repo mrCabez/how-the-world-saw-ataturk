@@ -19,6 +19,7 @@ summary: >-
 quote:
   text: the road charted long ago by Lenin and Ataturk.
   language: en
+  is_translation: true
 caveat: >-
   Speech at the award ceremony in the Hero City of Minsk, 25 June 1978 (book contents: 'Speech … Hero City of
   Minsk, June 25, 1978, 221'), in Peace, Detente and Soviet-American Relations (1979; archive.org

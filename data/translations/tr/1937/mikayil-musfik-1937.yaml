@@ -4,26 +4,29 @@
 id: mikayil-musfik-1937
 voice: Mikayıl Müşfik
 role: Azerbaycanlı lirik şair
-quote: Ey ulu Atatürk, seninle dikiyorum / söz vatanında şanlı bir abide.
-quote_kind: translated
+quote: Ey ulu Atatürk diktim seninle / Şanlı abideni söz vatanında
+quote_kind: original-turkish
 summary: >-
   1937 tasfiyesi sırasında, kendisini tarihe taşıyacağı umuduyla 'Atatürk' adlı bir şiir yazdı; aktarıldığına
   göre yargılanmasının gerekçelerinden biriydi.
 caveat: >-
-  Tek kaynaklı (Heşimova); şiirin tarihlendirilmesi 2017'deki keşfe dayanıyor; metin ikinci elden aktarılmış;
-  kovuşturma bağlantısı doğrulanmamış.
+  Tek kaynaklıdır (Heşimova); şiirin tarihlendirilmesi 2017'deki keşfe dayanmaktadır; metin ikinci elden
+  aktarılmıştır; kovuşturma bağlantısı doğrulanmamıştır. Dizeler, Heşimova'nın (Ahmet 2017'ye dayanarak)
+  Azerbaycan Türkçesinin Türkiye Türkçesi imlasıyla bastığı şekildedir; Azerbaycan Türkçesiyle olan metin
+  görülmemiştir.
 mediated_by: Heşimova 2024 ← Ahmet 2017
 verification_note: >-
-  Alıntı, Türkçe aktarımın ('Ey ulu Ataturk diktim seninle / Sanli abideni soz vatanında') İngilizce
-  çevirisidir. Şiirin 'one of the grounds for trial' olduğu kaynakta belirtilmiş.
+  Alıntı, Türkçe aktarımın İngilizce çevirisidir ('Ey ulu Ataturk diktim seninle / Sanli abideni soz
+  vatanında'). Şiirin 'yargılama gerekçelerinden biri' ("one of the grounds for trial") olduğu kaynakta
+  belirtilmiştir. Dizeler 16 Kasım 2026'da makaleden okunmuştur.
 verification_method: veri çekme
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5767e90368d9
   role: eec361345f74
-  quote: 36354038fb31
+  quote: 6f5ac4f05558
   summary: ee502cdb45a7
-  caveat: cb8f9f441833
+  caveat: 657adb27c2c4
   mediated_by: 7625aebff186
-  verification_note: c4033521d8dc
+  verification_note: 87c3d19c9b24
   verification_method: ad8cee67138e

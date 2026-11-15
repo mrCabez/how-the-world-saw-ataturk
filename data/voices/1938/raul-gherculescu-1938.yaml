@@ -10,13 +10,22 @@ date: "1938-10"
 era: contemporary
 polarity: admiring
 intensity: 1
-artifact: telegram
+artifact: letter
 evidence: S
 summary: Wrote that he kept the dearest childhood memories of Atatürk.
 quote:
-  text: I keep the dearest memories of my childhood of you
-  language: en
+  text: Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim.
+  language: tr
+  translation: I keep the dearest memories of you from my childhood.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+caveat: >-
+  Letter of 20 October 1938, as Dağlı prints it in Turkish from the Presidential Archive (CA 01019989-148), p.
+  124. The language he wrote in is not stated; the Turkish is taken here to be the archive's translation. He
+  was the son of Dumitru Gherculescu, the Romanian military attaché Atatürk had known in Sofia in 1913. The
+  letter opens: 'Sıhhatiniz hakkındaki acı haberleri derin bir teessürle okudum' (I read the bitter news of
+  your health with deep sorrow).
 node: Foreign Delegations at the Funeral, November 1938
 sources:
   - url: https://doi.org/10.30794/pausbed.1170334
@@ -28,5 +37,6 @@ verification:
   method: local
   note: >-
     Translated from Turkish: 'Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim'. Letter is a get-well
-    letter dated 20 Oct, record date 1938-10 ok.
+    letter dated 20 Oct, record date 1938-10 ok. The Turkish sentence was read in the article on 16 Nov 2026;
+    Dağlı calls it a letter (mektup), so the artifact is now letter, not telegram.
   checked_on: "2026-10-29"

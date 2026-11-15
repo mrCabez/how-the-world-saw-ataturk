@@ -16,13 +16,17 @@ summary: >-
   Commemorated Atatürk with a minute's silence; the chairman asked for silence for this great Islamite; a
   Qur'an prayer was recited.
 quote:
-  text: this great Islamite
-  language: en
+  text: dezen grooten Islamiet
+  language: nl
+  translation: this great Islamite
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: >-
   Soerabaijasch Handelsblad 16 Nov 1938 and De Indische Courant 16 Nov 1938 (Dutch reports of Malay speech)
 caveat: >-
   Wording is the reporter's rendering of Malay or Dutch speech; one branch in one city, not Muhammadiyah as a
-  whole.
+  whole. De Indische Courant: 'Spr. verzocht de aanwezigen de nagedachtenis van dezen grooten Islamiet met
+  enkele oogenblikken stilte te eeren' (read in the library's OCR text).
 node: Dutch East Indies Press, November 1938
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:011121218:mpeg21:a0100

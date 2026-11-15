@@ -17,8 +17,13 @@ summary: >-
   Atatürk as Prometheus who conquered East with West and West with East, forging a proud people from scattered
   remains; not ascetic, he feasted without measure.
 quote:
-  text: With the West he conquered the East, with the East the West.
-  language: en
+  text: Met het Westen heeft hij het Oosten, met het Oosten het Westen overwonnen.
+  language: nl
+  translation: With the West he conquered the East, with the East the West.
+  translated_by: "machine: research agent"
+caveat: >-
+  From the leader 'Einde ?', which begins: 'Kemal Atatürk is heengegaan. Hij was een Prometheus.' Read in the
+  library's OCR text of the page, not on the scan.
 node: Dutch East Indies Press, November 1938
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:010227760:mpeg21:a0220
@@ -36,5 +41,6 @@ verification:
   method: fetch
   note: >-
     Record had no source URL; found via KB SRU. Dutch original, record translates. 'Hij was een Prometheus ...
-    Met het Westen heeft hij het Oosten ... overwonnen' and feasting without measure confirmed.
+    Met het Westen heeft hij het Oosten ... overwonnen' and feasting without measure confirmed. The Dutch
+    sentence was read in the OCR text on 16 Nov 2026; until then the quote was the English alone.
   checked_on: "2026-10-29"

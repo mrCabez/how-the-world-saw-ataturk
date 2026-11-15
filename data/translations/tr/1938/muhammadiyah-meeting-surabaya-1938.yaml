@@ -4,14 +4,16 @@
 id: muhammadiyah-meeting-surabaya-1938
 voice: Muhammadiyah toplantısı, Surabaya
 role: Surabaya şubesi halka açık toplantısı
-quote: bu büyük İslam mensubu
+quote: bu büyük İslamcıyı
 quote_kind: translated
 summary: >-
   Atatürk'ü bir dakikalık sessizlikle andı; başkan bu büyük İslam mensubu için sessizlik istedi; bir Kur'an
   duası okundu.
 caveat: >-
-  İfade, muhabirin Malayca veya Felemenkçe konuşmayı aktarımıdır; bir bütün olarak Muhammadiyah değil, tek bir
-  şehirdeki tek bir şubedir.
+  İfadeler, Malayca veya Felemenkçe konuşmanın muhabir tarafından aktarımıdır; bir bütün olarak Muhammadiyah'ı
+  değil, tek bir şehirdeki tek bir şubeyi yansıtır. De Indische Courant: 'Spr. verzocht de aanwezigen de
+  nagedachtenis van dezen grooten Islamiet met enkele oogenblikken stilte te eeren' (kütüphanenin OCR
+  metninden okunmuştur).
 mediated_by: >-
   Soerabaijasch Handelsblad 16 Kasım 1938 ve De Indische Courant 16 Kasım 1938 (Malayca konuşmaya ilişkin
   Felemenkçe haberler)
@@ -23,9 +25,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8fd61c4fbdef
   role: 738aace14d20
-  quote: 51e61386d0d8
+  quote: adb2ab1ef7d9
   summary: a0da1722b9ef
-  caveat: 31d77d542c8f
+  caveat: 011fd611ce5c
   mediated_by: 6c8ca6b8c692
   verification_note: dc39b87cbbdf
   verification_method: ad8cee67138e

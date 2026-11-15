@@ -16,12 +16,16 @@ summary: >-
   Wrote a poem 'Atatürk' under the 1937 purge, hoping it would carry him into history; reportedly one ground
   for his prosecution.
 quote:
-  text: O great Atatürk, with you I raise / a glorious monument in the homeland of words.
-  language: en
+  text: Ey ulu Atatürk diktim seninle / Şanlı abideni söz vatanında
+  language: tr
+  translation: O great Atatürk, with you I have raised / your glorious monument in the homeland of words
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Heşimova 2024 ← Ahmet 2017
 caveat: >-
   Single-source (Heşimova); poem's dating depends on 2017 discovery; text reproduced second-hand; prosecution
-  link unverified.
+  link unverified. The lines are as Heşimova prints them, in a Turkish spelling of the Azerbaijani (after
+  Ahmet 2017); the Azerbaijani text was not seen.
 node: Mikayıl Müşfik
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/3737657
@@ -34,5 +38,6 @@ verification:
   method: fetch
   note: >-
     Quote is English translation of Turkish rendering ('Ey ulu Ataturk diktim seninle / Sanli abideni soz
-    vatanında'). Poem 'one of the grounds for trial' stated in source.
+    vatanında'). Poem 'one of the grounds for trial' stated in source. The lines were read in the article on
+    16 Nov 2026.
   checked_on: "2026-10-29"

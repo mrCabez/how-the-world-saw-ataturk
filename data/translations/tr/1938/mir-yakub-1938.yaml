@@ -4,16 +4,32 @@
 id: mir-yakub-1938
 voice: Mir Yakub / Azerbaycan Milli Komitesi
 role: Azerbaycanlı sürgün komitesi, Paris
-quote: yabancı egemenliği altında inleyen Azerbaycan
-quote_kind: translated
-summary: Yabancı egemenliği altında inleyen Azerbaycan'ın da yas tuttuğunu ekledi.
-verification_note: Türkçe aslının İngilizce çevirisi; notta çeviri olduğu belirtiliyor.
-verification_method: yerel
+quote: bu gün yabancı hükmü altında inleyen Azerbaycan
+quote_kind: original-turkish
+summary: >-
+  Paris'ten çektiği telgrafta, yabancı boyunduruğu altında inleyen Azerbaycan'ın onun yasını bile özgürce
+  tutamadığını; ulu şefin hatırasının Azeri kalplerinde yaşayacağını bildirdi.
+caveat: >-
+  Paris'ten telsiz telgraf, 11/11 13:12, 'mir yakub azerbaycan milli heyet reisi' imzalı (c. II, PDF s. 51,
+  yaprak 48). Küçük harflerle, çoğunlukla Türkçe harfler olmadan ve dizgi hatalarıyla ('tazuyetlerimizi',
+  'saferlerle') daktilo edilmiştir; alıntı bu sözleri standart imlayla vermektedir. Onun hakkında şöyle
+  denmektedir: 'ulu sefin tukenmez saferlerle dolu hatiralari kalplerimizde ebediyyen yaşayacaktir' (ulu şefin
+  tükenmez zaferlerle dolu hatıraları kalplerimizde ebediyen yaşayacaktır). Alıntılanan cümle şöyle devam
+  etmektedir: 'bu en buyuk mateme butun varligile istirake hazirlanirken malum vahsi penceleri onunde elim
+  acilerini bile doya doya duymak imkansizligi karsisinda bulunuyor' (bu en büyük mateme bütün varlığıyla
+  iştirake hazırlanırken malum vahşi pençeleri önünde elim acılarını bile doya doya duymak imkânsızlığı
+  karşısında bulunuyor).
+verification_note: >-
+  Mesajın tamamı ve 'Paris … 11/11 13/12 via radio' üstbilgisi 16 Kasım 2026 tarihinde form üzerinden okundu.
+  'hukmu' kelimesindeki bir harf siliktir; önceki OCR bunu 'hukuku' olarak okumuştu. Şimdiye kadar alıntı
+  yalnızca İngilizce bir çeviriden ibaretti ve tarih sadece ay olarak belirtilmişti.
+verification_method: PDF sayfası görüntüye dönüştürüldü ve form okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0a8b9074bb32
   role: 887cb8d5a922
-  quote: b19e161c7c38
-  summary: 2abbbd40de9e
-  verification_note: a44de8981ffa
-  verification_method: 939bb46a04c3
+  quote: 6cadc7b39a24
+  summary: a95f40e18aab
+  verification_note: 48a6c8ed0836
+  verification_method: 8f62f5f2163e
+  caveat: 4c9d625d3901

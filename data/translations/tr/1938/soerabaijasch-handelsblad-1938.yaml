@@ -4,20 +4,29 @@
 id: soerabaijasch-handelsblad-1938
 voice: Soerabaijasch Handelsblad
 role: Surabaya günlük gazetesi
-quote: "Kemal Atatürk'ün en büyük yeteneği: doğru düşmanlar edinmek."
+quote: "Kemal Atatürk'ün en büyük yeteneği: kendine doğru düşmanlar edinmek"
 quote_kind: translated
 summary: >-
   Batı örneğine göre modern bir devlet inşa etmek için din adamlarının nüfuzunu elinden alması gerekiyordu; en
   büyük yeteneği doğru düşmanlar edinmekti.
+caveat: >-
+  Alıntı, 11 Kasım 1938 tarihli 'In het kort' köşesinin başlığıdır (OCR metninde 'Atatnrk's' olarak
+  geçmektedir). Köşe yazısında şöyle denmektedir: 'Maar hij was onbetwist meester in de kunst, zich de juiste
+  vijanden te maken' (fakat o, kendine doğru düşmanlar edinme sanatında tartışmasız bir ustaydı). Din
+  adamlarına ilişkin yorum 10 Kasım tarihli makaledendir. Her ikisi de tarama üzerinden değil, kütüphanenin
+  OCR metninden okunmuştur.
 verification_note: >-
-  Kaydın kaynak listesi boştur; iki makale 10 Kasım tarihi altında birleştirilmiştir (alıntı 11 Kasım tarihli
-  yazıya aittir); alıntı Felemenkçenin İngilizce çevirisidir, çeviri olduğu işaretlenmemiştir.
+  Kaydın kaynak listesi boş; iki makale 10 Kasım tarihi altında birleştirilmiş (alıntı 11 Kasım tarihli
+  yazıdandır); alıntı Felemenkçenin İngilizceye aktarımıdır, çeviri olduğu işaretlenmemiştir. Felemenkçe
+  başlık ve cümle 16 Kasım 2026'da OCR metninden okundu; o zamana kadar alıntı yalnızca İngilizce metinden
+  ibaretti.
 verification_method: web erişimi
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0eb8c78aa41d
   role: 7bf2928cab04
-  quote: ebd03ee3607b
+  quote: 44f131ea09dc
   summary: 985fddac0eb8
-  verification_note: a73259c244e8
+  verification_note: 69698c98c438
   verification_method: ad8cee67138e
+  caveat: b3e6ead22c90

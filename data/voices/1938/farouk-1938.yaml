@@ -6,7 +6,7 @@ role: King of Egypt
 country: Egypt
 country_now: Egypt
 domain: politics
-date: "1938-11"
+date: "1938-11-11"
 era: funeral
 polarity: admiring
 intensity: 1
@@ -14,8 +14,15 @@ artifact: telegram
 evidence: P
 summary: Called him an illustrious patriot and regenerator of the new Turkey.
 quote:
-  text: illustrious patriot, regenerator of the new Turkey
-  language: en
+  text: l'illustre patriote régénérateur de la Turquie nouvelle
+  language: fr
+  translation: the illustrious patriot, regenerator of the new Turkey
+  translated_by: "machine: research agent"
+caveat: >-
+  Telegram from Ras el-Tin Palace, Alexandria, 11/11/38 13:50, addressed to Abdülhalik Renda as president of
+  the republic ad interim (vol. II, PDF p. 6). The form is typed without accents, apostrophes or punctuation:
+  'par la disparition du president ataturk l illustre patriote regenerateur de ca turquie nouvelle' ('ca' for
+  'la'); signed 'farouk r'. A formula of royal condolence.
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
@@ -24,9 +31,10 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    a local working file (TBMM condolence OCR) (French: 'l'illustre patriote régénérateur de la Turquie
-    nouvelle', Alexandria 11/11/38)
-  method: local
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), vol. II, PDF p. 6: the
+    telegram form
+  method: rendered the PDF page as an image and read the form
   note: >-
-    Quote is an English translation of French original; vault note states telegrams are translated.
-  checked_on: "2026-10-29"
+    The French words and the header 'palais raseltin alexandrie 28 78 11/11/38 13/50' were read on the form on
+    16 Nov 2026. Until then the quote was an English rendering alone and the date was the month.
+  checked_on: "2026-11-16"

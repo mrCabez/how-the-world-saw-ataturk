@@ -6,7 +6,7 @@ role: Prime Minister of Hungary
 country: Hungary
 country_now: Hungary
 domain: politics
-date: "1932-10"
+date: "1932-10-14"
 era: contemporary
 polarity: instrumental
 intensity: 2
@@ -16,10 +16,20 @@ summary: >-
   Told Turkey's envoy of ties of race and war respect and admired the revolution; later visited Ankara, though
   his aim was Trianon revision.
 quote:
-  text: the great revolution made by your great leader's genius.
-  language: en
+  text: Büyük reisinizin dehası ile yapılan büyük inkılaptır.
+  language: tr
+  translation: the great revolution made by your great leader's genius.
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Erdem 2009 ← Budapest embassy reports
-caveat: Source dates premiership differently (1930 in abstract vs Oct 1932 in Erdem; 1932 used).
+caveat: >-
+  Source dates premiership differently (1930 in abstract vs Oct 1932 in Erdem; 1932 used). The Turkish is the
+  envoy's report of what Gömbös told him on 14 October 1932, as Erdem prints it: “Benim kafam Türk’tür.
+  Türklere karşı üç noktada pek güçlü bağlar ile merbutum. 1. Bir ırktan, Asyalı olmaklığımız. 2. Harbi
+  Umumi’de Türklerden gördüğüm yüksek askerlik yeteneği. 3. Büyük reisinizin dehası ile yapılan büyük
+  inkılaptır.” (My head is Turkish. Three things bind me strongly to the Turks: 1. that we are of one race,
+  Asians; 2. the high soldierly ability I saw in the Turks in the Great War; 3. the great revolution made by
+  the genius of your great leader.) In what language he spoke is not stated.
 node: Gyula Gömbös
 sources:
   - url: https://erdem.gov.tr/tam-metin/223/tur
@@ -33,4 +43,6 @@ verification:
   method: fetch
   note: >-
     Quote is English rendering of Turkish translation: 'Buyuk reisinizin dehasi ile yapilan buyuk inkilap'.
+    The Turkish wording was read on the page on 16 Nov 2026; until then the quote was an English rendering
+    alone.
   checked_on: "2026-10-29"

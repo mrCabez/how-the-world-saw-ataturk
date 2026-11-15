@@ -4,19 +4,29 @@
 id: armenian-catholics-kirecyan-1938
 voice: Başpiskopos Boğos Kireçyan ve Dr. André Pirim
 role: Türkiye Ermeni Katoliklerinin ruhani lideri ve bir cemaat temsilcisi
-quote: yıllarca kanatlarınız altında
-quote_kind: translated
+quote: >-
+  genç Türk Cumhuriyeti’ni varlığınla daha seneler kanatların altında muhafaza etmeni dualarımla candan dilerim
+quote_kind: original-turkish
 summary: >-
   Atatürk'e sağlık dilediler ve genç cumhuriyeti yıllarca kanatları altında koruması için dua ettiler.
+caveat: >-
+  Kireçyan'ın 3 Nisan 1938 tarihli telgrafı, Dağlı'nın Cumhurbaşkanlığı Arşivi'nden (CA 01019988-106) bastığı
+  şekliyle şöyledir: “geçirmiş olduğunuz hastalık için bütün cemaatimizle birlikte size geçmiş olsun der ve
+  genç Türk Cumhuriyeti’ni varlığınla daha seneler kanatların altında muhafaza etmeni dualarımla candan
+  dilerim”. Dr André Pirim'in 2 Nisan tarihli telgrafı ise 'biz Türk Ermeni Katolikleri' adına sağlık
+  dileklerini içeren ayrı bir mesajdır (CA 01019988-116).
 mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
-verification_note: Alıntı Türkçeden İngilizceye çeviridir; Pirim 2 Nisan'da ayrı bir telgraf göndermiştir.
+verification_note: >-
+  Alıntı Türkçeden İngilizceye çeviridir; Pirim 2 Nisan'da ayrı bir telgraf göndermiştir. Türkçe cümle 16
+  Kasım 2026'da makaleden okunmuştur; o tarihe kadar alıntı dört İngilizce kelimeden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e419d55c482c
   role: 9d5247b4df8d
-  quote: a4747451dedd
+  quote: 390a470fe461
   summary: d6d992f2a97b
   mediated_by: db69299c65ed
-  verification_note: 906b19d5b722
+  verification_note: 2cc5d14fb2f8
   verification_method: 939bb46a04c3
+  caveat: 9b5a0b62422e

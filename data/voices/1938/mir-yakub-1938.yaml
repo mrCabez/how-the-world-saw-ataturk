@@ -6,16 +6,29 @@ role: Azerbaijani émigré committee, Paris
 country: Azerbaijan (émigré in France)
 country_now: Azerbaijan
 domain: politics
-date: "1938-11"
+date: "1938-11-11"
 era: funeral
 polarity: admiring
 intensity: 1
 artifact: telegram
 evidence: P
-summary: Added that Azerbaijan, groaning under foreign domination, mourns too.
+summary: >-
+  Cabled from Paris that Azerbaijan, groaning under foreign rule, cannot even mourn him freely; the memory of
+  the great chief will live in Azeri hearts.
 quote:
-  text: Azerbaijan, groaning under foreign domination
-  language: en
+  text: bu gün yabancı hükmü altında inleyen Azerbaycan
+  language: tr
+  translation: Azerbaijan, groaning today under foreign rule
+  translated_by: "machine: claude-fable-5-2"
+caveat: >-
+  Radio telegram from Paris, 11/11 13:12, signed 'mir yakub azerbaycan milli heyet reisi' (vol. II, PDF p. 51,
+  sheet 48). Typed in lower case, mostly without Turkish letters and with slips ('tazuyetlerimizi',
+  'saferlerle'); the quote gives its words in ordinary spelling. Of him it says: 'ulu sefin tukenmez
+  saferlerle dolu hatiralari kalplerimizde ebediyyen yaşayacaktir' (the memories of the great chief, full of
+  victories without end, will live for ever in our hearts). The quoted clause goes on: 'bu en buyuk mateme
+  butun varligile istirake hazirlanirken malum vahsi penceleri onunde elim acilerini bile doya doya duymak
+  imkansizligi karsisinda bulunuyor' (as it makes ready to join in this greatest of mournings with its whole
+  being, it finds that before the well-known savage claws it cannot even feel its bitter grief to the full).
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
@@ -24,8 +37,11 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    a local working file (TBMM condolence OCR) (Turkish telegram 'yabancı hukuku altında inleyen Azerbaycan';
-    list entry Mir Yakub, Paris)
-  method: local
-  note: English translation of Turkish original; note states translated.
-  checked_on: "2026-10-29"
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), vol. II, PDF p. 51
+    (sheet 48): the telegram form
+  method: rendered the PDF page as an image and read the form
+  note: >-
+    The whole message and the header 'Paris … 11/11 13/12 via radio' were read on the form on 16 Nov 2026. In
+    'hukmu' one letter is faint; the earlier OCR had read 'hukuku'. Until now the quote was an English
+    rendering alone and the date was the month.
+  checked_on: "2026-11-16"

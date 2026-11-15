@@ -5,24 +5,33 @@ id: noel-fiessinger-1938
 voice: Noël Fiessinger
 role: Parisli tıp profesörü; Atatürk'ün konsültan hekimi
 quote: >-
-  Tıbbın ve doğanın yardımıyla Atatürk iki yıl daha yaşayabilir. Ama bu gece yatağa gireriz ve onu bağırsak ya
-  da beyin kanamasından ölmüş bulabiliriz.
-quote_kind: translated
+  Atatürk, tıbbın müdahalesi ve tabiatın yardımıyla daha iki sene yaşayabilir. Tıp tarihinde bunun misalleri
+  çoktur. Fakat şimdi yata döneriz, barsak veya beyin kanamasından Atatürk’ü ölmüş de bulabiliriz.
+quote_kind: original-turkish
 summary: >-
   1938'de Atatürk'ü defalarca muayene etti, ortaklaşa 'hepatite sclérocongestive éthylique' teşhisi koydu ve
   özel olarak iki yıl daha yaşayabileceği ya da herhangi bir gece ölebileceği uyarısında bulundu.
+caveat: >-
+  Haziran 1938'de Savarona yatında Atatürk'ü muayene ettikten sonra akşam yemeğinde İçişleri Bakanı Şükrü
+  Kaya'ya söylenmiştir. Türkçe metin, Dağlı'nın aktardığı şekliyle Şehsuvaroğlu'na (1981, s. 77) aittir;
+  Fiessinger'in muhtemelen Fransızca olan kendi sözleri verilmemiştir. 'Yata döneriz', 'we go back to the
+  yacht' (yata geri döneriz) demektir: buradaki İngilizce metinde 16 Kasım 2026'ya kadar 'tonight we go to
+  bed' (bu gece yatağa gideriz) yazıyordu. Şöyle devam eder: 'Onun için siz Cumhuriyetin selameti için
+  icabeden tedbirleri şimdiden alınız'.
 mediated_by: Şehsuvaroğlu 1981:77, aktaran Dağlı 2023
 verification_note: >-
-  Alıntı (Türkçe aslı mevcut, İngilizce çevirisi sadık), Haziran 1938 ve tekrarlanan muayenelerin tamamı
-  kaynakla destekleniyor. Dağlı'da Fiessinger için 'Diagnosed alcoholic cirrhosis' ifadesi yer almıyor (siroz
-  ve alkol tavsiyesi ayrı geçiyor).
+  Alıntı (Türkçe orijinal, İngilizce çevirisi sadık), Haziran 1938, tekrarlanan muayenelerin tamamı kaynakla
+  destekleniyor. 'Diagnosed alcoholic cirrhosis' (alkole bağlı siroz teşhisi koydu) ifadesi Dağlı tarafından
+  Fiessinger için belirtilmemiştir (siroz ve alkol tavsiyesi ayrıdır). Türkçe pasaj 16 Kasım 2026'da makaleden
+  okundu ve İngilizcesi buna göre düzeltildi.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 50ecc4d646ea
   role: 4f278d895e2e
-  quote: f4200292af0d
+  quote: 7b217b7135aa
   summary: 9eedb50da584
   mediated_by: c53911a7a48d
-  verification_note: d01dbbb71e73
+  verification_note: 66bb08a2f0df
   verification_method: 939bb46a04c3
+  caveat: f84a61e10f73

@@ -19,8 +19,11 @@ summary: >-
 quote:
   text: showed us the way to civilization
   language: en
+  is_translation: true
 mediated_by: Özveren in Jassal & Turan ← Cumhuriyet 23 Nov 1926; Rozana Hamdard Dec 1926
-caveat: They never met; the only contact was the 1926 stopover.
+caveat: >-
+  They never met; the only contact was the 1926 stopover. The English is Daily Sabah's, made from Cumhuriyet's
+  Turkish report of his words; what he said in his own English is not known.
 node: Rabindranath Tagore
 sources:
   - url: https://dailysabah.com/arts/portrait/when-rabindranath-tagore-first-visited-istanbul

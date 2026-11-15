@@ -4,20 +4,27 @@
 id: raul-gherculescu-1938
 voice: Raul D. Gherculescu
 role: Romen; Atatürk'ün 1913'te Sofya'da tanıştığı bir askeri ataşenin oğlu
-quote: Çocukluğumdan size dair en aziz hatıraları saklıyorum
-quote_kind: translated
+quote: Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim.
+quote_kind: original-turkish
 summary: Atatürk'e dair en aziz çocukluk hatıralarını sakladığını yazdı.
+caveat: >-
+  Dağlı'nın Cumhurbaşkanlığı Arşivi'nden (CA 01019989-148) Türkçe olarak bastığı 20 Ekim 1938 tarihli mektup,
+  s. 124. Hangi dilde yazdığı belirtilmemiştir; buradaki Türkçe metnin arşivin çevirisi olduğu kabul
+  edilmektedir. Atatürk'ün 1913'te Sofya'da tanıdığı Romanya askeri ataşesi Dumitru Gherculescu'nun oğluydu.
+  Mektup şöyle başlar: 'Sıhhatiniz hakkındaki acı haberleri derin bir teessürle okudum'.
 mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
 verification_note: >-
   Türkçeden çevrilmiştir: 'Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim'. Mektup 20 Ekim tarihli
-  bir geçmiş olsun mektubudur, 1938-10 kayıt tarihi doğrudur.
+  bir geçmiş olsun mektubudur, kayıt tarihi 1938-10 doğrudur. Türkçe cümle 16 Kasım 2026'da makaleden okundu;
+  Dağlı buna mektup dediği için belge türü artık telgraf değil, mektuptur.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9bf2b8724bc8
   role: 0995e79a6e75
-  quote: bf17ddf44563
+  quote: 9fe1fe5ba629
   summary: 6acf9b462c0e
   mediated_by: db69299c65ed
-  verification_note: 757f78da0bcb
+  verification_note: b3a280a20acc
   verification_method: 939bb46a04c3
+  caveat: 4060ca677efc

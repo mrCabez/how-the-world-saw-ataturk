@@ -17,8 +17,15 @@ summary: >-
   To build a modern state after Western example he had to strip the clergy of influence; his greatest gift was
   making the right enemies.
 quote:
-  text: "Kemal Atatürk's greatest gift: to make the right enemies."
-  language: en
+  text: "Kemal Ataturk's grootste gave: zich de juiste vijanden te maken"
+  language: nl
+  translation: "Kemal Atatürk's greatest gift: to make the right enemies."
+  translated_by: "machine: research agent"
+caveat: >-
+  The quote is the headline of the column 'In het kort' of 11 November 1938 (the OCR reads 'Atatnrk's'). The
+  column says: 'Maar hij was onbetwist meester in de kunst, zich de juiste vijanden te maken' (but he was the
+  undisputed master of the art of making the right enemies). The remark on the clergy is from the article of
+  10 November. Both were read in the library's OCR text, not on the scan.
 node: Dutch East Indies Press, November 1938
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:011121218:mpeg21:a0100
@@ -36,5 +43,6 @@ verification:
   method: fetch
   note: >-
     Record has empty sources list; two articles merged under date 10 Nov (quote is the 11 Nov piece); quote is
-    English rendering of Dutch, translation not flagged.
+    English rendering of Dutch, translation not flagged. The Dutch headline and sentence were read in the OCR
+    text on 16 Nov 2026; until then the quote was the English alone.
   checked_on: "2026-10-29"

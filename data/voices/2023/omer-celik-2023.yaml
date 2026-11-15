@@ -20,6 +20,7 @@ quote:
     This attitude of the platform in question is disrespectful to the values of the Republic of Turkey and our
     nation
   language: en
+  is_translation: true
 caveat: >-
   Corrected 2026-10-29: 'shameful' is the journalists' wording (Yetkin, TRT headline); Çelik's own words in Al
   Jazeera are 'shame' and 'disrespectful'. 'Volcanic' reaction was the vault's characterisation.
@@ -31,6 +32,7 @@ sources:
     archived: https://web.archive.org/web/20260217032625/https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series
 verification:
   verdict: partial
+  quote_found: false
   checked_against: >-
     yetkinreport.com: "condemned the decision ... as a shameful disrespect" (Yetkin's wording); aljazeera.com:
     Çelik called it a "shame" that Disney+ "succumbed to the pressure of the Armenian lobby", "disrespectful
@@ -41,4 +43,3 @@ verification:
     reaction not found.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
   checked_on: "2026-10-29"
-  quote_found: false

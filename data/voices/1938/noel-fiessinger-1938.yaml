@@ -17,10 +17,22 @@ summary: >-
   privately he could live two more years or die any night.
 quote:
   text: >-
-    With medicine's help and nature's, Atatürk could live two more years. But tonight we go to bed and might
-    find him dead of an intestinal or brain haemorrhage.
-  language: en
+    Atatürk, tıbbın müdahalesi ve tabiatın yardımıyla daha iki sene yaşayabilir. Tıp tarihinde bunun misalleri
+    çoktur. Fakat şimdi yata döneriz, barsak veya beyin kanamasından Atatürk’ü ölmüş de bulabiliriz.
+  language: tr
+  translation: >-
+    With the help of medicine and of nature, Atatürk could live two more years. The history of medicine has
+    many such cases. But we may go back to the yacht now and find Atatürk dead of an intestinal or cerebral
+    haemorrhage.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Şehsuvaroğlu 1981:77 via Dağlı 2023
+caveat: >-
+  Said in June 1938 at dinner to the Interior Minister, Şükrü Kaya, after examining Atatürk aboard the yacht
+  Savarona. The Turkish is Şehsuvaroğlu's (1981, p. 77) as Dağlı quotes it; Fiessinger's own words, presumably
+  French, are not given. 'Yata döneriz' is 'we go back to the yacht': the English here read 'tonight we go to
+  bed' until 16 Nov 2026. He goes on: 'Onun için siz Cumhuriyetin selameti için icabeden tedbirleri şimdiden
+  alınız' (so take now the measures that the safety of the Republic requires).
 node: Noël Fiessinger
 sources:
   - url: https://doi.org/10.30794/pausbed.1170334
@@ -33,6 +45,7 @@ verification:
   note: >-
     Quote (Turkish original, English translation faithful), June 1938, repeated exams all supported.
     'Diagnosed alcoholic cirrhosis' is not stated by Dağlı for Fiessinger (siroz and alcohol advice are
-    separate).
+    separate). The Turkish passage was read in the article on 16 Nov 2026 and the English corrected against
+    it.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
   checked_on: "2026-10-29"

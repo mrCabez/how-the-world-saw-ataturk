@@ -4,24 +4,32 @@
 id: gyula-gombos-1932
 voice: Gyula Gömbös
 role: Macaristan Başbakanı
-quote: büyük liderinizin dehasıyla yapılan büyük devrim.
-quote_kind: translated
+quote: Büyük reisinizin dehası ile yapılan büyük inkılaptır.
+quote_kind: original-turkish
 summary: >-
   Türkiye elçisine ırk bağlarından ve savaştan gelen saygıdan söz etti ve devrime hayranlığını dile getirdi;
   amacı Trianon'un revizyonu olsa da daha sonra Ankara'yı ziyaret etti.
 caveat: >-
-  Kaynak, başbakanlık tarihini farklı verir (özette 1930, Erdem'de ise Ekim 1932; 1932 esas alındı).
+  Kaynak, başbakanlık tarihini farklı vermektedir (özette 1930, Erdem'de ise Ekim 1932; 1932 kullanılmıştır).
+  Türkçe metin, Gömbös'ün 14 Ekim 1932'de elçiye söylediklerinin Erdem'de basıldığı şekliyle elçi raporudur:
+  “Benim kafam Türk’tür. Türklere karşı üç noktada pek güçlü bağlar ile merbutum. 1. Bir ırktan, Asyalı
+  olmaklığımız. 2. Harbi Umumi’de Türklerden gördüğüm yüksek askerlik yeteneği. 3. Büyük reisinizin dehası ile
+  yapılan büyük inkılaptır.” (My head is Turkish. Three things bind me strongly to the Turks: 1. that we are
+  of one race, Asians; 2. the high soldierly ability I saw in the Turks in the Great War; 3. the great
+  revolution made by the genius of your great leader.) Hangi dilde konuştuğu belirtilmemiştir.
 mediated_by: Erdem 2009 ← Budapeşte büyükelçilik raporları
 verification_note: >-
-  Alıntı, Türkçe çevirinin İngilizceye aktarımıdır: 'Buyuk reisinizin dehasi ile yapilan buyuk inkilap'.
+  Alıntı, Türkçe çevirinin İngilizceye aktarılmış halidir: 'Buyuk reisinizin dehasi ile yapilan buyuk
+  inkilap'. Türkçe ifadeler 16 Kasım 2026'da sayfa üzerinden okunmuştur; o tarihe kadar alıntı yalnızca
+  İngilizce bir aktarımdan ibaretti.
 verification_method: veri çekme
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b958300c580a
   role: 3e643a2cde63
-  quote: 2c93f083da68
+  quote: ffd32413b27e
   summary: 4da843a73a4e
-  caveat: f108e335c5f9
+  caveat: 91bcc6fd2a2b
   mediated_by: be0cb56d03ab
-  verification_note: a588c4e63d03
+  verification_note: 66b26e9f6c67
   verification_method: ad8cee67138e

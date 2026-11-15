@@ -4,17 +4,25 @@
 id: farouk-1938
 voice: Kral Farouk
 role: Mısır Kralı
-quote: seçkin vatansever, yeni Türkiye'nin yenileyicisi
+quote: seçkin vatansever, yeni Türkiye'nin yeniden kurucusu
 quote_kind: translated
 summary: Onu seçkin bir vatansever ve yeni Türkiye'nin yenileyicisi olarak nitelendirdi.
+caveat: >-
+  İskenderiye, Ras el-Tin Sarayı'ndan vekâleten cumhurbaşkanı olan Abdülhalik Renda'ya hitaben çekilen
+  telgraf, 11/11/38 13:50 (c. II, PDF s. 6). Form aksan, kesme işareti veya noktalama olmadan daktilo
+  edilmiştir: 'par la disparition du president ataturk l illustre patriote regenerateur de ca turquie
+  nouvelle' ('la' yerine 'ca'); 'farouk r' imzalıdır. Bir kraliyet taziye kalıbı.
 verification_note: >-
-  Alıntı, Fransızca özgün metnin İngilizce çevirisidir; arşiv notunda telgrafların çevrildiği belirtilmektedir.
-verification_method: yerel
+  Fransızca sözler ve 'palais raseltin alexandrie 28 78 11/11/38 13/50' üstbilgisi 16 Kasım 2026 tarihinde
+  form üzerinden okundu. O zamana kadar alıntı yalnızca İngilizce bir çeviriden ibaretti ve tarih sadece ay
+  olarak belirtilmişti.
+verification_method: PDF sayfası görüntüye dönüştürüldü ve form okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: cf0fb935a2fb
   role: 5aada68cfbf8
-  quote: dcaab7e9b929
+  quote: 5c0c570f4ba3
   summary: c3fca672fb68
-  verification_note: 4adc78c99b14
-  verification_method: 939bb46a04c3
+  verification_note: 2d225da38bfe
+  verification_method: 8f62f5f2163e
+  caveat: c7b210a005f1

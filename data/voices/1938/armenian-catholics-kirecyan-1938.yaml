@@ -15,9 +15,21 @@ evidence: S
 summary: >-
   Wished Atatürk health and prayed he would shelter the young republic for years under his wings.
 quote:
-  text: for years under your wings
-  language: en
+  text: >-
+    genç Türk Cumhuriyeti’ni varlığınla daha seneler kanatların altında muhafaza etmeni dualarımla candan
+    dilerim
+  language: tr
+  translation: >-
+    I pray with all my heart that by your presence you may keep the young Turkish Republic under your wings
+    for years to come
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+caveat: >-
+  Kireçyan's telegram of 3 April 1938, as Dağlı prints it from the Presidential Archive (CA 01019988-106):
+  “geçirmiş olduğunuz hastalık için bütün cemaatimizle birlikte size geçmiş olsun der ve genç Türk
+  Cumhuriyeti’ni varlığınla daha seneler kanatların altında muhafaza etmeni dualarımla candan dilerim”. Dr
+  André Pirim's telegram of 2 April is a separate message (CA 01019988-116), with wishes for his health in the
+  name of 'biz Türk Ermeni Katolikleri'.
 node: Foreign Delegations at the Funeral, November 1938
 sources:
   - url: https://doi.org/10.30794/pausbed.1170334
@@ -28,5 +40,7 @@ verification:
     Dağlı 2023 pdf (sources/yabanci-ulkeler-hastalik-vefat.pdf) p.121: Kireçyan telegram 3 Apr 1938
     "kanatların altında muhafaza etmeni"; Dr André Pirim 2 Apr 1938 (CA 01019988-106,-116)
   method: local
-  note: Quote is Turkish-to-English translation; Pirim sent a separate telegram on 2 Apr.
+  note: >-
+    Quote is Turkish-to-English translation; Pirim sent a separate telegram on 2 Apr. The Turkish sentence was
+    read in the article on 16 Nov 2026; until then the quote was four English words.
   checked_on: "2026-10-29"

@@ -4,12 +4,14 @@
 id: abelardo-rodriguez-1934
 voice: Abelardo Rodríguez
 role: Meksika Devlet Başkanı
-quote: Gazi Mustafa Kemal Atatürk'e selam ve en iyi dilekler
-quote_kind: translated
 summary: >-
   Chapultepec'te Türkiye'nin büyükelçisini kabul etti ve kendisinden Atatürk'e selam ve en iyi dileklerini
   iletmesini istedi.
-caveat: Türk diplomatın Meksika nezaketine ilişkin aktarımı; diplomatik nezaket olarak okundu.
+caveat: >-
+  Türk diplomatın Meksika nezaketine dair anlatımı; diplomatik nezaket olarak okunmalıdır. Makale bu ricayı
+  dolaylı anlatımla aktarmaktadır ('Gazi Mustafa Kemal Atatürk’e selam ve temenniyatını bildirmeleri ricasında
+  bulunduğunu'), dolayısıyla kendisinin alıntılanacak doğrudan sözleri yoktur; 16 Kasım 2026'ya kadar kayıtta
+  bu cümlenin İngilizce aktarımı alıntı olarak yer almaktaydı.
 mediated_by: >-
   Sosyal ve Beşeri Bilimler Araştırmaları Dergisi 18/39 (2017) ← Türk diplomatik raporları (BCA) (Münir)
 verification_note: >-
@@ -20,9 +22,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 793bc6711f18
   role: 1cdc9fd1a447
-  quote: 46c198e0e2c6
   summary: 7841973d1706
-  caveat: 8d064a7aadf4
+  caveat: 4b6704d559dc
   mediated_by: 5d6f417e6214
   verification_note: d6c50a7fc1a6
   verification_method: ad8cee67138e

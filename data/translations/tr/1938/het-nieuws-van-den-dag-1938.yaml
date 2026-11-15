@@ -4,21 +4,26 @@
 id: het-nieuws-van-den-dag-1938
 voice: Het Nieuws van den Dag
 role: Batavya günlük gazetesi
-quote: Batı ile Doğu'yu fethetti, Doğu ile Batı'yı.
+quote: Batı ile Doğu'yu, Doğu ile Batı'yı fethetti.
 quote_kind: translated
 summary: >-
   Batı ile Doğu'yu, Doğu ile Batı'yı fetheden, dağınık kalıntılardan gururlu bir halk yaratan bir Prometheus
   olarak Atatürk; çileci değildi, ölçüsüzce ziyafet çekerdi.
+caveat: >-
+  'Kemal Atatürk is heengegaan. Hij was een Prometheus.' cümlesiyle başlayan 'Einde ?' başlıklı başyazıdan.
+  Tarama görüntüsünden değil, kütüphanenin sayfaya ait OCR metninden okunmuştur.
 verification_note: >-
-  Kaydın kaynak URL'si yoktu; KB SRU aracılığıyla bulundu. Aslı Felemenkçe, kayıt çeviriyor. 'Hij was een
-  Prometheus ... Met het Westen heeft hij het Oosten ... overwonnen' ifadesi ve ölçüsüzce ziyafet çekmesi
-  doğrulandı.
+  Kayıtta kaynak URL'si yoktu; KB SRU aracılığıyla bulundu. Felemenkçe özgün metin, kayıtta çevirisi yer
+  alıyor. 'Hij was een Prometheus ... Met het Westen heeft hij het Oosten ... overwonnen' ifadesi ve ölçüsüz
+  şölen anlatımı doğrulandı. Felemenkçe cümle 16 Kasım 2026 tarihinde OCR metninden okundu; o zamana kadar
+  alıntı yalnızca İngilizce metinden ibaretti.
 verification_method: getirme
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: ee56083f0c26
   role: db3557e3c92e
-  quote: b4e54a8289a0
+  quote: ff808b5896cb
   summary: 84171a085029
-  verification_note: 1de7e4cd2fae
+  verification_note: f240338bd831
   verification_method: ad8cee67138e
+  caveat: 582adcdfb54f
