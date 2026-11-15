@@ -591,7 +591,9 @@ addEventListener('resize', () => { if (cur) relayout(); });
 
 // the address bar and the tab's name follow the open voice, so the page can be shared or bookmarked at that voice
 const linkOf = (g) => `${location.origin}${location.pathname}${location.search}#${g.id}`;
-const hashEi = () => { try { return idxOf.get(decodeURIComponent(location.hash.slice(1))); } catch { return undefined; } };
+// ids of records that were merged into another one: a link shared with the old id still opens the voice
+const MOVED = { 'faisal-saudi-foreign-minister-1938': 'faisal-bin-abdulaziz-1938', 'william-birdwood-1938': 'lord-birdwood-1938' };
+const hashEi = () => { try { const id = decodeURIComponent(location.hash.slice(1)); return idxOf.get(MOVED[id] ?? id); } catch { return undefined; } };
 function address(ei) {
   const g = byDate[ei];
   document.title = g ? `${voiceName(g)}, ${g.date.slice(0, 4)} · ${tx('mast_title')}` : tx('page_title');

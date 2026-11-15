@@ -12,7 +12,7 @@ Elinizde bir söz ve kaynağı varsa [Yardım etmenin üç yolu](#yardım-etmeni
 
 - Yaklaşık 300 alıntının İngilizce çevirisi yok ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - Türkçe çeviriler makineyle yapıldı ve okunmayı bekliyor ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
-- Her kaydın kaynağını yeniden açacak birine ihtiyacı var: [Bir kaydı doğrulama](#bir-kaydı-doğrulama) bölümüne bakın. On bir kayıt, kimsenin açamadığı bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
+- Her kaydın kaynağını yeniden açacak birine ihtiyacı var: [Bir kaydı doğrulama](#bir-kaydı-doğrulama) bölümüne bakın. Dokuz kayıt, kimsenin açamadığı bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - Var olduğu bilinen ama ulaşılamayan metinler var. Başlığı "Wanted" ile başlayan issue'lar bunlardan dördünü anlatıyor; [`research/candidates/`](research/candidates/) klasörü ile [`research/HUNT.md`](research/HUNT.md) dosyasındaki "Open leads that need a person" bölümü bölgelere göre daha fazlasını sıralıyor.
 
 ## Ne bir söz sayılır?
