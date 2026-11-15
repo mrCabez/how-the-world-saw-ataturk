@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hemingway-1922-10-23
+voice: Ernest Hemingway
+voice_type: person
+role: American reporter, Toronto Daily Star correspondent (aged 23)
+country: United States
+country_now: United States
+domain: press
+date: "1922-10-23"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Says Kemal was, broadly speaking, for sale and the French bought him; his win over worn-out Greek conscripts
+  is overrated.
+quote:
+  text: >-
+    About two years ago Mustapha Kemal Pasha was denounced by the Earl of Balfour as a common bandit. He was,
+    speaking in the broadest sense, for sale to the highest bidder. The French bought him.
+  language: en
+mediated_by: "Reprint in Hemingway, Dateline: Toronto (Scribner's, 1985), read in a web copy of the book"
+caveat: >-
+  From 'Russia Spoiling the French Game', Toronto Daily Star, 23 October 1922, which opens with the meeting at
+  Mudania. 'Common bandit' is Balfour's phrase as Hemingway reports it; 'for sale' and 'bought' are his own,
+  hedged with 'speaking in the broadest sense'. The oil concessions France got in return are given as rumour
+  ('it is rumored'). On the victory: 'Kemal whipped the Greeks, as everyone knows. But when you realize that
+  he was fighting a conscript army ... it was not the magnificent military achievement that it is made out to
+  be.' He expects Kemal's ties with Soviet Russia to bring him into difficulties with France. A young
+  reporter's reading of great-power politics, not a documented account of French dealings. The Toronto Daily
+  Star itself was not seen.
+node: Hemingway Reads Kemal, Toronto Star October 1922
+sources:
+  - url: https://archive.org/details/datelinetorontoc00hemi
+    citation: >-
+      Ernest Hemingway, Dateline: Toronto: The Complete Toronto Star Dispatches, 1920-1924, ed. William White
+      (New York: Scribner's, 1985)
+    label: "Dateline: Toronto on archive.org (lending copy, searchable)"
+    accessed: "2026-11-15"
+    page: "233"
+  - url: https://bookreadfree.com/140492/3471842
+    label: Web copy of the book, page 26 of its web edition
+    accessed: "2026-11-15"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Web copy of Dateline: Toronto (bookreadfree.com/140492/3471842); OCR snippets of the 1985 Scribner's
+    edition, archive.org datelinetorontoc00hemi
+  method: >-
+    A second reader that had not added the record fetched the web copy of the book and compared the quote with
+    it character by character, then looked for its sentences in archive.org full-text search snippets of the
+    1985 Scribner's scan (a lending copy: snippets only, no page image)
+  note: >-
+    The quote matches the web copy in every character, in the third paragraph of the dispatch headed 'Russia
+    Spoiling the French Game / The Toronto Daily Star / October 23, 1922'. The passages quoted in the caveat
+    are there as given. The 1985 scan has 'denounced by the Earl of Balfour as a common bandit. He was,
+    speaking in the broadest sense, for sale to the highest bidder. The French'; its contents list puts the
+    dispatch at p. 233. Only the first two paragraphs are about Mudania; the rest is about French and Russian
+    influence.
+  checked_on: "2026-11-15"

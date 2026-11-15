@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hemingway-1922-10-19
+voice: Ernest Hemingway
+voice_type: person
+role: American reporter, Toronto Daily Star correspondent (aged 23)
+country: United States
+country_now: United States
+domain: press
+date: "1922-10-19"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  All the East calls Kemal a great man; he grants him success, and says entering Constantinople will first
+  show whether it is bubble or greatness.
+quote:
+  text: >-
+    All the East says that Mustapha Kemal Pasha is a great man. At least he is a successful man, but his entry
+    into Constantinople will be the first indication of whether his fame is to be merely the bubble of
+    military reputation, always burst by the first defeat, or the greatness of a man who can deal with the
+    problems his victory has brought him.
+  language: en
+mediated_by: "Reprint in Hemingway, Dateline: Toronto (Scribner's, 1985), read in a web copy of the book"
+caveat: >-
+  The closing paragraphs of 'Waiting for an Orgy', Toronto Daily Star, 19 October 1922 (in the paper:
+  'Constantinople Cut-Throats Await Chance for an Orgy'). Just before the quote: 'I would hate to be Kemal
+  with all the dangerous prestige of a great victory behind me and these problems ahead.' Just after, ending
+  the dispatch: 'The cards look stacked against him in Constantinople, but if he can accomplish a peaceful
+  entry, keep his troops in hand, and see there is no reign of terror, it will be of greater permanent value
+  to Turkey than many victories in Thrace.' A later scholar quotes the first sentence without 'Pasha', with a
+  page number from another edition; in Scribner's 1985 edition the dispatch is on pp. 230-31. The Toronto
+  Daily Star itself was not seen.
+node: Hemingway Reads Kemal, Toronto Star October 1922
+sources:
+  - url: https://archive.org/details/datelinetorontoc00hemi
+    citation: >-
+      Ernest Hemingway, Dateline: Toronto: The Complete Toronto Star Dispatches, 1920-1924, ed. William White
+      (New York: Scribner's, 1985)
+    label: "Dateline: Toronto on archive.org (lending copy, searchable)"
+    accessed: "2026-11-15"
+    page: 230-231
+  - url: https://bookreadfree.com/140492/3471837
+    label: >-
+      Web copy of the book, page 25 of its web edition: the heading and the start of the dispatch
+    accessed: "2026-11-15"
+  - url: https://bookreadfree.com/140492/3471842
+    label: "Web copy of the book, page 26 of its web edition: the end of the dispatch, with the quote"
+    accessed: "2026-11-15"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Web copy of Dateline: Toronto (bookreadfree.com/140492/3471837 and /3471842); OCR snippets of the 1985
+    Scribner's edition, archive.org datelinetorontoc00hemi
+  method: >-
+    A second reader that had not added the record fetched the web copy of the book and compared the quote with
+    it character by character, then looked for its sentences in archive.org full-text search snippets of the
+    1985 Scribner's scan (a lending copy: snippets only, no page image)
+  note: >-
+    The quote matches the web copy in every character. It stands in the last paragraphs of the dispatch headed
+    'Waiting for an Orgy / The Toronto Daily Star / October 19, 1922': the heading is on web page 25, which
+    ends at 'his entry will wipe out the greatest Russian sanctuary', and the quote is on page 26, before the
+    heading of the dispatch of 20 October. Both sentences quoted in the caveat are there as given. The 1985
+    scan has 'All the East says that Mustapha Kemal Pasha is a great man. At least he' and 'bubble of military
+    reputation, always burst by the first defeat, or the greatness of a man'; its running head and index give
+    the dispatch as pp. 230-31. The paper's own headline was seen only in the book's contents list.
+  checked_on: "2026-11-15"

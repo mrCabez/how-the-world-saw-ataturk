@@ -1,0 +1,49 @@
+# Turkish for data/voices/1922/hemingway-1922-10-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hemingway-1922-10-19
+voice: Ernest Hemingway
+role: Amerikalı muhabir, Toronto Daily Star muhabiri (23 yaşında)
+quote: >-
+  Bütün Doğu, Mustafa Kemal Paşa'nın büyük bir adam olduğunu söylüyor. En azından başarılı bir adam; ancak
+  İstanbul'a girişi, şöhretinin ilk yenilgiyle her zaman sönen bir askeri ün balonundan mı ibaret olacağının,
+  yoksa zaferinin kendisine getirdiği sorunlarla başa çıkabilen bir adamın büyüklüğü mü olduğunun ilk
+  göstergesi olacaktır.
+quote_kind: translated
+summary: >-
+  Bütün Doğu Kemal'e büyük bir adam diyor; onun başarılı olduğunu kabul ediyor ve bunun bir balon mu yoksa
+  büyüklük mü olduğunu ilk kez İstanbul'a girişinin göstereceğini söylüyor.
+caveat: >-
+  Toronto Daily Star'ın 19 Ekim 1922 tarihli sayısındaki 'Waiting for an Orgy' başlıklı haberin kapanış
+  paragrafları (gazetedeki başlığı: 'Constantinople Cut-Throats Await Chance for an Orgy'). Alıntının hemen
+  öncesinde: 'I would hate to be Kemal with all the dangerous prestige of a great victory behind me and these
+  problems ahead.' Hemen sonrasında, haberi bitirirken: 'The cards look stacked against him in Constantinople,
+  but if he can accomplish a peaceful entry, keep his troops in hand, and see there is no reign of terror, it
+  will be of greater permanent value to Turkey than many victories in Thrace.' Daha sonraki bir araştırmacı
+  ilk cümleyi 'Pasha' olmadan, başka bir baskının sayfa numarasıyla aktarır; Scribner'ın 1985 baskısında haber
+  s. 230-31'dedir. Toronto Daily Star'ın kendisi görülmemiştir.
+mediated_by: >-
+  Hemingway, Dateline: Toronto (Scribner's, 1985) içindeki yeniden basım; kitabın web kopyasından okundu
+verification_note: >-
+  Alıntı web kopyasıyla harfi harfine uyuşuyor. 'Waiting for an Orgy / The Toronto Daily Star / October 19,
+  1922' başlıklı haberin son paragraflarında yer alıyor: başlık, 'his entry will wipe out the greatest Russian
+  sanctuary' ifadesiyle biten 25. web sayfasında, alıntı ise 26. sayfada, 20 Ekim tarihli haberin başlığından
+  önce bulunuyor. Not kısmında aktarılan her iki cümle de verildiği şekliyle orada yer alıyor. 1985
+  taramasında 'All the East says that Mustapha Kemal Pasha is a great man. At least he' ve 'bubble of military
+  reputation, always burst by the first defeat, or the greatness of a man' ifadeleri mevcut; üst bilgi ve
+  dizin haberi s. 230-31 olarak gösteriyor. Gazetenin kendi başlığı yalnızca kitabın içindekiler listesinde
+  görüldü.
+verification_method: >-
+  Kaydı eklememiş olan ikinci bir okuyucu kitabın web kopyasını indirip alıntıyı harfi harfine karşılaştırdı,
+  ardından 1985 Scribner taramasının archive.org tam metin arama kesitlerinde (ödünç kopya: yalnızca kesitler,
+  sayfa görüntüsü yok) cümlelerini aradı
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a45e723bf061
+  role: e907297eddea
+  quote: 95b250022846
+  summary: bdf735426d9a
+  caveat: b2c5b006078a
+  mediated_by: eb697a67603a
+  verification_note: 9bbe10b614e4
+  verification_method: f50efdd4ae6e

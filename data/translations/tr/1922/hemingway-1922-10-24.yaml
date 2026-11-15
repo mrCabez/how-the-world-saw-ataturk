@@ -1,0 +1,49 @@
+# Turkish for data/voices/1922/hemingway-1922-10-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hemingway-1922-10-24
+voice: Ernest Hemingway
+role: Amerikalı muhabir, Toronto Daily Star muhabiri (23 yaşında)
+quote: >-
+  Mustafa Kemal Paşa birkaç ay önce İslam dünyası tarafından yeni bir Selahaddin olarak görülüyordu. … Şimdi
+  Doğu ona güvensizlik duymaya başlıyor. … Bunun nedeni, muzaffer general Kemal'in kendisini iş adamı Kemal
+  olarak göstermiş olmasıdır.
+quote_kind: translated
+summary: >-
+  İslam dünyasının yeni Selahaddin'i, kazanımları cebine koyup uzlaşan bir iş adamına dönüştü; Doğu ona
+  güvensizlik duymaya başlıyor ve ardından Mezopotamya'nın petrolü üzerine bir savaş gelebilir.
+caveat: >-
+  Toronto Daily Star'ın 24 Ekim 1922 tarihli sayısındaki 'Turks Distrust Kemal Pasha' başlıklı haberin
+  (gazetedeki başlığı: 'Turks Beginning to Show Distrust of Kemal Pasha'), 'CONSTANTINOPLE.—' mahreç
+  satırından sonraki açılışı. Alıntıdaki hayranlık ve güvensizlik, onun aktardığı şekliyle İslam dünyasına
+  aittir; 'Kemal the businessman' ise kendi okumasıdır. İki kesme işaretinde dışarıda bırakılan sözler
+  şunlardır: 'He was to lead Islam into battle against Christianity and to spread a holy war through all the
+  East.' ve 'Mohammedans I have talked to say: “Kemal has betrayed us.” There is no talk now of the holy war.'
+  Kemal'in konumunu İrlanda'daki, somut kazanımları alıp daha fazlası için uğraşmayı planlayan Griffith ve
+  Collins'inkine benzetir. Dedikodu olarak, Kemalist liderlerin çoğunun ateist ve Fransız masonu olduğunun
+  söylendiğini aktarır. Kemal'in Yahudi kökenli olduğuna dair bir söylentinin çok az itibar gördüğünü söyler,
+  ancak yüzünün 'does look Jewish' olduğunu ekler. Mezopotamya ve petrolü yüzünden Britanya ile çıkacak bir
+  savaşa kadar Kemal'e yirmi ay biçer. Toronto Daily Star'ın kendisi görülmemiştir.
+mediated_by: >-
+  Hemingway, Dateline: Toronto (Scribner's, 1985) içindeki yeniden basım; kitabın web kopyasından okundu
+verification_note: >-
+  Alıntının korunan üç bölümü web kopyasıyla harfi harfine uyuşuyor ve iki boşlukta not kısmının verdiği
+  sözler yer alıyor. Haberin başlığı 'Turks Distrust Kemal Pasha / The Toronto Daily Star / October 24, 1922'.
+  1985 taramasında 'Now the East is beginning to distrust him' ve 'has shown himself to be Kemal the
+  businessman' ifadeleri mevcut; içindekiler listesi gazetenin başlığını, 'Turks Beginning to Show Distrust',
+  ve s. 235'i veriyor. Kayıt ilk olarak 'conflicted' diye girilmişti; okuyucu, alıntılanan pasajda hem övgünün
+  hem de güvensizliğin başkalarına ait olduğuna ve bunun 'witness' olduğuna hükmetti.
+verification_method: >-
+  Kaydı eklememiş olan ikinci bir okuyucu kitabın web kopyasını indirip alıntıyı harfi harfine karşılaştırdı,
+  ardından 1985 Scribner taramasının archive.org tam metin arama kesitlerinde (ödünç kopya: yalnızca kesitler,
+  sayfa görüntüsü yok) cümlelerini aradı
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a45e723bf061
+  role: e907297eddea
+  quote: 8672553d62aa
+  summary: 65301db48595
+  caveat: da44c18d3246
+  mediated_by: eb697a67603a
+  verification_note: 8eeb8fc32f98
+  verification_method: f50efdd4ae6e

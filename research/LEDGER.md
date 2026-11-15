@@ -1930,3 +1930,13 @@ Twenty-four records cite Gallica, and until today every one of them had been rea
 - `le-populaire-1924-03-04`: the OCR's 'Kernel' is the paper's own misprint 'Kemel' (p. 3, under 'Le discours de Kemal'); the quote keeps it.
 
 Still read as OCR only, with the page number known from the earlier check: `l-action-francaise-1922-09-17` (p. 3, 'Moyistapha ... rai son'), `l-humanite-1922-09-11` (p. 3), `le-populaire-1922-09-11` (p. 1, 'Kernal ... écoulent'), `l-action-francaise-1933-10-31` (p. 1, 'provo qua'), and fourteen more whose OCR reads cleanly. Each can be read the same way.
+
+## Hemingway's 'great man' sentence found; three records from his October 1922 dispatches (2026-11-15)
+
+Issue #7 asked for a sentence a later scholar quotes as 'All the East says that Mustapha Kemal is a great man', which earlier rounds could not find. It reads 'Mustapha Kemal Pasha is a great man', and archive.org's full-text search returns it from the lending copy of *Dateline: Toronto* once 'Pasha' is in the query. It closes 'Waiting for an Orgy' (Toronto Daily Star, 19 October 1922). The earlier round had read only the first web page of that dispatch, which ends before it.
+
+Three records were added from a web copy of the book: `hemingway-1922-10-19` (the 'great man' passage), `hemingway-1922-10-23` ('for sale to the highest bidder. The French bought him', from 'Russia Spoiling the French Game') and `hemingway-1922-10-24` ('Kemal the businessman', from 'Turks Distrust Kemal Pasha'). A separate agent that had not written them re-opened the web copy, compared each quote character by character and looked for its sentences in snippets of the 1985 scan: all three stand as recorded. From its report: the scholar's page number belongs to another edition (in Scribner's 1985 the 19 October dispatch is pp. 230-31, the others begin on pp. 233 and 235); the 24 October record went from 'conflicted' to 'witness', because in the passage quoted the praise and the distrust are other people's; two summaries were softened to keep Hemingway's hedges. All four Hemingway records now give his country as the United States (they had the paper's, Canada) and evidence P.
+
+Not done: the Toronto Daily Star pages were not seen, the book's pages were read only as OCR snippets, and the web copy has no archived link (the Wayback Machine was refusing this machine's requests today).
+
+Counts: 986 records, 980 shown, 861 quotes; `confirmed` 791; 140 conflicted, 123 hostile, 64 witness.

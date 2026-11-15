@@ -2,16 +2,16 @@
 id: hemingway-1922
 voice: Ernest Hemingway
 voice_type: person
-role: Toronto Daily Star correspondent (aged 23)
-country: Canada
-country_now: Canada
+role: American reporter, Toronto Daily Star correspondent (aged 23)
+country: United States
+country_now: United States
 domain: press
 date: "1922-10-09"
 era: contemporary
 polarity: witness
 intensity: 1
 artifact: article
-evidence: S
+evidence: P
 summary: "Sardonic reporting: Kemal bans alcohol in Anatolia while he and his staff drink."
 quote:
   text: >-
@@ -23,10 +23,10 @@ mediated_by: >-
 caveat: >-
   Tone is reportorial irony, not a stated verdict; polarity 'witness' is the nearest enum. The 19 Oct 1922
   piece 'Waiting for an Orgy' says 'Kemal is hand in glove with the Soviets and his entry will wipe out the
-  greatest Russian sanctuary.' A scholar (Studies in the Novel/TSL 2012) quotes a 19 Oct dispatch, Dateline p.
-  296, 'All the East says that Mustapha Kemal is a great man'; that sentence was NOT found in the reprints
-  read, so it is not used. The 'Kemal is hand in glove with the Soviets' line is from a different, undated
-  dispatch and is not part of this record.
+  greatest Russian sanctuary.' That line is from a different dispatch and is not part of this record. The same
+  dispatch of 19 October ends with his sentence that 'All the East says that Mustapha Kemal Pasha is a great
+  man', recorded as hemingway-1922-10-19; the dispatches of 23 and 24 October are hemingway-1922-10-23 and
+  hemingway-1922-10-24.
 node: Hemingway Reads Kemal, Toronto Star October 1922
 sources:
   - url: https://thegrandarchive.wordpress.com/hamid-bey-wears-shirt-tucked-in-when-seen-by-star
@@ -52,6 +52,8 @@ verification:
     unverified here). The record's single date 1922-10-09 therefore does not cover that clause. CORRECTION:
     delete 'he is hand in glove with the Soviets' from what_they_saw (or split into a second record with its
     own dated source) and keep the quote under 1922-10-09. 'witness' polarity is right; the evidence mediation
-    'Reprint in Dateline: Toronto' is via web reprints, not the book page.
+    'Reprint in Dateline: Toronto' is via web reprints, not the book page. Read again on 15 November 2026: the
+    heading 'Waiting for an Orgy / The Toronto Daily Star / October 19, 1922' does stand on that web page, so
+    the 'hand in glove' line is dated; the end of that dispatch is recorded as hemingway-1922-10-19.
   resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 12)
   checked_on: "2026-11-01"

@@ -18,20 +18,20 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 
 | | |
 |---|---|
-| Records | 983 |
+| Records | 986 |
 | Distinct voice names (people, papers, institutions, groups) | 806 |
 | Present-day countries and territories (`country_now`) | 85, plus the European Union, the Council of Europe and UNESCO |
 | Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 205 records) |
-| Records with the speaker's own words (`quote`) | 858, in 31 languages |
+| Records with the speaker's own words (`quote`) | 861, in 31 languages |
 | Quotes not in English | 422, each with an English translation: 409 by machine, 9 by a contributor, 4 the source's own |
-| Records with a stored source check | 983 (all) |
-| Records with a Turkish translation file | 983 (all) |
+| Records with a stored source check | 986 (all) |
+| Records with a Turkish translation file | 986 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 788 | 80% |
+| `confirmed` | 791 | 80% |
 | `partial` | 97 | 10% |
 | `paraphrase-ok` | 58 | 6% |
 | `secondary-only` | 32 | 3% |
@@ -41,9 +41,9 @@ Source checks, by verdict:
 
 The verdicts are explained in [data/README.md](data/README.md#verdicts).
 
-977 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
+980 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
 
-Stance of the voice towards Atatürk (`polarity`): 524 admiring, 139 conflicted, 135 instrumental (praise that served the speaker's own agenda), 122 hostile, 63 witness (reported or attended, no stated view).
+Stance of the voice towards Atatürk (`polarity`): 524 admiring, 140 conflicted, 135 instrumental (praise that served the speaker's own agenda), 123 hostile, 64 witness (reported or attended, no stated view).
 
 ## What is in each folder
 
@@ -83,7 +83,7 @@ You can suggest a voice, report an error, check a record against its source or f
 - **Read an English translation against its original.** 409 quotes in 30 languages have an English translation made by machine that no reader of the language has checked; Turkish, French, German, Dutch, Chinese, Spanish, Arabic and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Read a Turkish translation against its English** and fix what sounds wrong. All the Turkish text was translated by machine ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Re-open a source and tell us what it says.** Every record needs a second reader, and the [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form takes a few minutes. Three records cite a source we could not open at all ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
-- **Find a text we know exists but could not reach:** Jinnah's statement on Atatürk's death ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Hemingway's 1922 line in the Toronto Star ([#7](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/7)), Roncalli's diary ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze's Ankara diary ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). More leads of this kind are in [`research/candidates/`](research/candidates/) and under "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md).
+- **Find a text we know exists but could not reach:** Jinnah's statement on Atatürk's death ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Roncalli's diary ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze's Ankara diary ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). More leads of this kind are in [`research/candidates/`](research/candidates/) and under "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md).
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. It explains what counts as a voice, what evidence is needed, and how review works. The [code of conduct](CODE_OF_CONDUCT.md) applies in all project spaces.
 

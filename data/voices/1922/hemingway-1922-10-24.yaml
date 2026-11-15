@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hemingway-1922-10-24
+voice: Ernest Hemingway
+voice_type: person
+role: American reporter, Toronto Daily Star correspondent (aged 23)
+country: United States
+country_now: United States
+domain: press
+date: "1922-10-24"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  The Muslim world's new Saladin has turned businessman, taking gains and compromising; the East begins to
+  distrust him, and war over Mesopotamia's oil may follow.
+quote:
+  text: >-
+    Mustapha Kemal Pasha a few months ago was regarded as a new Saladin by the Moslem world. … Now the East is
+    beginning to distrust him. … This has happened because Kemal, the conquering general, has shown himself to
+    be Kemal the businessman.
+  language: en
+mediated_by: "Reprint in Hemingway, Dateline: Toronto (Scribner's, 1985), read in a web copy of the book"
+caveat: >-
+  The opening of 'Turks Distrust Kemal Pasha', Toronto Daily Star, 24 October 1922 (in the paper: 'Turks
+  Beginning to Show Distrust of Kemal Pasha'), after the dateline 'CONSTANTINOPLE.—'. The admiration and the
+  distrust in the quote are the Muslim world's, as he reports them; 'Kemal the businessman' is his own
+  reading. The words left out at the two marks: 'He was to lead Islam into battle against Christianity and to
+  spread a holy war through all the East.' and 'Mohammedans I have talked to say: “Kemal has betrayed us.”
+  There is no talk now of the holy war.' He likens Kemal's position to that of Griffith and Collins in
+  Ireland, taking the tangible gains and planning to try for more. He passes on, as gossip, that many of the
+  Kemalist leaders are said to be atheists and French Freemasons. Of a rumour that Kemal is of Jewish origin
+  he says it gains very little credence, though he adds that his face 'does look Jewish'. He gives Kemal
+  twenty months before a war with Britain over Mesopotamia and its oil. The Toronto Daily Star itself was not
+  seen.
+node: Hemingway Reads Kemal, Toronto Star October 1922
+sources:
+  - url: https://archive.org/details/datelinetorontoc00hemi
+    citation: >-
+      Ernest Hemingway, Dateline: Toronto: The Complete Toronto Star Dispatches, 1920-1924, ed. William White
+      (New York: Scribner's, 1985)
+    label: "Dateline: Toronto on archive.org (lending copy, searchable)"
+    accessed: "2026-11-15"
+    page: "235"
+  - url: https://bookreadfree.com/140492/3471842
+    label: Web copy of the book, page 26 of its web edition
+    accessed: "2026-11-15"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Web copy of Dateline: Toronto (bookreadfree.com/140492/3471842); OCR snippets of the 1985 Scribner's
+    edition, archive.org datelinetorontoc00hemi
+  method: >-
+    A second reader that had not added the record fetched the web copy of the book and compared the quote with
+    it character by character, then looked for its sentences in archive.org full-text search snippets of the
+    1985 Scribner's scan (a lending copy: snippets only, no page image)
+  note: >-
+    The three kept parts of the quote match the web copy in every character, and the two gaps hold the words
+    the caveat gives. The dispatch is headed 'Turks Distrust Kemal Pasha / The Toronto Daily Star / October
+    24, 1922'. The 1985 scan has 'Now the East is beginning to distrust him' and 'has shown himself to be
+    Kemal the businessman'; its contents list gives the paper's headline, 'Turks Beginning to Show Distrust',
+    and p. 235. The record was first entered as 'conflicted'; the reader judged that in the passage quoted the
+    praise and the distrust both belong to others, and it is 'witness'.
+  checked_on: "2026-11-15"

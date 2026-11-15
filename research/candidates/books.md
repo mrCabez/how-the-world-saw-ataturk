@@ -74,7 +74,7 @@ Leads (next steps): Şimşir vol. IV pp. 261–278 (Alexander, original French),
 | Muhammad Iqbal | *Reconstruction of Religious Thought in Islam*, Lecture VI (archive.org dli.ministry.19661, open) | **PROMOTED**; Turkey's ijtihad "perfectly sound"; Atatürk never named (text-searched) |
 | Muhammad Iqbal | "Islam and Ahmadism" / Reply to Nehru, 1936 (Shamloo 1944 on archive.org `in.ernet.dli.2015.51949`; Wikisource) | **PROMOTED**; the one place he names "the Ataturk" (pp. 134–141). Best find of the round |
 | Iqbal verse (Bal-i-Jibril, Zarb-i-Kalim, Javid Nama) | no open translation naming Kemal found | ⌀ dug, nothing yet; next: Arberry's *Javid Nama* and Nicholson-era texts, iqbalcyberlibrary.net PDFs |
-| Hemingway | Toronto Star 9 and 19 Oct 1922 | **PROMOTED** (witness, intensity 1); "great man" line (Dateline p. 296) and 23 Oct Balfour passage are J-tier only; `Dateline: Toronto` is `datelinetorontoc00hemi` (lending, not touched) |
+| Hemingway | Toronto Star 9 and 19 Oct 1922 | **PROMOTED** (witness, intensity 1). The "great man" line, the 23 Oct Balfour passage and the 24 Oct dispatch were read on 15 Nov 2026 and are records `hemingway-1922-10-19`, `-10-23`, `-10-24`; `Dateline: Toronto` is `datelinetorontoc00hemi` (lending; its full-text search gives snippets) |
 | Einstein | 17 Sep 1933 letter to İnönü | ⌀ no mention of Atatürk or reforms; 1949 Ülgür anecdote unverified |
 | H. G. Wells | *Shape of Things to Come* (1933); *Outline of History* | ⌀ Kemal appears once in a list of dictators; the Outline pre-dates him. Atatürk's reading of Wells is the real link |
 | Bertrand Russell | one search | ⌀ nothing |

@@ -13,7 +13,7 @@ If you have a voice and its source in hand, go to [Three ways to help](#three-wa
 - 409 quotes have an English translation made by machine that no reader of the language has checked ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)). See [Fixing an English translation](#fixing-an-english-translation).
 - The Turkish translations were made by machine and need readers ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - Every record needs someone to re-open its source: see [Checking a record](#checking-a-record). Three records cite a source nobody could open ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
-- Some texts are known to exist and have not been reached. The issues titled "Wanted" name four of them; [`research/candidates/`](research/candidates/) and the section "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md) list more, by region.
+- Some texts are known to exist and have not been reached. The issues titled "Wanted" name three of them; [`research/candidates/`](research/candidates/) and the section "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md) list more, by region.
 
 ## What counts as a voice
 

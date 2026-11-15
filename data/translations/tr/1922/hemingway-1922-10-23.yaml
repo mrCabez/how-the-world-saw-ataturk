@@ -1,0 +1,45 @@
+# Turkish for data/voices/1922/hemingway-1922-10-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hemingway-1922-10-23
+voice: Ernest Hemingway
+role: Amerikalı muhabir, Toronto Daily Star muhabiri (23 yaşında)
+quote: >-
+  Yaklaşık iki yıl önce Mustafa Kemal Paşa, Balfour Kontu tarafından adi bir haydut olarak kınanmıştı. En
+  geniş anlamıyla söylemek gerekirse, en yüksek teklifi verene satılıktı. Onu Fransızlar satın aldı.
+quote_kind: translated
+summary: >-
+  Kemal'in en geniş anlamıyla satılık olduğunu ve Fransızların onu satın aldığını söylüyor; bitkin Yunan kur'a
+  askerlerine karşı kazandığı zaferin abartıldığını belirtiyor.
+caveat: >-
+  Toronto Daily Star'ın 23 Ekim 1922 tarihli sayısındaki, Mudanya görüşmesiyle açılan 'Russia Spoiling the
+  French Game' başlıklı haberden. 'Common bandit' Hemingway'in aktardığı şekliyle Balfour'un ifadesidir; 'for
+  sale' ve 'bought' ise 'speaking in the broadest sense' çekincesiyle yumuşatılmış kendi ifadeleridir.
+  Fransa'nın karşılığında aldığı petrol imtiyazları söylenti olarak ('it is rumored') verilir. Zafer hakkında:
+  'Kemal whipped the Greeks, as everyone knows. But when you realize that he was fighting a conscript army ...
+  it was not the magnificent military achievement that it is made out to be.' Kemal'in Sovyet Rusya ile
+  bağlarının onu Fransa ile güçlüklere sokmasını bekler. Fransız temaslarının belgelenmiş bir anlatımı değil,
+  genç bir muhabirin büyük güç siyaseti okumasıdır. Toronto Daily Star'ın kendisi görülmemiştir.
+mediated_by: >-
+  Hemingway, Dateline: Toronto (Scribner's, 1985) içindeki yeniden basım; kitabın web kopyasından okundu
+verification_note: >-
+  Alıntı, 'Russia Spoiling the French Game / The Toronto Daily Star / October 23, 1922' başlıklı haberin
+  üçüncü paragrafında web kopyasıyla harfi harfine uyuşuyor. Not kısmında aktarılan pasajlar verildiği
+  şekliyle orada yer alıyor. 1985 taramasında 'denounced by the Earl of Balfour as a common bandit. He was,
+  speaking in the broadest sense, for sale to the highest bidder. The French' ifadeleri mevcut; içindekiler
+  listesi haberi s. 233'te gösteriyor. Yalnızca ilk iki paragraf Mudanya hakkındadır; geri kalanı Fransız ve
+  Rus nüfuzu üzerinedir.
+verification_method: >-
+  Kaydı eklememiş olan ikinci bir okuyucu kitabın web kopyasını indirip alıntıyı harfi harfine karşılaştırdı,
+  ardından 1985 Scribner taramasının archive.org tam metin arama kesitlerinde (ödünç kopya: yalnızca kesitler,
+  sayfa görüntüsü yok) cümlelerini aradı
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a45e723bf061
+  role: e907297eddea
+  quote: 791e6c8ebea4
+  summary: 4123e974f2bb
+  caveat: 67819da1ebeb
+  mediated_by: eb697a67603a
+  verification_note: 00b1c4581690
+  verification_method: f50efdd4ae6e
