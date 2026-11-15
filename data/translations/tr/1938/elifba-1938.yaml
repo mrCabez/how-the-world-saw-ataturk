@@ -4,24 +4,30 @@
 id: elifba-1938
 voice: Elifba
 role: Şam günlük gazetesi, Suriye'nin en eskilerinden biri
-quote: bir yüzyılın en büyük şahsiyetlerinden ve en müthiş dehalarından biri
-quote_kind: translated
+quote: >-
+  Atatürk bir asrın yetiştirdiği en büyük şahsiyetlerden ve en muazzam deha ve ahlaki nefsinde toplamış
+  liderlerden birisiydi.
+quote_kind: original-turkish
 summary: >-
   Başyazı: Türkiye'yi selamete ulaştıran, ne taht ne de varis isteyen büyük bir deha; uluslararası bir adam.
 caveat: >-
-  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
-  transliterasyonları tahmine dayalıdır.
+  Alıntılar bize günlük Türk gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının harf
+  çevirileri tahminidir. Türkçe metin makalede basıldığı gibidir (s. 199, dipnot 95); gazetenin sözlerinin
+  Türk basını tarafından aktarılmış halidir. 16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir
+  açımlamasıydı.
 mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
 verification_note: >-
-  Toksoy, Elifba'yı hem Suriye/Beyrut hem de Şam altında verir; 'asked neither throne nor heir' ifadesi mevcut
+  Toksoy, Elifba'yı hem Suriye/Beyrut'a hem de Şam'a yerleştirir; 'asked neither throne nor heir' ifadesi
+  mevcuttur. Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur; o tarihe kadar alıntı
+  yalnızca İngilizce bir aktarımdan ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0f2fa0316be3
   role: 170ee8f9d9a9
-  quote: 47e37b97ba3d
+  quote: 0cacb94d5aa7
   summary: 27e6e080993e
-  caveat: f8ae166de916
+  caveat: 69cef9efad8d
   mediated_by: 0d9b58c49a68
-  verification_note: 0777c43d1c0e
+  verification_note: e7052b525c2b
   verification_method: 939bb46a04c3

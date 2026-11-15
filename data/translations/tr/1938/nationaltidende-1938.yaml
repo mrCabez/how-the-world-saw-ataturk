@@ -4,14 +4,15 @@
 id: nationaltidende-1938
 voice: Nationaltidende
 role: Danimarka günlük gazetesi
-quote: yirminci yüzyılın en muazzam olayı
-quote_kind: translated
 summary: >-
   Yarı Doğulu, halifeyi tanıyan bir milleti modern, laik bir ulusal devlete dönüştüren yüce şahsiyet; dış
   politikası tarihte bir örnek.
 caveat: >-
   Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
-  dildeki asılları görülmemiştir.
+  dildeki asılları görülmemiştir. Makale bunu dolaylı anlatımla aktarır (s. 179: 'National Tidence, Atatürk’ü
+  şahsiyet ve kabiliyetin en büyük timsali ve XX. asrın en muazzam olayını yaratan adam olarak
+  tanımlamıştır.'), dolayısıyla gazetenin doğrudan alıntılanacak sözleri yoktur; 16 Kasım 2026'ya kadar
+  kayıtta bu cümlenin İngilizce çevirisi alıntı olarak yer almaktaydı.
 mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 verification_note: >-
   Alıntı doğrudan bir alıntı değil, Toksoy'un gazetenin ifadelerini ('created the most tremendous event of the
@@ -21,9 +22,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8f0e21ac5e92
   role: e08a7b3845d0
-  quote: 22e5ff2bd5eb
   summary: 2c811bd763ff
-  caveat: 1d0053d25711
+  caveat: 903f429e1643
   mediated_by: 272e58105c39
   verification_note: 3a13292c5524
   verification_method: 939bb46a04c3

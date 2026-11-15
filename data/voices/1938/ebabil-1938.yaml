@@ -17,13 +17,21 @@ summary: >-
   of Kemalism, has died.
 quote:
   text: >-
+    Sultanları kovan, orduları tarumar eden, Çanakkale kahramanı, Sakarya’nın yaratıcısı Mustafa Kemal öldü.
+    Türkiye’yi yoktan var eden, onu en kuvvetli devletler mertebesine çıkaran, vatanı kölelikten hürriyete,
+    zilletten şerefe götüren Atatürk öldü. Zulmün en büyük düşmanı, ebedi Kemalizm rejiminin kurucusu öldü.
+  language: tr
+  translation: >-
     the man who drove out the sultans, who shattered armies ... the greatest enemy of tyranny, founder of the
     eternal regime of Kemalism ... died
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
 caveat: >-
-  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. The
+  Turkish is as the article prints it (p. 200, fn 100); it is the Turkish press's rendering of the paper's
+  words.
 node: Damascus and Beirut Weep, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -32,5 +40,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Suriye ve Lubnan, fn.100)
   method: local
-  note: Translation via Turkish press; faithful
+  note: >-
+    Translation via Turkish press; faithful. The Turkish wording was read on the page of the article on 16 Nov
+    2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

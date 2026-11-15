@@ -16,11 +16,23 @@ summary: >-
   Said history will inscribe his name; a man of the people whose will and intellect made him transformer of
   the new Turkey.
 quote:
-  text: the transformer of the new Turkey
-  language: en
+  text: >-
+    Kırılmaz azmi, kuvvetli zekâsı ve kuvveti kendisini mağlup ettiği mukadderatın önüne getirmiş ve bu
+    suretle yeni Türkiye’nin mübadili olmuştur
+  language: tr
+  translation: >-
+    His unbreakable determination, his strong mind and his strength brought him before the destiny he had
+    defeated, and so he became the “mübadil” of the new Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  note: >-
+    'mübadil' is as Toksoy prints it; it means one exchanged, a substitute, so it is probably a slip for
+    'creator' or 'changer'. The Serbian original was not seen.
+  is_translation: true
 mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
 caveat: >-
-  Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen. City not stated in the note.
+  Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen. City not stated in the note. The Turkish
+  is as the article prints it (p. 197, fn 87); it is the Turkish press's rendering of the paper's words. The
+  English before 16 Nov 2026 was a shortened paraphrase of it.
 node: Yugoslav Press, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -29,5 +41,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.197 (Politika, Karahasan)
   method: local
-  note: Translated from Toksoy Turkish 'yeni Türkiye'nin mübadili'.
+  note: >-
+    Translated from Toksoy Turkish 'yeni Türkiye'nin mübadili'. The Turkish wording was read on the page of
+    the article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

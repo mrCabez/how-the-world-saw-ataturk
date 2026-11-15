@@ -4,21 +4,23 @@
 id: stipi-1938
 voice: Stipi
 role: Arnavut gazetesi
-quote: Türk milleti maddi ve manevi refahını ona borçludur
-quote_kind: translated
 summary: >-
   Son dakikaya kadar milletinin gerçek bir kurtarıcısı; ülkenin çehresini değiştiren ve eski Türkiye'den
   modern bir devlet çıkaran kişi.
 caveat: >-
-  Gazete adları Toksoy'un bastığı şekildedir (Stipi, Shtypi olabilir); Arnavutça asılları görülmemiştir.
+  Başlıklar Toksoy'un bastığı gibidir (Stipi, Shtypi olabilir); Arnavutça asılları görülmedi. Makale bunu
+  dolaylı anlatımla aktarmaktadır (s. 198, dn. 91: 'Stipi Gazetesi de Atatürk’ün son dakikaya kadar milleti
+  için adeta bir kurtarıcı olduğunu ve çok kısa bir sürede memleketinin çehresini değiştirdiğini, eski
+  Türkiye’den modern bir devlet çıkardığını ve Türk milletinin kendisine maddi ve manevi refahını borçlu
+  olduğunu yazmıştır91.'), dolayısıyla gazeteden doğrudan alıntılanacak bir söz yoktur; 16 Kasım 2026'ya kadar
+  kayıt, bu cümlenin İngilizce çevirisini alıntı olarak taşıyordu.
 mediated_by: Toksoy 2010 ← Akşam 14 ve 18 Kasım 1938, Ulus 14 Kasım 1938
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e50f1c9c7579
   role: 2945e823993a
-  quote: 85e0bc6bbc30
   summary: "149247665675"
-  caveat: 02a3cfabd589
+  caveat: 718377325d4c
   mediated_by: 8e709a452d60
   verification_method: 939bb46a04c3

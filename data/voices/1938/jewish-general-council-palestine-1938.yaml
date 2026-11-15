@@ -6,7 +6,7 @@ role: Jewish community body, chairman Isaac Ben-Zvi
 country: Palestine
 country_now: Israel
 domain: politics
-date: "1938-11"
+date: "1938-11-10"
 era: funeral
 polarity: admiring
 intensity: 1
@@ -16,6 +16,13 @@ summary: Called him the great founder and regenerator of new Turkey.
 quote:
   text: great founder, regenerator of new Turkey
   language: en
+caveat: >-
+  Radio telegram from London to the 'turkish government ankara' (vol. II, PDF p. 44, sheet 41), signed 'jewish
+  general council of palestine isaac benzevi chairman'. The header reads 'london 31 10 1820 via radio': 31
+  words, handed in on the 10th at 18:20. The form prints no month; 10 November, the day of the death, is the
+  only reading that fits 'tragic death'. Typed in lower case: 'palestine associates itself with you in deeply
+  mourning tragic death ataturk turkey' (the quote keeps the sense, with 'entire jewish people of palestine'
+  as the sentence's subject).
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
@@ -27,5 +34,7 @@ verification:
     a local working file telegram London (Jewish General Council of Palestine, Isaac Ben-Zvi): "ataturk great
     founder regenerator new turkey"
   method: local
-  note: Telegraph date header OCR unclear ("31.10"); November date taken from event.
+  note: >-
+    Telegraph date header OCR unclear ("31.10"); November date taken from event. Read again on the form on 16
+    Nov 2026: the OCR's '31.10' is the word count and the day of the month, with the hour 18:20.
   checked_on: "2026-10-29"

@@ -17,12 +17,18 @@ summary: >-
   Said he built a state incomparably newer and more perfect than the old, with schools, universities, women's
   role and shipping; Turkey deserves the world's admiration.
 quote:
-  text: Turkey deserves the admiration of the whole world.
-  language: en
+  text: >-
+    Türkiye bütün dünyanın takdirine layıktır ve Avrupa milletler ailesi içinde şerefli Türkiye’nin nüfuzu
+    büyüktür
+  language: tr
+  translation: Turkey deserves the admiration of the whole world.
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: >-
   Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi
 caveat: >-
-  Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests.
+  Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests. The Turkish
+  is as the article prints it (p. 178, fn 132); it is the Turkish press's rendering of the paper's words.
 node: Riga, Tallinn and Kaunas, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -33,5 +39,8 @@ verification:
   checked_against: >-
     sources/toksoy-2006-atatürk-yolu-european-press.txt (Litvanya, 'Liotuvas Aidas' extended quote)
   method: local
-  note: Toksoy spelling garbled; closing line 'Turkiye butun dunyanin takdirine layiktir' matches
+  note: >-
+    Toksoy spelling garbled; closing line 'Turkiye butun dunyanin takdirine layiktir' matches. The Turkish
+    wording was read on the page of the article on 16 Nov 2026; until then the quote was an English rendering
+    alone.
   checked_on: "2026-10-29"

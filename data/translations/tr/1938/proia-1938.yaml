@@ -4,24 +4,29 @@
 id: proia-1938
 voice: Proia
 role: Yunan gazetesi
-quote: Türkiye kurucusunu kaybediyorsa, Yunanistan da büyük ve güvenilir bir dostunu kaybediyor
-quote_kind: translated
+quote: >-
+  Eğer Türkiye büyük kurucusunu kaybediyorsa, Yunanistan da büyük ve emin bir dostunu kaybediyor
+quote_kind: original-turkish
 summary: >-
   Onu, Türk-Yunan dostluğuna olan inancı Yunanlar tarafından hatırlanacak büyük bir reformcu olarak
   nitelendirdi: Türkiye büyük kurucusunu, Yunanistan ise büyük ve güvenilir bir dostunu kaybediyor.
 caveat: >-
-  Yunan gazetesinin Toksoy'daki Türkçe özetinin İngilizceye aktarımı. Bu alıntının Estia'ya değil Proia'ya ait
-  olduğu anlaşıldığında 29 Ekim 2026'da eklendi.
+  Toksoy, Yunan gazetesinden Türkçe olarak (kendi özeti olarak değil, tırnak içinde) alıntı yapmaktadır. Bu
+  alıntının Estia'ya değil Proia'ya ait olduğu anlaşıldığında 2026-10-29 tarihinde eklendi. Türkçe metin
+  makalede basıldığı gibidir (s. 180, dn. 16); gazetenin sözlerinin Türk basını tarafından aktarılmış halidir.
+  16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
 mediated_by: Toksoy 2010 §Yunanistan, dn. 15-16
-verification_note: düzeltmeler sırasında eklendi (alıntı estia-1938 kaydından taşındı)
+verification_note: >-
+  düzeltmeler sırasında eklendi (alıntı estia-1938 kaydından taşındı) Türkçe ifadeler 16 Kasım 2026'da
+  makalenin sayfasından okundu; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 84a4efe29c7f
   role: 5e3f5e9ffd0a
-  quote: 976cac76ae04
+  quote: 6f95530b3395
   summary: dee49c2efee2
-  caveat: a36c4d1ce9f9
+  caveat: a5e43ffd2547
   mediated_by: 84729c372932
-  verification_note: 4875c1cbd6e6
+  verification_note: fef94900ef84
   verification_method: 939bb46a04c3

@@ -5,25 +5,29 @@ id: ceske-slovo-1938
 voice: České slovo
 role: Prag günlük gazetesi
 quote: >-
-  çünkü bugün kendimizi, Mustafa Kemal'in dünya sahnesine çıktığı zamanki Türkiye'ninkine benzer bir durumda
-  buluyoruz
-quote_kind: translated
+  Çünkü bizde bugün Mustafa Kemal’in dünya sahnesinde göründüğü zamandaki Türkiye’nin vaziyetine benzer bir
+  mevkide bulunmaktayız.
+quote_kind: original-turkish
 summary: >-
   Onu yeni Türkiye'ye ruhunu veren adam olarak gördü; Çeklerin böyle bir lider için Türklere imrendiğini
   açıkça söyledi.
 caveat: >-
-  Toksoy'daki gazete adları fonetiktir; teşhis 'presumably'; yabancı dildeki asılları görülmemiştir. En iyi
-  belgelenmiş satır; Toksoy bunu iki kez basar. Ayna yorumu nota aittir.
+  Toksoy'daki gazete adları fonetik olarak yazılmıştır; tespit 'tahminen' yapılmıştır; yabancı dildeki
+  asılları görülmemiştir. En iyi belgelenmiş satırdır; Toksoy bunu iki kez basmıştır. Ayna yorumu nota aittir.
+  Türkçe metin makalede basıldığı şekildedir (s. 173, dn. 112); Türk basınının gazetenin sözlerini aktarım
+  biçimidir.
 mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
-verification_note: Çevrilmiştir; gazete adı Toksoy'da Ceska Slova olarak yazılmıştır.
+verification_note: >-
+  Çevrilmiştir; gazete adı Toksoy'da Ceska Slova olarak yazılmıştır. Türkçe ifadeler 16 Kasım 2026'da
+  makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir aktarımdan ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 31a0fa4dd346
   role: 3e4b4000e61a
-  quote: 8bb4067d130f
+  quote: 74860b7c3e34
   summary: 126698bcc5ce
-  caveat: 3aca68895f91
+  caveat: 902b69f92d04
   mediated_by: a785c4953be0
-  verification_note: 1611a9b68312
+  verification_note: 5fa18d7a33d0
   verification_method: 939bb46a04c3

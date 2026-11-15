@@ -5,21 +5,27 @@ id: la-libre-belgique-1938
 voice: La Libre Belgique
 role: Belçika günlük gazetesi
 quote: >-
-  hiçbir devlet adamı milletine bu kadar kısa bir sürede bu kadar büyük bir hizmet vermemiştir
-quote_kind: translated
+  Atatürk kadar milletine bu kadar az zamanda bu derece büyük hizmet eden devlet adamı yoktur
+quote_kind: original-turkish
 summary: >-
   Çalışmalarının Türkiye'nin statüsünü, saygınlığını ve otoritesini yükselttiğini; hiçbir devlet adamının
   milletine bu kadar kısa sürede bu kadar büyük hizmet etmediğini söyledi.
 caveat: >-
-  Toksoy'daki gazete adları fonetik yazılmıştır ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir. Türkçe
+  metin makalede basıldığı şekildedir (s. 172, dn. 110); gazetenin sözlerinin Türk basını tarafından
+  aktarımıdır.
 mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
+verification_note: >-
+  Türkçe ifadeler 16 Kasım 2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce
+  bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9ee89b7830de
   role: 2267de4d9b70
-  quote: c5e1feac3ae2
+  quote: 9b652a5d8103
   summary: a495582709b4
-  caveat: ecc719a2a575
+  caveat: 32fe8b830971
   mediated_by: 781a20fcb527
   verification_method: 939bb46a04c3
+  verification_note: 34527eb75960

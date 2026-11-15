@@ -17,10 +17,19 @@ summary: >-
   Mustafa Kemal would emerge.
 quote:
   text: >-
-    Where are the Sick Men of Central Europe? Will our own Mustafa Kemal come out of the beehive of time?
-  language: en
+    Acaba ne zaman uyanırlar, barışın kutsallıkları ile Orta Avrupanın Hasta Adamları? Acaba zamanın arı
+    kovanından bizim Mustafa Kemalimiz çıkacak mı?
+  language: tr
+  translation: >-
+    When, one wonders, will they wake, the Sick Men of Central Europe, with their sanctities of the peace?
+    Will our own Mustafa Kemal, one wonders, come out of the beehive of time?
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Rásonyi, Belleten XLV, pp. 79–86 (Turkish renderings of the Hungarian)
-caveat: Hungarian self-projection is the note's reading ('evidently').
+caveat: >-
+  Hungarian self-projection is the note's reading ('evidently'). The Turkish is as the article prints it (p.
+  83); it is the Turkish press's rendering of the paper's words. The English before 16 Nov 2026 was a
+  shortened paraphrase of it.
 node: Magyarság Reads the Victory, 1920–1923
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/2523850
@@ -34,5 +43,6 @@ verification:
   method: fetch
   note: >-
     Quote is Rasonyi's Turkish rendering translated into English; matches Turkish 'Orta Avrupa'nin Hasta
-    Adamlari? ... bizim Mustafa Kemalimiz cikacak mi?'
+    Adamlari? ... bizim Mustafa Kemalimiz cikacak mi?' The Turkish wording was read on the page of the article
+    on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

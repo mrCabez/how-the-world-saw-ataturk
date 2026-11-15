@@ -16,10 +16,15 @@ summary: >-
   Grieved as much as the Turks; praised progress seen in Turkey, especially the economy, and hoped for good
   Finnish-Turkish economic relations.
 quote:
-  text: This great man belonged not only to the Turkish nation but to all humanity.
-  language: en
+  text: Bu büyük adam yalnız Türk milletinin değil bütün insanlığın malıydı.
+  language: tr
+  translation: This great man belonged not only to the Turkish nation but to all humanity.
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 (CTAD) ← Ulus 7 Dec 1938
-caveat: "Toksoy's gloss: a small trading state asking what a modernising economy can buy."
+caveat: >-
+  Toksoy's gloss: a small trading state asking what a modernising economy can buy. The Turkish is as the
+  article prints it (p. 166, fn 96); it is the Turkish press's rendering of the paper's words.
 node: Helsinki and Stockholm, November 1938
 sources:
   - url: https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
@@ -29,5 +34,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2006-ctad-foreign-representatives.txt p.166 (fn 96 Ulus 7 Aralık 1938 s.3)
   method: local
-  note: Translated from Turkish; statement appeared in Ulus 7 Dec.
+  note: >-
+    Translated from Turkish; statement appeared in Ulus 7 Dec. The Turkish wording was read on the page of the
+    article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

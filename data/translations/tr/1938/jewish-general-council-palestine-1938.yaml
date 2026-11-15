@@ -7,8 +7,17 @@ role: Yahudi cemaati kuruluşu, başkanı Isaac Ben-Zvi
 quote: büyük kurucu, yeni Türkiye'nin yeniden canlandırıcısı
 quote_kind: translated
 summary: Onu yeni Türkiye'nin büyük kurucusu ve yeniden canlandırıcısı olarak nitelendirdi.
+caveat: >-
+  Londra'dan 'turkish government ankara' adresine gönderilen, 'jewish general council of palestine isaac
+  benzevi chairman' imzalı telsiz telgraf (c. II, PDF s. 44, yaprak 41). Üstbilgide 'london 31 10 1820 via
+  radio' yazmaktadır: 31 kelime, ayın 10'unda saat 18:20'de teslim edilmiş. Formda ay basılı değildir; vefat
+  günü olan 10 Kasım, 'tragic death' ifadesine uyan tek okumadır. Küçük harflerle daktilo edilmiştir:
+  'palestine associates itself with you in deeply mourning tragic death ataturk turkey' (alıntı, cümlenin
+  öznesi 'entire jewish people of palestine' olacak şekilde anlamı korumaktadır).
 verification_note: >-
-  Telgraf tarih başlığının OCR okuması belirsizdir ("31.10"); Kasım tarihi olaydan alınmıştır.
+  Telgrafın tarih üstbilgisinin OCR okuması belirsizdir ("31.10"); Kasım tarihi olaydan hareketle alınmıştır.
+  16 Kasım 2026'da form üzerinden tekrar okundu: OCR'daki '31.10' kelime sayısı ve ayın günüdür, saat ise
+  18:20'dir.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
@@ -16,5 +25,6 @@ source_fingerprints:
   role: a4950df972b0
   quote: a67c4aa431d7
   summary: 57ab00fb6a90
-  verification_note: 7b0f545c17a6
+  verification_note: 4ea411bb586c
   verification_method: 939bb46a04c3
+  caveat: 7f937be91f94

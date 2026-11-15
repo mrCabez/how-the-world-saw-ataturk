@@ -4,20 +4,27 @@
 id: goniec-warszawski-1938
 voice: Goniec Warszawski
 role: Varşova günlük gazetesi
-quote: uluslararası nitelikte bir olay
-quote_kind: translated
+quote: Atatürk’ün ölümü enternasyonal mahiyette bir hadisedir.
+quote_kind: original-turkish
 summary: >-
   Onun ölümünü uluslararası nitelikte bir olay olarak nitelendirdi; o, on beş yılda Türkiye'yi, ordusunu ve
   dış politikasını modernleştirmişti.
+caveat: >-
+  Türkçe metin makalede basıldığı gibidir (s. 169, dipnot 96); gazetenin sözlerinin Türk basını tarafından
+  aktarılmış halidir.
 mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
-verification_note: Alıntı metni Kurun'un Goniec haberinde yer alıyor; ikinci elden ama belirtildiği gibi.
+verification_note: >-
+  Alıntı metni Kurun'un Goniec haberinde yer almaktadır; ikinci eldendir ancak belirtildiği gibidir. Türkçe
+  ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce
+  bir aktarımdan ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1169b62239be
   role: a45f555cf357
-  quote: df5c64b34891
+  quote: 5d0bce40959b
   summary: b83beeca9a84
   mediated_by: aa5a462e96c0
-  verification_note: cd3bba0d74de
+  verification_note: fadae3f360c4
   verification_method: 939bb46a04c3
+  caveat: 4b5f87417d9d

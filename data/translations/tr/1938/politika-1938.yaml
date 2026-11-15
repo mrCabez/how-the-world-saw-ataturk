@@ -4,24 +4,30 @@
 id: politika-1938
 voice: Politika
 role: Belgrad bölgesi Yugoslav gazetesi
-quote: yeni Türkiye'nin dönüştürücüsü
-quote_kind: translated
+quote: >-
+  Kırılmaz azmi, kuvvetli zekâsı ve kuvveti kendisini mağlup ettiği mukadderatın önüne getirmiş ve bu suretle
+  yeni Türkiye’nin mübadili olmuştur
+quote_kind: original-turkish
 summary: >-
   Tarihin onun adını yazacağını; iradesi ve zekâsıyla kendisini yeni Türkiye'nin dönüştürücüsü yapan bir halk
   adamı olduğunu söyledi.
 caveat: >-
-  Alıntılar Toksoy'un Türkçesi üzerindendir; Sırp-Hırvatça asılları görülmemiştir. Notta şehir
-  belirtilmemiştir.
+  Alıntılar Toksoy'un Türkçesi üzerinden alınmıştır; Sırp-Hırvatça asılları görülmemiştir. Notta şehir
+  belirtilmemiştir. Türkçe metin makalede basıldığı şekildedir (s. 197, dn. 87); gazetenin sözlerinin Türk
+  basını tarafından aktarılmış halidir. 16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir
+  açımlamasıydı.
 mediated_by: Toksoy 2010 §E; aktarıldığı şekliyle Karahasan 1994
-verification_note: Toksoy'un Türkçesindeki 'yeni Türkiye'nin mübadili' ifadesinden çevrilmiştir.
+verification_note: >-
+  Toksoy'un Türkçesindeki 'yeni Türkiye'nin mübadili' ifadesinden çevrilmiştir. Türkçe metin 16 Kasım 2026'da
+  makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: c2bb4fb4334d
   role: 1ed91d30ed50
-  quote: f9d28e55c78b
+  quote: db300df1ee8c
   summary: e372804543b7
-  caveat: 34f708f3ab43
+  caveat: 2e4b6f937390
   mediated_by: 59d4438d35b2
-  verification_note: 3510d8dc20d4
+  verification_note: 7931abc3b65e
   verification_method: 939bb46a04c3

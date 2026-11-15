@@ -15,13 +15,23 @@ evidence: S
 summary: Syrians share the grief; the best consolation is to follow the road the great genius drew.
 quote:
   text: >-
-    we Syrians share the grief with all our hearts; our greatest consolation is to follow the road the great
-    genius drew
-  language: en
+    Türk vatanının yapıcısı, Türk şefkat ve azametinin yaratıcısı, insaniyetin en büyük hadimi Atatürk’ün
+    ölümü ile Türk milletinin duyduğu kedere Suriyeliler bütün kalpleriyle iştirak ederler. Kardeş milletin
+    uğradığı bu acı karşısında bizim en büyük tesellimiz büyük dâhinin çizdiği yolu takip etmektir
+  language: tr
+  translation: >-
+    The Syrians share with all their hearts the grief the Turkish nation feels at the death of Atatürk,
+    builder of the Turkish homeland, creator of Turkish compassion and grandeur, humanity’s greatest servant.
+    Our greatest consolation before this pain that has struck the brother nation is to follow the road the
+    great genius drew.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
 caveat: >-
-  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. The
+  Turkish is as the article prints it (p. 201, fn 104); it is the Turkish press's rendering of the paper's
+  words. The English before 16 Nov 2026 was a shortened paraphrase of it.
 node: Damascus and Beirut Weep, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -35,5 +45,6 @@ verification:
   method: local
   note: >-
     Translation of Turkish translation; paper identification as Al-Qabas conjectural (Toksoy gives
-    Elkabes/İlkabes).
+    Elkabes/İlkabes). The Turkish wording was read on the page of the article on 16 Nov 2026; until then the
+    quote was an English rendering alone.
   checked_on: "2026-10-29"

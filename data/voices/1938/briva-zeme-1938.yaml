@@ -18,14 +18,20 @@ summary: >-
   leadership principle, a leap rather than evolution.
 quote:
   text: >-
+    Atatürk zamanımızdaki devlet adamlarının en büyüğü ve modern liderlik prensibinin en dikkate şayan
+    mümessiliydi.
+  language: tr
+  translation: >-
     Atatürk was the greatest of the statesmen of our time and the most remarkable representative of the modern
     principle of leadership.
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: >-
   Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi
 caveat: >-
   Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests.
-  Semi-official status of the paper and quotes are Toksoy's/Turkish press's rendering.
+  Semi-official status of the paper and quotes are Toksoy's/Turkish press's rendering. The Turkish is as the
+  article prints it (p. 177, fn 128); it is the Turkish press's rendering of the paper's words.
 node: Riga, Tallinn and Kaunas, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -36,5 +42,7 @@ verification:
   checked_against: >-
     sources/toksoy-2006-atatürk-yolu-european-press.txt sec. K (Letonya), Briva Zeme 'Asirlari Asan Adam'
   method: local
-  note: Turkish translation of Latvian; semi-official status stated by Toksoy.
+  note: >-
+    Turkish translation of Latvian; semi-official status stated by Toksoy. The Turkish wording was read on the
+    page of the article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

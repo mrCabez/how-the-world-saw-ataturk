@@ -5,25 +5,29 @@ id: belgian-envoy-to-the-funeral-name-unresolved-1938
 voice: Cenazeye gönderilen Belçika elçisi (adı çözümlenemedi)
 role: Eski Ankara büyükelçisi; Kral III. Leopold'un temsilcisi
 quote: >-
-  Atatürk'ü şahsen tanımış olma bahtiyarlığına sahibim. Ona derin bir saygı duyuyorum. Ankara'dayken her zaman
-  güneşe bakardım. Fakat güneşi ufukta görmezdim; onu Çankaya'da görürdüm. Çünkü gerçek güneş, Çankaya'daki
-  Atatürk adlı güneşti. Atatürk'ün kaybı yalnız Türkiye için değil, bütün dünya için büyük bir kayıptır.
-quote_kind: translated
+  Atatürk'ü şahsen tanımakla bahtiyarım. Kendisine derin bir hürmetim vardır. Ben Ankara'da olduğum zaman
+  daima güneşe bakardım. Fakat ben güneşi ufukta değil, Çankaya'da görürdüm. Çünkü hakiki güneş Çankaya'daki
+  Atatürk denilen güneşti. Atatürk'ün kaybı yalnız Türkiye için değil, bütün dünya için büyük bir kayıptı
+quote_kind: original-turkish
 summary: >-
   Atatürk'ü şahsen tanıdı ve ona derin saygı duydu; gerçek güneşi Çankaya'da gördü; kaybının bütün dünya için
   büyük olduğunu söyledi.
 caveat: >-
-  Kaynaklarda adı tutarsızdır ('Roymond'/'Deryınon'), muhtemelen tek bir kişidir; çözümlenemedi.
+  İsim kaynaklarda değişkenlik göstermektedir ('Roymond'/'Deryınon'), muhtemelen tek bir kişidir;
+  çözümlenmemiştir. Türkçe metin makalede basıldığı gibidir (s. 165, dn. 94); gazetenin sözlerinin Türk
+  basınındaki aktarımıdır.
 mediated_by: Toksoy 2006 CTAD ← Akşam 20 Kasım 1938 s. 3
-verification_note: Alıntı, Toksoy'daki Türkçe metnin İngilizce çevirisidir (OCR "Çanlmya").
+verification_note: >-
+  Alıntı, Toksoy'un Türkçesinin İngilizce çevirisidir (OCR "Çanlmya"). Türkçe ifadeler 16 Kasım 2026'da
+  makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir aktarımdı.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a66b75bd498f
   role: 91748885e4e9
-  quote: f61a5a61f604
+  quote: a6657409afd5
   summary: 55ec3ee5f401
-  caveat: 5e055485360a
+  caveat: 91c5966b8379
   mediated_by: 279beb042eb1
-  verification_note: a52c673b5e0a
+  verification_note: 18b550b86338
   verification_method: 939bb46a04c3

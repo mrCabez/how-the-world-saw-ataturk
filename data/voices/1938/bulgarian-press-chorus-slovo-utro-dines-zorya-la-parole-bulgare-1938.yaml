@@ -15,11 +15,16 @@ evidence: S
 summary: >-
   A press chorus mourned him; one headline said the world is less interesting after his death.
 quote:
-  text: >-
+  text: Bu müstesna ve Büyük Adamın Ölümünden Sonra Dünya Eskisi Kadar Enteresan Değildir
+  language: tr
+  translation: >-
     After the death of this exceptional and Great Man, the world is not as interesting as it used to be.
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 ← Turkish press; Tatarlı 'Bulgar Basınında Atatürk'
-caveat: Headline not attributed to a specific paper in the note.
+caveat: >-
+  Headline not attributed to a specific paper in the note. The Turkish is as the article prints it (p. 188);
+  it is the Turkish press's rendering of the paper's words.
 node: Bulgarian Mourning, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -32,5 +37,6 @@ verification:
   method: local
   note: >-
     Headline is attributed to 'Bulgar gazeteleri' generally; Slovo, Utro, Dness, Zora, La Parole Bulgare each
-    appear in the section
+    appear in the section. The Turkish wording was read on the page of the article on 16 Nov 2026; until then
+    the quote was an English rendering alone.
   checked_on: "2026-10-29"

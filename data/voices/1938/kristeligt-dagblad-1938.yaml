@@ -17,13 +17,19 @@ summary: >-
   wolf's watchword.
 quote:
   text: >-
-    The arm that wields the sword is worthy of holding the sceptre; his motto became the watchword of the grey
-    wolf.
-  language: en
+    Kılıç kullanan kol, ancak hâkimiyet asasını elinde tutmaya liyakat kesbeder. Dövizi bozkurtun şiarı
+    olmuştur
+  language: tr
+  translation: >-
+    Only the arm that wields the sword earns the right to hold the sceptre of sovereignty. His motto has
+    become the watchword of the grey wolf.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Akşam 16 Nov 1938 p. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 caveat: >-
   Paper titles in Toksoy are phonetic and sometimes garbled; identifications presumed; foreign originals not
-  seen.
+  seen. The Turkish is as the article prints it (p. 179, fn 134); it is the Turkish press's rendering of the
+  paper's words. The English before 16 Nov 2026 was a shortened paraphrase of it.
 node: Copenhagen and Oslo, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -37,5 +43,6 @@ verification:
   method: local
   note: >-
     Quote found in Toksoy's Turkish translation. Passage is wholly laudatory; 'conflicted' polarity is not
-    evident from Toksoy.
+    evident from Toksoy. The Turkish wording was read on the page of the article on 16 Nov 2026; until then
+    the quote was an English rendering alone.
   checked_on: "2026-10-29"

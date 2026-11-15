@@ -16,10 +16,15 @@ summary: >-
   Called him father of the Turkish nation and the greatest man of recent centuries, ranking him above Hitler,
   Mussolini and Roosevelt.
 quote:
-  text: greater than Hitler, greater than Mussolini, greater than Roosevelt
-  language: en
+  text: O, Hitler’den de Mussolini’den de, Ruzvelt’ten de büyüktür.
+  language: tr
+  translation: greater than Hitler, greater than Mussolini, greater than Roosevelt
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
-caveat: Superlatives and rank order are the paper's own; reaches us via Turkish translation.
+caveat: >-
+  Superlatives and rank order are the paper's own; reaches us via Turkish translation. The Turkish is as the
+  article prints it (p. 202, fn 109); it is the Turkish press's rendering of the paper's words.
 node: Cairo Mourns, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -32,4 +37,6 @@ verification:
   method: local
   note: >-
     Translated from Toksoy Turkish; exact issue date 11 Nov not stated beyond 'all Egyptian papers of 11 Nov'.
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"

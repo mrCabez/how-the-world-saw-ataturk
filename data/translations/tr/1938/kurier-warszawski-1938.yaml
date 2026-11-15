@@ -4,19 +4,26 @@
 id: kurier-warszawski-1938
 voice: Kurier Warszawski
 role: Varşova günlük gazetesi
-quote: Uzun bir yol kat edildi. Muhteşem bir eser yaratıldı. Bütün bunlar Atatürk'ün eseridir
-quote_kind: translated
+quote: >-
+  Uzun bir yol kat edilmiştir. Azametli bir eser vücuda getirilmiştir. Bütün bunlar Atatürk’ün eseridir
+quote_kind: original-turkish
 summary: >-
   Muhteşem bir eseri bizzat Atatürk'ün eseri olarak selamladı ve gelecekte örnek alınması çağrısında bulundu.
+caveat: >-
+  Türkçe metin makalede basıldığı şekliyledir (s. 169, dn. 94); gazetenin sözlerinin Türk basını tarafından
+  aktarımıdır.
 mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
-verification_note: Çevrilmiştir.
+verification_note: >-
+  Çevrilmiştir. Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur; o tarihe kadar
+  alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8b041769b567
   role: a45f555cf357
-  quote: ca9a279473cc
+  quote: 47fcf3800f12
   summary: cd52adfea186
   mediated_by: aa5a462e96c0
-  verification_note: 154a7f79ffc7
+  verification_note: 2207603f5214
   verification_method: 939bb46a04c3
+  caveat: 415d83cbb624

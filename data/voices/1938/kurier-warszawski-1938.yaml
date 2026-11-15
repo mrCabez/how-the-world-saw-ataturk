@@ -16,9 +16,16 @@ evidence: S
 summary: Hailed a magnificent work as Atatürk's own and urged it be taken as a model in future.
 quote:
   text: >-
+    Uzun bir yol kat edilmiştir. Azametli bir eser vücuda getirilmiştir. Bütün bunlar Atatürk’ün eseridir
+  language: tr
+  translation: >-
     A long road has been travelled. A magnificent work has been created. All of this is the work of Atatürk
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+caveat: >-
+  The Turkish is as the article prints it (p. 169, fn 94); it is the Turkish press's rendering of the paper's
+  words.
 node: Warsaw Compares Him to Washington, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -30,5 +37,7 @@ verification:
     sources/toksoy-2006-atatürk-yolu-european-press.txt §Polonya: Kurjer Varzawski "Uzun bir yol kat
     edilmiştir. Azametli bir eser vücuda getirilmiştir. Bütün bunlar Atatürk'ün eseridir"
   method: local
-  note: Translated.
+  note: >-
+    Translated. The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote
+    was an English rendering alone.
   checked_on: "2026-10-29"

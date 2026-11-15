@@ -4,20 +4,27 @@
 id: independenta-romana-1938
 voice: Independența Română
 role: Rumen gazetesi
-quote: tarihte teşkilatçı bir deha, bir milletin lideri ve kurtarıcısı
-quote_kind: translated
+quote: >-
+  Atatürk tarihte teşkilatçı bir dahi, bir milletin harikalar yaratan sevk ve idarecisi ve memleketinin
+  kurtarıcısı olarak kalacaktır
+quote_kind: original-turkish
 summary: Tarihte teşkilatçı bir deha, bir milletin lideri ve kurtarıcısı olarak kalacağını söyledi.
-caveat: Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir.
+caveat: >-
+  Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir. Türkçe metin makalede basıldığı
+  şekliyledir (s. 195, dn. 77); gazetenin sözlerinin Türk basını tarafından aktarımıdır. 16 Kasım 2026
+  öncesindeki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
 mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
-verification_note: Türkçeden çevrilmiştir; aslına sadık
+verification_note: >-
+  Türkçeden çevrilmiştir; aslına sadıktır. Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından
+  okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5c248c9b8874
   role: 0afc8d6e7c93
-  quote: eb233a5f864f
+  quote: 3bff690e8504
   summary: 931a69880a5c
-  caveat: b97d8599df31
+  caveat: 278e90c1f715
   mediated_by: 374a97c5054a
-  verification_note: a6fd3b9a18a3
+  verification_note: 427999ba6118
   verification_method: 939bb46a04c3

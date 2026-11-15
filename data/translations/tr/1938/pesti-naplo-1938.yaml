@@ -5,20 +5,27 @@ id: pesti-naplo-1938
 voice: Pesti Napló
 role: Macar günlük gazetesi
 quote: >-
-  bütün evren bu büyük mateme katılıyor… Atatürk sayesinde Türkiye'nin dış ve ekonomik konumu şimdi mükemmeldir
-quote_kind: translated
+  Bütün kâinat bu büyük yasa iştirak etmektedir ve Atatürk’ün sayesinde Türkiye’nin haricî ve iktisadî
+  vaziyeti şimdi mükemmeldir
+quote_kind: original-turkish
 summary: >-
   Bütün evrenin bu mateme katıldığını ve Atatürk sayesinde Türkiye'nin dış ve ekonomik konumunun şimdi
   mükemmel olduğunu söyledi.
+caveat: >-
+  Türkçe metin makalede basıldığı şekildedir (s. 186, dn. 41); gazetenin sözlerinin Türk basını tarafından
+  aktarılmış halidir.
 mediated_by: Toksoy 2010
-verification_note: Çevrildi.
+verification_note: >-
+  Çevrilmiştir. Türkçe metin 16 Kasım 2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca
+  İngilizce çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: c73460274dbe
   role: cc27e87ef177
-  quote: 6ecba11d485e
+  quote: aee8417f929a
   summary: c105dc4d4d44
   mediated_by: 8e937858d7c4
-  verification_note: 154a7f79ffc7
+  verification_note: 2207603f5214
   verification_method: 939bb46a04c3
+  caveat: 6bdb844b5e7b

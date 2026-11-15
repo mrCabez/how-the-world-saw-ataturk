@@ -16,12 +16,16 @@ summary: >-
   Editorial recalled Atatürk cabling after King Alexander's 1934 assassination to ask whether to mobilize, a
   phrase Yugoslavia will never forget.
 quote:
-  text: Shall I declare mobilization?
-  language: en
+  text: seferberlik ilan edeyim mi?
+  language: tr
+  translation: Shall I declare mobilization?
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
 caveat: >-
   The mobilization-telegram claim is Vreme's own; no telegram text seen. Quotations via Toksoy's Turkish;
-  Serbo-Croatian originals not seen. City not stated.
+  Serbo-Croatian originals not seen. City not stated. The Turkish is as the article prints it (p. 197, fn 85);
+  it is the Turkish press's rendering of the paper's words.
 node: Yugoslav Press, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -31,5 +35,7 @@ verification:
   checked_against: >-
     sources/toksoy-2010-balkan-mideast-press.txt p.196-197 (Vreme editorial; 'seferberlik ilan edeyim mi?')
   method: local
-  note: Translated from Toksoy Turkish.
+  note: >-
+    Translated from Toksoy Turkish. The Turkish wording was read on the page of the article on 16 Nov 2026;
+    until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

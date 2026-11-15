@@ -16,10 +16,15 @@ summary: >-
   Met Mustafa Kemal in 1912 and again in Ankara; saw an unbeatable will; credits Atatürk's success for
   concluding the Egyptian question at Lausanne.
 quote:
-  text: Without Kemal Atatürk, would we have seen a new Turkey? Perhaps not.
-  language: en
+  text: Kemal Atatürk olmasaydı yeni bir Türkiye görecek miydik? Belki hayır.
+  language: tr
+  translation: Without Kemal Atatürk, would we have seen a new Turkey? Perhaps not.
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
-caveat: Note calls the Lausanne claim Egyptian self-interest speaking.
+caveat: >-
+  Note calls the Lausanne claim Egyptian self-interest speaking. The Turkish is as the article prints it (p.
+  201, fn 106); it is the Turkish press's rendering of the paper's words.
 node: Cairo Mourns, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -28,4 +33,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.200 (Hafız Ramazan Paşa, Cumhuriyet 20 Nov)
   method: local
+  note: >-
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"

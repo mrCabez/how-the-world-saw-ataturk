@@ -17,11 +17,19 @@ summary: >-
   gardener wanting no reward.
 quote:
   text: >-
+    Hiç bir zaman mükâfat ve minnettarlık beklemedim. Belki çiçeklerden hiçbir şey beklemeyerek onları büyük
+    bir aşk ve şevkle yetiştiren bir bahçıvan gibi ben de milletime kuvvetli ve mesut bir hayat vererek onun
+    çiçeklendiğini görmek istedim.
+  language: tr
+  translation: >-
     I never expected reward or gratitude… like a gardener who raises flowers with great love and wants nothing
     from them.
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 (Romanian originals not seen)
-caveat: Interview provenance not established; Romanian originals not seen.
+caveat: >-
+  Interview provenance not established; Romanian originals not seen. The Turkish is as the article prints it
+  (p. 194, fn 73); it is the Turkish press's rendering of the paper's words.
 node: Romania Hangs the Black Flags, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -31,5 +39,7 @@ verification:
   checked_against: >-
     sources/toksoy-2010-balkan-mideast-press.txt sec. Romanya (Timpul, fn.73: gardener interview)
   method: local
-  note: Romanian original not seen; Turkish translation matches.
+  note: >-
+    Romanian original not seen; Turkish translation matches. The Turkish wording was read on the page of the
+    article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

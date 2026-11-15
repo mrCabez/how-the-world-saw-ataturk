@@ -5,25 +5,29 @@ id: ebabil-1938
 voice: Ebabil
 role: Beyrut gazetesi
 quote: >-
-  sultanları kovan, orduları paramparça eden adam ... zorbalığın en büyük düşmanı, ebedî Kemalizm rejiminin
-  kurucusu ... öldü
-quote_kind: translated
+  Sultanları kovan, orduları tarumar eden, Çanakkale kahramanı, Sakarya’nın yaratıcısı Mustafa Kemal öldü.
+  Türkiye’yi yoktan var eden, onu en kuvvetli devletler mertebesine çıkaran, vatanı kölelikten hürriyete,
+  zilletten şerefe götüren Atatürk öldü. Zulmün en büyük düşmanı, ebedi Kemalizm rejiminin kurucusu öldü.
+quote_kind: original-turkish
 summary: >-
   Sultanları kovan ve orduları paramparça eden adam, zorbalığın en büyük düşmanı, ebedî Kemalizm rejiminin
   kurucusu öldü.
 caveat: >-
-  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
-  transliterasyonları tahmine dayalıdır.
+  Alıntılar bize günlük Türk gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının harf
+  çevirileri tahmine dayalıdır. Türkçe metin makalede basıldığı şekildedir (s. 200, dn. 100); Türk basınının
+  gazetenin sözlerini aktarım biçimidir.
 mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
-verification_note: Türk basını üzerinden çeviri; sadık
+verification_note: >-
+  Türk basını aracılığıyla çeviri; aslına sadık. Türkçe ifadeler 16 Kasım 2026'da makalenin sayfasından
+  okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir aktarımdan ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 72ea8ed7363e
   role: eaa0a96aaa32
-  quote: 99c91d52313a
+  quote: 7ac49609f2a0
   summary: 060879864a49
-  caveat: f8ae166de916
+  caveat: 70e329725ab1
   mediated_by: 0d9b58c49a68
-  verification_note: 9708fed872aa
+  verification_note: f0dcdc6de941
   verification_method: 939bb46a04c3

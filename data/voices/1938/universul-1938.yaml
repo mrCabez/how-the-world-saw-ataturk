@@ -15,17 +15,18 @@ evidence: S
 summary: >-
   Called him a loyal friend of Romania; a second piece by a former Ottoman minister named him a founder of the
   Balkan Entente.
-quote:
-  text: one of the greatest men of the time
-  language: en
 mediated_by: Toksoy 2010 (Romanian originals not seen)
-caveat: Romanian originals not seen; translated from Toksoy's Turkish.
+caveat: >-
+  Romanian originals not seen; translated from Toksoy's Turkish. The article reports this in indirect speech
+  (p. 192: 'Bükreş Universal Gazetesi, Atatürk’ü zamanın en büyük adamlarından biri olarak kabul etmiş ve
+  yayınladığı başmakalesinde, Atatürk’ün hayatını uzun bir şekilde anlattıktan sonra şu sözlere yer
+  vermiştir;'), so there are no words of the paper's to quote; until 16 Nov 2026 the record carried an English
+  rendering of that sentence as a quote.
 node: Romania Hangs the Black Flags, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: confirmed
-  quote_found: true
   checked_against: >-
     sources/toksoy-2010-balkan-mideast-press.txt p.192 (Bükreş 'Universal' gazetesi; Basarya piece)
   method: local

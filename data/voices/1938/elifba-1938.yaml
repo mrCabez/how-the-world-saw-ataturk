@@ -16,12 +16,21 @@ summary: >-
   Lead article: a great genius who steered Turkey to safety and asked neither throne nor heir; an
   international man.
 quote:
-  text: one of the greatest personalities and most formidable geniuses of a century
-  language: en
+  text: >-
+    Atatürk bir asrın yetiştirdiği en büyük şahsiyetlerden ve en muazzam deha ve ahlaki nefsinde toplamış
+    liderlerden birisiydi.
+  language: tr
+  translation: >-
+    Atatürk was one of the greatest personalities a century has produced and one of the leaders who gathered
+    in himself the most tremendous genius and character.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
 caveat: >-
-  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. The
+  Turkish is as the article prints it (p. 199, fn 95); it is the Turkish press's rendering of the paper's
+  words. The English before 16 Nov 2026 was a shortened paraphrase of it.
 node: Damascus and Beirut Weep, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -30,5 +39,8 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Suriye ve Lubnan, Elifba lead article)
   method: local
-  note: Toksoy places Elifba in both Syria/Beirut and Sam; 'asked neither throne nor heir' present
+  note: >-
+    Toksoy places Elifba in both Syria/Beirut and Sam; 'asked neither throne nor heir' present. The Turkish
+    wording was read on the page of the article on 16 Nov 2026; until then the quote was an English rendering
+    alone.
   checked_on: "2026-10-29"

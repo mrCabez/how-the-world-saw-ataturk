@@ -17,13 +17,19 @@ summary: >-
   Saw him as the man who gave new Turkey its soul; openly said Czechs envied the Turks such a leader.
 quote:
   text: >-
+    Çünkü bizde bugün Mustafa Kemal’in dünya sahnesinde göründüğü zamandaki Türkiye’nin vaziyetine benzer bir
+    mevkide bulunmaktayız.
+  language: tr
+  translation: >-
     because today we find ourselves in a position similar to Turkey's at the time Mustafa Kemal appeared on
     the world stage
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Cumhuriyet 14 and 16 Nov 1938, Ulus 15 Nov, Ayın Tarihi Nov 1938
 caveat: >-
   Paper titles in Toksoy are phonetic; identification 'presumably'; foreign originals not seen.
-  Best-documented line; Toksoy prints it twice. Interpretation of mirror is the note's.
+  Best-documented line; Toksoy prints it twice. Interpretation of mirror is the note's. The Turkish is as the
+  article prints it (p. 173, fn 112); it is the Turkish press's rendering of the paper's words.
 node: Prague Reads Its Own Mirror, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -36,5 +42,7 @@ verification:
     Mustafa Kemal'in dünya sahnesinde göründüğü zamandaki Türkiye'nin vaziyetine benzer bir mevkide
     bulunmaktayız"; "yeni Türkiye'ye ruh veren adam"; gıpta
   method: local
-  note: Translated; paper name spelled Ceska Slova in Toksoy.
+  note: >-
+    Translated; paper name spelled Ceska Slova in Toksoy. The Turkish wording was read on the page of the
+    article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

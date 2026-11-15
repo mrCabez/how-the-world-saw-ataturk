@@ -16,10 +16,15 @@ summary: >-
   Among the great statesmen of our time, with great military qualities and a tremendous revolutionary record;
   Turkey could not have been great without him.
 quote:
-  text: Without Atatürk, Turkey could not have been a great state.
-  language: en
+  text: Atatürksüz Türkiye, büyük bir devlet olamazdı
+  language: tr
+  translation: Without Atatürk, Turkey could not have been a great state.
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Kurun 14 Nov, Ulus 15 Nov, Cumhuriyet 16 Nov 1938
-caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen. The Turkish is as the
+  article prints it (p. 173, fn 115); it is the Turkish press's rendering of the paper's words.
 node: Helsinki and Stockholm, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -31,5 +36,7 @@ verification:
     sources/toksoy-2006-atatürk-yolu-european-press.txt §Finlandiya: Helsingin Sanomat "Atatürksüz Türkiye,
     büyük bir devlet olamazdı"
   method: local
-  note: Translated from Toksoy Turkish.
+  note: >-
+    Translated from Toksoy Turkish. The Turkish wording was read on the page of the article on 16 Nov 2026;
+    until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

@@ -5,25 +5,28 @@ id: swedish-papers-1938
 voice: İsveç gazeteleri (çözümlenmemiş)
 role: Belirtilmemiş İsveççe basın
 quote: >-
-  O olmasaydı modern Türkiye olmazdı. Ancak Türkler onun olağanüstü eserini izleyerek konumlarını daha da
-  yükselteceklerdir.
-quote_kind: translated
+  O olmasaydı, modern Türkiye de olmazdı. Fakat Türkler, onun fevkalade eserini takip ederek itibarlarını daha
+  fazla arttıracaklardır
+quote_kind: original-turkish
 summary: >-
   O olmadan modern Türkiye'nin var olmayacağını ve Türklerin onun eserini izleyerek konumlarını
   yükselteceklerini söyledi.
 caveat: >-
-  Aidiyet çözümlenmemiş: Fin Hufvudstadsbladet çizgisinin veya Finlandiya'nın İsveççe basınının bir özeti
-  olabilir.
+  Atıf çözümlenmemiştir: Fin gazetesi Hufvudstadsbladet'in satırlarının bir özeti ya da Finlandiya'nın İsveççe
+  basını olabilir. Türkçe metin makalede basıldığı gibidir (s. 177, dn. 6); gazetenin sözlerinin Türk
+  basınındaki aktarım biçimidir.
 mediated_by: Toksoy 2010 ← Ulus 14 Kasım 1938 s. 1
-verification_note: "'Swedish papers' atfı Toksoy'a aittir."
+verification_note: >-
+  'Swedish papers' (İsveç gazeteleri) atfı Toksoy'a aittir. Türkçe ifadeler 16 Kasım 2026'da makalenin
+  sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 51d418fb9620
   role: 58766d354fd9
-  quote: e5eb0975e0d1
+  quote: 392efba5fd03
   summary: fc77224125d3
-  caveat: 20ae9f3651b4
+  caveat: 16d9b2cdc2ee
   mediated_by: 5bca1c333340
-  verification_note: c6a4e2aa0c57
+  verification_note: 66c67adfb413
   verification_method: 939bb46a04c3

@@ -14,18 +14,19 @@ artifact: article
 evidence: S
 summary: >-
   Stressed Lausanne's importance and his extraordinary reforms, so great the world is still astonished.
-quote:
-  text: so great that the world is still astonished before them
-  language: en
 mediated_by: Toksoy 2006 ← Akşam 12 Nov 1938 p. 2 / Ayın Tarihi Nov 1938
-caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen. The article reports
+  this in indirect speech (p. 172, fn 108: 'Soir gazetesi, özellikle Lozan Antlaşması’nın önemini vurgulamış,
+  Atatürk’ün olağanüstü ıslahat ve inkılâplarından bahsederek, bu inkılâpların son derece büyük olduğunu ve bu
+  büyüklük karşısında dünyanın hala hayret içerisinde bulunduğunu yazmıştır108.'), so there are no words of
+  the paper's to quote; until 16 Nov 2026 the record carried an English rendering of that sentence as a quote.
 node: Brussels Stands, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
     archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
 verification:
   verdict: confirmed
-  quote_found: true
   checked_against: sources/toksoy-2006-atatürk-yolu-european-press.txt (Belcika, 'Soir gazetesi', fn.108)
   method: local
   note: Quote is Toksoy paraphrase of Soir; faithful

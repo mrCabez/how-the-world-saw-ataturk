@@ -16,13 +16,17 @@ summary: >-
   Wrote that Atatürk had been a good patron of Turkish-Greek relations, having understood and achieved both
   Turkey's revival and a lasting Turkish-Greek friendship.
 quote:
-  text: Atatürk was a good patron of Turkish-Greek relations
-  language: en
+  text: Atatürk Türk-Yunan münasebetlerinin iyi bir hamisi olmuştur.
+  language: tr
+  translation: Atatürk was a good patron of Turkish-Greek relations
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 §Yunanistan
 caveat: >-
-  English rendering of Toksoy's Turkish summary of the Greek paper. Corrected 2026-10-29: the line 'if Turkey
-  loses its founder, Greece loses a great and trusted friend' is Proia's (Toksoy fn. 16), not Estia's; see
-  proia-1938.
+  Toksoy quotes the Greek paper in Turkish (inside quotation marks, not as his own summary). Corrected
+  2026-10-29: the line 'if Turkey loses its founder, Greece loses a great and trusted friend' is Proia's
+  (Toksoy fn. 16), not Estia's; see proia-1938. The Turkish is as the article prints it (p. 179); it is the
+  Turkish press's rendering of the paper's words.
 node: Salonika Names His Street, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -35,6 +39,7 @@ verification:
   note: >-
     Quote misattributed: 'If Turkey loses its great founder, Greece loses a great and trusted friend' is
     Proia's (fn.16), not Estia's. Estia in Toksoy says Ataturk was a good guarantor of Turkish-Greek relations
-    ('Turk-Yunan munasebetlerinin iyi bir hamisi').
+    ('Turk-Yunan munasebetlerinin iyi bir hamisi'). The Turkish wording was read on the page of the article on
+    16 Nov 2026; until then the quote was an English rendering alone.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
   checked_on: "2026-10-29"

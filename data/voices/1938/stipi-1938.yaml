@@ -16,17 +16,19 @@ evidence: S
 summary: >-
   A veritable saviour of his nation to the last minute, who changed the country's face and drew a modern state
   out of the old Turkey.
-quote:
-  text: the Turkish nation owes its material and moral welfare to him
-  language: en
 mediated_by: Toksoy 2010 ← Akşam 14 and 18 Nov 1938, Ulus 14 Nov 1938
-caveat: Titles as Toksoy prints them (Stipi may be Shtypi); Albanian originals not seen.
+caveat: >-
+  Titles as Toksoy prints them (Stipi may be Shtypi); Albanian originals not seen. The article reports this in
+  indirect speech (p. 198, fn 91: 'Stipi Gazetesi de Atatürk’ün son dakikaya kadar milleti için adeta bir
+  kurtarıcı olduğunu ve çok kısa bir sürede memleketinin çehresini değiştirdiğini, eski Türkiye’den modern bir
+  devlet çıkardığını ve Türk milletinin kendisine maddi ve manevi refahını borçlu olduğunu yazmıştır91.'), so
+  there are no words of the paper's to quote; until 16 Nov 2026 the record carried an English rendering of
+  that sentence as a quote.
 node: Albanian Press, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: confirmed
-  quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Arnavut/Stipi gazetesi, fn.91)
   method: local
   checked_on: "2026-10-29"

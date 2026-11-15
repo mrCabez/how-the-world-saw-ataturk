@@ -5,22 +5,28 @@ id: illustrowany-kuryer-codzienny-1938
 voice: Illustrowany Kuryer Codzienny
 role: Günlük Polonya gazetesi (tahminen)
 quote: >-
-  Atatürk, Türkiye'yi silah gücüyle kurtardı ve Washington'ın Amerika Birleşik Devletleri'ni yarattığı gibi
-  yeni Türkiye'yi yarattı; eseri büyük uluslararası meselelerde bile etkisini göstermiştir
-quote_kind: translated
+  Atatürk Türkiye’yi, silah kuvvetiyle kurtarmış ve Washington’un Birleşik Amerika’yı yaratması gibi yeni
+  Türkiye’yi yaratmıştır. Atatürk’ün eseri hatta beynelmilel büyük işlerde de tesirini göstermiştir
+quote_kind: original-turkish
 summary: >-
   Türkiye'yi silahla kurtardığını ve Washington'ın Amerika Birleşik Devletleri'ni yarattığı gibi yeni
   Türkiye'yi yarattığını söyledi.
 caveat: >-
-  Toksoy'daki gazete adları fonetiktir; tespit notun kendisine aittir ve 'presumably' olarak işaretlenmiştir.
+  Toksoy'daki gazete adları fonetik olarak yazılmıştır; kimlik tespiti bu nota aittir ve 'muhtemelen'
+  ('presumably') kaydıyla işaretlenmiştir. Türkçe metin makalede basıldığı şekliyledir (s. 169, dn. 97);
+  gazetenin sözlerinin Türk basını tarafından aktarımıdır.
 mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_note: >-
+  Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca
+  İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 6671c1696d85
   role: c04b0118726f
-  quote: 562fb2863b2c
+  quote: 77bd13a6c85d
   summary: cfdcb76fc194
-  caveat: 6b72326fd98c
+  caveat: 955918d222e9
   mediated_by: aa5a462e96c0
   verification_method: 939bb46a04c3
+  verification_note: 34527eb75960

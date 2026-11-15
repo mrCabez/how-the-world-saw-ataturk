@@ -17,12 +17,18 @@ summary: >-
   Said he saved Turkey by arms and created the new Turkey as Washington created the United States.
 quote:
   text: >-
+    Atatürk Türkiye’yi, silah kuvvetiyle kurtarmış ve Washington’un Birleşik Amerika’yı yaratması gibi yeni
+    Türkiye’yi yaratmıştır. Atatürk’ün eseri hatta beynelmilel büyük işlerde de tesirini göstermiştir
+  language: tr
+  translation: >-
     Atatürk saved Turkey by force of arms and created the new Turkey as Washington created the United States;
     his work has shown its effect even in great international affairs
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
 caveat: >-
-  Paper titles in Toksoy are phonetic; identification is the note's own and marked 'presumably'.
+  Paper titles in Toksoy are phonetic; identification is the note's own and marked 'presumably'. The Turkish
+  is as the article prints it (p. 169, fn 97); it is the Turkish press's rendering of the paper's words.
 node: Warsaw Compares Him to Washington, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -34,4 +40,7 @@ verification:
     sources/toksoy-2006-atatürk-yolu-european-press.txt (Polish section: İllustrovvany Kurjer Codzienny,
     Washington comparison)
   method: local
+  note: >-
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"

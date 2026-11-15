@@ -4,23 +4,27 @@
 id: onni-talas-1938
 voice: Onni Talas
 role: Finlandiya'nın Ankara büyükelçisi
-quote: Bu büyük adam yalnızca Türk milletine değil, tüm insanlığa aitti.
-quote_kind: translated
+quote: Bu büyük adam yalnız Türk milletinin değil bütün insanlığın malıydı.
+quote_kind: original-turkish
 summary: >-
   Türkler kadar kederlendi; Türkiye'de görülen ilerlemeyi, özellikle ekonomiyi övdü ve Fin-Türk ekonomik
   ilişkilerinin iyi olmasını umdu.
 caveat: >-
-  Toksoy'un açımlaması: modernleşen bir ekonominin ne satın alabileceğini soran küçük bir ticaret devleti.
+  Toksoy'un yorumu: modernleşen bir ekonominin ne satın alabileceğini soran küçük bir ticaret devleti. Türkçe
+  metin makalede basıldığı şekildedir (s. 166, dn. 96); gazetenin sözlerinin Türk basını tarafından aktarılmış
+  halidir.
 mediated_by: Toksoy 2006 (CTAD) ← Ulus 7 Aralık 1938
-verification_note: Türkçeden çevrildi; açıklama 7 Aralık tarihli Ulus'ta yayımlandı.
+verification_note: >-
+  Türkçeden çevrilmiştir; açıklama 7 Aralık tarihli Ulus gazetesinde yer almıştır. Türkçe metin 16 Kasım
+  2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2c306028bf1b
   role: 4f6db4f90b64
-  quote: 9870fd8a9a52
+  quote: c7b3cef6a51f
   summary: 7a0d6d9ce71d
-  caveat: 0255d1aa8036
+  caveat: 826a0e3b04d9
   mediated_by: a8eb3bcb8457
-  verification_note: aab38c780cbc
+  verification_note: 2afc2d99d456
   verification_method: 939bb46a04c3

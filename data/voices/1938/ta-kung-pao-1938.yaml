@@ -18,9 +18,18 @@ summary: >-
   former enemies; a vast void for Asia.
 quote:
   text: >-
-    A terrifying enemy of invaders, and the most reliable friend of any who renounced their designs.
-  language: en
+    Atatürk vatanını istilaya kalkan istilacıların korkunç bir düşmanı ve Türkiye aleyhindeki ihtiraslardan
+    vazgeçtikleri taktirde bunların en emin bir dostudur.
+  language: tr
+  translation: >-
+    Atatürk is a terrible enemy of the invaders who set out to invade his homeland and, should they give up
+    their ambitions against Turkey, their surest friend.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Toksoy 2010 §G Çin Basını (Turkish translation)
+caveat: >-
+  The Turkish is as the article prints it (p. 207, fn 126); it is the Turkish press's rendering of the paper's
+  words. The English before 16 Nov 2026 was a shortened paraphrase of it.
 node: Ta Kung Pao Mourns, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -32,5 +41,7 @@ verification:
     büyük bir boşluk"; "Atatürk vatanını istilaya kalkan istilacıların korkunç bir düşmanı ve ...
     vazgeçtikleri taktirde bunların en emin bir dostudur"
   method: local
-  note: Translated.
+  note: >-
+    Translated. The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote
+    was an English rendering alone.
   checked_on: "2026-10-29"

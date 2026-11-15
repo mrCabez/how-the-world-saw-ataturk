@@ -5,25 +5,30 @@ id: briva-zeme-1938
 voice: Brīvā Zeme
 role: Letonya yarı resmî günlük gazetesi (Ulmanis hükûmetinin yayın organı)
 quote: >-
-  Atatürk, çağımızın devlet adamlarının en büyüğü ve modern liderlik ilkesinin en dikkate değer temsilcisiydi.
-quote_kind: translated
+  Atatürk zamanımızdaki devlet adamlarının en büyüğü ve modern liderlik prensibinin en dikkate şayan
+  mümessiliydi.
+quote_kind: original-turkish
 summary: >-
   'Yüzyılları Aşan Adam'a tam sayfalar ayırdı: çağımızın en büyük devlet adamı, liderlik ilkesinin timsali,
   evrimden ziyade bir sıçrama.
 caveat: >-
-  Toksoy'daki gazete adları fonetiktir; yabancı dildeki asılları görülmemiştir; Türk basın özetlerince
-  özetlenmiştir. Gazetenin yarı resmî statüsü ve alıntılar Toksoy'un/Türk basınının aktarımıdır.
+  Toksoy'daki gazete adları fonetik olarak yazılmıştır; yabancı dildeki asılları görülmemiştir; Türkçe basın
+  özetleriyle özetlenmiştir. Gazetenin yarı resmi statüsü ve alıntılar Toksoy'un/Türk basınının aktarımıdır.
+  Türkçe metin makalede basıldığı şekildedir (s. 177, dn. 128); Türk basınının gazetenin sözlerini aktarım
+  biçimidir.
 mediated_by: >-
   Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
-verification_note: Letoncadan Türkçe çeviri; yarı resmî statüsü Toksoy tarafından belirtilmiştir.
+verification_note: >-
+  Letoncadan Türkçe çeviridir; yarı resmi statüsü Toksoy tarafından belirtilmiştir. Türkçe ifadeler 16 Kasım
+  2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir aktarımdan ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4a505cd3dccd
   role: a3c33f9f1ef9
-  quote: 1c4fa2aa14ae
+  quote: ce0892549471
   summary: 191049bd27ef
-  caveat: 6187d5dc36c7
+  caveat: 70465556f9f7
   mediated_by: 64e36ae2f40c
-  verification_note: e903c3e59db5
+  verification_note: 4d8a4f43f611
   verification_method: 939bb46a04c3

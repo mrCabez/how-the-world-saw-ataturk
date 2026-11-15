@@ -13,19 +13,17 @@ intensity: 1
 artifact: article
 evidence: S
 summary: Called him one of the rare geniuses.
-quote:
-  text: one of the rare geniuses
-  language: en
 mediated_by: >-
   Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
 caveat: >-
-  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural. The
+  article reports this in indirect speech (p. 200, fn 99), so there are no words of the paper's to quote;
+  until 16 Nov 2026 the record carried an English rendering of that sentence as a quote.
 node: Damascus and Beirut Weep, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: confirmed
-  quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.199 (Beyrut-Ennehar)
   method: local
   note: Turkish 'dünyanın çok nadir yetiştirdiği dâhilerden biri'; translated.

@@ -5,25 +5,28 @@ id: al-qabas-1938
 voice: Al-Qabas
 role: Şam gazetesi
 quote: >-
-  biz Suriyeliler acıyı bütün kalbimizle paylaşıyoruz; en büyük tesellimiz, büyük dâhinin çizdiği yolu
-  izlemektir
-quote_kind: translated
+  Türk vatanının yapıcısı, Türk şefkat ve azametinin yaratıcısı, insaniyetin en büyük hadimi Atatürk’ün ölümü
+  ile Türk milletinin duyduğu kedere Suriyeliler bütün kalpleriyle iştirak ederler. Kardeş milletin uğradığı
+  bu acı karşısında bizim en büyük tesellimiz büyük dâhinin çizdiği yolu takip etmektir
+quote_kind: original-turkish
 summary: Suriyeliler acıyı paylaşıyor; en iyi teselli büyük dâhinin çizdiği yolu izlemek.
 caveat: >-
-  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
-  transliterasyonları tahmine dayalıdır.
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının harf
+  çevirileri tahminidir. Türkçe metin makalede basıldığı gibidir (s. 201, dn. 104); gazetenin sözlerinin Türk
+  basınındaki aktarımıdır. 16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
 mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
 verification_note: >-
-  Türkçe çevirinin çevirisi; gazetenin Al-Qabas olarak teşhisi tahmine dayalıdır (Toksoy Elkabes/İlkabes
-  olarak verir).
+  Türkçe çevirinin çevirisidir; gazetenin Al-Qabas olarak teşhisi tahminidir (Toksoy Elkabes/İlkabes olarak
+  verir). Türkçe ifadeler 16 Kasım 2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca
+  İngilizce bir aktarımdı.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 16640c8d6dcc
   role: 96f73bf20938
-  quote: 1b4f7003edda
+  quote: a220082a0067
   summary: c00beaa3ce60
-  caveat: f8ae166de916
+  caveat: d91b5acab23d
   mediated_by: 0d9b58c49a68
-  verification_note: 009b2e85bd0b
+  verification_note: 1a109c8131e0
   verification_method: 939bb46a04c3

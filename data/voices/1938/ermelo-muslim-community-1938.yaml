@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ermelo-muslim-community-1938
+voice: Muslim community of Ermelo
+voice_type: collective
+role: Muslim community in the Transvaal, South Africa
+country: South Africa
+country_now: South Africa
+domain: religion
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Sent heartfelt sympathy on the death of 'their greatest reformers' and one of 'the ablest statesmen', and
+  asked God to bless his soul.
+quote:
+  text: their greatest reformers and one of the ablest statesmen
+  language: en
+caveat: >-
+  Radio telegram from Ermelo, Transvaal, handed in 11/11/38 15:35, to the president of the Turkish National
+  Assembly (vol. II, PDF p. 31, sheet 29). The form is typed in lower case: 'muslim community of ermelo
+  transvaal wishes to convey their heartfelt sympathy in the death of their greatest reformers and one of the
+  ablest statesmen kamal ataturk may allah bless his soul = muslim community'. The sentence takes 'their
+  greatest reformers' as plural; the form says so. A margin note says the addressee is probably Abdülhalik
+  Renda and that the telegram is filed in Istanbul. It is a separate telegram from the Transvaal Muslim
+  Association's of the same days (transvaal-muslim-association-1938).
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), vol. II, PDF p. 31
+    (sheet 29): the telegram form
+  method: rendered the PDF page as an image and read the form
+  note: >-
+    Read on the form on 16 Nov 2026 and entered then; no second reader has opened it yet. The header 'ermelo
+    143 37 11/11/38 15/35 via radio' gives the date.
+  checked_on: "2026-11-16"

@@ -4,26 +4,30 @@
 id: kristeligt-dagblad-1938
 voice: Kristeligt Dagblad
 role: Danimarka günlük gazetesi
-quote: Kılıcı kullanan kol asayı tutmaya layıktır; onun düsturu bozkurdun parolası oldu.
-quote_kind: translated
+quote: >-
+  Kılıç kullanan kol, ancak hâkimiyet asasını elinde tutmaya liyakat kesbeder. Dövizi bozkurtun şiarı olmuştur
+quote_kind: original-turkish
 summary: >-
   Her komployu ezen, harikalar yaratan biri; kılıç kullanan kol asaya layıktır, onun düsturu bozkurdun
   parolası oldu.
 caveat: >-
-  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
-  dildeki özgün metinler görülmemiştir.
+  Toksoy'daki gazete adları fonetik olarak yazılmıştır ve kimi zaman bozulmuştur; kimlik tespitleri tahmine
+  dayalıdır; yabancı dildeki asılları görülmemiştir. Türkçe metin makalede basıldığı şekliyledir (s. 179, dn.
+  134); gazetenin sözlerinin Türk basını tarafından aktarımıdır. 16 Kasım 2026 öncesindeki İngilizce metin
+  bunun kısaltılmış bir açımlamasıydı.
 mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 verification_note: >-
-  Alıntı Toksoy'un Türkçe çevirisinde bulundu. Pasaj tamamen övgü doludur; 'conflicted' kutupluluğu Toksoy'dan
-  anlaşılmamaktadır.
+  Alıntı Toksoy'un Türkçe çevirisinde bulunmuştur. Pasaj bütünüyle övgü doludur; 'çelişkili' ('conflicted')
+  yönelim Toksoy'daki metinden anlaşılmamaktadır. Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin
+  sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e89a34784df4
   role: e08a7b3845d0
-  quote: 329d3dc6f14c
+  quote: c386bbd8a9ac
   summary: 3caa785546e0
-  caveat: 1d0053d25711
+  caveat: 8713884b3d0c
   mediated_by: 272e58105c39
-  verification_note: 2f8783cdd4d9
+  verification_note: 6895b4843d69
   verification_method: 939bb46a04c3

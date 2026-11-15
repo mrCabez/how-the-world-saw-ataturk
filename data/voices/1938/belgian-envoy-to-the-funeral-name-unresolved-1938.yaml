@@ -17,13 +17,21 @@ summary: >-
   whole world.
 quote:
   text: >-
+    Atatürk'ü şahsen tanımakla bahtiyarım. Kendisine derin bir hürmetim vardır. Ben Ankara'da olduğum zaman
+    daima güneşe bakardım. Fakat ben güneşi ufukta değil, Çankaya'da görürdüm. Çünkü hakiki güneş Çankaya'daki
+    Atatürk denilen güneşti. Atatürk'ün kaybı yalnız Türkiye için değil, bütün dünya için büyük bir kayıptı
+  language: tr
+  translation: >-
     I have the good fortune to have known Atatürk personally. I have a deep respect for him. When I was in
     Ankara I always looked at the sun. But I did not see the sun on the horizon; I saw it in Çankaya. For the
     true sun was the sun called Atatürk in Çankaya. Atatürk's loss is a great loss not only for Turkey but for
     the whole world.
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 CTAD ← Akşam 20 Nov 1938 p. 3
-caveat: Name unstable in sources ('Roymond'/'Deryınon'), likely a single man; unresolved.
+caveat: >-
+  Name unstable in sources ('Roymond'/'Deryınon'), likely a single man; unresolved. The Turkish is as the
+  article prints it (p. 165, fn 94); it is the Turkish press's rendering of the paper's words.
 node: Brussels Stands, November 1938
 sources:
   - url: https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
@@ -35,5 +43,7 @@ verification:
     sources/toksoy-2006-ctad-foreign-representatives.txt fn94 "Çankaya'daki Güneş", Akşam 20 Nov 1938 p.3:
     former Belgian ambassador "Deryınon": quote verbatim in Turkish
   method: local
-  note: Quote is English translation of Toksoy Turkish (OCR "Çanlmya").
+  note: >-
+    Quote is English translation of Toksoy Turkish (OCR "Çanlmya"). The Turkish wording was read on the page
+    of the article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

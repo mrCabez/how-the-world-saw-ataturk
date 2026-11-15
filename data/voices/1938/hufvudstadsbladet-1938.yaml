@@ -17,11 +17,18 @@ summary: >-
   could not exist without him.
 quote:
   text: >-
+    Atatürk fevkalade bir devlet adamı, harp sonrası dünya tarihinin en önemli simalarından birisi idi.
+    Atatürk olmasa idi yeni Türkiye mevcut olamazdı
+  language: tr
+  translation: >-
     Atatürk was an extraordinary statesman, one of the most important figures of post-war world history.
     Without Atatürk the new Turkey could not exist.
-  language: en
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Kurun 14 Nov, Ulus 15 Nov, Cumhuriyet 16 Nov 1938
-caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen. The Turkish is as the
+  article prints it (p. 173, fn 114); it is the Turkish press's rendering of the paper's words.
 node: Helsinki and Stockholm, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -31,4 +38,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2006-atatürk-yolu-european-press.txt (Finlandiya, 'Hufvud Stadbladet')
   method: local
+  note: >-
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"

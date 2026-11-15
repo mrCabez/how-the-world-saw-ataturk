@@ -4,18 +4,26 @@
 id: indian-press-1938
 voice: Hint basını
 role: Britanya Hindistanı gazeteleri
-quote: Bağımsız Türkiye'nin Yaratıcısı, Asya Milliyetçiliğinin Kahraman-Havarisi
-quote_kind: translated
+quote: Bağımsız Türkiye’nin Yaratıcısı, Asya’nın Kahraman Milliyetçilik Havarisi
+quote_kind: original-turkish
 summary: >-
   Onu tüm Asya halklarına ilerleme ve bağımsızlık yolunu gösteren, bağımsız Türkiye'nin yaratıcısı ve Asya
   milliyetçiliğinin kahraman-havarisi olarak nitelendirdi.
+caveat: >-
+  Türkçe metin makalede basıldığı şekliyledir (s. 206, dn. 125); gazetenin sözlerinin Türk basını tarafından
+  aktarımıdır.
 mediated_by: Toksoy 2010 ← Doğaner, Atatürk Dergisi IV/4 (2005)
+verification_note: >-
+  Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca
+  İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: f24fd3c4d46a
   role: 5d19f13e9d77
-  quote: 605ed4d8c78d
+  quote: d814c96efa9a
   summary: 9767be53e90a
   mediated_by: 11e3a39cc51d
   verification_method: 939bb46a04c3
+  caveat: 408e08031ff5
+  verification_note: 34527eb75960

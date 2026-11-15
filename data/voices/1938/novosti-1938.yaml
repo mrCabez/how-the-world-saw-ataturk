@@ -16,10 +16,15 @@ summary: >-
   Under 'The Death of the Great Ally' called him Yugoslavia's greatest friend and surest support of
   Balkan-pact policy.
 quote:
-  text: Atatürk's genius did what a sultanate could not do in five centuries
-  language: en
+  text: Atatürk’ün dehası, saltanatın beş asırdır yapamadığını yaptı.
+  language: tr
+  translation: Atatürk's genius did what a sultanate could not do in five centuries
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
-caveat: Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen.
+caveat: >-
+  Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen. The Turkish is as the article prints it
+  (p. 197, fn 88); it is the Turkish press's rendering of the paper's words.
 node: Yugoslav Press, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -31,5 +36,7 @@ verification:
     "Atatürk'ün dehası, saltanatın beş asırdır yapamadığını yaptı. En büyük dostumuz ve en sadık
     müttefikimiz... Balkan anlaşmaları politikasının en emin bir desteği idi"
   method: local
-  note: Translated.
+  note: >-
+    Translated. The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote
+    was an English rendering alone.
   checked_on: "2026-10-29"

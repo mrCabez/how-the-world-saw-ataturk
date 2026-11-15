@@ -17,9 +17,15 @@ summary: >-
   Called him creator of independent Turkey and hero-apostle of Asian nationalism, showing all Asian peoples
   the road to progress and independence.
 quote:
-  text: the Creator of Independent Turkey, the Hero-Apostle of Asian Nationalism
-  language: en
+  text: Bağımsız Türkiye’nin Yaratıcısı, Asya’nın Kahraman Milliyetçilik Havarisi
+  language: tr
+  translation: the Creator of Independent Turkey, the Hero-Apostle of Asian Nationalism
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2010 ← Doğaner, Atatürk Dergisi IV/4 (2005)
+caveat: >-
+  The Turkish is as the article prints it (p. 206, fn 125); it is the Turkish press's rendering of the paper's
+  words.
 node: India Mourns, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -30,4 +36,7 @@ verification:
     sources/toksoy-2010-balkan-mideast-press.txt §Hindistan: "Bağımsız Türkiye'nin Yaratıcısı, Asya'nın
     Kahraman Milliyetçilik Havarisi" (after Doğaner)
   method: local
+  note: >-
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"

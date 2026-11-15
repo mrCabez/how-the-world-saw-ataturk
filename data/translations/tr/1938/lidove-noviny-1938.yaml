@@ -4,22 +4,23 @@
 id: lidove-noviny-1938
 voice: Lidové noviny
 role: Çek günlük gazetesi
-quote: demir iradenin vücut bulmuş hâli
-quote_kind: translated
 summary: >-
   Savaş sonrası dünyanın en değerli şahsiyetlerinden biri ve yapıcı bir vatansever; Türkiye'nin yeniden doğuşu
   modern tarihin en büyük olaylarından biri.
 caveat: >-
-  Toksoy'daki gazete adları fonetik yazılmıştır; kimlik tespiti 'muhtemelen' şeklindedir; yabancı dildeki
-  asılları görülmemiştir.
+  Toksoy'daki gazete adları fonetiktir; tespiti 'muhtemelen' kaydıyladır; yabancı dildeki asılları
+  görülmemiştir. Makale bunu dolaylı anlatımla aktarmaktadır (s. 173: 'Lidove Novini gazetesi, Atatürk’ün
+  savaştan sonraki âlemin en kıymetli simaları arasında yer aldığını, O’nun yapıcı karaktere sahip olan büyük
+  bir vatansever ve demirden iradenin timsali olduğunu belirtmiştir.'), dolayısıyla gazetenin doğrudan
+  alıntılanacak sözleri yoktur; 16 Kasım 2026'ya kadar kayıtta o cümlenin İngilizce çevirisi alıntı olarak yer
+  almaktaydı.
 mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 6deaf2e88802
   role: 43d2e5814e98
-  quote: 11e22f5b1c1c
   summary: 607b6aaca48a
-  caveat: 01e06cd8e0c3
+  caveat: fe8db30b6d41
   mediated_by: a785c4953be0
   verification_method: 939bb46a04c3

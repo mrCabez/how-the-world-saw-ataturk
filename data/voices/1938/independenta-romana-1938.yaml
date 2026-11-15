@@ -14,10 +14,20 @@ artifact: article
 evidence: S
 summary: Said he would remain an organizing genius in history, leader and rescuer of a nation.
 quote:
-  text: an organizing genius in history, the leader and rescuer of a nation
-  language: en
+  text: >-
+    Atatürk tarihte teşkilatçı bir dahi, bir milletin harikalar yaratan sevk ve idarecisi ve memleketinin
+    kurtarıcısı olarak kalacaktır
+  language: tr
+  translation: >-
+    Atatürk will remain in history as an organising genius, the wonder-working guide and director of a nation,
+    and the saviour of his country.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Toksoy 2010 (Romanian originals not seen)
-caveat: Romanian originals not seen; translated from Toksoy's Turkish.
+caveat: >-
+  Romanian originals not seen; translated from Toksoy's Turkish. The Turkish is as the article prints it (p.
+  195, fn 77); it is the Turkish press's rendering of the paper's words. The English before 16 Nov 2026 was a
+  shortened paraphrase of it.
 node: Romania Hangs the Black Flags, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -26,5 +36,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Romanya basini, Independance Romaine, fn.77)
   method: local
-  note: Translated from Turkish; faithful
+  note: >-
+    Translated from Turkish; faithful. The Turkish wording was read on the page of the article on 16 Nov 2026;
+    until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

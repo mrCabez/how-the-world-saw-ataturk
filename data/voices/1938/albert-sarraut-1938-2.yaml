@@ -16,14 +16,18 @@ summary: >-
   Led France's funeral delegation; a former ambassador in Ankara, he told the Turkish press he had felt 'deep
   admiration' for Atatürk ever since.
 quote:
-  text: I felt admiration and affection for him
-  language: en
+  text: Ona karşı hayranlık ve sevgi besliyordum.
+  language: tr
+  translation: I felt admiration and affection for him
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: >-
   Toksoy 2006 (Ulus 15 Nov 1938; Aksam 20 Nov 1938) ; Tüylü Turan 2019 (Spanish press); Havas via Delpher
 caveat: >-
   Quote and 'deep admiration' are English renderings of Toksoy's Turkish summaries of Sarraut's statements.
   The 'courtship of Ankara' reading belongs to a Dutch daily, not to Sarraut. Tüylü Turan 2019 not read
-  directly.
+  directly. The Turkish is as the article prints it (p. 151, fn 26); it is the Turkish press's rendering of
+  the paper's words.
 node: Albert Sarraut
 sources:
   - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
@@ -42,6 +46,7 @@ verification:
   note: >-
     Delegation lead supported. 'Instrumental / courtship of Ankara' is the note's reading; Toksoy fn.59 quotes
     Sarraut's stated 'deep admiration' for Ataturk, so polarity instrumental is unsupported. Tuylu Turan 2019
-    not read.
+    not read. The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was
+    an English rendering alone.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
   checked_on: "2026-10-29"

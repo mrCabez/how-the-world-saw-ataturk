@@ -4,13 +4,16 @@
 id: le-soir-1938
 voice: Le Soir
 role: Belçika günlük gazetesi
-quote: o kadar büyüktür ki dünya onların karşısında hâlâ hayret içindedir
-quote_kind: translated
 summary: >-
   Lozan'ın önemini ve dünyanın karşısında hâlâ hayret içinde olduğu bu denli büyük, olağanüstü reformlarını
   vurguladı.
 caveat: >-
-  Toksoy'daki gazete adları fonetik yazılmıştır ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir. Makale
+  bunu dolaylı anlatımla aktarmaktadır (s. 172, dn. 108: 'Soir gazetesi, özellikle Lozan Antlaşması’nın
+  önemini vurgulamış, Atatürk’ün olağanüstü ıslahat ve inkılâplarından bahsederek, bu inkılâpların son derece
+  büyük olduğunu ve bu büyüklük karşısında dünyanın hala hayret içerisinde bulunduğunu yazmıştır108.'),
+  dolayısıyla gazetenin doğrudan alıntılanacak sözleri yoktur; 16 Kasım 2026'ya kadar kayıtta o cümlenin
+  İngilizce çevirisi alıntı olarak yer almaktaydı.
 mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
 verification_note: Alıntı, Toksoy'un Soir açımlamasıdır; aslına sadıktır
 verification_method: yerel
@@ -18,9 +21,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: f452ce447abd
   role: 2267de4d9b70
-  quote: f3ac67310a0f
   summary: b7abc56b61fb
-  caveat: ecc719a2a575
+  caveat: ba2d8ca5c8e4
   mediated_by: 781a20fcb527
   verification_note: acda6d8b4df4
   verification_method: 939bb46a04c3

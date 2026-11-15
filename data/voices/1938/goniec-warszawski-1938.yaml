@@ -16,9 +16,15 @@ summary: >-
   Called his death an event of international character; in fifteen years he modernised Turkey, its army and
   its foreign policy.
 quote:
-  text: an event of international character
-  language: en
+  text: Atatürk’ün ölümü enternasyonal mahiyette bir hadisedir.
+  language: tr
+  translation: an event of international character
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+caveat: >-
+  The Turkish is as the article prints it (p. 169, fn 96); it is the Turkish press's rendering of the paper's
+  words.
 node: Warsaw Compares Him to Washington, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -29,5 +35,7 @@ verification:
   checked_against: >-
     sources/toksoy-2006-atatürk-yolu-european-press.txt sec. Polonya (Kurun quoting Goniec Warszawski, fn.96)
   method: local
-  note: Quote text sits in Kurun's report of Goniec; second-hand but as stated.
+  note: >-
+    Quote text sits in Kurun's report of Goniec; second-hand but as stated. The Turkish wording was read on
+    the page of the article on 16 Nov 2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

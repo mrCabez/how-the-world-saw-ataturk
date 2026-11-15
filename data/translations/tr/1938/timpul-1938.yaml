@@ -5,23 +5,28 @@ id: timpul-1938
 voice: Timpul
 role: Bükreş günlük gazetesi
 quote: >-
-  Hiçbir zaman ödül ya da minnet beklemedim… çiçekleri büyük bir sevgiyle yetiştiren ve onlardan hiçbir şey
-  istemeyen bir bahçıvan gibi.
-quote_kind: translated
+  Hiç bir zaman mükâfat ve minnettarlık beklemedim. Belki çiçeklerden hiçbir şey beklemeyerek onları büyük bir
+  aşk ve şevkle yetiştiren bir bahçıvan gibi ben de milletime kuvvetli ve mesut bir hayat vererek onun
+  çiçeklendiğini görmek istedim.
+quote_kind: original-turkish
 summary: >-
   'Yeni Türkiye'nin Kurucusu Öldü' başlığı altında, Atatürk'ün kendisini hiçbir ödül istemeyen bir bahçıvana
   benzettiği daha önceki bir söyleşiyi yayımladı.
-caveat: Söyleşinin kaynağı tespit edilmemiştir; Rumence asılları görülmemiştir.
+caveat: >-
+  Mülakatın kaynağı tespit edilememiştir; Rumence asılları görülmemiştir. Türkçe metin makalede basıldığı
+  gibidir (s. 194, dn. 73); gazetenin sözlerinin Türk basınındaki aktarım biçimidir.
 mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
-verification_note: Rumence aslı görülmemiştir; Türkçe çeviri örtüşmektedir.
+verification_note: >-
+  Rumence aslı görülmemiştir; Türkçe çevirisi örtüşmektedir. Türkçe ifadeler 16 Kasım 2026'da makalenin
+  sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 57fd7bda4019
   role: f208d42b916b
-  quote: 10a45f99bb74
+  quote: 8af65abd3e15
   summary: 686945ca6f3c
-  caveat: 57d38c95a340
+  caveat: 35bf350122cc
   mediated_by: 374a97c5054a
-  verification_note: 827f62ba7bf1
+  verification_note: 673af23aa9e0
   verification_method: 939bb46a04c3

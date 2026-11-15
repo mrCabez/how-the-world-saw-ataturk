@@ -1,0 +1,33 @@
+# Turkish for data/voices/1938/ermelo-muslim-community-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ermelo-muslim-community-1938
+voice: Ermelo Müslüman Cemaati
+role: Güney Afrika'nın Transvaal bölgesindeki Müslüman cemaati
+quote: en büyük reformcuları ve en yetenekli devlet adamlarından biri
+quote_kind: translated
+summary: >-
+  'En büyük reformcuları' ve 'en yetenekli devlet adamlarından biri'nin vefatı üzerine içten taziyelerini
+  iletti ve Allah'tan ruhuna rahmet diledi.
+caveat: >-
+  Transvaal, Ermelo'dan Türkiye Büyük Millet Meclisi Başkanına gönderilen ve 11/11/38 saat 15:35'te teslim
+  edilen telsiz telgraf (c. II, PDF s. 31, yaprak 29). Form küçük harflerle daktilo edilmiştir: 'muslim
+  community of ermelo transvaal wishes to convey their heartfelt sympathy in the death of their greatest
+  reformers and one of the ablest statesmen kamal ataturk may allah bless his soul = muslim community'.
+  Cümlede 'their greatest reformers' ifadesi çoğul olarak yer almaktadır; formda bu şekilde yazılıdır. Kenar
+  notunda, muhatabın muhtemelen Abdülhalik Renda olduğu ve telgrafın İstanbul'da dosyalandığı
+  belirtilmektedir. Aynı günlerde Transvaal Müslüman Cemiyeti tarafından gönderilen telgraftan
+  (transvaal-muslim-association-1938) ayrı bir telgraftır.
+verification_note: >-
+  16 Kasım 2026'da form üzerinden okundu ve o sırada kaydedildi; henüz ikinci bir okuyucu tarafından
+  incelenmedi. Tarihi veren üstbilgi şöyledir: 'ermelo 143 37 11/11/38 15/35 via radio'.
+verification_method: PDF sayfası görüntüye dönüştürüldü ve form okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 51adae77eb31
+  role: 175bcbaeec61
+  quote: b85c60538aca
+  summary: c7b28218881e
+  caveat: 34dcac32880c
+  verification_note: 963799daf4f3
+  verification_method: 8f62f5f2163e

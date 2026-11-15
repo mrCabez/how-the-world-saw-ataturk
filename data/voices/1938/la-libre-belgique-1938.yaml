@@ -16,10 +16,16 @@ summary: >-
   Said his work raised Turkey's status, prestige and authority; no statesman served his nation so greatly in
   so short a time.
 quote:
-  text: no statesman has given his nation such great service in so short a time
-  language: en
+  text: >-
+    Atatürk kadar milletine bu kadar az zamanda bu derece büyük hizmet eden devlet adamı yoktur
+  language: tr
+  translation: no statesman has given his nation such great service in so short a time
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Toksoy 2006 ← Akşam 12 Nov 1938 p. 2 / Ayın Tarihi Nov 1938
-caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen. The Turkish is as the
+  article prints it (p. 172, fn 110); it is the Turkish press's rendering of the paper's words.
 node: Brussels Stands, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592
@@ -29,4 +35,7 @@ verification:
   quote_found: true
   checked_against: sources/toksoy-2006-atatürk-yolu-european-press.txt (Belcika, 'Libre Begique', fn.110)
   method: local
+  note: >-
+    The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an
+    English rendering alone.
   checked_on: "2026-10-29"
