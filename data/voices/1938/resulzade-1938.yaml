@@ -6,24 +6,40 @@ role: Azerbaijani émigré leader (Warsaw)
 country: Azerbaijan (émigré in Poland)
 country_now: Azerbaijan
 domain: politics
-date: "1938-11"
+date: "1938-11-10"
 era: funeral
 polarity: witness
 intensity: 1
 artifact: telegram
 evidence: P
-summary: Sent condolences in the name of National Azerbaijan.
+summary: >-
+  Cabled from Warsaw on the day of the death, sharing 'brotherly Turkey's great mourning' in the name of
+  National Azerbaijan.
+quote:
+  text: Kardeş Türkiye'nin büyük matemine Milli Azerbaycan adına candan teessürle iştirak ederim
+  language: tr
+  translation: >-
+    In the name of National Azerbaijan I share, with heartfelt sorrow, in the great mourning of brotherly
+    Turkey
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Gist limited to the sender's capacity; no stated view beyond mourning. Fuller in his own note if exists.
+  Radio telegram from Warsaw (address Kielecka 36), handed in on the 10th at 17:21 and postmarked Ankara
+  10-11-1938, the day he died. The form prints it in capitals without Turkish letters: 'KARDES TURKIYENIN
+  BUYUK MATEMINE MILLI AZERBAYCAN ADINA CANDAN TEESSURLE ISTIRAK EDERIM = MEHMET EMIN RESULZADE'. No stated
+  view beyond mourning. His article of the same month is a separate record (mehmed-emin-resulzade-1938).
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
     archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
 verification:
-  verdict: paraphrase-ok
+  verdict: confirmed
+  quote_found: true
   checked_against: >-
-    a local working file telegram Warszawa: "KARDES TURKIYENIN BUYUK MATEMINE MILLI AZERBAYCAN ADINA CANDAN
-    TEESSURLE ISTIRAK EDERIM - MEHMET EMIN RESULZADE"
-  method: local
-  note: Day/month in telegram header OCR-garbled.
-  checked_on: "2026-10-29"
+    TBMM volume of the condolence telegrams (acikerisim.tbmm.gov.tr/handle/11543/2467), first PDF, p. 34
+    (sheet numbered 32): the telegram form
+  method: rendered the PDF page as an image and read the form
+  note: >-
+    Text, signature and address read on the form on 16 Nov 2026. Its header 'WARSZAWA 93 28 10 1721' and the
+    Ankara postmark '10-11-1938' give the date, which the OCR had garbled. The quote is in ordinary Turkish
+    spelling; the form itself has no ç, ş, ü or ı.
+  checked_on: "2026-11-16"

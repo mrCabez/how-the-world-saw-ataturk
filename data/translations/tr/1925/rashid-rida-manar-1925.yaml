@@ -1,0 +1,40 @@
+# Turkish for data/voices/1925/rashid-rida-manar-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-manar-1925
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: >-
+  Onların mülhitlerinin fikri, içlerinden dindar olanları kendi sözlerinden, teliflerinden ve
+  düzenlemelerinden ibaret olan Türkçe tercüme vasıtasıyla yüce Allah'ın kelamından uzaklaştırmak amacıyla
+  uzun yıllar önce bu işe yönelmişti
+quote_kind: translated
+summary: >-
+  Ankara'nın Türkçe Kur'an'a verdiği açık desteği, buradaki 'mülhitlerin' dindarları Allah'ın Arapça
+  kelamından uzaklaştırma tertibi olarak nitelendirdi.
+caveat: >-
+  al-Manar c. 25, cüz 10, s. 794, 'ترجمة القرآن وتحريف ترجمة له والتشكيك فيه' (Kur'an'ın tercümesi, bir
+  tercümesinin tahrifi ve onun hakkında şüphe uyandırılması) başlığı altında. Bir önceki cümle 'bu iş'in ne
+  olduğunu belirtir: 'مجاهرة الحكومة التركية الانقروية بالمساعدة على ترجمة القرآن الكريم ونشرها باللغة
+  التركية' (Ankara'daki Türk hükümetinin Kur'an-ı Kerim'in tercümesine ve Türkçe olarak yayımlanmasına açıktan
+  yardımda bulunması); bu, İslam dünyası için en önemli olarak nitelendirdiği üç olaydan ilkidir. Ankara
+  hükümetinden ve onun 'mülhitlerinden' söz eder, Mustafa Kemal'in adını anmaz. Cüzün iç kapağı 30 Şaban 1343
+  / 25 Mart 1925 tarihlidir. Epigrafında Arapçadaki 'فكرة ملاحدتهم' yerine 'their heretical idea' ifadesine
+  yer veren Wilson 2009 (IJMES 41), sayfayı cildin yılı olan 1924 altında zikreder; sayfa okunana kadar bu
+  kayıtta da aynı şekilde yer almıştı. Wilson, Mustafa Kemal'in bu tercümelerde hiçbir dahli olmadığını
+  gösterir; Rıza'nın okuması hatalıydı. archive.org PDF'inde sayfa numarası 599'dur.
+verification_note: >-
+  Pasaj 16 Kasım 2026'da sayfa üzerinden okundu. 10. cüzün iç kapağında '٣٠ شعبان سنة ١٣٤٣ … ٢٥ مارس سنة ١٩٢٥'
+  yazdığından kayıt 1924'ten 1925'e, kimliği (id) ise rashid-rida-1924'ten bu kimliğe taşındı. Bundan önce
+  alıntı, 29 Ekim 2026'da yalnızca Wilson üzerinden kontrol edilmiş olan Wilson 2009'daki üç İngilizce
+  kelimeden ('their heretical idea') ibaretti.
+verification_method: PDF indirildi, sayfalar görüntü olarak işlendi ve Arapça metin okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: 28ddbdbe98a0
+  summary: dfba1c61d85d
+  caveat: 3b59098e1c02
+  verification_note: fe6ca6f6b844
+  verification_method: d16f4dc31877

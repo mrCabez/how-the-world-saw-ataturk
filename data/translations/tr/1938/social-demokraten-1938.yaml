@@ -2,7 +2,7 @@
 # source_fingerprints: which English each field was translated from. Leave them as they are.
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: social-demokraten-1938
-voice: Social-Demokraten
+voice: Social-Demokraten (Kopenhag)
 role: Danimarka günlük gazetesi
 summary: Hiçbir devletin beklemediğini yaptı ve 'hasta adam'dan güçlü bir ülke yarattı.
 caveat: >-
@@ -10,15 +10,16 @@ caveat: >-
   asılları görülmemiştir.
 mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
 verification_note: >-
-  Toksoy bunu Danimarka bölümüne koymaktadır (Akşam, 16 Kasım); İsveç bölümünde ikinci bir Social Demokraten
-  kaydı yer almaktadır; ülke aidiyeti belirsiz olabilir.
+  Toksoy bunu Danimarka pasajında (Akşam 16 Kasım) Börsen, 'Cristelig Dagblat' ve 'National Tidence' ile
+  birlikte verir; dolayısıyla bu, Kopenhag'da çıkan günlük gazetedir. Onun İsveç pasajındaki Social Demokraten
+  ise aynı adlı Stockholm gazetesidir ve ayrı bir kayıttır (social-demokraten-1938-sw).
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
-  voice: 13bef194640f
+  voice: 011d70aaef61
   role: e08a7b3845d0
   summary: 62067242e4d8
   caveat: 1d0053d25711
   mediated_by: 272e58105c39
-  verification_note: 7d5a60cb7b73
+  verification_note: 1c2fdd2fe2c6
   verification_method: 939bb46a04c3

@@ -19,11 +19,11 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 | | |
 |---|---|
 | Kayıtlar | 986 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 806 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 807 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 205 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 861 |
-| İngilizce olmayan alıntılar | 422; her birinin İngilizce çevirisi var: 409'u makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 863 |
+| İngilizce olmayan alıntılar | 426; her birinin İngilizce çevirisi var: 413'ü makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
 | Kayıtlı kaynak doğrulaması bulunan kayıtlar | 986 (tümü) |
 | Türkçe çeviri dosyası bulunan kayıtlar | 986 (tümü) |
 
@@ -31,9 +31,9 @@ Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 791 | %80 |
-| `partial` | 97 | %10 |
-| `paraphrase-ok` | 58 | %6 |
+| `confirmed` | 793 | %80 |
+| `partial` | 96 | %10 |
+| `paraphrase-ok` | 57 | %6 |
 | `secondary-only` | 32 | %3 |
 | `unreachable` | 3 | %1'in altında |
 | `not-found` | 3 | %1'in altında |
@@ -80,7 +80,7 @@ Bir söz önerebilir, bir hata bildirebilir, bir kaydı kaynağıyla karşılaş
 
 **Nereden başlayacağınızı mı düşünüyorsunuz?** Aşağıdakilerin hiçbiri özel bir erişim ya da yazılım gerektirmez:
 
-- **Bir İngilizce çeviriyi özgün metniyle karşılaştırın.** 30 dilde 409 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı; en kalabalık gruplar Türkçe, Fransızca, Almanca, Felemenkçe, Çince, İspanyolca, Arapça ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Bir İngilizce çeviriyi özgün metniyle karşılaştırın.** 30 dilde 413 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı; en kalabalık gruplar Türkçe, Fransızca, Almanca, Felemenkçe, Çince, İspanyolca, Arapça ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Bir Türkçe çeviriyi İngilizcesiyle karşılaştırın** ve kulağa yanlış geleni düzeltin. Türkçe metinlerin tamamı makine çevirisidir ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Bir kaynağı yeniden açın ve orada ne yazdığını bildirin.** Her kaydın ikinci bir okura ihtiyacı var; [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formu birkaç dakikanızı alır. Üç kayıt ise hiç açamadığımız bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - **Var olduğunu bildiğimiz ama ulaşamadığımız bir metni bulun:** Cinnah'ın Atatürk'ün ölümü üzerine açıklaması ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Roncalli'nin günlüğü ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze'nin Ankara günlüğü ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). Bu türden başka ipuçları [`research/candidates/`](research/candidates/) klasöründe ve [`research/HUNT.md`](research/HUNT.md) dosyasının "Open leads that need a person" başlığı altında.

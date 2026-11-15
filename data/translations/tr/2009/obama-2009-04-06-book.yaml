@@ -12,13 +12,17 @@ summary: >-
   'Vizyonu, azmi ve cesareti' Türkiye'yi demokrasi yoluna koyan ve mirası nesillere ilham veren Atatürk'ü
   saygıyla anar.
 caveat: >-
-  İngilizce yazılmış bir metnin Türkçe çevirisi. Habertürk ve T24 aynı ifadeleri yayımlar; Dengegazetesi (6
-  Nisan 2009) daha serbest bir versiyon ('Vizyonu, ısrarı ve cesareti, ...') verir, dolayısıyla tam İngilizce
-  metin buradan sabitlenemez. Yazı, devamında 'Yurtta barış, dünyada barış' ilkesine atıfta bulunur ve
-  Atatürk'ün modern, müreffeh bir demokrasi olarak Türkiye vizyonuna destek sözü verir. Aynı günkü Meclis
-  konuşmasından (obama-2009 kaydı) ayrı bir belgedir. İngilizce özgün metin AP'den (San Diego Union-Tribune;
-  Hürriyet Daily News) alınmıştır.
-mediated_by: Habertürk, Dengegazetesi ve T24, 6 Nisan 2009 (kaydın Türkçe çevirileri)
+  İngilizce metin, o günkü ajans haberlerinin verdiği şekliyle defter yazısıdır; defterin sayfası
+  görülmemiştir. Bloomberg (Chen ve Nichols) ziyaretçi defterinde yazılı haliyle 'I am honored to pay tribute
+  to Mustafa Kemal Ataturk' ve 'legacy continues to inspire generations around the world' ifadelerini aktarır;
+  Hürriyet Daily News ise dolaylı anlatımla özetler ('man with vision, tenacity and courage who put Turkey on
+  the path of democracy'). Habertürk ve T24 yazının tamamını tek bir Türkçe çeviriyle yayımlar; Dengegazetesi
+  daha serbest bir çeviri verir. Yazı, 'Ataturk's vision of Turkey as a modern and prosperous democracy' için
+  destek sözü vererek devam eder ve 'peace at home, peace in the world' ile sona erer. Aynı gün Meclis'te
+  yaptığı konuşma ayrı bir kayıttır (obama-2009).
+mediated_by: >-
+  AP ve Bloomberg, 6 Nisan 2009 (ajans muhabirlerinin verdiği şekliyle defter yazısı); Habertürk ve T24
+  (yazının tamamı Türkçe olarak)
 verification_note: >-
   Türkçe alıntı Habertürk ve T24'te birebir aynı olup Anıtkabir Özel Defteri'ne atfedilmiştir; 6 Nisan 2009
   tarihi doğrudur. Habertürk ve T24 birebir aynı metni yayımladığından birbirinden bağımsız değildir. ÖZGÜN
@@ -39,7 +43,7 @@ source_fingerprints:
   role: 63b5ff51972f
   quote: 1fc0cd49ab6a
   summary: 80d968ee8e44
-  caveat: 6792ca69bbcb
-  mediated_by: e4261455a31c
+  caveat: d684ec8b204c
+  mediated_by: bef056812605
   verification_note: 33e94577f2f8
   verification_method: d68d3c4a708a

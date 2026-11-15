@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-manar-1925
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1925-03-25"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Called Ankara's open backing for a Turkish Qur'an a scheme of its 'heretics' to draw believers away from the
+  Arabic word of God.
+quote:
+  text: >-
+    وكانت توجهت فكرة ملاحدتهم الى هذا العمل منذ سنين كثيرة لاجل صرف أهل الدين منهم بالترجمة التركية التي هي من
+    كلامهم وتأليفهم ونظامهم عن كلام الله تعالى
+  language: ar
+  translation: >-
+    The thinking of their heretics had turned to this work many years ago, in order to turn the religious
+    among them, by a Turkish translation that is of their own words, composition and arrangement, away from
+    the word of God Most High
+  translated_by: "machine: claude-fable-5-2"
+caveat: >-
+  al-Manar vol. 25, part 10, p. 794, under the heading 'ترجمة القرآن وتحريف ترجمة له والتشكيك فيه' (The
+  translation of the Qur'an, the distortion of a translation of it, and the casting of doubt on it). The
+  sentence before says what 'this work' is: 'مجاهرة الحكومة التركية الانقروية بالمساعدة على ترجمة القرآن
+  الكريم ونشرها باللغة التركية' (the Turkish government at Ankara openly helping to translate the Noble Qur'an
+  and to publish it in Turkish), the first of three events he calls the most important for the Muslim world.
+  He speaks of the Ankara government and its 'heretics' and does not name Kemal. The title page of the part is
+  dated 30 Sha'ban 1343 / 25 March 1925. Wilson 2009 (IJMES 41), whose epigraph has 'their heretical idea'
+  where the Arabic has 'فكرة ملاحدتهم', cites the page under the volume's year, 1924, and this record did the
+  same until the page was read. Wilson shows Kemal had no hand in the translations; Rida's reading was
+  mistaken. In the archive.org PDF the page is no. 599.
+node: Rashid Rida
+sources:
+  - url: https://archive.org/details/Almanar
+    label: al-Manar, vol. 25 (scan on archive.org)
+    citation: al-Manar, vol. 25, part 10 (30 Sha'ban 1343 / 25 March 1925), p. 794
+    accessed: "2026-11-16"
+  - url: https://cambridge.org/core/journals/international-journal-of-middle-east-studies/article/first-translations-of-the-quran-in-modern-turkey-192438/05D8453EF5E1169BD777129F0237565B
+    archived: https://web.archive.org/web/20180608082111/https://cambridge.org/core/journals/international-journal-of-middle-east-studies/article/first-translations-of-the-quran-in-modern-turkey-192438/05D8453EF5E1169BD777129F0237565B
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    al-Manar vol. 25 (archive.org/download/Almanar/almanar25.pdf): PDF p. 599 = printed p. 794; PDF p. 536 =
+    printed p. 721, the title page of part 10
+  method: downloaded the PDF, rendered the pages as images and read the Arabic
+  note: >-
+    The passage was read on the page on 16 Nov 2026. The title page of part 10 reads '٣٠ شعبان سنة ١٣٤٣ … ٢٥
+    مارس سنة ١٩٢٥', so the record moved from 1924 to 1925 and its id from rashid-rida-1924 to this one. Before
+    that the quote was three English words from Wilson 2009 ('their heretical idea'), checked against Wilson
+    alone on 29 Oct 2026.
+  checked_on: "2026-11-16"

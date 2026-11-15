@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../schema/voice.schema.json
 id: social-demokraten-1938
-voice: Social-Demokraten
+voice: Social-Demokraten (Copenhagen)
 voice_type: press
 role: Danish daily
 country: Denmark
@@ -29,6 +29,7 @@ verification:
     vasıflandırılan Türkiye'den güçlü ve kuvvetli bir ülke yarattığını yazmıştır"
   method: local
   note: >-
-    Toksoy puts this in the Danish section (Akşam 16 Nov); a second Social Demokraten mention appears in the
-    Swedish section; country attribution may be ambiguous.
+    Toksoy puts this in his Danish passage (Akşam 16 Nov), with Börsen, 'Cristelig Dagblat' and 'National
+    Tidence', so it is the Copenhagen daily. The Social Demokraten of his Swedish passage is the Stockholm
+    paper of the same name, a separate record (social-demokraten-1938-sw).
   checked_on: "2026-10-29"

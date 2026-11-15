@@ -2,7 +2,7 @@
 # source_fingerprints: which English each field was translated from. Leave them as they are.
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: social-demokraten-1938-sw
-voice: Social-Demokraten
+voice: Social-Demokraten (Stockholm)
 role: İsveç günlük gazetesi
 summary: >-
   Onun yönetiminde Türkiye'nin modern bir devlet hâline geldiğini ve kendisinin savaş sonrasının en dikkate
@@ -11,14 +11,16 @@ caveat: >-
   Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
 mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
 verification_note: >-
-  Social Democraten, Toksoy'un Danimarka pasajında da geçmektedir; İsveç pasajı bu kayıtla eşleşmektedir.
+  Toksoy bu gazeteyi Aftonbladet, 'Goeteborg Handels' ve 'Svenoka Dagbladet'ten sonra Dagens Nyheter ile
+  birlikte anar; dolayısıyla bu, Stockholm'de çıkan günlük gazetedir. Aynı adlı Kopenhag gazetesi ise onun
+  Danimarka pasajında geçer ve ayrı bir kayıttır (social-demokraten-1938).
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
-  voice: 13bef194640f
+  voice: 5fd908170733
   role: 64409c633f80
   summary: b055d9bdbe40
   caveat: ecc719a2a575
   mediated_by: 8bd77e33cab2
-  verification_note: c4389918025a
+  verification_note: 6e772e6ea9cc
   verification_method: 939bb46a04c3

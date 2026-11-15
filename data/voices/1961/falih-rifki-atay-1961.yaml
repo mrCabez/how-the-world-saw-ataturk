@@ -11,25 +11,48 @@ era: posthumous
 polarity: admiring
 intensity: 2
 artifact: memoir
-evidence: T
+evidence: P
 summary: >-
-  His memoir Çankaya narrates Atatürk's life devotedly; whether it keeps the drinking, tempers and loneliness
-  beside the genius is not shown by the cited pages.
+  In the foreword to his memoir Çankaya: Atatürk was a natural, mortal man who lost his temper, could be
+  unjust on hearsay, and regretted it.
+quote:
+  text: >-
+    Atatürk de, kızıp darılır, barışıp gene bozuşur, bazan huysuzluğu, bazan keyfi tutar, bir müddet herhangi
+    bir dedikodunun etkisi altında haksızlığa kadar gider, sonra pişmanlık duyar, üstelik alayı, şakayı sever,
+    fâniliği size bana benzer tabiî bir insandı.
+  language: tr
+  translation: >-
+    Atatürk, too, was a natural human being, as mortal as you or I: he would get angry and take offence, make
+    peace and fall out again, be now in a bad temper and now in a good one, go for a while as far as injustice
+    under the sway of some piece of gossip and then feel remorse; and besides, he loved mockery and a joke.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Note cites only a biography page and edition listings; the 'drinking, tempers, loneliness' reading is
-  unchecked against the text.
+  From 'Birinci Baskının Önsözü', the foreword to the first edition (Dünya Yayınları, 1961, two volumes), as
+  reprinted in the later one-volume edition, whose own foreword is dated 2 March 1968; read in the archive.org
+  copy of the Cumhuriyet reprint, PDF p. 3. The same foreword calls him 'pek hesaplı bir adam' (a man who
+  calculated everything) and a leader 'kendi kendine vefalı' (faithful to himself) above his friendships, and
+  says: 'O da bal veren bir çiçek değil, her çiçeğin kendine göre balını almasını bilen bir arı idi' (he was
+  not a flower that gives honey but a bee that knew how to take its honey from every flower). Whether the book
+  dwells on his drinking and loneliness, as the starting note had it, was not checked. A passage from its
+  chapter 'İç Didişme' is a separate record (falih-rifki-atay-cankaya-1924).
 node: Falih Rıfkı Atay
 sources:
+  - url: https://archive.org/details/falih-rifki-atay-cankaya
+  - url: https://archive.org/download/falih-rifki-atay-cankaya/Falih%20R%C4%B1fk%C4%B1%20Atay%20-%20%C3%87ankaya.pdf
   - url: https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45
     archived: https://web.archive.org/web/20261029003235/https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45
   - url: https://www.kitapyurdu.com/kitap/cankaya/62340.html
     archived: https://web.archive.org/web/20241014151953/https://www.kitapyurdu.com/kitap/cankaya/62340.html
 verification:
-  verdict: partial
-  checked_against: https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45; kitapyurdu blocked
-  method: fetch
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org falih-rifki-atay-cankaya PDF, p. 3 ('Birinci Baskının Önsözü'); Open Library OL264602M for the
+    first edition (Dünya Yayınları, 1961, 2 v.)
+  method: downloaded the PDF and read the page image beside its text layer
   note: >-
-    Çankaya (1961) with emphasis on Mustafa Kemal and lifelong Kemalism supported. Drinking, tempers and
-    loneliness alongside genius not supported by the cited pages.
+    The sentence and the other phrases of the foreword were read on the page on 16 Nov 2026. Until then the
+    record had no quote and rested on a biography page; its 'drinking, tempers and loneliness' was the
+    starting note's wording, which the cited pages did not support.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+  checked_on: "2026-11-16"

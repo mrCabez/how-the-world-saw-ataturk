@@ -4,17 +4,27 @@
 id: resulzade-1938
 voice: Mehmed Emin Resulzade
 role: Sürgündeki Azerbaycanlı lider (Varşova)
-summary: Millî Azerbaycan adına taziye gönderdi.
+quote: Kardeş Türkiye'nin büyük matemine Milli Azerbaycan adına candan teessürle iştirak ederim
+quote_kind: original-turkish
+summary: >-
+  Vefat günü Varşova'dan telgraf çekerek Milli Azerbaycan adına 'kardeş Türkiye'nin büyük matemini' paylaştı.
 caveat: >-
-  Özet, gönderenin sıfatıyla sınırlıdır; yas tutmanın ötesinde belirtilmiş bir görüş yoktur. Varsa kendi
-  notunda daha kapsamlıdır.
-verification_note: Telgraf başlığındaki gün/ay bilgisi OCR'da bozulmuş.
-verification_method: yerel
+  Varşova'dan (Kielecka 36 adresinden) çekilen, ayın 10'unda saat 17:21'de verilen ve vefat ettiği gün olan
+  Ankara 10-11-1938 posta damgasını taşıyan telsiz telgraf. Formda metin Türkçe harfler olmaksızın büyük
+  harflerle basılıdır: 'KARDES TURKIYENIN BUYUK MATEMINE MILLI AZERBAYCAN ADINA CANDAN TEESSURLE ISTIRAK
+  EDERIM = MEHMET EMIN RESULZADE'. Matem dışında belirtilen bir görüş yoktur. Aynı ay yayımlanan makalesi ayrı
+  bir kayıttır (mehmed-emin-resulzade-1938).
+verification_note: >-
+  Metin, imza ve adres 16 Kasım 2026'da form üzerinden okundu. 'WARSZAWA 93 28 10 1721' üstbilgisi ve
+  '10-11-1938' tarihli Ankara posta damgası, OCR'nin bozduğu tarihi vermektedir. Alıntı normal Türkçe
+  imlayladır; formun kendisinde ç, ş, ü veya ı harfleri yoktur.
+verification_method: PDF sayfası görüntü olarak işlendi ve form okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8499c691206b
   role: e5e39374a954
-  summary: 1e03d4983edf
-  caveat: fccfc710b9a7
-  verification_note: b4f82700e043
-  verification_method: 939bb46a04c3
+  summary: 2755c6c4a454
+  caveat: 2470c98ff36b
+  verification_note: 955303135d3c
+  verification_method: 8f62f5f2163e
+  quote: f48462610de6

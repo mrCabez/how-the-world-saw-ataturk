@@ -6,7 +6,7 @@ role: Salafi theologian; editor of al-Manar
 country: Egypt
 country_now: Egypt
 domain: religion
-date: "1924"
+date: "1924-05-04"
 era: contemporary
 polarity: hostile
 intensity: 2
@@ -17,22 +17,36 @@ summary: >-
   Abolition's defenders include Mustafa Kemal and his party; the Kemalists no longer care whether the Muslim
   world is pleased or angry.
 quote:
-  text: >-
+  text: بل أقول انهم أصبحوا لا يبالون بالعالم الاسلامي رضي أم سخط
+  language: ar
+  translation: >-
     indeed I say they have come not to care about the Islamic world, whether it be pleased or angry
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
-  Part 4 date inferred (after Mar 1924). Quote is the note author's English translation of the Arabic
-  original, which the note prints.
+  al-Manar vol. 25, part 4, p. 285, in the article 'إلغاء الترك للخلافة والمصالح الاسلامية' (The Turks'
+  abolition of the caliphate and the interests of Islam). The title page of the part is dated 30 Ramadan 1342
+  / 4 May 1924, and that is the date given here. 'They' are 'هؤلاء الكماليون' (these Kemalists); the sentence
+  goes on: 'اذا كان رضاه أو سخطه لا يؤثر في الشعب التركي تأثيراً يحمله على معارضة الحكومة' (so long as its
+  pleasure or anger does not move the Turkish people to oppose the government). Higher on the page, of those
+  who defended the abolition by what earlier Turks had done to the Abbasid caliphate: 'وهذا رأي مصطفى كمال
+  وحزبه كما يعلم من خطبته التي جعلها مقدمة لهذا العمل' (this is the view of Mustafa Kemal and his party, as is
+  known from the speech he made the preface to this act). The Arabic is spelled as printed, without hamzas. In
+  the archive.org PDF the page is no. 210.
 node: Al-Manar 25(4), 1924 — Rida on Ankara's Disregard of the Muslim World
 sources:
   - url: https://archive.org/details/Almanar
+    label: al-Manar, vol. 25 (scan on archive.org)
+    citation: al-Manar, vol. 25, part 4 (30 Ramadan 1342 / 4 May 1924), p. 285
+    accessed: "2026-11-16"
 verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    al-Manar vol. 25 pdf p. 210 (printed p. 285, ج٤ م٢٥) archive.org/download/Almanar/almanar25.pdf
-  method: downloaded PDF, rendered page image and read the Arabic
+    al-Manar vol. 25 (archive.org/download/Almanar/almanar25.pdf): PDF p. 210 = printed p. 285; PDF p. 181 =
+    printed p. 241, the title page of part 4
+  method: downloaded the PDF, rendered the pages as images and read the Arabic
   note: >-
-    Arabic 'بل أقول إنهم أصبحوا لا يبالون بالعالم الإسلامي رضي أم سخط' present; English translation faithful.
-    'مصطفى كمال وحزبه' present on same page. Part 4 date inferred, not checked.
-  checked_on: "2026-10-29"
+    Read again on 16 Nov 2026. The Arabic sentence is on p. 285 as quoted, and 'مصطفى كمال وحزبه' is higher on
+    the same page. The title page of part 4 reads '٣٠ رمضان ١٣٤٢ … ٤ مايو ١٩٢٤', which dates the record; until
+    then the date was 1924, inferred. The quote used to be the English alone.
+  checked_on: "2026-11-16"

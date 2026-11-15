@@ -1940,3 +1940,19 @@ Three records were added from a web copy of the book: `hemingway-1922-10-19` (th
 Not done: the Toronto Daily Star pages were not seen, the book's pages were read only as OCR snippets, and the web copy has no archived link (the Wayback Machine was refusing this machine's requests today).
 
 Counts: 986 records, 980 shown, 861 quotes; `confirmed` 791; 140 conflicted, 123 hostile, 64 witness.
+
+## The eight 'possible duplicate' pairs examined: none is a duplicate (2026-11-16)
+
+The validator had warned about eight pairs with the same voice and date. Each pair was read side by side. None is one statement entered twice, but looking closely turned up something to fix in most of them:
+
+- **Rashid Rida, two al-Manar articles.** Both were dated '1924'. The pages were read in the archive.org scan of vol. 25. `rashid-rida-manar-1924` (p. 285) is in part 4, whose title page is dated 30 Ramadan 1342 / 4 May 1924. The other (p. 794, the Qur'an-translation article that Wilson 2009 quotes) is in part 10, whose title page is dated 30 Sha'ban 1343 / 25 March 1925: Wilson cites it under the volume's year, and the record had copied that. It is now `rashid-rida-manar-1925` in the 1925 folder (the old id `rashid-rida-1924` still opens it on the site). Both records now carry the Arabic as printed, with the English as its translation; the second one's quote used to be three English words of Wilson's ('their heretical idea', for 'فكرة ملاحدتهم').
+- **Resulzade, telegram and article.** The telegram form in the TBMM volume was read as an image: header 'WARSZAWA 93 28 10 1721', Ankara postmark 10-11-1938. `resulzade-1938` is now dated 10 November 1938 and has the telegram's sentence as its quote.
+- **Social-Demokraten, two papers of one name.** Toksoy names one among the Copenhagen dailies and one among the Stockholm dailies. The voices are now 'Social-Demokraten (Copenhagen)' and 'Social-Demokraten (Stockholm)'.
+- **Falih Rıfkı Atay.** `falih-rifki-atay-1961` was a general remark about *Çankaya* resting on a biography page (verdict `partial`). It now quotes the foreword to the first edition, read in the archive.org copy: 'Atatürk de, kızıp darılır, barışıp gene bozuşur … fâniliği size bana benzer tabiî bir insandı.' Evidence T became P, the verdict `confirmed`.
+- **Obama, speech and guest-book entry.** The entry's note still described the Turkish rendering that the English had replaced on 3 November. Rewritten; Bloomberg's and Hürriyet Daily News's English reports added as sources. The page of the book itself has not been seen.
+- **Hollande, speech and guest-book entry.** The note said the entry was 'written in English (French)'; it now says French, not found.
+- **Coudenhove-Kalergi** (two passages of one book) and **Mitterrand** (two speeches on one day) needed nothing but a cross-reference.
+
+The validator now treats a pair as examined when the caveat of one names the other's id ('… is a separate record (other-id)'); `data/README.md` says so. It reports no warnings.
+
+Not done: the French original of Hollande's entry and the page of Obama's entry were not found. The first edition of *Çankaya* (1961) was not seen; the foreword was read as reprinted in the later one-volume edition.

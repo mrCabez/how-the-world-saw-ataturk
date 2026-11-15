@@ -367,6 +367,6 @@ It reports errors (the run fails), warnings and notices (the run passes). It che
 - that no `<placeholder>` from the template is left in a value;
 - that `quote.text` contains no translation (it belongs in `quote.translation`);
 - that a `quote.translation` says who made it (`quote.translated_by`), and that an English `quote.text` has no translation;
-- possible duplicates: the same voice on the same date (warning);
+- possible duplicates: the same voice on the same date (warning). When they are two different statements, say so in the `caveat` of one and name the other record's id there ("… is a separate record (other-id)"); the warning then goes away;
 - translation files: schema, a matching record in the same year folder, empty fields, and stale fields (notice);
 - on a pull request: any change to a `verification` block (notice, for the maintainer).

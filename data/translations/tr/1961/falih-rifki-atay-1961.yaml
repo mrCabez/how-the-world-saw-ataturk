@@ -4,21 +4,33 @@
 id: falih-rifki-atay-1961
 voice: Falih Rıfkı Atay
 role: Gazeteci ve milletvekili; Atatürk'ü yakın çevresinden anlatan yazar
+quote: >-
+  Atatürk de, kızıp darılır, barışıp gene bozuşur, bazan huysuzluğu, bazan keyfi tutar, bir müddet herhangi
+  bir dedikodunun etkisi altında haksızlığa kadar gider, sonra pişmanlık duyar, üstelik alayı, şakayı sever,
+  fâniliği size bana benzer tabiî bir insandı.
+quote_kind: original-turkish
 summary: >-
-  Anı kitabı Çankaya, Atatürk'ün hayatını bağlılıkla anlatır; ancak dehasının yanında içkisini, öfkesini ve
-  yalnızlığını da barındırıp barındırmadığı atıfta bulunulan sayfalarda görülmemektedir.
+  Çankaya adlı anı kitabının önsözünde: Atatürk öfkelenen, kulaktan dolma sözlerle haksızlık edebilen ve
+  bundan pişmanlık duyan doğal, fani bir insandı.
 caveat: >-
-  Not yalnızca bir biyografi sayfasına ve baskı listelerine atıf yapıyor; 'içki, öfke nöbetleri, yalnızlık'
-  okuması metin üzerinden kontrol edilmemiştir.
+  İlk baskının önsözü olan 'Birinci Baskının Önsözü'nden (Dünya Yayınları, 1961, iki cilt), kendi önsözü 2
+  Mart 1968 tarihli olan daha sonraki tek ciltlik baskıda yeniden basıldığı şekliyle; Cumhuriyet
+  tıpkıbasımının archive.org nüshasından okunmuştur, PDF s. 3. Aynı önsöz onu 'pek hesaplı bir adam' ve
+  dostluklarının üstünde 'kendi kendine vefalı' bir lider olarak nitelendirir ve şöyle der: 'O da bal veren
+  bir çiçek değil, her çiçeğin kendine göre balını almasını bilen bir arı idi'. Kitabın, başlangıç notunda
+  belirtildiği gibi onun içkisi ve yalnızlığı üzerinde durup durmadığı kontrol edilmemiştir. 'İç Didişme'
+  bölümünden bir pasaj ayrı bir kayıttır (falih-rifki-atay-cankaya-1924).
 verification_note: >-
-  Mustafa Kemal vurgulu Çankaya (1961) ve yaşam boyu Kemalizm destekleniyor. Dehanın yanı sıra içki, öfke
-  nöbetleri ve yalnızlık atıf yapılan sayfalarca desteklenmiyor.
-verification_method: veri çekme
+  Önsözdeki cümle ve diğer ifadeler 16 Kasım 2026'da sayfa üzerinden okunmuştur. O zamana kadar kayıtta alıntı
+  yoktu ve kayıt bir biyografi sayfasına dayanıyordu; 'içki, öfke ve yalnızlık' ifadesi başlangıç notunun
+  anlatımıydı ve atıf yapılan sayfalar bunu desteklemiyordu.
+verification_method: PDF indirildi ve sayfa görüntüsü metin katmanıyla yan yana okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fc949027b2dc
   role: 5a1a5c4767f6
-  summary: ac82e4fa2536
-  caveat: 25aa9fcbe04a
-  verification_note: 9808e46ff3f0
-  verification_method: ad8cee67138e
+  summary: 27b00a15f25e
+  caveat: 71fc9cdf189d
+  verification_note: 505f67c661fd
+  verification_method: 8eeebaea0388
+  quote: 6a794942d6fc

@@ -4,25 +4,33 @@
 id: rashid-rida-manar-1924
 voice: Rashid Rida
 role: Selefi ilahiyatçı; al-Manar editörü
-quote: >-
-  gerçekten de diyorum ki, ister memnun olsun ister öfkelensin, İslam dünyasını umursamaz hale geldiler
+quote: Hatta diyorum ki, razı olsun ya da öfkelensin, İslam âlemini artık umursamaz hale geldiler
 quote_kind: translated
 summary: >-
   Kaldırma kararının savunucuları arasında Mustafa Kemal ve partisi de yer alır; Kemalistler artık Müslüman
   dünyasının memnun mu yoksa öfkeli mi olduğunu umursamamaktadır.
 caveat: >-
-  4. bölüm tarihi çıkarımla belirlenmiştir (Mart 1924 sonrası). Alıntı, notta basılı olan Arapça özgün metnin
-  not yazarı tarafından yapılan İngilizce çevirisidir.
+  al-Manar c. 25, cüz 4, s. 285, 'إلغاء الترك للخلافة والمصالح الاسلامية' (Türklerin hilafeti kaldırması ve
+  İslam'ın menfaatleri) başlıklı makalede. Cüzün iç kapağı 30 Ramazan 1342 / 4 Mayıs 1924 tarihlidir ve burada
+  verilen tarih budur. 'Onlar' dediği 'هؤلاء الكماليون'dur (bu Kemalistler); cümle şöyle devam eder: 'اذا كان
+  رضاه أو سخطه لا يؤثر في الشعب التركي تأثيراً يحمله على معارضة الحكومة' (onun rızası veya öfkesi Türk halkı
+  üzerinde halkı hükümete muhalefete sevk edecek bir etki yaratmadığı sürece). Sayfanın üst kısmında,
+  hilafetin kaldırılmasını önceki Türklerin Abbasi hilafetine yaptıklarıyla savunanlar hakkında şöyle denir:
+  'وهذا رأي مصطفى كمال وحزبه كما يعلم من خطبته التي جعلها مقدمة لهذا العمل' (bu işin mukaddimesi yaptığı
+  konuşmasından bilindiği üzere, Mustafa Kemal ve partisinin görüşü budur). Arapça metin basıldığı şekliyle,
+  hemzesiz yazılmıştır. archive.org PDF'inde sayfa numarası 210'dur.
 verification_note: >-
-  Arapça 'بل أقول إنهم أصبحوا لا يبالون بالعالم الإسلامي رضي أم سخط' ifadesi mevcut; İngilizce çeviri sadık.
-  Aynı sayfada 'مصطفى كمال وحزبه' ifadesi yer alıyor. 4. bölüm tarihi çıkarıma dayalıdır, kontrol edilmedi.
-verification_method: PDF indirildi, sayfa görüntüsü oluşturuldu ve Arapça metin okundu
+  16 Kasım 2026'da yeniden okundu. Arapça cümle alıntılandığı şekliyle s. 285'tedir ve 'مصطفى كمال وحزبه'
+  ifadesi aynı sayfanın üst kısmında yer alır. 4. cüzün iç kapağında kaydın tarihini veren '٣٠ رمضان ١٣٤٢ … ٤
+  مايو ١٩٢٤' ibaresi yazılıdır; o zamana kadar tarih tahminen 1924 olarak verilmişti. Alıntı daha önce
+  yalnızca İngilizce metinden ibaretti.
+verification_method: PDF indirildi, sayfalar görüntü olarak işlendi ve Arapça metin okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8500544dcf5c
   role: bb8d03d914df
-  quote: 02e5ceaf6424
+  quote: 83842117c291
   summary: e321b2cb0c15
-  caveat: 22e6187c3568
-  verification_note: 232af25da55b
-  verification_method: 53856b150f76
+  caveat: 810b012a9a95
+  verification_note: 200de672491f
+  verification_method: d16f4dc31877

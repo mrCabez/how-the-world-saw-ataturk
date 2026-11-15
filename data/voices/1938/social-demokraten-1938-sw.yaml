@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../schema/voice.schema.json
 id: social-demokraten-1938-sw
-voice: Social-Demokraten
+voice: Social-Demokraten (Stockholm)
 voice_type: press
 role: Swedish daily
 country: Sweden
@@ -27,5 +27,7 @@ verification:
     remarkable of post-WWI heads of state)
   method: local
   note: >-
-    Social Democraten also appears in Toksoy's Danish passage; the Swedish passage matches the record.
+    Toksoy names it with Dagens Nyheter, after Aftonbladet, 'Goeteborg Handels' and 'Svenoka Dagbladet', so it
+    is the Stockholm daily. The Copenhagen paper of the same name is in his Danish passage and is a separate
+    record (social-demokraten-1938).
   checked_on: "2026-10-29"

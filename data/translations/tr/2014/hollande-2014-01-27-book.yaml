@@ -12,10 +12,11 @@ summary: >-
   Büyük acıların ardından modern Türkiye'yi kuran ve Fransa ile dostluğu yeniden canlandıran devlet adamına
   seslenir.
 caveat: >-
-  İngilizce (Fransızca) yazılmış bir metnin Türkçe çevirisi. Satır bir hitaptır ('to the statesman who ...')
-  ve yayımlanan metinde Atatürk'ün adı geçmez; bağlam, 22 yıl aradan sonra bir Fransa cumhurbaşkanı tarafından
-  gerçekleştirilen ilk devlet ziyaretidir. AA, Hürriyet, Sözcü, Dünya, Sondakika ve Patronlar Dünyası aynı
-  cümleyi yayımlar (tek bir AA haberi).
+  Muhtemelen Fransızca yazılmış bir defter yazısının Türkçe çevirisi; Fransızca metin bulunamamıştır. Satır
+  bir hitaptır ('... devlet adamına') ve basılı metinde Atatürk'ün adını anmaz; bağlam, bir Fransız
+  cumhurbaşkanının 22 yıl aradan sonra gerçekleştirdiği ilk devlet ziyaretidir. AA, Hürriyet, Sözcü, Dünya,
+  Sondakika ve Patronlar Dünyası aynı cümleyi basar (tek bir AA haberi). O akşam devlet yemeğinde yaptığı
+  konuşma ayrı bir kayıttır (hollande-2014-01-27-dinner).
 mediated_by: AA, Hürriyet, Sözcü, Dünya ve Sondakika, 27 Ocak 2014 (yazının Türkçe çevirisi)
 verification_note: >-
   Alıntı dördünde de birebir aynıdır, aynı AA paragrafıdır, tarih doğrudur; tek kaynak. Alıntı, aktarılan
@@ -31,7 +32,7 @@ source_fingerprints:
   role: c55c2e7bc542
   quote: 7a1f7885094b
   summary: 68a4a53eaf04
-  caveat: 040c90929a08
+  caveat: 8ac276f6f369
   mediated_by: 566085dcf55d
   verification_note: 8d4f1d0f3c30
   verification_method: 8505ab605bfa

@@ -311,12 +311,17 @@ for (const e of records) {
     }
   }
 
-  // same voice on the same date: often one statement entered twice
+  // same voice on the same date: often one statement entered twice. Two statements of one day are told apart
+  // by one record naming the other's id in its caveat ("… is a separate record (other-id)").
   if (typeof d.voice === 'string' && d.date != null) {
     const key = `${d.voice.trim().toLowerCase()}|${d.date}`;
     const other = byVoiceDate.get(key);
-    if (other) report(e, 'warning', `possible duplicate of ${other.path} (same voice and date); merge them if it is the same statement`, ['voice']);
-    else byVoiceDate.set(key, e);
+    const names = (a, b) => typeof a.data?.caveat === 'string' && typeof b.data?.id === 'string'
+      && new RegExp(`(?<![\\w-])${b.data.id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?![\\w-])`).test(a.data.caveat);
+    if (!other) byVoiceDate.set(key, e);
+    else if (!names(e, other) && !names(other, e)) {
+      report(e, 'warning', `possible duplicate of ${other.path} (same voice and date); merge them if it is the same statement, or, if they are two statements, name the other record's id in the caveat of one`, ['voice']);
+    }
   }
 }
 

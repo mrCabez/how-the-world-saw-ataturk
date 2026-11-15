@@ -21,13 +21,17 @@ quote:
     I am honored to pay tribute to Mustafa Kemal Ataturk, a man whose vision, tenacity and courage put the
     Republic of Turkey on the path of democracy
   language: en
-mediated_by: Habertürk, Dengegazetesi and T24, 6 Apr 2009 (Turkish translations of the entry)
+mediated_by: >-
+  AP and Bloomberg, 6 Apr 2009 (the entry as the wire reporters gave it); Habertürk and T24 (the whole entry
+  in Turkish)
 caveat: >-
-  Turkish rendering of an entry written in English. Habertürk and T24 print the same wording; Dengegazetesi (6
-  Apr 2009) gives a looser version ('Vizyonu, ısrarı ve cesareti, ...'), so the exact English is not fixed.
-  The entry goes on to invoke 'Yurtta barış, dünyada barış' and to promise support for Atatürk's vision of
-  Turkey as a modern, prosperous democracy. Separate artifact from the Assembly speech of the same day (record
-  obama-2009). English original from AP (San Diego Union-Tribune; Hürriyet Daily News).
+  The English is the entry as wire reports of the day give it; the page of the book was not seen. Bloomberg
+  (Chen and Nichols) has 'I am honored to pay tribute to Mustafa Kemal Ataturk' and 'legacy continues to
+  inspire generations around the world' as written in the visitors' book; Hürriyet Daily News paraphrases
+  ('man with vision, tenacity and courage who put Turkey on the path of democracy'). Habertürk and T24 print
+  the whole entry in one Turkish translation; Dengegazetesi gives a looser one. The entry goes on to promise
+  support for 'Ataturk's vision of Turkey as a modern and prosperous democracy' and ends on 'peace at home,
+  peace in the world'. His speech to the Assembly the same day is a separate record (obama-2009).
 node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
 sources:
   - url: https://www.haberturk.com/gundem/haber/138881-obama-anitkabir-ozel-defterine-ne-yazdi
@@ -36,6 +40,14 @@ sources:
     archived: https://web.archive.org/web/20261109113125/https://t24.com.tr/gundem/obama-elini-yuregine-koyup-ataturku-hissetti,38730
   - url: https://www.dengegazetesi.com.tr/anitkabir-defterine-ne-yazdi-21749h.htm
     archived: https://web.archive.org/web/20261109114732/https://www.dengegazetesi.com.tr/anitkabir-defterine-ne-yazdi-21749h.htm
+  - url: https://www.hurriyet.com.tr/gundem/highlights-from-obamas-turkey-visit-11378133
+    label: Hürriyet Daily News, 6 Apr 2009 (English paraphrase of the entry)
+    accessed: "2026-11-16"
+  - url: https://thetimesworld.blogspot.com/2009/04/obama-praises-modern-turkeys-founder.html
+    label: >-
+      Bloomberg, 6 Apr 2009, 'Obama Praises Modern Turkey's Founder Ataturk' (Edwin Chen and Hans Nichols), as
+      copied on a blog
+    accessed: "2026-11-16"
 verification:
   verdict: confirmed
   quote_found: true
