@@ -5,9 +5,9 @@ id: lototsky-1966
 voice: Oleksandr Lototsky
 role: Ukrayna Halk Cumhuriyeti'nin İstanbul elçisi (1919), bakan, anı yazarı
 quote: >-
-  Kurtuluş hareketinin başına geçerek Türk halkının ulusal duygusunu en yüksek dereceye çıkarmayı başardı. …
-  Kemal'in eserinin bu niteliği, o güne kadarki siyasi ve kültürel koşullar altında uyuşuk düşmüş halkın ruh
-  yapısını yeniledi ve o halkı büyük, özbilinçli bir eyleme sevk etti.
+  Kurtuluş hareketinin başına geçerek Türk halkının millî duygusunu en yüksek dereceye çıkarmayı başardı. …
+  Kemal'in eserinin bu niteliği, o zamana kadarki siyasi ve kültürel koşullar altında uyuşmuş olan halkın ruh
+  yapısını yeniledi ve o halkı büyük, öz bilinçli bir eyleme sevk etti.
 quote_kind: translated
 summary: >-
   'Asi general' Mustafa Kemal'i askerî, siyasi, toplumsal ve kültürel alanlarda yetenekli, Türk ulusal
@@ -35,7 +35,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 52427a0ddd9b
   role: 66ffba37756a
-  quote: 6d42f27ff119
+  quote: 49d064db43e7
   summary: 989ad6784594
   caveat: afdcded2f73d
   verification_note: e3f790f5cfa0

@@ -5,8 +5,8 @@ id: burhan-belge-1938-12
 voice: Burhan Belge
 role: Basın Genel Müdürü, Türk yazar ve Atatürk'ün çevresinden
 quote: >-
-  Atatürk, eserini tamamlamanın sevincini duymuş talihli bir Şef oldu … Atatürk kurtuluş mücadelesini yönetti
-  ve Devrim'i yaptı.
+  Atatürk, eserini tamamlamanın sevincini yaşamış talihli bir Şef olmuştur … Atatürk kurtuluş mücadelesini
+  yönetmiş ve Devrimi yapmıştır.
 quote_kind: translated
 summary: >-
   Atatürk'ün ölümünün ardından onu, eserini tamamlamış ve ulusal 'dava'yı İnönü'ye devretmiş talihli bir şef
@@ -31,7 +31,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 146c685bfe7f
   role: e420a7e4dd72
-  quote: bc3fd863fc1e
+  quote: c4437800567d
   summary: da360f7ab6fc
   caveat: 329216bb4476
   verification_note: ad534cc9b55a

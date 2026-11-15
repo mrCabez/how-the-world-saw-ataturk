@@ -18,19 +18,19 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 
 | | |
 |---|---|
-| Records | 985 |
-| Distinct voice names (people, papers, institutions, groups) | 808 |
+| Records | 983 |
+| Distinct voice names (people, papers, institutions, groups) | 806 |
 | Present-day countries and territories (`country_now`) | 85, plus the European Union, the Council of Europe and UNESCO |
-| Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 207 records) |
-| Records with the speaker's own words (`quote`) | 858, in 31 languages |
-| Records with a stored source check | 985 (all) |
-| Records with a Turkish translation file | 985 (all) |
+| Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 205 records) |
+| Records with the speaker's own words (`quote`) | 857, in 31 languages |
+| Records with a stored source check | 983 (all) |
+| Records with a Turkish translation file | 983 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 787 | 80% |
+| `confirmed` | 785 | 80% |
 | `partial` | 96 | 10% |
 | `paraphrase-ok` | 57 | 6% |
 | `secondary-only` | 31 | 3% |
@@ -40,9 +40,9 @@ Source checks, by verdict:
 
 The verdicts are explained in [data/README.md](data/README.md#verdicts).
 
-979 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
+977 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
 
-Stance of the voice towards Atatürk (`polarity`): 523 admiring, 139 conflicted, 136 instrumental (praise that served the speaker's own agenda), 122 hostile, 65 witness (reported or attended, no stated view).
+Stance of the voice towards Atatürk (`polarity`): 523 admiring, 139 conflicted, 135 instrumental (praise that served the speaker's own agenda), 122 hostile, 64 witness (reported or attended, no stated view).
 
 ## What is in each folder
 

@@ -3,15 +3,27 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: lord-birdwood-1938
 voice: Lord Birdwood
-role: Mareşal, VI. George'u temsilen
+role: VI. George'u temsil eden Mareşal William Birdwood
 summary: >-
   Cenazede Britanya kralını temsil etti; Amiral Pound ve HMS Malaya'dan 200 deniz piyadesi de katıldı.
+caveat: >-
+  Kral'ın temsilcisi olarak katıldı; burada kendisine ait herhangi bir görüş kaydedilmemiştir. 17 Kasım
+  tarihli Havas telgrafı adını 'Bridwood' olarak yazar.
 mediated_by: Reuter 21 Kasım 1938; Havas 17 Kasım; Uyanıker 2020
+verification_note: >-
+  Reuter, 21 Kasım (Delpher): 'Koning George VI van Engeland was vertegenwoordigd door veldmaarschalk Lord
+  Birdwood', Amiral Sir Dudley Pound, 200 deniz piyadesi ve Malaya zırhlısının bandosu ile birlikte. Havas, 17
+  Kasım: 'De Engelsche delegatie omvat Lord Bridwood en admiraal Pound.' Her ikisi de, aynı katılıma ait
+  ikinci bir kayıt (william-birdwood-1938) bu kayıtla birleştirildiğinde, 15 Kasım 2026 tarihinde yeniden
+  okunmuştur. Papers Past sayfası o kayıt için 29 Ekim 2026 tarihinde okunmuş (Birdwood Kral'ı temsil
+  etmektedir) ve tekrar açılmamıştır: site bir betiğe bot kontrolüyle yanıt vermektedir.
 verification_method: getirme
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4e772803b974
-  role: f7dee43c9cd9
+  role: 0a56731494c2
   summary: ade1b56a48fa
   mediated_by: c5a52a6b01c5
   verification_method: ad8cee67138e
+  caveat: 810bc81c0230
+  verification_note: d9d19e484c4b

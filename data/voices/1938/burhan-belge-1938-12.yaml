@@ -18,12 +18,12 @@ summary: >-
   İnönü, so the course continues.
 quote:
   text: >-
-    Atatürk a été un Chef heureux qui a éprouvé la joie d'achever son œuvre [translation: Atatürk was a
-    fortunate Chief who felt the joy of completing his work] … Atatürk a dirigé la lutte pour la libération et
-    a fait la Révolution.
-  translation: Atatürk led the struggle for liberation and made the Revolution.
-  needs_split: true
+    Atatürk a été un Chef heureux qui a éprouvé la joie d'achever son œuvre … Atatürk a dirigé la lutte pour
+    la libération et a fait la Révolution.
   language: fr
+  translation: >-
+    Atatürk was a fortunate Chief who felt the joy of completing his work … Atatürk led the struggle for
+    liberation and made the Revolution.
 caveat: >-
   Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
   Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed

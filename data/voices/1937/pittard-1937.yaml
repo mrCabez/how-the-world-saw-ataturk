@@ -19,14 +19,13 @@ summary: >-
 quote:
   text: >-
     Son énergie va de pair avec celle du constructeur même du pays, de l'édificateur glorieux de la
-    République. [translation: Its energy goes hand in hand with that of the very builder of the country, the
-    glorious architect of the Republic.] … Au nom des savants étrangers réunis ici, j'adresse mes hommages
-    respectueux à Monsieur le Président de la République Turque, chef suprême de cet Etat.
-  translation: >-
-    In the name of the foreign scholars gathered here, I address my respectful homage to the President of the
-    Turkish Republic, supreme head of this State.
-  needs_split: true
+    République. … Au nom des savants étrangers réunis ici, j'adresse mes hommages respectueux à Monsieur le
+    Président de la République Turque, chef suprême de cet Etat.
   language: fr
+  translation: >-
+    Its energy goes hand in hand with that of the very builder of the country, the glorious architect of the
+    Republic. … In the name of the foreign scholars gathered here, I address my respectful homage to the
+    President of the Turkish Republic, supreme head of this State.
 mediated_by: La Turquie kémaliste (Turkish Press Directorate) translation
 caveat: >-
   Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction

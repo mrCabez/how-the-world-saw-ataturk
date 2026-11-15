@@ -19,11 +19,12 @@ summary: >-
 quote:
   text: >-
     У меня вызывает глубокое уважение личность Мустафы Кемаля Ататюрка – выдающегося реформатора, вклад
-    которого в создание новой Турции трудно переоценить. [English translation (Kremlin): I feel great respect
-    for Mustafa Kemal Ataturk, an outstanding reformer whose contribution to building modern Turkey cannot be
-    overestimated.]
-  needs_split: true
+    которого в создание новой Турции трудно переоценить.
   language: ru
+  translation: >-
+    I feel great respect for Mustafa Kemal Ataturk, an outstanding reformer whose contribution to building
+    modern Turkey cannot be overestimated.
+  note: the Kremlin's own English version
 caveat: >-
   Article 'Россия – Турция: не останавливаясь на достигнутом' for the Turkish daily Zaman, published on
   kremlin.ru on 10 May 2010 (English version dated 9 May). The next sentence turns to Russia as the first

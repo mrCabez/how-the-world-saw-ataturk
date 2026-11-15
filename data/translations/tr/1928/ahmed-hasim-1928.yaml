@@ -5,8 +5,8 @@ id: ahmed-hasim-1928
 voice: Ahmed Haşim
 role: Türk sembolist şair (1884–1933), deneme yazarı
 quote: >-
-  Yüzyıllar süren bir çağı yaşlandıran Adamın yüzü, tıpkı eski tanrılarınkiler gibi, yaşın hiçbir izini
-  taşımıyor. … Bu günün benim için büyük nimeti, bu genç ve efsanevi yüzü yakından görmek oldu.
+  Yüzyıllar süren bir çağı yaşlandıran Adam'ın yüzü, tıpkı eski tanrılarınkiler gibi hiçbir yaş izi taşımıyor.
+  … Bu günün benim için büyük nimeti, bu genç ve efsanevi yüzü yakından görmek oldu.
 quote_kind: translated
 summary: >-
   Atatürk'le Dolmabahçe'de bizzat tanışmasını anlatır: yaşsız, ışıltılı bir yüz; 'yüzyıllar süren bir çağı
@@ -42,7 +42,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b15fe1b7c90d
   role: 31aad59e0e32
-  quote: "286000e89276"
+  quote: 1feea1ea4891
   summary: 6e580e2ec526
   caveat: 9c1f3035e4ef
   mediated_by: 6fb64338cd20

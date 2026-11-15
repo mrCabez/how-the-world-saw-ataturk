@@ -5,7 +5,7 @@ id: medvedev-2010-05-10
 voice: Dmitry Medvedev
 role: Rusya Devlet Başkanı
 quote: >-
-  Yeni Türkiye'nin kuruluşuna yaptığı katkıyı abartmanın güç olduğu seçkin bir reformcu olan Mustafa Kemal
+  Yeni Türkiye'nin kuruluşuna yaptığı katkının önemi ne kadar vurgulansa az olan seçkin reformcu Mustafa Kemal
   Atatürk'ün kişiliği bende derin bir saygı uyandırıyor.
 quote_kind: translated
 summary: >-
@@ -25,7 +25,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2e267d48690a
   role: 4e1e9d68afe9
-  quote: 99836330a1a3
+  quote: ec9d06422ea6
   summary: dcc6fef38600
   caveat: ce9440378805
   verification_note: bc5a154bf8dc

@@ -1873,3 +1873,13 @@ Every `archived` link was opened (512 distinct links). 418 hold the page or docu
 ## First contribution from outside (2026-11-13)
 
 Pull request #11 (mrCabez, a native Italian speaker) added English translations to the nine Italian quotes that had none, for issue #6. Each was read against the Italian before the merge: all nine are faithful and literal, `quote.text` and the checks were not touched, and in three records the English that had sat in the caveat moved to `quote.translation`. Turkish for the nine was refreshed from the new English. 299 quotes in other languages are still without an English translation.
+
+## Two duplicate pairs merged, five mixed quotes split (2026-11-15)
+
+Both had been open as issues #1 and #2 since 9 November with no taker.
+
+Duplicates. `faisal-saudi-foreign-minister-1938` was merged into `faisal-bin-abdulaziz-1938`: one telegram, the same two sources. The kept record now quotes the telegram whole as the Gulf International Forum article gives it, and its caveat says the wording is that article's English and the telegram itself was not seen. The two records had disagreed on stance (admiring, instrumental); the kept one stays admiring, as 32 of the other 36 funeral telegrams are. `william-birdwood-1938` was merged into `lord-birdwood-1938`: the same attendance at the funeral. The kept record gained his first name, the day (21 November), the Papers Past link and the note on the 'Bridwood' misprint; the Wikipedia link of the other record was not carried over. Both wire reports and the article were re-read for the merge. Links to the two removed ids no longer open a voice.
+
+Mixed quotes. In `ahmed-hasim-1928`, `pittard-1937`, `burhan-belge-1938-12`, `lototsky-1966` and `medvedev-2010-05-10` the English of the first passage sat in square brackets inside `quote.text`. It moved to `quote.translation`, no word changed, and `needs_split` is gone from the data. Medvedev's English is marked as the Kremlin's own in `quote.note`.
+
+Counts after this: 983 records, 806 voice names, 857 quotes, 977 shown. 298 quotes in other languages are still without an English translation.

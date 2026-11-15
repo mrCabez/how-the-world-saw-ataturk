@@ -18,19 +18,19 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 
 | | |
 |---|---|
-| Kayıtlar | 985 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 808 |
+| Kayıtlar | 983 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 806 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
-| Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 207 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 858 |
-| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 985 (tümü) |
-| Türkçe çeviri dosyası bulunan kayıtlar | 985 (tümü) |
+| Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 205 kayıt vardır) |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 857 |
+| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 983 (tümü) |
+| Türkçe çeviri dosyası bulunan kayıtlar | 983 (tümü) |
 
 Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 787 | %80 |
+| `confirmed` | 785 | %80 |
 | `partial` | 96 | %10 |
 | `paraphrase-ok` | 57 | %6 |
 | `secondary-only` | 31 | %3 |
@@ -40,9 +40,9 @@ Sonuca göre kaynak doğrulamaları:
 
 Sonuçların açıklamaları [data/README.md](data/README.md#verdicts) dosyasındadır.
 
-Sergide 979 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
+Sergide 977 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
 
-Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 523 hayranlık duyan (admiring), 139 ikircikli (conflicted), 136 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 65 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
+Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 523 hayranlık duyan (admiring), 139 ikircikli (conflicted), 135 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 64 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
 
 ## Klasörlerin içeriği
 

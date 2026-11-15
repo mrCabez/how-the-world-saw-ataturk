@@ -4,19 +4,30 @@
 id: faisal-bin-abdulaziz-1938
 voice: Prens Faisal bin Abdulaziz
 role: Suudi dışişleri bakanı, sonradan Kral Faisal
-quote: büyük bir kayıp
+quote: >-
+  Türkiye Cumhurbaşkanı Kemal Atatürk'ün vefatını büyük bir üzüntüyle öğrenmiş bulunuyoruz. Bu büyük bir
+  kayıptır.
 quote_kind: translated
 summary: >-
-  Suudilerin Atatürk'ün ölümünü büyük bir üzüntüyle öğrendiğini Ankara'ya telgrafla bildirdi.
+  Türk dışişleri bakanlığına telgraf çekerek Suudilerin Atatürk'ün vefatını büyük bir üzüntüyle öğrendiğini
+  bildirdi ve bunu büyük bir kayıp olarak nitelendirdi.
+caveat: >-
+  İfadeler, telgrafı aktaran Gulf International Forum makalesindeki İngilizce metindir; makale telgrafın hangi
+  dilde gönderildiğini belirtmemektedir ve arşiv telgrafın kendisini görmemiştir. Aynı makalenin pragmatik
+  olarak tanımladığı bir ilişki çerçevesinde, bir dışişleri bakanlığından diğerine gönderilmiş iki cümlelik
+  bir taziye mesajıdır.
 verification_note: >-
-  Telgraf metni: 'It is with great regret that we learned of the death... It is a great loss.' Faisal,
-  Dışişleri Bakanı olarak tanımlanıyor
+  Makalenin verdiği şekliyle telgraf: 'It is with great regret that we learned of the death of the President
+  of Turkey, Kemal Atatürk. It is a great loss.' Faisal, Suudi Dışişleri Bakanı olarak tanımlanmaktadır. Aynı
+  telgrafa ait ikinci bir kayıt (faisal-saudi-foreign-minister-1938) bu kayıtla birleştirildiğinde, 15 Kasım
+  2026 tarihinde yeniden okunmuştur.
 verification_method: getirme
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 3a1694d97148
   role: 99c2b75eb96c
-  quote: 01a750526727
-  summary: bc73b2b9c638
-  verification_note: 57f96d15c156
+  quote: 882a0d6b71d5
+  summary: e678cfadf85a
+  verification_note: 4d91be6a4698
   verification_method: ad8cee67138e
+  caveat: 4676b24cee0c

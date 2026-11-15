@@ -6,9 +6,9 @@ voice: Eugène Pittard
 role: >-
   Cenevreli antropolog ve profesör, 2. Türk Tarih Kongresi'ndeki yabancı bilim insanlarının sözcüsü
 quote: >-
-  Onun enerjisi, bizzat ülkenin kurucusunun, Cumhuriyet'in şanlı mimarının enerjisiyle el ele gidiyor. …
-  Burada toplanmış olan yabancı bilim insanları adına, bu Devletin en yüce başı olan Sayın Türkiye Cumhuriyeti
-  Cumhurbaşkanı'na saygı dolu hürmetlerimi sunuyorum.
+  Onun enerjisi, bizzat ülkenin kurucusunun, Cumhuriyet'in şanlı mimarının enerjisiyle atbaşı gidiyor. …
+  Burada toplanmış yabancı bilginler adına, bu Devletin en yüce başı olan Türkiye Cumhuriyeti Sayın
+  Cumhurbaşkanı'na saygılı hürmetlerimi sunarım.
 quote_kind: translated
 summary: >-
   Cumhurbaşkanı'nın huzurunda yabancı bilim insanları adına konuşurken, Türk Tarih Kurumu'nun enerjisini
@@ -39,7 +39,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d92b0062ccfa
   role: 1c1f46f807b1
-  quote: 2c06593f7b9f
+  quote: 22b287de09b0
   summary: 3765437114cc
   caveat: "092297176138"
   mediated_by: 65f51b182fcd
