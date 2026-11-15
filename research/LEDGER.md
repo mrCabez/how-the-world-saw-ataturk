@@ -1956,3 +1956,15 @@ The validator had warned about eight pairs with the same voice and date. Each pa
 The validator now treats a pair as examined when the caveat of one names the other's id ('… is a separate record (other-id)'); `data/README.md` says so. It reports no warnings.
 
 Not done: the French original of Hollande's entry and the page of Obama's entry were not found. The first edition of *Çankaya* (1961) was not seen; the foreword was read as reprinted in the later one-volume edition.
+
+## Quotes that were a research agent's English: 5 telegrams read, 11 records given their source's words, 74 marked as translations (2026-11-16)
+
+A pass over the 429 English quotes whose notes mention a translation. Many were an agent's English rendering of words the source prints in another language, entered as though the English were the speaker's own.
+
+- **Five condolence telegrams read on the forms** in the TBMM volume (rendered the PDF pages and read the typed text): `farouk-1938` (Alexandria, 11 Nov 13:50, French), `egyptian-chamber-1938` (Cairo, 11 Nov 13:30, French; 'la grande Turquie', which the English had as 'greater Turkey'), `haj-amin-al-husseini-1938` (Beirut, 12 Nov 16:20, French; the whole message instead of a gapped quote), `mushanov-bulgaria-1938` (Sofia, 10 Nov 15:20, French) and `mir-yakub-1938` (Paris, 11 Nov 13:12, Turkish). Each now has the original wording as the quote, its exact date and the form's header. `mushanov-bulgaria-1938` goes from `partial` to `confirmed`.
+- **Eleven records given the Turkish or Dutch their source prints**, read in Dağlı 2023, Erdem, the Heşimova article and the Dutch library's OCR text: `gyula-gombos-1932`, `armenian-catholics-kirecyan-1938`, `raul-gherculescu-1938` (a letter, not a telegram), `noel-fiessinger-1938`, `mikayil-musfik-1937`, `het-nieuws-van-den-dag-1938`, `soerabaijasch-handelsblad-1938` (the quote was a headline), `muhammadiyah-meeting-surabaya-1938`, `rabindranath-tagore-1926`. In `noel-fiessinger-1938` the Turkish 'yata döneriz' reads as 'we go back to the yacht'; the English had 'tonight we go to bed'. `abelardo-rodriguez-1934` loses its quote: the article reports the request in indirect speech.
+- **74 quotes marked `is_translation`**: 47 English texts that are published translations (Stalin, Mao, Radek, Hoxha, Hitler's table talk, Pamuk, Sayyid Qutb and others) and 27 Turkish texts that are renderings of speeches in other languages (the foreign speakers in the TBMM volume, Frunze, Litvinov, Roosevelt, Farrère and others). The site now labels them 'As printed' and says the original wording is not available.
+
+Two readers are still going through the 48 records whose English renders Toksoy's Turkish and the 19 Arabic originals; their results are the next section.
+
+Not done: the Dutch pages were read as OCR text, not on the scans; the Azerbaijani text of Müşfik's poem and the French of Hollande's Anıtkabir entry were not found.

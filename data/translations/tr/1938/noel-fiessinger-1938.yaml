@@ -12,12 +12,14 @@ summary: >-
   1938'de Atatürk'ü defalarca muayene etti, ortaklaşa 'hepatite sclérocongestive éthylique' teşhisi koydu ve
   özel olarak iki yıl daha yaşayabileceği ya da herhangi bir gece ölebileceği uyarısında bulundu.
 caveat: >-
-  Haziran 1938'de Savarona yatında Atatürk'ü muayene ettikten sonra akşam yemeğinde İçişleri Bakanı Şükrü
+  Haziran 1938'de, Savarona yatında Atatürk'ü muayene ettikten sonra akşam yemeğinde İçişleri Bakanı Şükrü
   Kaya'ya söylenmiştir. Türkçe metin, Dağlı'nın aktardığı şekliyle Şehsuvaroğlu'na (1981, s. 77) aittir;
-  Fiessinger'in muhtemelen Fransızca olan kendi sözleri verilmemiştir. 'Yata döneriz', 'we go back to the
-  yacht' (yata geri döneriz) demektir: buradaki İngilizce metinde 16 Kasım 2026'ya kadar 'tonight we go to
-  bed' (bu gece yatağa gideriz) yazıyordu. Şöyle devam eder: 'Onun için siz Cumhuriyetin selameti için
-  icabeden tedbirleri şimdiden alınız'.
+  Fiessinger'in muhtemelen Fransızca olan kendi sözleri verilmemiştir. 'Yata döneriz' ifadesi en doğal haliyle
+  'yata (Atatürk'ün yatmakta olduğu Savarona'ya) döneriz' ('we go back to the yacht') anlamına gelir; buradaki
+  İngilizce metinde 16 Kasım 2026'ya kadar, Türkçenin desteklemediği bir okuma olan 'tonight we go to bed'
+  ('bu gece yatağa gireriz') yer almaktaydı. Sözlerine şöyle devam eder: 'Onun için siz Cumhuriyetin selameti
+  için icabeden tedbirleri şimdiden alınız' (dolayısıyla Cumhuriyet'in selameti için gereken tedbirleri
+  şimdiden alınız).
 mediated_by: Şehsuvaroğlu 1981:77, aktaran Dağlı 2023
 verification_note: >-
   Alıntı (Türkçe orijinal, İngilizce çevirisi sadık), Haziran 1938, tekrarlanan muayenelerin tamamı kaynakla
@@ -34,4 +36,4 @@ source_fingerprints:
   mediated_by: c53911a7a48d
   verification_note: 66bb08a2f0df
   verification_method: 939bb46a04c3
-  caveat: f84a61e10f73
+  caveat: cf674db5a4de
