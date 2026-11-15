@@ -1920,12 +1920,13 @@ Three remain `unreachable`: `morning-tribune-1938` and `all-malaya-muslim-missio
 
 Counts after this: 858 quotes, 422 of them not in English (409 machine translations); `confirmed` 788, `partial` 97, `paraphrase-ok` 58, `secondary-only` 32, `unreachable` 3; 524 admiring, 63 witness.
 
-## Three OCR-damaged French quotes restored from the page scans (2026-11-15)
+## Four OCR-damaged French quotes restored from the page scans (2026-11-15)
 
-Twenty-four records cite Gallica, and until today every one of them had been read only as OCR fragments from its search service. With the BnF image service open (see the section above), three of the quotes whose OCR was visibly damaged were read on the scan and now stand as printed:
+Twenty-four records cite Gallica, and until today every one of them had been read only as OCR fragments from its search service. With the BnF image service open (see the section above), four of the quotes whose OCR was visibly damaged were read on the scan and now stand as printed:
 
 - `le-matin-1920-02-13`: 'i'hornme des Enver îocha et des ïalaat' is 'Mustapha Kemal, l'homme des Enver pacha et des Talaat' (p. 3). The scan also settles what the old caveat could not: the one who 'dicte ses volontés à tous les gouvernements' is the Constantinople Chamber, not Kemal.
 - `l-humanite-1924-03-05`: 'n'était, que le: prélude' is 'n'était que le prélude'; the quote now has the whole opening sentence of a commentary signed 'G. V.' (p. 3).
 - `le-temps-1924-03-05`: 'Moustapha' Kemal paclia' is 'Moustapha Kemal pacha'; the sentence is in the front-page leader 'La suppression du khalifat', and the 'principes' it speaks of are those 'sur lesquels repose l'Etat turc'.
+- `le-populaire-1924-03-04`: the OCR's 'Kernel' is the paper's own misprint 'Kemel' (p. 3, under 'Le discours de Kemal'); the quote keeps it.
 
-Still read as OCR only, with the page number known from the earlier check: `l-action-francaise-1922-09-17` (p. 3, 'Moyistapha ... rai son'), `l-humanite-1922-09-11` (p. 3), `le-populaire-1922-09-11` (p. 1, 'Kernal ... écoulent'), `le-populaire-1924-03-04` (p. 3, 'Kernel'), `l-action-francaise-1933-10-31` (p. 1, 'provo qua'), and fourteen more whose OCR reads cleanly. Each can be read the same way.
+Still read as OCR only, with the page number known from the earlier check: `l-action-francaise-1922-09-17` (p. 3, 'Moyistapha ... rai son'), `l-humanite-1922-09-11` (p. 3), `le-populaire-1922-09-11` (p. 1, 'Kernal ... écoulent'), `l-action-francaise-1933-10-31` (p. 1, 'provo qua'), and fourteen more whose OCR reads cleanly. Each can be read the same way.

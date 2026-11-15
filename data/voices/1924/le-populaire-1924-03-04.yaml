@@ -16,7 +16,7 @@ summary: >-
   Reported Kemal's opening speech as stressing the nation's firm will to give the republic solid foundations.
 quote:
   text: >-
-    Mustapha Kernel a relevé la volonté ferme de la nation turque d'assurer des bases solides au régime
+    Mustapha Kemel a relevé la volonté ferme de la nation turque d'assurer des bases solides au régime
     républicain
   language: fr
   translation: >-
@@ -24,18 +24,25 @@ quote:
     republican regime
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 3. 'Kernel' is OCR for Kemal. Reporting; no stated view. Gallica ContentSearch fragment, OCR copied as
-  given; view number is Gallica's, not necessarily the printed page.
+  Page 3, in the item 'La Turquie abolit le califat et chasse la famille impériale', under the subheading 'Le
+  discours de Kemal'. The paper prints 'Kemel' in the sentence and 'Kemal' in the subheading; the quote keeps
+  the misprint. Reporting; no stated view.
 node: Paris Dailies and the Abolition of the Caliphate, March 1924
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k818709n
     archived: https://web.archive.org/web/20241225080102/https://gallica.bnf.fr/ark:/12148/bpt6k818709n/
+    page: "3"
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k818709n, PAG_3 fragment
-  method: ms fetch ContentSearch (query Kernel)
+  checked_against: >-
+    Le Populaire, 4 March 1924, p. 3, col. 3 (page scan:
+    https://openapi.bnf.fr/iiif/image/v3/ark:/12148/bpt6k818709n/f3/full/max/0/default.jpg)
+  method: >-
+    Page scan read by eye through the BnF open image service (openapi.bnf.fr IIIF); the Gallica viewer and its
+    OCR answer a script with a bot check
   note: >-
-    Exact with OCR 'Kernel'; 'Le discours de Kemal' heading present. Issue date from ark not independently
-    confirmed.
-  checked_on: "2026-10-30"
+    On the scan: 'Dans son grand discours prononcé à l'ouverture de la session de l'Assemblée nationale,
+    Mustapha Kemel a relevé la volonté ferme de la nation turque d'assurer des bases solides au régime
+    républicain.' The earlier quote had 'Kernel', the OCR's reading of the paper's 'Kemel'.
+  checked_on: "2026-11-15"
