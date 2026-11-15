@@ -22,6 +22,12 @@ quote:
     Mustafa Kemal Paşa Hazretlerine milletin alâmeti şükranı olmak üzere müstahak oldukları gazilik unvanının
     ita ve rütbei müşiri tevcihini
   language: tr
+  translation: >-
+    the granting of the title of Gazi, which he has earned, and the conferral of the rank of marshal, as a
+    token of the nation's gratitude, on our esteemed President, His Excellency the Commander-in-Chief Mustafa
+    Kemal Pasha, who by his struggle pleasing to God is the saviour of the homeland and the author of the
+    latest victory
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Bill (2/351); the agenda heading says 've 62 arkadaşı' while the Reis speaks of 'seksen küsur imza'. The
   printed list includes Hüsrev, Yunus Nadi, Halil Hulki, Besim Atalay, Mustafa Durak. The law passed by show

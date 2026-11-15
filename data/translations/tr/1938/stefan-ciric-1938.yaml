@@ -12,9 +12,7 @@ summary: >-
   Dünya tarihinin ve devlet adamlarının en büyüklerinden birinin, yenileyici ve yaratıcının ve Kral Alexander
   ile birlikte çalışmış büyük bir dostun yasını tuttu.
 caveat: >-
-  TBMM c. 2 (c2) PDF s. 12. Alıntı Fransızcadır (telgraf dili; tanımlıklar düşürülmüştür); çevirisi: 'dünya
-  tarihinin en büyük adamlarından biri ... en büyük devlet adamlarından biri, yenileyici ve yaratıcı'. 'stefan
-  ciric' imzalıdır.
+  TBMM c. 2 (c2) PDF s. 12. Alıntı Fransızcadır (telgraf dili; tanımlıklar düşürülmüş). 'stefan ciric' imzalı.
 verification_note: >-
   Metin iki yaprağa yayılmıştır: 'non seulement un des plus grands hommes histoire mondiale non seulement un
   des plus grands hommes de etat regenerateur et createur mais en plus grand ami qui collabora fidelement avec
@@ -28,8 +26,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7331dce08c98
   role: b32294afa220
-  quote: d5f53d5b7b79
+  quote: d17311d06721
   summary: f08d6d9f3224
-  caveat: 23bee30cf542
+  caveat: 29ad029c08a0
   verification_note: 67f57a614a8a
   verification_method: 7c3ad23fb937

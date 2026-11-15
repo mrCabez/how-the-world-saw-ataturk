@@ -10,10 +10,9 @@ summary: >-
   Azerbaycan'ın ilk adımının Mustafa Kemal'in yolu, sonraki adımının ise bir devlet olduğunu söyler; Mustafa
   Kemal önderliğindeki cumhuriyeti yükselen bir ses olarak nitelendirir.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 83 (basılı s. 72). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe basılmıştır. Çeviri: "İlk yolumuz Mustafa Kemal'in yoludur; ondan sonra devletimizi
-  kuracağız." Ayrıca modern bir cumhuriyet kurma konusunda 'Büyük Mustafa Kemal'den alıntı yapar. Başlık:
-  'Azerbaycan Cumhurbaşkanı Ebulfez Elçibey', 26 Haziran 1992; isim kitapta 'Ebulfez Elçibey' şeklinde
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 83 (basılı s. 72). Konuşma, TBMM tutanaklarında olduğu gibi
+  Türkçe basılmıştır. Ayrıca modern bir cumhuriyet kurma konusunda 'Büyük Mustafa Kemal'den alıntı yapar.
+  Başlık: 'Azerbaycan Cumhurbaşkanı Ebulfez Elçibey', 26 Haziran 1992; kitapta adı 'Ebulfez Elçibey' olarak
   yazılmıştır. Konuşmanın yapıldığı dil kitapta belirtilmemiştir.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
@@ -28,9 +27,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7ff1f35c0f21
   role: 09529b17aace
-  quote: f7aeb1a31947
+  quote: c94a2cde5a00
   summary: 2fbef0aab5a7
-  caveat: 7184308ddaf5
+  caveat: 1872013461ca
   mediated_by: 8e2cc528453b
   verification_note: faeed0152bce
   verification_method: f5605afba367

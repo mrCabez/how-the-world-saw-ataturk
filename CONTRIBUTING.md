@@ -10,7 +10,7 @@ You can write issues and pull request descriptions in Turkish or English.
 
 If you have a voice and its source in hand, go to [Three ways to help](#three-ways-to-help). If you want to help and are looking for something to do, these are open now:
 
-- About 300 quotes have no English translation ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- 408 quotes have an English translation made by machine that no reader of the language has checked ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)). See [Fixing an English translation](#fixing-an-english-translation).
 - The Turkish translations were made by machine and need readers ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - Every record needs someone to re-open its source: see [Checking a record](#checking-a-record). Nine records cite a source nobody could open ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - Some texts are known to exist and have not been reached. The issues titled "Wanted" name four of them; [`research/candidates/`](research/candidates/) and the section "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md) list more, by region.
@@ -60,7 +60,7 @@ You only need a GitHub account. Choose a form:
 - [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): a voice that is not in the archive yet.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): something wrong in a record.
 - [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): you re-opened a record's source and can say what it prints.
-- [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): a better Turkish wording.
+- [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): a better English translation of a quote, or a better Turkish wording.
 
 Before suggesting a voice, search for the name in the [exhibition](https://ataturk.fyi) or in this repository, to see whether it is already there. The maintainer or another contributor turns a good suggestion into a record and links it in the issue.
 
@@ -95,6 +95,34 @@ npm run validate                          # must end with OK
 `npm run new` fills in `id`, `voice`, `date`, and `era` when the date decides it. It never overwrites a file. If the id is taken, or the name has no Latin letters (Chinese, Arabic, Russian …), give the id yourself with `--id`, for example `npm run new -- "Voice Name" 1938-11-10 --id voice-name-1938-11-10`. `npm run validate -- <file>` reports on one file only.
 
 Then commit, push to your fork, and open a pull request.
+
+## Fixing an English translation
+
+A quote that is not in English has an English translation in its record, in `quote.translation`, and `quote.translated_by` says who made it. Most were made by machine and no one who knows the language has read them. If you read one of the languages, this takes a few minutes per quote.
+
+1. Open the record and read `quote.text` against `quote.translation`.
+2. If the English is right, add yourself to `reviewed_by` under `quote`:
+
+   ```yaml
+   quote:
+     text: >-
+       l'ardent patriote et le grand homme d'état qui avait consacré sa vie à la glorieuse résurrection de sa
+       patrie
+     language: fr
+     translation: >-
+       the ardent patriot and great statesman who had devoted his life to the glorious resurrection of his
+       homeland
+     translated_by: "machine: research agent"
+     reviewed_by:
+       - your-github-handle
+   ```
+
+3. If it is not right, correct `translation` and write your handle in `translated_by` instead.
+4. Do not change `quote.text`. A fragment is translated as a fragment, and a misprint in the source is translated as the word it stands for.
+
+The automatic check will note that the Turkish quote of that record is out of date. That is expected: a maintainer refreshes it.
+
+If you prefer not to edit files, use the [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml) form, or the "Suggest a better one" link under the quote in the exhibition.
 
 ## Fixing a Turkish translation
 

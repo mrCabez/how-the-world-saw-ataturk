@@ -10,12 +10,11 @@ summary: >-
   Cemal'e, Anadolu'da Mustafa Kemal'in şahsen kendisini rakip olarak gördüğünü söyler; buna karşın Kemal'e
   karşı bir hareketleri olmadığını iddia eder.
 caveat: >-
-  Türkçe özgün metin; arşivin çevirisi: 'in Anatolia Mustafa Kemal Pasha personally regards me as a rival'.
-  120 sayılı mektup, Enver'den Cemal Paşa'ya (Kabil), 22 Temmuz 1921; aynı mektupta Kemal'in Hâkimiyet-i
-  Milliye'de 'yalnız bana yönelik' bir makale yazdırdığı ve 'Mustafa Kemal Paşa aleyhinde bir hareketimiz
-  olmadığı, bilakis olumsuz düşünen arkadaşları yatıştırmaya çalıştığımız' belirtilir. Kemal'e değil, bir
-  müttefike yazılmıştır; s. 234-235 olarak atıf yapılmıştır (OCR işareti 235 cümleyi izler). Alıntı s.
-  235'tedir; 'Kemal aleyhinde bir hareket olmadığı' cümlesi s. 236'dadır.
+  Türkçe özgün metin. Mektup No. 120, Enver'den Cemal Paşa'ya (Kâbil), 22 Temmuz 1921; aynı mektupta Kemal'in
+  Hâkimiyet-i Milliye'de 'yalnızca beni hedef alan' bir yazı yazdırdığı ve 'Mustafa Kemal Paşa aleyhinde
+  hiçbir hareketimiz yoktur, bilakis menfi arkadaşları teskin etmeye çalışıyoruz' denmektedir. Kemal'e değil,
+  bir müttefike yazılmıştır; s. 234-235 olarak atıf yapılmıştır (235 numaralı OCR işareti cümlenin ardından
+  gelir). Alıntı s. 235'tedir; 'Kemal aleyhinde hiçbir hareketimiz yoktur' cümlesi s. 236'dadır.
 verification_note: >-
   Kelimeler birebir aynı ('Bildiğiniz gibi Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki ise burada
   temâs samimi ve açık anlatmamıza rağmen hattâ Hâkimiyet-i Milliye ile şimdilik yalnız bana müteveccih bir
@@ -29,8 +28,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fea41fea54fd
   role: 01ed27cf371a
-  quote: cd1175941954
+  quote: 784abac78af7
   summary: 75f46c0fa498
-  caveat: dae7fe6d909f
+  caveat: 17ffdc148644
   verification_note: d899c2a0425f
   verification_method: 0b1464308eaa

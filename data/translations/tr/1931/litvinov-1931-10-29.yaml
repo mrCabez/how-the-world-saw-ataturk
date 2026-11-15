@@ -10,9 +10,8 @@ summary: >-
   Moskova'ya Kemal ile uzun görüşmeler yaptığını bildirdi; Kemal kendisini Mançurya konusunda sıkıştırmış,
   Japonya'nın SSCB'ye yöneleceğinden endişe etmiş ve Türkiye'nin Balkan politikasını açıklamıştı.
 caveat: >-
-  Rusça bir telgrafın Türkçe çevirisi. Çeviri: 'I had long talks with Kemal Pasha, and even more with İsmet
-  Pasha.' Türkiye'nin Sovyet dostluğuna değer verdiği yargısına varmıştır. Vakit (31 Ekim 1931), Kemal'in
-  baloda kendisiyle sabaha kadar Fransızca konuştuğunu eklemektedir.
+  Rusça bir telgrafın Türkçe çevirisi. Türkiye'nin Sovyet dostluğuna değer verdiği kanaatine varmıştır. Vakit
+  (31 Ekim 1931), Kemal'in baloda kendisiyle sabaha kadar Fransızca konuştuğunu ekler.
 mediated_by: >-
   Atatürk'ün Bütün Eserleri c. 25 s. 267–268 dn. ← M. Perinçek, Atatürk'ün Sovyetler'le Görüşmeleri (2007) s.
   411–412 ← Litvinov'un NKID'ye telgrafı, 29 Ekim 1931 (Dokumenty vneshnei politiki SSSR c. 14 s. 622 vd.)
@@ -28,9 +27,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 338d24d06dc4
   role: 770ec72aa7d6
-  quote: 11aa1e0cc1b1
+  quote: 241708eb91a4
   summary: 40520766d03c
-  caveat: f76207b1dc83
+  caveat: 228a5f7d8069
   mediated_by: 30baad1b3f08
   verification_note: a3114a9011b7
   verification_method: b152e9063489

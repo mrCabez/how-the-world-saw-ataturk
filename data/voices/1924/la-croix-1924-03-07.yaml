@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Et, puisque Mustapha Kemal prétend inaugurer
   language: fr
+  translation: And, since Mustapha Kemal claims to be inaugurating
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   View 1. Replaces the withdrawn 9 March record (quote was in this 7 March issue, not 9 March). Fragment cut
   with '(...)' after 'inaugurer'. Same view also has 'cette intolérance jeune-turque' and the reproach to 'des

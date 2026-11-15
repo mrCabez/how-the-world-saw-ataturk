@@ -17,6 +17,8 @@ summary: >-
 quote:
   text: Atatürk ölmez
   language: tr
+  translation: Atatürk does not die
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: Toksoy 2010 §C İran Basını
 caveat: Iranian-side primary (Ettela'at) not seen.
 node: Tehran Falls Silent, November 1938

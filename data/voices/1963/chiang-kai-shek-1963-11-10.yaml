@@ -24,13 +24,14 @@ quote:
     kazanan büyük Türk önderi hakkındaki engin duygularımı ve hayranlığımı iletmek isterim, Atatürk'ün hayatı
     ve eseri sadece Türkiye için değil fakat dünyanın bütün hür milletleri için bir ilham kaynağı olmakta
     devam edecektir.
+  language: tr
   translation: >-
     On the 25th anniversary of the death of Mustafa Kemal Atatürk, founder of the Turkish Republic, I wish to
     convey on behalf of my country and nation my deep feelings and admiration for the great Turkish leader who
     succeeded in his struggle to bring his nation freedom and democracy. Atatürk's life and work will continue
     to be a source of inspiration not only for Turkey but for all the free nations of the world.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 7 (column of leaders' messages under 'Atatürk'ü anıyoruz'): the paper's Turkish
   rendering of a message for the 25th anniversary of Atatürk's death

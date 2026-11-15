@@ -21,6 +21,11 @@ quote:
     لقد قامت تركيا بانقلابها الكامل، وأعلن مصطفى كمال باشا إلغاء الخلافة وفصل الدولة عن الدين في أمة كانت إلى
     بضع سنوات في عرف الدنيا جميعًا مقرّ أمير المؤمنين
   language: ar
+  translation: >-
+    Turkey carried out its complete revolution, and Mustafa Kemal Pasha announced the abolition of the
+    caliphate and the separation of the state from religion, in a nation that until a few years before had
+    been, in the eyes of the whole world, the seat of the Commander of the Faithful
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: >-
   acrseg.org and whiteink.info quoting Mudhakkirat al-Da'wa wa'l-Da'iya; Wagemakers 2020 for his caliphate
   position

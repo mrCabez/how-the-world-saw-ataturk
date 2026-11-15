@@ -19,8 +19,12 @@ quote:
   text: >-
     Mustafa Kemal Atatürk'ün hatırasını onurlandırmak için yeni bir fırsatla Anıtkabir'e geri geldiğim için
     ayrıcalıklı hissediyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    I feel privileged to have come back to Anıtkabir with a new opportunity to honour the memory of Mustafa
+    Kemal Atatürk.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: TürkInfo.nl and İktibas Dergisi (AA), 22 Mar 2022 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English (English). TürkInfo.nl and İktibas Dergisi print the same

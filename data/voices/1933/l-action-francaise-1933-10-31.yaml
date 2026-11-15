@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: la victoire de Mustapha Kemal provo qua la faillite catastrophique
   language: fr
+  translation: the victory of Mustapha Kemal brought about the catastrophic collapse
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Fragment-level, page 1, cut after 'mèga' (presumably 'mégalomanie'); OCR splits 'provo qua'.
   Neutral-to-approving reading is not shown, so recorded as witness.

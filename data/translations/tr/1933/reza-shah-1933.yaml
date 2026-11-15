@@ -12,9 +12,8 @@ summary: >-
   Türk büyükelçisine Gazi ile görüşmeyi çok arzu ettiğini söyler ve 1934 ilkbaharında veliaht prensle birlikte
   onu ziyaret etmek niyetindedir.
 caveat: >-
-  Şah'ın kendi metni değil, büyükelçinin hatıratında aktarılmıştır; Atuk bunu '1933 başları'na yerleştirir.
-  Bir yargıdan ziyade görüşme arzusu bildiren diplomatik nezaket. Çevirisi: 'According to what you tell me,
-  His Excellency Gazi wants to meet me. I too very much wish to meet him.'
+  Şah'ın kendi metni değil, büyükelçinin anılarında aktarılan sözlerdir; Atuk bunu '1933 başları' olarak
+  tarihlendirir. Bir yargıdan ziyade görüşme arzusunu dile getiren diplomatik bir nezaket ifadesidir.
 mediated_by: >-
   Atuk, ÇTTAD XVII/35 (2017), s. 232 ← Hüsrev Gerede, Siyasi Hatıratım 1: İran (Vakit, 1952), s. 265
   (büyükelçinin anıları)
@@ -31,9 +30,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4142e9b5425b
   role: 95a8b5886fd0
-  quote: 060db32cb9c8
+  quote: cb3f22c5a77f
   summary: 99bae468a70b
-  caveat: c5b043a6fba8
+  caveat: 2f9d68294941
   mediated_by: 1d475b24ca0b
   verification_note: a98de37ecf12
   verification_method: d3fa56fc0be8

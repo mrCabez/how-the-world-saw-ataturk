@@ -19,8 +19,12 @@ quote:
   text: >-
     Rusya'da Türk halkının büyük oğlu Atatürk'ün hatırasına büyük değer veriliyor. Türk devletinin yeniden
     doğuşu, O'nun adıyla ilişkilendirilir.
-  is_translation: true
   language: tr
+  translation: >-
+    In Russia the memory of Atatürk, the great son of the Turkish people, is held in high regard. The rebirth
+    of the Turkish state is associated with his name.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Hürriyet 6 Dec 2004 (Turkish translation of the entry); RTİB repeats it
 caveat: >-
   UPGRADE of the existing putin-2004-12-06 record (Kremlin paraphrase only): the Turkish text of the entry.

@@ -18,9 +18,10 @@ quote:
   text: >-
     perte prématurée grand homme Turquie et Orient Atatürk … son nom son œuvre vivront pour toujours
   language: fr
-caveat: >-
-  French telegraphese (c2, PDF p. 26), as president of the Wafd; English: premature loss of the great man of
-  Turkey and the East… his name and his work will live forever.
+  translation: >-
+    premature loss of the great man of Turkey and the East, Atatürk … his name and his work will live forever
+  translated_by: "machine: claude-fable-5-2"
+caveat: French telegraphese (c2, PDF p. 26), as president of the Wafd.
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467

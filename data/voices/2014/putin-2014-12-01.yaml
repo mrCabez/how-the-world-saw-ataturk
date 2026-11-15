@@ -18,8 +18,11 @@ summary: >-
 quote:
   text: >-
     Rusya, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anısına derin saygı duyuyor.
-  is_translation: true
   language: tr
+  translation: >-
+    Russia holds in deep respect the memory of Mustafa Kemal Atatürk, founder of the Republic of Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Anadolu Ajansı and Sabah (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of the Russian entry (AA 1 Dec 2014; Sabah 2 Dec 2014 prints the same text, probably from

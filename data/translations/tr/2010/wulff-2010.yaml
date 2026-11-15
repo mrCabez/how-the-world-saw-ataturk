@@ -13,10 +13,9 @@ summary: >-
 caveat: >-
   Özgün dildeki metin
   (https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html); TBMM
-  tutanakları (Tarihe Düşülen Notlar-2, 2012) Türkçe bir versiyon basar: "bu yol Büyük Mustafa Kemal Atatürk
-  tarafından açılmıştır.". TBMM kitabı PDF s. 285 (basılı s. 274). İngilizcesi: '…hopes that you will continue
-  on the road to Europe opened by your great statesman Mustafa Kemal Atatürk.' Atatürk'ün 'peace at home,
-  peace in the world' sözüyle kapanır.
+  tutanaklarında (Tarihe Düşülen Notlar-2, 2012) Türkçe bir versiyonu basılmıştır: "bu yol Büyük Mustafa Kemal
+  Atatürk tarafından açılmıştır.". TBMM kitabı PDF s. 285 (basılı s. 274). Atatürk'ün 'yurtta barış, dünyada
+  barış' sözüyle sona ermektedir.
 verification_note: >-
   Kelimesi kelimesine eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Almanya Federal
   Cumhuriyeti Cumhurbaşkanı Christian Wulff, 8. Birleşim, 19 Ekim 2010' (PDF s. 282'deki başlık)). Alıntı
@@ -35,8 +34,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 07b6cd5ff6b8
   role: 1d5cefa6fd10
-  quote: 0771a7114e62
+  quote: b3bf56f7214b
   summary: a9b8db7017c5
-  caveat: 9d5a23ba98cf
+  caveat: 7b710f67af6d
   verification_note: 58d1ab8084fb
   verification_method: a6c97400273f

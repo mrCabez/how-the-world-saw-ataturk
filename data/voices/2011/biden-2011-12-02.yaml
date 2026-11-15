@@ -20,8 +20,12 @@ quote:
   text: >-
     Bugün dünya çapında insanlar nasıl yönetilecekleri konusunda seslerini yükseltmeye çalışırken, Atatürk'ün
     Türkiye'nin gelişmesinde kullanılan demokrasinin prensiplerini yaptığı vurgudan ilham alabilirler.
-  is_translation: true
   language: tr
+  translation: >-
+    Today, as people around the world strive to raise their voices about how they are to be governed, they can
+    draw inspiration from Atatürk's emphasis on the principles of democracy used in Turkey's development.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: İHA 2 Dec 2011 (Turkish translation of the entry)
 caveat: >-
   Only İHA's full text was read (T24 and Haberler carry summaries or a stub). Turkish rendering of an English

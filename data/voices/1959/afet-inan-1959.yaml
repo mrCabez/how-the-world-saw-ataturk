@@ -21,15 +21,17 @@ quote:
     Savaşta kumandan, devlet kurmada siyasi bir şahsiyet, inkılap hareketlerinde ise devrimci bir fikir adamı
     olarak karşımıza çıkıyor.
   language: tr
+  translation: >-
+    He appears before us as a commander in war, a political figure in founding the state, and a revolutionary
+    man of ideas in the movements of reform.
+  translated_by: "machine: research agent"
 caveat: >-
-  TRANSLATION (this record's): 'He appears before us as a commander in war, a political figure in founding the
-  state, and a revolutionary man of ideas in the movements of reform.' Önsöz (p. xvi) of Atatürk Hakkında
-  Hatıralar ve Belgeler (1st ed. Ankara 1959), read in the İş Bankası edition revised by her son Arı İnan
-  (2007; 8th printing 2009), whose language was modernised, so the 1959 wording may differ slightly.
-  First-hand witness of his last 13 years; the book prints his letter to her from the Savarona of 14 June
-  1938. The vault note's framing ('engineered academic') is interpretation, not tested here. Check: quote
-  verified only in the 2007 edition, whose editor (Arı İnan) modernised the language; the 1959 wording is
-  unverified.
+  Önsöz (p. xvi) of Atatürk Hakkında Hatıralar ve Belgeler (1st ed. Ankara 1959), read in the İş Bankası
+  edition revised by her son Arı İnan (2007; 8th printing 2009), whose language was modernised, so the 1959
+  wording may differ slightly. First-hand witness of his last 13 years; the book prints his letter to her from
+  the Savarona of 14 June 1938. The vault note's framing ('engineered academic') is interpretation, not tested
+  here. Check: quote verified only in the 2007 edition, whose editor (Arı İnan) modernised the language; the
+  1959 wording is unverified.
 node: Turkish Writers and Contemporaries on Kemal — Round 33
 sources:
   - url: https://archive.org/details/afet-inan-ataturk-hakkinda-hatiralar-ve-belgeler_202403

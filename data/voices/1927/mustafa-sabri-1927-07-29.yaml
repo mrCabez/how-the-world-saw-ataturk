@@ -19,6 +19,9 @@ summary: >-
 quote:
   text: Nasıl ki Ankara hükümet reisi de kendi itirafiyle zıllullah değildir.
   language: tr
+  translation: >-
+    Just as the head of the Ankara government too is, by his own admission, not the Shadow of God.
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: Albayrak 1992 (reprint of Yarın articles)
 caveat: >-
   Article 'Cuhela Marifetleri' (printed pp. 306-310 (quote p. 308) of Albayrak's edition; the OCR reads 'Nasil

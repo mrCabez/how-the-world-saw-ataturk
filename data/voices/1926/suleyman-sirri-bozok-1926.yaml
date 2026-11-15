@@ -17,6 +17,9 @@ summary: Proposed that deputies go in groups to Çankaya to congratulate the Gaz
 quote:
   text: Gazi Paşa Hazretleri Çankaya'dadır. Kafile kafile gider, arzı tebrikât eyleriz.
   language: tr
+  translation: >-
+    His Excellency the Gazi Pasha is at Çankaya. We shall go group by group and offer our congratulations.
+  translated_by: "machine: claude-fable-5-2"
 node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
 sources:
   - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027002.pdf

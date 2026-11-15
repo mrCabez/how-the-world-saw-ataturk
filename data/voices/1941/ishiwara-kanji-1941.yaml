@@ -18,6 +18,9 @@ summary: >-
 quote:
   text: 最近に於てはケマル・パシャとか蒋介石、フランコ将軍等は大体それであり
   language: ja
+  translation: >-
+    in recent times Kemal Pasha, Chiang Kai-shek, General Franco and the like are broadly of that kind
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   1929 lecture revised 1938 and 1940, published 8 Apr 1941; the sentence mentions the Second European War so
   cannot be from 1929.

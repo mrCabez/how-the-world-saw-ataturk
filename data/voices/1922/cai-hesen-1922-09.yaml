@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 最偉大最有革命精神的基瑪爾將軍統率他的國民黨起事於安戈拉
   language: zh
+  translation: >-
+    General Kemal, the greatest and the most revolutionary in spirit, led his Nationalist party in rising at
+    Angora
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Issue no. 3 (27 Sep 1922 per the weekly's run); Wikisource page gives the date 1922-09-27 in its header.
 node: Xiangdao Reads Ankara, 1922–1924

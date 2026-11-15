@@ -20,13 +20,16 @@ quote:
     Ich möchte heute in meinem Redebeitrag an einen großen Türken erinneren, nämlich an Atatürk. Peace at home
     – peace in the world, war einer seiner Sätze, die er geprägt hat.
   language: de
+  translation: >-
+    In my speech today I would like to recall a great Turk, namely Atatürk. 'Peace at home - peace in the
+    world' was one of the sayings he coined.
+  translated_by: "machine: research agent"
 caveat: >-
   Original German as in the verbatim report ('erinneren' is the report's misspelling). He goes on to quote
   Atatürk's line that sovereignty built on fear and arms alone cannot last, and to tell Ankara to argue from
   Turkey's own tradition rather than 'our European values'; the praise serves his message to Erdoğan's
   government, hence instrumental. Role: the report names him 'im Namen der PPE-Fraktion'; his CSU membership
-  is the standard record. [Translation:] In my speech today I would like to recall a great Turk, namely
-  Atatürk. 'Peace at home - peace in the world' was one of the sayings he coined.
+  is the standard record.
 node: European Parliament plenary on Atatürk, 2004–2016 — Nordmann and Weber
 sources:
   - url: https://www.europarl.europa.eu/doceo/document/CRE-8-2016-11-22-ITM-010_EN.html

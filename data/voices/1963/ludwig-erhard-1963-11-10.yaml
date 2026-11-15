@@ -26,6 +26,7 @@ quote:
     sahipti ve yılmak bilmeyen bir yaratıcılıkla eserlerini gerçekleştirmeğe başladı... Atatürk, biz
     Almanlarla geleneksel, yürekten ve karşılıklı itimada dayanan münasebetler idame ettirmiştir... Atatürk,
     daima Türkiye ile Avrupa arasında sıkı bağlar kurmağa çalışmıştır.
+  language: tr
   translation: >-
     On 10 November the whole world remembers with appreciation the life and works of a man to whom we Germans,
     too, are bound by friendship and respect... As a soldier Atatürk emerged victorious from a merciless and
@@ -34,8 +35,8 @@ quote:
     resolute ideals and began to realise his works with tireless creativity... Atatürk maintained with us
     Germans traditional, heartfelt relations based on mutual trust... Atatürk always strove to build close
     ties between Turkey and Europe.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
   of a message for the 25th anniversary of Atatürk's death

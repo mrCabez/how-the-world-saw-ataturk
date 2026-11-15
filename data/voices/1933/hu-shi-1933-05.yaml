@@ -17,6 +17,10 @@ summary: >-
 quote:
   text: 凯末尔将军所抗之敌已不是1918年停战以前的协约国联军了，不过是那贪横的希腊军队
   language: zh
+  translation: >-
+    The enemy General Kemal resisted was no longer the Allied armies of before the 1918 armistice, but only
+    that greedy and overbearing Greek army
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Simplified-character text as transcribed on Wikisource; the target is the analogy, not Kemal.
 node: Hu Shi

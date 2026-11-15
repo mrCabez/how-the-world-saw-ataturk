@@ -9,8 +9,8 @@ quote_kind: translated
 summary: >-
   Şehrin öz evladını yeni Türkiye'nin bir reformcusu ve Yunanistan'ın sadık bir dostu olarak nitelendirdi.
 caveat: >-
-  TBMM c. 1 (c1) PDF s. 11. Alıntı Fransızcadır (telgraf dili); çevirisi: 'yeni Türkiye'nin reformcusu ve
-  Yunanistan'ın sadık dostu'. Belediye meclisinin cadde adlandırmasından (salonika-city-council-1938) ayrıdır.
+  TBMM c. 1 (c1) PDF s. 11. Alıntı Fransızcadır (telgraf dili). Belediye meclisinin caddeye isim verme
+  kararından (salonika-city-council-1938) ayrıdır.
 verification_note: >-
   Kaynakta 'enfant kemal ataturk reformateur nouvelle turque et ami fidele grece' yazılıdır, 'c mercouriou
   maire thessalonik' imzalıdır. Kayıttaki 'réformateur nouvelle Turquie et ami fidèle Grèce' alıntısı 'turque'
@@ -25,8 +25,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 181d7545edbd
   role: 1c1d282452b6
-  quote: 35aad5c1fd89
+  quote: 6dd412c5aa20
   summary: 8899bd7489cd
-  caveat: 6a05fa8be7e5
+  caveat: 442f56605ed7
   verification_note: "41686e260177"
   verification_method: 6cb3f7fb0b59

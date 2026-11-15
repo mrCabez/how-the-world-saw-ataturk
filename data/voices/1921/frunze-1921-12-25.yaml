@@ -23,14 +23,15 @@ quote:
     ve kendi hizmetiniz ve emeğinizle geçindiğinizi biliyorum. Buradan, komünist ihtilal olsa bile sizin
     hiçbir şey kaybetmeyeceğiniz sonucu çıkmaktadır.
   language: tr
+  translation: >-
+    When I speak of power I have you, the Pasha, in mind, and I know you have no property and live by your own
+    service and labour. It follows that even if there were a communist revolution you would lose nothing.
+  translated_by: "machine: research agent"
 mediated_by: >-
   Atatürk'ün Bütün Eserleri vol. 12 pp. 177–179 ← Soviet record of the Abilov–Frunze talk with Mustafa Kemal,
   25 Dec 1921 (Azerbaijan State Archive of Recent History, f. 28, op. 1, d. 68, ll. 10–16) ← Y. Aslan, Mustafa
   Kemal–M. Frunze Görüşmeleri (2002) pp. 35–46
-caveat: >-
-  Turkish translation of a Russian record. Translation: 'When I speak of power I have you, the Pasha, in mind,
-  and I know you have no property and live by your own service and labour. It follows that even if there were
-  a communist revolution you would lose nothing.' A second talk followed on 4 Jan 1922.
+caveat: Turkish translation of a Russian record. A second talk followed on 4 Jan 1922.
 node: Statesmen and Royals in Contact with Kemal, 1919–1938
 sources:
   - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2012%20%281921%20-%201922%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202005%20%282.%20Bas%C4%B1m%29%2C%20424%20sf.pdf

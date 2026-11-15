@@ -19,14 +19,15 @@ quote:
   text: >-
     Mücadelelerinde onlara hayran oldum ve bunu kendilerine bildirdim. Fakat bugün onları anlıyamıyorum
   language: tr
+  translation: I admired them in their struggle and told them so. But today I do not understand them.
+  translated_by: "machine: research agent"
 mediated_by: >-
   F. Pekin, 'Atatürk ve Lyautey', Belleten XX/80 (Oct 1956) p. 642 ← B. Georges-Gaulis, La question turque
   (1931)
 caveat: >-
-  Turkish translation of remarks Gaulis recorded years later. Translation: 'I admired them in their struggle
-  and told them so. But today I do not understand them.' The same conversation praises their sincerity, energy
-  and military worth but says such men 'grow weak once they succeed'. The PDF text layer drops Turkish letters
-  (printed as 'onlar~~anhyam~yorum'); quote restored from the page.
+  Turkish translation of remarks Gaulis recorded years later. The same conversation praises their sincerity,
+  energy and military worth but says such men 'grow weak once they succeed'. The PDF text layer drops Turkish
+  letters (printed as 'onlar~~anhyam~yorum'); quote restored from the page.
 node: Statesmen and Royals in Contact with Kemal, 1919–1938
 sources:
   - url: https://belleten.gov.tr/tam-metin-pdf/1240/tur

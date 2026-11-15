@@ -19,8 +19,12 @@ quote:
   text: >-
     Allah, bu büyük devlet adamına mağfiret etsin. Zamanımızın en büyük insanlarından biriydi ve günümüzde
     evrensel ışıltısı olan bir ülke kurdu.
-  is_translation: true
   language: tr
+  translation: >-
+    May God have mercy on this great statesman. He was one of the greatest men of our time, and he founded a
+    country that today shines with a universal radiance.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 caveat: >-
   Handwritten in Arabic, 20.04.2004; the quote is the compilation's Turkish ('May God forgive this great
   statesman. He was one of the greatest people of our time and built a country with universal radiance

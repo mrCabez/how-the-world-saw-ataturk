@@ -21,13 +21,15 @@ quote:
     Türkiye Cumhuriyeti’nin kurucusu, dâhi şahsiyet Atatürk daha o zamanlarda bile diğer Türk devletlerinin
     günün birinde bağımsızlıklarına kavuşacağını büyük bir öngörüşle ifade etmişti.
   language: tr
+  translation: >-
+    The founder of the Republic of Turkey, the genius Atatürk, even then expressed with great foresight that
+    the other Turkic states would one day gain their independence.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 268 (printed p. 257). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "The founder of the Republic of Turkey, the genius Atatürk, even then expressed with
-  great foresight that the other Turkic states would one day gain their independence." On PDF p. 269 he
-  reports unveiling a large statue of Mustafa Kemal Atatürk on the Esil river in Astana before his visit.
-  Heading: 'Kazakistan Cumhurbaşkanı Nursultan Nazarbayev', 22 Ekim 2009.
+  minutes. On PDF p. 269 he reports unveiling a large statue of Mustafa Kemal Atatürk on the Esil river in
+  Astana before his visit. Heading: 'Kazakistan Cumhurbaşkanı Nursultan Nazarbayev', 22 Ekim 2009.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

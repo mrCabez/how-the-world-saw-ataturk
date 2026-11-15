@@ -18,6 +18,9 @@ summary: >-
 quote:
   text: 以較俄羅斯之列寧、土耳其之凱末爾，我們實覺其無消遜色
   language: zh
+  translation: >-
+    Set beside Russia's Lenin and Turkey's Kemal, we truly feel that he is in no way their inferior
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Kemal is a yardstick for Sun, not the subject; manifesto date as the header gives it (民國十三年七月二十日).
 node: Kemal in the Kuomintang's Quarrels, 1924–1928

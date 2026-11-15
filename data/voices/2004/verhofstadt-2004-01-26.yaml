@@ -20,8 +20,12 @@ quote:
   text: >-
     Kendisi Dünya tarihinde büyük bir devlet adamı olarak yerini almıştır. Cesurca yaptığı reformlar ile
     ülkesine Avrupa yolunu açmıştır.
-  is_translation: true
   language: tr
+  translation: >-
+    He has taken his place in world history as a great statesman. With his courageous reforms he opened the
+    road to Europe for his country.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 caveat: >-
   Handwritten in Dutch, Ankara 26 Jan 2004 ('… mijn respect en waardering uit te drukken voor Mustafa Kemal
   Atatürk, de grondlegger van het moderne Turkije. Hij heeft zich in de wereldgeschiedenis een plaats

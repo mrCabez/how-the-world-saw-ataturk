@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: il n'y avait plus rien, sinon des hommes prêts à défendre le sol national
   language: fr
+  translation: there was nothing left, except men ready to defend the national soil
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Next day's press-review
   item (12 Nov) relays other papers; the paper's own stance there is partly inferred.

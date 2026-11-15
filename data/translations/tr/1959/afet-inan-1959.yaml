@@ -12,14 +12,12 @@ summary: >-
   Atatürk'ü yalnızca bir komutan ve kurucu cumhurbaşkanı olarak değil, devrimlerini bir ömür boyu planlamış
   bir fikir insanı olarak görür.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'He appears before us as a commander in war, a political figure in founding the state,
-  and a revolutionary man of ideas in the movements of reform.' Atatürk Hakkında Hatıralar ve Belgeler'in (1.
-  basım Ankara 1959) oğlu Arı İnan tarafından gözden geçirilmiş İş Bankası baskısından (2007; 8. baskı 2009)
-  okunan Önsöz'ü (s. xvi); bu baskının dili sadeleştirildiğinden 1959 metnindeki ifadeler küçük farklılıklar
-  gösterebilir. Son 13 yılının birinci elden tanığıdır; kitapta Atatürk'ün ona Savarona'dan yazdığı 14 Haziran
-  1938 tarihli mektup yer alır. Arşiv notunun çerçevelemesi ('engineered academic') yorumdur, burada
-  sınanmamıştır. Kontrol: alıntı yalnızca editörünün (Arı İnan) dili sadeleştirdiği 2007 baskısında
-  doğrulanmıştır; 1959'daki ifadeler doğrulanmamıştır.
+  Atatürk Hakkında Hatıralar ve Belgeler'in (1. baskı Ankara 1959) Önsöz'ü (s. xvi), oğlu Arı İnan tarafından
+  gözden geçirilen İş Bankası baskısından (2007; 8. basım 2009) okunmuştur; bu baskının dili
+  sadeleştirilmiştir, dolayısıyla 1959 metni küçük farklılıklar gösterebilir. Son 13 yılının birinci elden
+  tanığıdır; kitapta onun Savarona'dan kendisine yazdığı 14 Haziran 1938 tarihli mektup yer alır. Arşiv
+  notunun çerçevelemesi ('kurgulanmış akademisyen') yorumdur, burada sınanmamıştır. Kontrol: alıntı yalnızca
+  editörünün (Arı İnan) dili sadeleştirdiği 2007 baskısında doğrulanmıştır; 1959 metni doğrulanmamıştır.
 verification_note: >-
   Alıntı 2007 gözden geçirilmiş baskının s. xvi'sında birebir mevcuttur. Arı İnan'ın Sunuş yazısı, 'kitabın
   dili'ni daha anlaşılır kılmaya çalıştığını ve köşeli parantez içinde güncel karşılıklar eklediğini belirtir.
@@ -34,8 +32,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7da7bc774342
   role: b71a599f34d8
-  quote: 9188a89bea2f
+  quote: e0a9992480f8
   summary: d74a5db88d51
-  caveat: e0a33c1543e6
+  caveat: 852e9e2fbe6b
   verification_note: 80b5d3d03d26
   verification_method: d57f9b083261

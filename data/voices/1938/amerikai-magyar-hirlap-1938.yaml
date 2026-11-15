@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: A török diktátor tetszik nekünk
   language: hu
+  translation: We like the Turkish dictator
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   One-line joke in a column; the implied contrast is with noisier dictators (Hitler is the topic of the
   preceding paragraph).

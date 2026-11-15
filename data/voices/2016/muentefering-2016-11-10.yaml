@@ -19,10 +19,11 @@ quote:
   text: >-
     Das ist eine Entwicklung, die von dem nicht unumstrittenen Staatsgründer Mustafa Kemal Atatürk einst
     begründet wurde und an den übrigens heute in der ganzen Türkei im Rahmen eines Gedenktages erinnert wird.
+  language: de
   translation: >-
     That is a development which was once founded by the not undisputed state founder Mustafa Kemal Atatürk and
     which, by the way, is being commemorated throughout Turkey today on a day of remembrance.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Same debate as Jung (the date, 10 November, is

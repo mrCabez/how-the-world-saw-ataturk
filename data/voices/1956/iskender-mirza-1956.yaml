@@ -21,12 +21,15 @@ quote:
     Atatürk tarihin daima şükranla yâd etmekle şeref kazanacağı ve milletinin mukadderatını tâyindeki hissesi
     ebediyen yaşayacak olan dünya kahramanları sınıfına dâhildir.
   language: tr
+  translation: >-
+    Atatürk belongs to that class of world heroes whom history will always be honoured to remember with
+    gratitude, and whose part in shaping his nation's destiny will live for ever.
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 14 (printed p. 3). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "Atatürk belongs to the class of world heroes whom history will honour with gratitude
-  and whose share in deciding his nation's destiny will live for ever." The same speech pairs him with Jinnah
-  (PDF p. 15). Heading: 'Pakistan Reisicumhuru İskender Mirza', Doksanıncı İnikat, 16 Temmuz 1956.
+  minutes. The same speech pairs him with Jinnah (PDF p. 15). Heading: 'Pakistan Reisicumhuru İskender Mirza',
+  Doksanıncı İnikat, 16 Temmuz 1956.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

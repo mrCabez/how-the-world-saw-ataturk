@@ -21,14 +21,16 @@ quote:
     Ben kendim, gençliğimde, ateşli bir Atatürk hayranı idim. Atatürk bir dahi ve en çok muhtaç olduğu anda
     Türk Milletine Tanrı’nın bir ihsanıdır.
   language: tr
+  translation: >-
+    I myself, in my youth, was an ardent admirer of Atatürk. Atatürk is a genius and a gift of God to the
+    Turkish nation at its moment of greatest need.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 61 (printed p. 50). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "I myself, in my youth, was an ardent admirer of Atatürk. Atatürk is a genius and a
-  gift of God to the Turkish nation at its moment of greatest need." Same speech: 'O bizi özgür olmağa
-  cesaretlendirdi' (he encouraged us to be free); The minutes print 1947 for liberation from colonial rule;
-  Malaya's independence was 1957. Heading: 'Malezya Millet Meclisi Başkanı Tan Sri Dato Mohd Zahir Hacı
-  İsmail', 23 Nisan 1988.
+  minutes. Same speech: 'O bizi özgür olmağa cesaretlendirdi' (he encouraged us to be free); The minutes print
+  1947 for liberation from colonial rule; Malaya's independence was 1957. Heading: 'Malezya Millet Meclisi
+  Başkanı Tan Sri Dato Mohd Zahir Hacı İsmail', 23 Nisan 1988.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

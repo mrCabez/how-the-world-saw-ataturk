@@ -12,11 +12,9 @@ summary: >-
   Başörtüsü yasağı tartışmasında Atatürk'ü bir Müslüman düşmanı ya da sağcı olarak değil, kadınların baskı
   altına alınmasına son vermek için başörtüsünü yasaklayan bir kurucu olarak sunar.
 caveat: >-
-  İlkokullarda 2019 başörtüsü yasağını savunan argüman; Atatürk bir otorite olarak yardıma çağrıldığından
-  kayıt hayranlık bildirdiği kadar araçsaldır. Tarihsel iddia (başörtüsü yasağı) arşive değil konuşmacıya
-  aittir. Konuşmacı satırı: 'Abgeordneter Ing. Robert Lugar (FPÖ)'. [Çeviri:] O bir Müslüman düşmanı değildi
-  ve bir sağcı da değildi. Türkiye'nin kurucusu başörtüsünü tam da kadının baskı altına alınmasıyla bağlantılı
-  olduğu için yasakladı.
+  İlkokullarda 2019'da getirilen başörtüsü yasağını savunan argüman; Atatürk bir otorite olarak yardıma
+  çağrıldığından, kayıt hayranlık bildirdiği kadar araçsaldır da. Tarihsel iddia (başörtüsü yasağı) arşive
+  değil konuşmacıya aittir. Konuşmacı satırı: 'Abgeordneter Ing. Robert Lugar (FPÖ)'.
 verification_note: >-
   Birebir aynı, birbirini izleyen iki cümle, tutanakta öncesinde 'Atatürk, ein Gründer der Türkei, hat das
   Kopftuch verboten.' cümlesi yer alıyor; konuşmacı, parti, tarih doğru; çeviri sadık. Kişiyi nitelendirdiği
@@ -27,8 +25,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fca43fe083f7
   role: a6ae06098602
-  quote: c245525dddda
+  quote: c6835c0ebf21
   summary: 193828ef41b4
-  caveat: c804cd12772e
+  caveat: 4f01ae41f352
   verification_note: 77e9ba40fd1d
   verification_method: f4548f3ae88d

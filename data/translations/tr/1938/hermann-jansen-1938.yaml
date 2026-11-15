@@ -8,9 +8,8 @@ quote: üstün deha sahibi Devlet Başkanı Kemal Atatürk
 quote_kind: translated
 summary: Üstün deha sahibi devlet başkanının ölümünün yasını tuttu.
 caveat: >-
-  TBMM c. 2 (c2) PDF s. 15. Alıntı Almancadır; çevirisi: 'üstün deha sahibi devlet başkanı'. Görev bilgisi
-  'Prof. Hermann Jansen' dizin kaydından ve arka plan bilgisinden (1928 Ankara planı) alınmıştır; belgede
-  belirtilmemiştir.
+  TBMM c. 2 (c2) PDF s. 15. Alıntı Almancadır. Görev/unvan bilgisi 'Prof. Hermann Jansen' dizin kaydından ve
+  arka plan bilgisinden (1928 Ankara planı) alınmıştır; belgede belirtilmemiştir.
 verification_note: >-
   'herzliches beileid zum schweren verlust des hochgenialen staatspraesidenten kamalatatuerk = tiefbewegt
   professor hermann jansen'. Kayıttaki 'hochgenialen Staatspräsidenten Kemal Atatürk' ifadesi umlaut işaretini
@@ -25,8 +24,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 635c02f6f96a
   role: 8cac0873139e
-  quote: 8069ac6df1cd
+  quote: 96d0dabd61b0
   summary: 42917e2e9b3a
-  caveat: 8c0e669488c4
+  caveat: bd359e6af04f
   verification_note: fae3c22d3e08
   verification_method: 7c3ad23fb937

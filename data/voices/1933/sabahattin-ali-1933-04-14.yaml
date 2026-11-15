@@ -20,17 +20,20 @@ quote:
     Beni en çok üzen yediğim ceza değil, sizin büyük isminizin şahsî intikam vasıtası olarak kullanılabilmesi
     ve buna müsamaha edilmesi keyfiyetidir.
   language: tr
+  translation: >-
+    What grieves me most is not the sentence I received, but that your great name could be used as an
+    instrument of personal revenge, and that this is tolerated.
+  translated_by: "machine: research agent"
 caveat: >-
-  TRANSLATION (this record's): 'What grieves me most is not the sentence I received, but that your great name
-  could be used as an instrument of personal revenge, and that this is tolerated.' Typed petition headed
-  'Reisicumhur Gazi Mustafa Kemal Hazretlerine', dated '14- IV - 1933', signed 'Konya Hapisanesinde mevkuf,
-  Konya Muhtelit Ortamektep almanca muallimi Sabahattin Ali', with a revenue stamp, office annotations and the
-  stamp 'Cumhurbaşkanlığı Arşivi'. Read from the facsimile (Wikimedia Commons, source given as a Habertürk
-  image of 10 Aug 2018) and the proofread tr.wikisource transcription (quality level 4), which agree. He was
-  serving a one-year sentence for 'implicitly and allusively insulting' the President in a poem; he asks first
-  to be believed ('Ben böyle bir şey yapmadım'), then for pardon ('Beni affedecek kadar büyük ve iyi kalpli
-  olduğunuzdan eminim'). Flattery in a plea for pardon, hence instrumental. Whether Kemal answered is not
-  established here (his release in the 1933 amnesty is tier M, unverified). The poem itself was not found.
+  Typed petition headed 'Reisicumhur Gazi Mustafa Kemal Hazretlerine', dated '14- IV - 1933', signed 'Konya
+  Hapisanesinde mevkuf, Konya Muhtelit Ortamektep almanca muallimi Sabahattin Ali', with a revenue stamp,
+  office annotations and the stamp 'Cumhurbaşkanlığı Arşivi'. Read from the facsimile (Wikimedia Commons,
+  source given as a Habertürk image of 10 Aug 2018) and the proofread tr.wikisource transcription (quality
+  level 4), which agree. He was serving a one-year sentence for 'implicitly and allusively insulting' the
+  President in a poem; he asks first to be believed ('Ben böyle bir şey yapmadım'), then for pardon ('Beni
+  affedecek kadar büyük ve iyi kalpli olduğunuzdan eminim'). Flattery in a plea for pardon, hence
+  instrumental. Whether Kemal answered is not established here (his release in the 1933 amnesty is tier M,
+  unverified). The poem itself was not found.
 node: Turkish Writers and Contemporaries on Kemal — Round 33
 sources:
   - url: https://tr.wikisource.org/wiki/Sabahattin_Ali%27nin_Mustafa_Kemal%27e_mektubu

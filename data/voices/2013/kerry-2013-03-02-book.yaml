@@ -20,8 +20,13 @@ quote:
     Eğitim ve bağımsızlığın öncüsü bir asker ve devlet adamı olan Mustafa Kemal Atatürk'e derin saygılarımla.
     Türk halkına ve bu büyük lidere, Amerikan halkının bir temsilcisi olarak saygılarımı sunmaktan onur ve
     gurur duyuyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    With my deep respect to Mustafa Kemal Atatürk, a soldier and statesman who was a pioneer of education and
+    independence. As a representative of the American people, I am honoured and proud to pay my respects to
+    the Turkish people and to this great leader.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Hürriyet (AA), Akşam and Cumhuriyet, 2 Mar 2013 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English. Hürriyet (2 Mar 2013, credited AA), Akşam and Cumhuriyet

@@ -10,11 +10,10 @@ quote_kind: original-turkish
 summary: >-
   Türk kadınlarına oy hakkı tanınmasını Atatürk'ün girişimine bağlar ve ona derin saygı duyduğunu söyler.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 50 (basılı s. 39). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe basılmıştır. Çeviri: "[Biz] Türk kadınlarına siyasi hakların tanınmasına silinmez katkılarda
-  bulunan Yüce Atatürk'e derin saygı duyuyoruz." Konuşma, Türk kadınlarına oy hakkı tanınmasının (1934) 50.
-  yıl dönümü dolayısıyla yapılmıştır. Başlık: 'Çin Halk Cumhuriyeti Ulusal Halk Kongresi Sürekli Komite Üyesi
-  Lei Jieqiong', 5 Aralık 1984.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 50 (basılı s. 39). Konuşma, TBMM tutanaklarında olduğu gibi
+  Türkçe basılmıştır. Konuşma, Türk kadınlarına seçme ve seçilme hakkı tanınmasının 50. yıl dönümü (1934)
+  dolayısıyla yapılmıştır. Başlık: 'Çin Halk Cumhuriyeti Ulusal Halk Kongresi Sürekli Komite Üyesi Lei
+  Jieqiong', 5 Aralık 1984.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Çin Halk Cumhuriyeti Ulusal Halk
@@ -29,9 +28,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: c941babc388b
   role: 37ee68807bbd
-  quote: 9e3c6a99c6b0
+  quote: 6c98f4d99950
   summary: ca451db2e3b8
-  caveat: 861414d7d88d
+  caveat: cb5117aeb0b2
   mediated_by: 8e2cc528453b
   verification_note: 17eabc4e205d
   verification_method: 0433a8861210

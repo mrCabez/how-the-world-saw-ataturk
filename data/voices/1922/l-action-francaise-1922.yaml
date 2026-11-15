@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: De même, Moustapha Kemal semble modéré
   language: fr
+  translation: Likewise, Mustapha Kemal seems moderate
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. 'Instrumental' is an
   inference from the paper's Eastern-question framing, not stated in the fragments.

@@ -10,17 +10,16 @@ summary: >-
   Kemal'e, Yunanlılara karşı kazandığı zaferle Batı'yı kargaşaya sürükleyen ve yeni bir Doğu güneşi yakan
   'Büyük Doğu'nun kahramanı' diye seslenir.
 caveat: >-
-  ÇEVİRİ (bu kayda ait): 'You defeated the sons of Yunan with a victory that left the West in tumult and
-  confusion.' Açılış beytinde 'Mustafa' ve 'Kemal' kelimeleriyle söz oyunu yapılan 'Ila batal al-sharq
-  al-akbar' ('To the hero of the greater East', 'Büyük Doğu'nun Kahramanına') kasidesi; Diwan al-Rusafi (4.
-  basım, Cairo: I'timad, 1953), s. 440'ta basılmıştır ve Mustafa Saka baskısında 'said after Gazi Mustafa
-  Kemal's victory over the Greeks in 1923' başlığını taşır (Al-Chalaby, dipnot 10). Al-Chalaby, 1923 tarihinin
-  1922 yerine olası bir dizgi hatası olduğunu değerlendirir (ya da şiir Lozan veya Cumhuriyet sonrasına
-  aittir). Arapça metin Al-Chalaby 2019, RumeliDE Dil ve Edebiyat Araştırmaları Dergisi, Ö5, s. 176-186'da ve
-  'Dünya Şairlerinden Atatürk Şiirleri' derlemesinde (sayı 46) basıldığı şekliyledir. Kaside ayrıca Kemal'i
-  ulusun İsa benzeri bir şifacısı olarak nitelendirir ve İzmir'in kızlarını 'the hands of every lout' elinden
-  kurtardığını söyler; Al-Chalaby bu zaferleri 'many Arab poets ignored' diye ekler. Rusafi'nin Türkçe
-  eserleriyle karıştırılmamalıdır; şiir klasik Arapçadır.
+  Açılış dizesinde "Mustafa" ve "Kemal" kelimeleriyle söz oyunu yapılan "Ila batal al-sharq al-akbar" ("To the
+  hero of the greater East", "Büyük Doğu'nun Kahramanına") kasidesi; Diwan al-Rusafi'de (4. basım, Kahire:
+  I'timad, 1953), s. 440'ta basılmıştır ve Mustafa Saka'nın baskısında "Gazi Mustafa Kemal'in 1923'te
+  Yunanlılara karşı kazandığı zaferden sonra söylenmiştir" başlığını taşır (Al-Chalaby, not 10). Al-Chalaby,
+  1923 tarihinin 1922 yerine olası bir dizgi hatası olduğunu değerlendirir (veya şiir Lozan ya da Cumhuriyet
+  sonrasına aittir). Arapça metin Al-Chalaby 2019, RumeliDE Dil ve Edebiyat Araştırmaları Dergisi, Ö5, s.
+  176-186'da ve "Dünya Şairlerinden Atatürk Şiirleri" (sayı 46) derlemesinde basıldığı şekildedir. Kaside
+  ayrıca Kemal'i ulusun İsa benzeri bir şifacısı olarak nitelendirir ve İzmir'in kızlarını "her kaba saba
+  adamın elinden" kurtardığını söyler; Al-Chalaby, "pek çok Arap şairin" zaferleri "görmezden geldiğini"
+  ekler. Rusafi'nin Türkçe eserleriyle karıştırılmamalıdır; şiir klasik Arapçadır.
 verification_note: >-
   Arapça 'نصرت على بني يونان نصرا / أقام الغرب في هرج ومرج' mısraları tek bir beytin ardışık iki yarısıdır ve
   bu şekilde basılmıştır; makalenin 10 numaralı dipnotu şiir için 'Mustafa Saka, a.g.e. s.440' kaynağını
@@ -34,8 +33,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: "153332956137"
   role: 18d91c67ba2c
-  quote: c291b5dd22d0
+  quote: 133b390bb064
   summary: 17c18c80393a
-  caveat: 9491589f4b15
+  caveat: 30ea51355937
   verification_note: 0d196486ef59
   verification_method: c9cc23a2ebd3

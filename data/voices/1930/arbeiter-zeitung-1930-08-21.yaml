@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: der türkische Diktator Kemal-Pascha
   language: de
+  translation: the Turkish dictator Kemal Pasha
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Dateline Istanbul, mid-August, from Yalova; headline too garbled in OCR to quote. ANNO page not openable
   (bot gate): fragment from the search index only, page image not re-read. Hyphenation 'Kemal- Pascha'

@@ -9,8 +9,7 @@ quote_kind: translated
 summary: >-
   Modern Türkiye'nin hayranlık uyandıran yükselişini Atatürk'ün dehasına borçlu olduğunu söyledi.
 caveat: >-
-  TBMM c. 2 (c2) PDF s. 19. Alıntı Fransızcadır; çevirisi: 'modern Türkiye'nin hayranlık uyandıran yükselişini
-  dehasına borçlu olduğu'. 'Baumann' imzalıdır; ön adı (Johannes) hafızadan eklenmiştir.
+  TBMM c. 2 (c2) PDF s. 19. Alıntı Fransızcadır. 'Baumann' imzalı; ilk adı (Johannes) hafızadan eklenmiştir.
 verification_note: >-
   Bern telgrafı: 'au genie duquel la turquie moderne doit son admirable essor', 'baumann president de la
   confederation suisse' imzalı, 'au nom du conseil federal' gönderilmiş. Kayıtta aksanlar tamamlanmıştır. Aynı
@@ -23,8 +22,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b9f92b121b5c
   role: 4ef324061ced
-  quote: 30eccc1954df
+  quote: 0296b8187419
   summary: a3f023f41665
-  caveat: e86911fe3d07
+  caveat: 24ca0ca845d7
   verification_note: e78d12e09b27
   verification_method: 7c3ad23fb937

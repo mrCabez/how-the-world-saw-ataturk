@@ -19,15 +19,17 @@ summary: >-
 quote:
   text: ما مات فرد وورى بل هوى ... من أفقه فلك من الأفلاك
   language: ar
+  translation: >-
+    It was no mere man who died and was buried: a sphere fell from its horizon among the spheres.
+  translated_by: "machine: research agent"
 caveat: >-
-  TRANSLATION (this record's): 'It was no mere man who died and was buried: a sphere fell from its horizon
-  among the spheres.' The essay-elegy 'Atatürk' (three verses, then prose) in al-Risala no. 281, 21 Nov 1938;
-  Arabic from the Wikisource transcription of the issue, page not given there. Prose, verbatim: 'Mustafa died
-  the death of Ibn al-Walid on his bed' (مات مصطفى ميتة ابن الوليد على فراشه). Admiring with reservations: he
-  asks whether the Caliphate's end was an act of heresy or of surgery and leaves it to history, calls the
-  Latin alphabet and hat 'imposed' and the regime a dictatorship he leans to approve while fearing for Turkey
-  after him. Not the same issue or author as the al-Zayyat editorial of 14 Nov 1938, which is already in the
-  dataset. Right after the caliphate question he acquits 'the translator of the Quran' of atheism.
+  The essay-elegy 'Atatürk' (three verses, then prose) in al-Risala no. 281, 21 Nov 1938; Arabic from the
+  Wikisource transcription of the issue, page not given there. Prose, verbatim: 'Mustafa died the death of Ibn
+  al-Walid on his bed' (مات مصطفى ميتة ابن الوليد على فراشه). Admiring with reservations: he asks whether the
+  Caliphate's end was an act of heresy or of surgery and leaves it to history, calls the Latin alphabet and
+  hat 'imposed' and the regime a dictatorship he leans to approve while fearing for Turkey after him. Not the
+  same issue or author as the al-Zayyat editorial of 14 Nov 1938, which is already in the dataset. Right after
+  the caliphate question he acquits 'the translator of the Quran' of atheism.
 node: Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939
 sources:
   - url: https://ar.wikisource.org/wiki/مجلة_الرسالة/العدد_281/أتاتورك

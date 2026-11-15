@@ -19,13 +19,15 @@ summary: >-
 quote:
   text: Burada, Müslüman bir ülke olarak bir denge kurdunuz, Atatürk’ün mirasını taşıyorsunuz.
   language: tr
+  translation: Here, as a Muslim country, you have struck a balance; you carry Atatürk's legacy.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 210 (printed p. 199). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "Here, as a Muslim country, you have struck a balance; you carry Atatürk's legacy."
-  Answers the 'Christian club' objection to Turkish EU membership. Heading: 'Avrupa Parlamentosu Başkanı Pat
-  Cox', 2 Mart 2004. The English original (European Parliament press release sp0081, read by the checker; URL
-  not re-verified) reads: 'you have found a special balance here - the legacy of the vision of Atatürk'.
+  minutes. Answers the 'Christian club' objection to Turkish EU membership. Heading: 'Avrupa Parlamentosu
+  Başkanı Pat Cox', 2 Mart 2004. The English original (European Parliament press release sp0081, read by the
+  checker; URL not re-verified) reads: 'you have found a special balance here - the legacy of the vision of
+  Atatürk'.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

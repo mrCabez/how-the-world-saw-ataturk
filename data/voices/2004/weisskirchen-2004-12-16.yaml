@@ -20,10 +20,11 @@ quote:
   text: >-
     Das Konzept, das Kemal Atatürk in den 20er-Jahren entwickelt hat, ist der Versuch, die Türkei zu
     europäisieren und den Anschluss an Europa – das betrifft auch die europäischen Werte – zu erreichen.
+  language: de
   translation: >-
     The concept that Kemal Atatürk developed in the 1920s is the attempt to Europeanise Turkey and to gain
     connection to Europe — which also concerns European values.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Debate on the opening of EU accession talks

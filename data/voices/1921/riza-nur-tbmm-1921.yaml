@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: Bence manası düşünülürse biz adeta bir Padişah intihap ediyoruz.
   language: tr
+  translation: In my view, if one thinks about what it means, we are virtually electing a Sultan.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62nd sitting, 1st session,
   5 Ağustos 1337 (1921), p. 205. Speaks of 'the Pasha's' proposal, i.e. the Commander-in-Chief bill; accepts

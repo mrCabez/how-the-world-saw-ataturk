@@ -19,11 +19,13 @@ summary: >-
 quote:
   text: Bu bakımdan Gazi Mustafa Kemal'i tasvip ediyor ve hatalarından ötürü onu suçlu bulmuyorum.
   language: tr
+  translation: >-
+    In this respect I approve of Gazi Mustafa Kemal, and I do not hold him guilty for his mistakes.
+  translated_by: "machine: research agent"
 mediated_by: >-
   Orhan Bahaeddin's Turkish translation (Tercüman '1001 Temel Eser', 1970s); the French original was not seen
 caveat: >-
-  TRANSLATION, quote is the Turkish text; in English: 'In this respect I approve of Gazi Mustafa Kemal, and I
-  do not hold him guilty for his mistakes.' From the second work in the volume, Türkiye'nin Manevi Kuvvetleri
+  TRANSLATION, quote is the Turkish text. From the second work in the volume, Türkiye'nin Manevi Kuvvetleri
   ('The Moral Forces of Turkey'), which the Tercüman introduction says was first published in 1937; the page
   is printed 212, in a passage where Farrère adds that Turkish women have nothing to complain of 'but that
   does not mean there is nothing for them to complain of'. Same book, p. 209-210: he deplores that 'Gazi

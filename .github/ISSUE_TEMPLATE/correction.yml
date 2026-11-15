@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form for a wrong quote, date, name, source, summary or classification. Corrections need a source, like records do. For a Turkish wording problem, use the "Translation fix / Çeviri düzeltmesi" form instead.
+        Use this form for a wrong quote, date, name, source, summary or classification. Corrections need a source, like records do. For a problem with a translation, English or Turkish, use the "Translation fix / Çeviri düzeltmesi" form instead.
 
-        Bu formu yanlış bir alıntı, tarih, ad, kaynak, özet ya da sınıflandırma için kullanın. Düzeltmeler de kayıtlar gibi kaynak gerektirir. Türkçe ifadeyle ilgili bir sorun için "Translation fix / Çeviri düzeltmesi" formunu kullanın.
+        Bu formu yanlış bir alıntı, tarih, ad, kaynak, özet ya da sınıflandırma için kullanın. Düzeltmeler de kayıtlar gibi kaynak gerektirir. İngilizce ya da Türkçe bir çeviriyle ilgili sorun için "Translation fix / Çeviri düzeltmesi" formunu kullanın.
 
         You can write in English or Turkish. / İngilizce ya da Türkçe yazabilirsiniz.
   - type: input

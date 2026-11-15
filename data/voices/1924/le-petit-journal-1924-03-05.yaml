@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Le raisonnement de Mustapha Kemal pacha et de ses partisans est des plus simples
   language: fr
+  translation: The reasoning of Mustapha Kemal Pasha and his supporters is of the simplest
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   View 1. Second clause ('n'avaient pas osé bou[le]verser') is cut by OCR; no judgment of Kemal shown. Gallica
   ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.

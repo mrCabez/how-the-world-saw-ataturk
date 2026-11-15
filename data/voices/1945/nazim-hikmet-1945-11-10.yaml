@@ -19,14 +19,15 @@ summary: >-
 quote:
   text: Sarışın bir kurda benziyordu / Ve mavi gözleri çakmak çakmaktı
   language: tr
+  translation: He looked like a blond wolf / And his blue eyes flashed like flint.
+  translated_by: "machine: research agent"
 caveat: >-
-  TRANSLATION (this record's): 'He looked like a blond wolf / And his blue eyes flashed like flint.' Printed
-  in the weekly Gün, no. 2 (10 Kasım 1945, the Atatürk anniversary issue), under 'İstiklal Savaşı Destanından:
-  Atatürk', signed 'Nazım HİKMET' (archive.org OCR; the line break 'çak- maktı' joined here). This is the
-  Kocatepe passage of the epic later published as Kuvâyi Milliye; that it was written in Bursa prison c.
-  1939-41 is tier M, not checked. Dated by this first printing found, while he was still in prison. The
-  unsigned prose on Atatürk that follows the signature in Gün is not his and is not used. His critical lines
-  on Kemal (prison letters, Moscow-era statements) were not found in free sources.
+  Printed in the weekly Gün, no. 2 (10 Kasım 1945, the Atatürk anniversary issue), under 'İstiklal Savaşı
+  Destanından: Atatürk', signed 'Nazım HİKMET' (archive.org OCR; the line break 'çak- maktı' joined here).
+  This is the Kocatepe passage of the epic later published as Kuvâyi Milliye; that it was written in Bursa
+  prison c. 1939-41 is tier M, not checked. Dated by this first printing found, while he was still in prison.
+  The unsigned prose on Atatürk that follows the signature in Gün is not his and is not used. His critical
+  lines on Kemal (prison letters, Moscow-era statements) were not found in free sources.
 node: Turkish Writers and Contemporaries on Kemal — Round 33
 sources:
   - url: https://archive.org/details/Gun_2_10Kasim1945_9935

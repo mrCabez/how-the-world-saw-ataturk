@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: President Kemal Ataturk is overleden.
   language: nl
+  translation: President Kemal Ataturk has died.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Note frames the Dutch as a neutral control group; stance inferred from absence of comment. Galata Bridge,
   half-mast flags and the students' oath are in MMRHCG03:163502019:mpeg21:a00052; the 12 Nov date comes from

@@ -10,15 +10,13 @@ summary: >-
   Kurtuluş Savaşı destanından dizelerde, 1922 taarruzu öncesinde Kocatepe'deki Kemal'i çakmak çakmak mavi
   gözlü sarışın bir kurt olarak betimler.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'He looked like a blond wolf / And his blue eyes flashed like flint.' Haftalık Gün
-  dergisinde, sayı 2 (10 Kasım 1945, Atatürk ölüm yıldönümü sayısı), 'İstiklal Savaşı Destanından: Atatürk'
-  başlığı altında, 'Nazım HİKMET' imzasıyla yayımlanmıştır (archive.org OCR; 'çak- maktı' satır sonu bölünmesi
-  burada birleştirilmiştir). Bu metin, daha sonra Kuvâyi Milliye adıyla yayımlanan destanın Kocatepe
-  bölümüdür; Bursa Hapishanesi'nde yakl. 1939-41 yıllarında yazıldığı bilgisi M katmanıdır, kontrol
-  edilmemiştir. Hâlâ hapisteyken yayımlanan ve tespit edilen bu ilk basıma göre tarihlendirilmiştir. Gün'de
-  imzanın ardından gelen Atatürk hakkındaki imzasız düzyazı ona ait değildir ve kullanılmamıştır. Kemal
-  hakkındaki eleştirel satırları (hapishane mektupları, Moskova dönemi açıklamaları) açık kaynaklarda
-  bulunamamıştır.
+  Haftalık Gün dergisinin 2. sayısında (10 Kasım 1945, Atatürk yıl dönümü sayısı), 'İstiklal Savaşı
+  Destanından: Atatürk' başlığı altında, 'Nazım HİKMET' imzasıyla basılmıştır (archive.org OCR; 'çak- maktı'
+  satır sonu bölünmesi burada birleştirilmiştir). Bu, daha sonra Kuvâyi Milliye olarak yayımlanan destanın
+  Kocatepe pasajıdır; Bursa cezaevinde yakl. 1939-41'de yazıldığı bilgisi M kademesindedir, kontrol
+  edilmemiştir. Henüz cezaevindeyken bulunan bu ilk baskıya göre tarihlendirilmiştir. Gün'de imzayı izleyen
+  Atatürk hakkındaki imzasız düzyazı ona ait değildir ve kullanılmamıştır. Kemal hakkındaki eleştirel
+  satırları (cezaevi mektupları, Moskova dönemi beyanları) açık kaynaklarda bulunamamıştır.
 verification_note: >-
   'İSTİKLAL SAVAŞI DESTANINDAN : ATATÜRK' başlığı altında Kocatepe bölümü 'Sarışın bir kurda benziyordu / Ve
   mavi gözleri çakmak çak- maktı' dizelerini içeriyor ve 'Nazım HİKMET' imzasını taşıyor; kaydın belirttiği
@@ -32,8 +30,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5753fd011b63
   role: f1b064ce6d37
-  quote: ca32bed7806c
+  quote: 786423e63c3d
   summary: a34518cca4e1
-  caveat: ee8431e43b58
+  caveat: 46c519bf5903
   verification_note: 157c0912ee6a
   verification_method: b152e9063489

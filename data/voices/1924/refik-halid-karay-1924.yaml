@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Mustafa Kemal Paşa'nın rakipleri bu kudrette, bu idrakte adamlardı!
   language: tr
+  translation: Mustafa Kemal Pasha's rivals were men of this capacity, of this understanding!
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Turkish original; Minelbab İlelmihrab was first serialised in 1924 (per the edition's note) and published in
   book form in 1964 with notes (the text here is the 2009 İnkılâp edition, which says so). Karay writes of

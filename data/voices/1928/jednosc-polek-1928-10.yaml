@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Zasługa to niewątpliwie Mustafa Kemal Paszy.
   language: pl
+  translation: This is undoubtedly the merit of Mustafa Kemal Pasha.
+  translated_by: "machine: claude-fable-5-2"
 caveat: Unsigned news-and-comment column.
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:

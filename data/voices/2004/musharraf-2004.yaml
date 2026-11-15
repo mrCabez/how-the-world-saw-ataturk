@@ -20,13 +20,16 @@ quote:
     Kemal Atatürk bir kahramandı. (Alkışlar) Bizim bölgemizde bulunan Müslümanların sık sık kendi çocuklarına
     verdiği ismin sahibiydi.
   language: tr
+  translation: >-
+    Kemal Atatürk was a hero. (Applause) He was the bearer of a name that Muslims in our region often gave
+    their own children.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 187 (printed p. 176). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "Kemal Atatürk was a hero. (Applause) He was the bearer of a name that Muslims in our
-  region often gave their own children." Same speech pairs Jinnah and Atatürk on peace (PDF p. 191). The
-  vault's existing note says Atatürk was his hero in a general way; this is his stated view in the TBMM.
-  Heading: 'Pakistan Cumhurbaşkanı Pervez Müşerref', 20 Ocak 2004.
+  minutes. Same speech pairs Jinnah and Atatürk on peace (PDF p. 191). The vault's existing note says Atatürk
+  was his hero in a general way; this is his stated view in the TBMM. Heading: 'Pakistan Cumhurbaşkanı Pervez
+  Müşerref', 20 Ocak 2004.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

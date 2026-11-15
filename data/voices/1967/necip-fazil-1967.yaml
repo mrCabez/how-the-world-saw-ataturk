@@ -20,6 +20,11 @@ quote:
     Atatürk'ü sahte kahraman olarak gösterdiğimiz iddiası, siyah renkten bahseden bir adamın, Atatürk İstiklal
     Savaşında siyah astragan kalpak giydi
   language: tr
+  translation: >-
+    The claim that we portrayed Atatürk as a false hero [is stranger than insisting that] a man who mentions
+    the colour black [must be hinting at him because] Atatürk wore a black astrakhan kalpak in the War of
+    Independence
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: Gültekin 2025, pp. 349-350 ← Necip Fazıl, B.D. Fikir Kulübü Davası ve Müdafaalarım
 caveat: >-
   Turkish original; the quotation ends mid-sentence at the edge of a footnote break (the sentence continues:

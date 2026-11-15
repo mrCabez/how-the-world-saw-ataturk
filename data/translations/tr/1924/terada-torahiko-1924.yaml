@@ -11,12 +11,11 @@ summary: >-
   ABD'deki Japon karşıtı dışlama krizi sırasında Mustafa Kemal Paşa'yı büyük bir adam olarak örnek gösterir:
   hiçbir çağda kahramanlar tükenmez.
 caveat: >-
-  [çeviri] 'Mustafa Kemal Paşa mesela, doğrusu büyük adam. Hiçbir çağda kahramanlar tükenmez.' Terada (ö.
-  1935) tarafından öğrencilerine söylenmiş ve öğrencisi fizikçi Nakaya Ukichirō tarafından aktarılmıştır; söz
-  'Japon karşıtlığı meselesinin çok tartışıldığı zamana' (1924 ABD Göç Yasası) aittir, bu nedenle yaklaşık
-  1924'e tarihlenmiştir. Aynı pasaj: ulusal bağımsızlık 'hiçbir şey yapmama anlayışı'ndan ziyade 'pozitif
-  ahlak' gerektirir. Metin: Aozora Bunko kart 57460 (esas metin Nakaya Ukichirō shū c. 1, Iwanami 2000),
-  aozorabunko_text yansısında grep aramasıyla bulundu (3 Kasım 2026).
+  Terada (ö. 1935) tarafından öğrencilerine söylenmiş ve öğrencisi fizikçi Nakaya Ukichirō tarafından
+  hatırlanmıştır; bu söz "Japon karşıtlığı meselesinin çok tartışıldığı" zamana (1924 ABD Göçmenlik Yasası)
+  aittir, dolayısıyla yaklaşık 1924'e tarihlendirilmiştir. Aynı pasaj: ulusal bağımsızlık "hiçbir şey yapmama"
+  anlayışından ziyade "pozitif ahlak" gerektirir. Metin: Aozora Bunko kart 57460 (temel metin Nakaya Ukichirō
+  shū c. 1, Iwanami 2000), aozorabunko_text yansısında grep araması yapılarak bulunmuştur (3 Kasım 2026).
 mediated_by: >-
   Nakaya Ukichirō, 'Sensei o meguru hanashi', 28. bölüm 'Hainichi mondai', ilk basımı: Torahiko kenkyū no. 8
   (Terada Torahiko zenshū c. 14 eki, Iwanami, 13 Mayıs 1937)
@@ -30,9 +29,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2a4fa651120f
   role: 7b2b007f7d32
-  quote: 2fa708ed5550
+  quote: 961fbd53154a
   summary: d64976a035f8
-  caveat: 02e70821c432
+  caveat: 631095af1fa6
   mediated_by: b93afac9398a
   verification_note: 18c9dea9de05
   verification_method: fd522fe7dddd

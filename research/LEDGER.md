@@ -1883,3 +1883,26 @@ Duplicates. `faisal-saudi-foreign-minister-1938` was merged into `faisal-bin-abd
 Mixed quotes. In `ahmed-hasim-1928`, `pittard-1937`, `burhan-belge-1938-12`, `lototsky-1966` and `medvedev-2010-05-10` the English of the first passage sat in square brackets inside `quote.text`. It moved to `quote.translation`, no word changed, and `needs_split` is gone from the data. Medvedev's English is marked as the Kremlin's own in `quote.note`.
 
 Counts after this: 983 records, 806 voice names, 857 quotes, 977 shown. 298 quotes in other languages are still without an English translation.
+
+## Every quote has English, and each translation says who made it (2026-11-15)
+
+Until today 298 quotes in other languages had no English, so the English exhibition showed the archive's summary in their place. Okan asked whether to machine-translate them. A second opinion was taken from Gemini (`gemini-4-argon-high`, through `agy`), which agreed and asked that every translation be labelled.
+
+Fields. `quote` has two new keys: `translated_by` (`source`, `machine: <model>`, or a person) and `reviewed_by` (the people who have read the English against the original). The validator requires `translated_by` with every `translation` and rejects a `translation` on a text that is already English.
+
+What was written:
+
+- 64 English renderings that the research agents had left in `caveat` moved to `quote.translation` as they stood (`machine: research agent`) and were cut from the caveat. Eight more were corrected on the way and are labelled as this pass: `amanullah-1928-05-20` (the printed 'imtina' read as 'imtinan'), `reza-shah-1933`, `hermann-jansen-1938`, `nahhas-pasha-1938` and `stefan-ciric-1938` (words of the quote the rendering had left out), `iskender-mirza-1956`, `elcibey-1992` ('hele ilkin' is 'first of all', not 'our first road'), `katsav-2003-07-08` ('takdir' had been dropped).
+- 233 quotes were translated in this pass (`machine: claude-fable-5-2`). Gemini translated all 298 separately, without seeing the other version, and the two sets were compared quote by quote. They agree in sense throughout; where the wording differed, the more literal one was kept.
+- The 123 translations that existed already were labelled: 111 `machine: research agent`, 9 `mrCabez` (pull request #11), 3 `source` (UNESCO for `mbow-1980-06-09`, the Kremlin for `medvedev-2010-05-10`, Prague Castle for `vaclav-havel-2000-10-10`). `nazrul-1922` is `source` too: its English is the BRIQ article's.
+- Three records had a citation or a remark in `translation` while the text was already English: `franklin-bouillon-1922-09`, `le-corbusier-1925`, `auerbach-1937-01-03`. The field is gone and `is_translation` is true.
+
+How the translations read the text. A fragment is translated as a fragment. An OCR or print error is translated as the word it stands for (`le-matin-1920-02-13`: 'i'hornme des Enver îocha' is 'l'homme des Enver pacha'). Square brackets mark words supplied from the context the caveat gives (`necip-fazil-1967`, where the quotation breaks off mid-sentence).
+
+No person who knows the language has read any of the 408 machine translations. The ones most in need of a reader: `ali-sukru-tbmm-1922-05-04` (the first clause has no stated subject), `tunali-hilmi-izmir-plot-1926` (the last clause is compressed), `wang-jingwei-1927-09` ('經國會' is given as 'the National Assembly', as printed), `zhigong-shanghai-1933` (an elliptical couplet), `chen-jitang-1936-12` ('包头巾' is given as 'head-wraps').
+
+Turkish. The words of the quotes did not change, so the Turkish quotes were kept and their fingerprints re-pointed (301 files). The 72 shortened caveats were retranslated with `translate-tr`.
+
+Exhibition. Under an English translation the sheet says who made it; for a machine translation that nobody has checked it links to the translation form with the record filled in. The links at the foot of the sheet open the correction and source-check forms the same way, and the link to the file stays for those who edit YAML. The translation form takes English as well as Turkish. Two tour notes were brought into line with the record translations (`elcibey-1992`, `huseyin-avni-tbmm-1922-05-06`).
+
+Counts: 857 quotes, of which 436 are English texts and 421 have a translation (408 by machine, 9 by a contributor, 4 the source's own).

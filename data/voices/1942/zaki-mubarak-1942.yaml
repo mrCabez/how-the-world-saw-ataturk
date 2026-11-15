@@ -17,10 +17,11 @@ summary: >-
   wrote to Kemal that they were Arabs.
 quote:
   text: كان المرحوم مصطفى كمال زعم أن آدم وحواء من أصل تركيّ، وقد أزعجني هذا الزعم الفظيع
+  language: ar
   translation: >-
     The late Mustafa Kemal claimed that Adam and Eve were of Turkish origin, and this monstrous claim
     disturbed me.
-  language: ar
+  translated_by: "machine: research agent"
 caveat: >-
   Cited as al-Risala no. 458, 13 Apr 1942, Wikisource page 'مجلة الرسالة/العدد 458/اجتماع الملائكة في مسجد
   الفردوس'. Mubarak says he then wrote Kemal a letter arguing from etymology that Adam and Eve were Arabs; no

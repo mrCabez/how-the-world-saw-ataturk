@@ -10,8 +10,8 @@ summary: >-
   Büyük devlet adamının ve vatanın babasının yasını tuttu; Yugoslavya samimi ve sadık dostunu asla
   unutmayacaktır.
 caveat: >-
-  TBMM c. 2 (c2) PDF s. 11. Alıntı Fransızcadır; çevirisi: 'büyük devlet adamı ve vatanın babası'. İmza 'dr
-  zlimir mazuranic' olarak basılmıştır; Senato başkanının kimliği bağımsız olarak doğrulanmamıştır.
+  TBMM c. 2 (c2) PDF s. 11. Alıntı Fransızcadır. İmza 'dr zlimir mazuranic' olarak basılmıştır; Senato
+  başkanının kimliği bağımsız olarak doğrulanmamıştır.
 verification_note: >-
   'du grand homme d etat et pere de la patrie'; 'oubliera jamais son ami sincere et fidele'. İmza daktiloyla
   'dr zlimir mazuranic president du senat du royaume de yougoslavie' şeklinde yazılmıştır. Aksanlar
@@ -24,8 +24,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a4f823f463ef
   role: ba5fdbf0602c
-  quote: d5923d7a9dc7
+  quote: 4123e1322be7
   summary: 3275739a2f5d
-  caveat: fce47d3b842e
+  caveat: 539de6ef16a8
   verification_note: 36d8157fb629
   verification_method: 7c3ad23fb937

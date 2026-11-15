@@ -19,10 +19,11 @@ summary: >-
 quote:
   text: grand homme d'état et père de la patrie
   language: fr
+  translation: the great statesman and father of the fatherland
+  translated_by: "machine: research agent"
 caveat: >-
-  TBMM vol. 2 (c2) PDF p. 11. Quote in French; translation: 'the great statesman and father of the
-  fatherland'. Signature printed 'dr zlimir mazuranic'; identity of the Senate president not independently
-  checked.
+  TBMM vol. 2 (c2) PDF p. 11. Quote in French. Signature printed 'dr zlimir mazuranic'; identity of the Senate
+  president not independently checked.
 node: Heads of State Write to the Assembly, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467

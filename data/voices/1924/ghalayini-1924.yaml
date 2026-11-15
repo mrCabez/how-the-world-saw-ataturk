@@ -19,14 +19,16 @@ summary: >-
 quote:
   text: Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?
   language: tr
+  translation: O Arabs! Is there not among you a Mustafa Kemal to kindle the fire of struggle?
+  translated_by: "machine: research agent"
 caveat: >-
   TRANSLATION ONLY, and a translation of a translation: the quoted line is Ali Benli's Turkish rendering
   (darulfunun ilahiyat 32/1, 2021, p. 29; Divan n. 74, p. 83) of al-Ghalayini's Arabic; the Arabic verse was
-  not retrieved. Rendered: 'O Arabs! Is there not among you a Mustafa Kemal to kindle the fire of struggle?'
-  Poem in Dîvânu'l-Galâyînî (Haifa: al-Matba'a al-'Abbasiyya, 1924/1925; Benli gives both years), pp. 80-83,
-  written after his imprisonment by the French. Date 1924 is the Diwan's latest possible date, so the poem was
-  written at the latest by then; the exact year was not established. Check: the line is Benli's Turkish
-  rendering, not the Arabic; 1924 is an upper bound; the 'after his imprisonment' context is not in Benli.
+  not retrieved. Poem in Dîvânu'l-Galâyînî (Haifa: al-Matba'a al-'Abbasiyya, 1924/1925; Benli gives both
+  years), pp. 80-83, written after his imprisonment by the French. Date 1924 is the Diwan's latest possible
+  date, so the poem was written at the latest by then; the exact year was not established. Check: the line is
+  Benli's Turkish rendering, not the Arabic; 1924 is an upper bound; the 'after his imprisonment' context is
+  not in Benli.
 node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
 sources:
   - url: https://dergipark.org.tr/tr/download/article-file/1525913

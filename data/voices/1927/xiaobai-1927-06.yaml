@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 豈非明明欲做土耳其之基瑪爾。意大利之蒙梭利尼。爲個人軍事獨裁之專制政體乎
   language: zh
+  translation: >-
+    Is this not plainly wanting to be Turkey's Kemal, Italy's Mussolini, and to set up the despotic system of
+    a personal military dictatorship?
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   The target is Chiang; Kemal is the label for a one-man military dictator, hence hostile type-use.
 node: Kemal in the Kuomintang's Quarrels, 1924–1928

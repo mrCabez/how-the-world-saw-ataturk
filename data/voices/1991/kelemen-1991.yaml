@@ -21,13 +21,15 @@ quote:
     Böylece Macaristan, aynen büyük “ablası” Türkiye’nin 71 yıl önce Büyük önder Kemal Atatürk önderliğinde
     yaptığı gibi, hürriyet ve kendi kendini yönetme yolunu seçmiş bulunmaktadır.
   language: tr
+  translation: >-
+    Thus Hungary, exactly as its great 'elder sister' Turkey did 71 years ago under the great leader Kemal
+    Atatürk, has chosen the path of freedom and self-government.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 71 (printed p. 60). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "Thus Hungary, exactly as its great 'elder sister' Turkey did 71 years ago under the
-  great leader Kemal Atatürk, has chosen the path of freedom and self-government." Also: 'Kemal Atatürk
-  ruhunun korunduğunu görmekteyiz' (PDF p. 72). Heading: 'Macar Sosyal Güvenlik Bakan Yardımcısı Andras
-  Kelemen', 23 Nisan 1991.
+  minutes. Also: 'Kemal Atatürk ruhunun korunduğunu görmekteyiz' (PDF p. 72). Heading: 'Macar Sosyal Güvenlik
+  Bakan Yardımcısı Andras Kelemen', 23 Nisan 1991.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

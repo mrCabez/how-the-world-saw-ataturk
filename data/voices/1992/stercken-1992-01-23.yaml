@@ -18,8 +18,9 @@ summary: >-
   'new civilisation'.
 quote:
   text: Natürlich ist der Prozeß, den Atatürk eingeleitet hat, noch nicht abgeschlossen
-  translation: Of course the process that Atatürk set in motion is not yet complete
   language: de
+  translation: Of course the process that Atatürk set in motion is not yet complete
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Speaker taken from the protocol's speaker list

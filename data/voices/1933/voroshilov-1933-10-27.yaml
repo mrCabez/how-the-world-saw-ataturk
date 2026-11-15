@@ -24,12 +24,13 @@ quote:
     турецкого народа — президенту Турецкой республики Гази Мустафа Кемаль-паше, со славным именем которого
     связаны как победоносная борьба новой Турции за свою независимость, так и упорная созидательная работа над
     ее культурным и экономическим возрождением.
+  language: ru
   translation: >-
     Concluding my speech, I express the deep respect of the peoples of the USSR for the leader of the Turkish
     people's national-liberation struggle, President of the Turkish Republic Gazi Mustafa Kemal Pasha, whose
     glorious name is linked both with the new Turkey's victorious struggle for independence and with the
     persistent creative work of its cultural and economic revival.
-  language: ru
+  translated_by: "machine: research agent"
 caveat: >-
   Правда no. 299 (5825), 29 Oct 1933, p. 2, 'Ответная речь тов. Ворошилова' (TASS dispatch from Ankara dated
   27 Oct; reply to Ismet Pasha at the dinner on arrival; the sentence closes the speech, before the toast 'за

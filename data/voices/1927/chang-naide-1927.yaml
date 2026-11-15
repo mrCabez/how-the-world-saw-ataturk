@@ -18,10 +18,11 @@ summary: >-
   that path a dream.
 quote:
   text: 如同基玛尔将军，一战胜了希腊，便可统一土耳其而复兴旧业
+  language: zh
   translation: >-
     as with General Kemal, who by winning one battle against Greece could unify Turkey and restore the old
     enterprise
-  language: zh
+  translated_by: "machine: research agent"
 caveat: >-
   Cited as Xingshi Zhoubao (醒獅週報), serial 'Lianzhi jiuguo de buzhou', from Oct 1927 (Wikisource note),
   Wikisource page '聯治救國的步驟'. Wikisource transcription (marked textquality 50%, simplified characters) of a

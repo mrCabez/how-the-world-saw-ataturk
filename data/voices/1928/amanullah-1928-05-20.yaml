@@ -21,14 +21,17 @@ quote:
     Sizi bunun yegâne amili bildiğim cihetle Zatı biraderinize karşı büyük bir hissi muhabbet ve halel-i
     napezir bir imtina duymaktayım.
   language: tr
+  translation: >-
+    Since I know you to be the sole author of this, I feel great affection and an unshakeable gratitude
+    towards you, my brother.
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: >-
   Akbaş 2008 p. 319 ← Sarıhan p. 35 and Hizmet 22 May 1928 p. 1 (this passage); the opening of the same speech
   ← Şimşir vol. I p. 34
 caveat: >-
-  Ottoman-Turkish text of a speech given in translation at the 20 May 1928 state banquet. Translation: 'Since
-  I know you to be the sole author of this, I feel for you, my brother, great affection and unshakeable
-  (gratitude/regard)'; printed 'imtina' is probably 'imtinan' (gratitude). The Şimşir page is cited by Akbaş
-  for the preceding paragraphs, Sarıhan/Hizmet for this one. A toast between hosts: also counts as ceremony.
+  Ottoman-Turkish text of a speech given in translation at the 20 May 1928 state banquet. The printed 'imtina'
+  is probably 'imtinan' (gratitude), and the English reads it so. The Şimşir page is cited by Akbaş for the
+  preceding paragraphs, Sarıhan/Hizmet for this one. A toast between hosts: also counts as ceremony.
 node: Heads of State on Atatürk in Their Own Words, 1926–1933
 sources:
   - url: https://ataturkilkeleri.deu.edu.tr/ai/uploaded_files/file/yeni%20dergi%2016-17/ismail%20akkas%202.pdf

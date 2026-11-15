@@ -21,12 +21,15 @@ quote:
     Türkiye Cumhuriyeti Atatürk tarafından kurulmuş ve Atatürk tarafından, Türkiye, demokratik ve laik ilkeler
     üzerine inşa edilmiştir.
   language: tr
+  translation: >-
+    The Republic of Turkey was founded by Atatürk, and by Atatürk Turkey was built on democratic and secular
+    principles.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 220 (printed p. 209). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "The Republic of Turkey was founded by Atatürk, and by Atatürk Turkey was built on
-  democratic and secular principles." Accession-talks context: the speech answers questions about religion and
-  EU membership. Heading: 'Avrupa Parlamentosu Başkanı Josep Borrell Fontelles', 3 Aralık 2004.
+  minutes. Accession-talks context: the speech answers questions about religion and EU membership. Heading:
+  'Avrupa Parlamentosu Başkanı Josep Borrell Fontelles', 3 Aralık 2004.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

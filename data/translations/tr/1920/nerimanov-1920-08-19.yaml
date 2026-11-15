@@ -10,9 +10,8 @@ summary: >-
   Kemal'e, Türkiye Büyük Millet Meclisi'nde okunan ve İngiliz liderliğindeki Avrupa emperyalizmine karşı onun
   amaçları uğruna Müslüman komünistlerin tüm gücünü ortaya koyacağı sözünü veren bir mektup gönderdi.
 caveat: >-
-  Çeviri: 'The Muslim communists will spend all their strength on the road to reaching your goal.' Azerbaycan
-  Türkçesi ifadeler; OCR'daki 'makstdunuza çatmak!' ifadesi 'maksadınıza çatmak' olarak normalleştirilmiştir.
-  Halil Paşa tarafından taşınmıştır; Kemal mektubu okumuş ve Meclis yanıt verilmesini oylamıştır. Sovyet
+  Azeri Türkçesi ifadeler; OCR'daki 'makstdunuza çatmak!' dizgisi 'maksadınıza çatmak' olarak düzeltildi.
+  Halil Paşa tarafından getirildi; Kemal mektubu okudu ve Meclis bir yanıt verilmesini oyladı. Sovyet
   çizgisine hizmet eden ittifak dili.
 mediated_by: >-
   Atatürk'ün Bütün Eserleri c. 9 (Kaynak 2002) s. 219 ← TBMM Zabıt Ceridesi, Devre 1, c. 3 (19 Ağustos 1920
@@ -29,9 +28,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4758b9387727
   role: 5e9731149b28
-  quote: 2b6857bfc23d
+  quote: 144c44989942
   summary: bbeb8ed3e4f8
-  caveat: 3266250695f1
+  caveat: 6ab28bf2fa62
   mediated_by: 8c39fba3257b
   verification_note: c455dfb448df
   verification_method: b152e9063489

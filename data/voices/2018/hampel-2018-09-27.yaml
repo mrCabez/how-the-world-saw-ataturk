@@ -19,10 +19,11 @@ quote:
   text: >-
     Die Türkei war einmal im Sinne des Staatsgründers Kemal Atatürk der Eckpfeiler der NATO, der Eckpfeiler
     Europas hin zum Orient.
+  language: de
   translation: >-
     Turkey once was, in the spirit of the state founder Kemal Atatürk, the cornerstone of NATO, the
     cornerstone of Europe towards the Orient.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. AfD foreign-policy speech in the debate on the

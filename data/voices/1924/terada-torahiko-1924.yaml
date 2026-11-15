@@ -18,16 +18,17 @@ summary: >-
 quote:
   text: ケマルパシャなんか偉いものだ。いつの世になっても英雄は絶えないな。
   language: ja
+  translation: Now Kemal Pasha, there's a great man. Heroes never die out, in any age.
+  translated_by: "machine: research agent"
 mediated_by: >-
   Nakaya Ukichirō, 'Sensei o meguru hanashi', section 28 'Hainichi mondai', first printed in Torahiko kenkyū
   no. 8 (Terada Torahiko zenshū vol. 14 supplement, Iwanami, 13 May 1937)
 caveat: >-
-  [translation] 'Now Kemal Pasha, there's a great man. Heroes never die out, in any age.' Spoken by Terada (d.
-  1935) to his students and recalled by his pupil, the physicist Nakaya Ukichirō; the remark belongs to the
-  time 'when the anti-Japanese question was much discussed' (the 1924 US Immigration Act), so dated c. 1924.
-  Same passage: national independence needs 'positive morality' rather than 'do-nothing-ism'. Text: Aozora
-  Bunko card 57460 (base text Nakaya Ukichirō shū vol. 1, Iwanami 2000), found by grepping the
-  aozorabunko_text mirror (3 Nov 2026).
+  Spoken by Terada (d. 1935) to his students and recalled by his pupil, the physicist Nakaya Ukichirō; the
+  remark belongs to the time 'when the anti-Japanese question was much discussed' (the 1924 US Immigration
+  Act), so dated c. 1924. Same passage: national independence needs 'positive morality' rather than
+  'do-nothing-ism'. Text: Aozora Bunko card 57460 (base text Nakaya Ukichirō shū vol. 1, Iwanami 2000), found
+  by grepping the aozorabunko_text mirror (3 Nov 2026).
 node: Terada Torahiko
 sources:
   - url: https://www.aozora.gr.jp/cards/001569/card57460.html

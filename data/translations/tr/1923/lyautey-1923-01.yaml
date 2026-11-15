@@ -11,11 +11,10 @@ summary: >-
   Berthe Georges-Gaulis'e Kemalistlerin mücadelesine hayran olduğunu ve bunu kendilerine bildirdiğini, ancak
   beş yüzyıllık tarihten kopan insanları artık anlayamadığını söyledi.
 caveat: >-
-  Gaulis'in yıllar sonra kaydettiği sözlerin Türkçe çevirisi. Çeviri: 'I admired them in their struggle and
-  told them so. But today I do not understand them.' Aynı konuşma onların samimiyetini, enerjisini ve askeri
-  değerini över, ancak bu tür adamlar için 'grow weak once they succeed' der. PDF metin katmanı Türkçe
-  harfleri düşürmektedir ('onlar~~anhyam~yorum' olarak basılı); alıntı sayfadan aslına uygun hale
-  getirilmiştir.
+  Gaulis'in yıllar sonra kaydettiği sözlerin Türkçe çevirisi. Aynı sohbet, onların samimiyetini, enerjisini ve
+  askeri değerini över ancak bu tür insanların "başarıya ulaştıklarında zayıfladıklarını" söyler. PDF metin
+  katmanı Türkçe harfleri düşürmüştür ("onlar~~anhyam~yorum" olarak basılıdır); alıntı sayfadan aslına uygun
+  olarak onarılmıştır.
 mediated_by: >-
   F. Pekin, 'Atatürk ve Lyautey', Belleten XX/80 (Ekim 1956) s. 642 ← B. Georges-Gaulis, La question turque
   (1931)
@@ -31,9 +30,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 48c650872559
   role: d7c3367a819c
-  quote: ee67e0cd0ea7
+  quote: 533f30a1dfd2
   summary: ffe00931a1a4
-  caveat: 88de7565f0cc
+  caveat: 7728ce49861a
   mediated_by: 124629b3da5a
   verification_note: 95fbdf35b0fc
   verification_method: b4b3491d6dae

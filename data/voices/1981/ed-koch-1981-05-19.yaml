@@ -20,10 +20,11 @@ summary: >-
 quote:
   text: >-
     "Kemal Atatürk, zamanımızda insanlığın en iyi ideallerini temsil eden birçok prensibi uygulamaya koymuştur"
+  language: tr
   translation: >-
     Kemal Atatürk put into practice many principles that represent the best ideals of humanity in our time
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 21 May 1981, p. 9 ('Atatürk'ün 100. doğum yılını kutlama törenleri ABD'de başladı', İskender
   Songur): Turkish rendering of the statement over Koch's signature in a full-page New York Times

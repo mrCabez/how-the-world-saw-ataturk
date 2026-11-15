@@ -20,10 +20,11 @@ quote:
   text: >-
     damit für die zivilen Kräfte in der Türkei und für die Modernisierer seit Kemal Atatürk die Tür schließen;
     denn Modernisierung in der Türkei bedeutet Orientierung an Europa.
+  language: de
   translation: >-
     you thereby close the door on the civil forces in Turkey and on the modernizers since Kemal Atatürk; for
     modernization in Turkey means orientation towards Europe.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Reply to Wolfgang Schäuble (CDU/CSU) in the

@@ -10,7 +10,7 @@ Issue (konu) ve pull request (çekme isteği) açıklamalarını Türkçe veya �
 
 Elinizde bir söz ve kaynağı varsa [Yardım etmenin üç yolu](#yardım-etmenin-üç-yolu) bölümüne geçin. Yardım etmek istiyor ve yapacak bir iş arıyorsanız, şu an açık olanlar şunlar:
 
-- Yaklaşık 300 alıntının İngilizce çevirisi yok ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- 408 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)). Aşağıdaki "İngilizce çeviriyi düzeltme" bölümüne bakın.
 - Türkçe çeviriler makineyle yapıldı ve okunmayı bekliyor ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - Her kaydın kaynağını yeniden açacak birine ihtiyacı var: [Bir kaydı doğrulama](#bir-kaydı-doğrulama) bölümüne bakın. Dokuz kayıt, kimsenin açamadığı bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - Var olduğu bilinen ama ulaşılamayan metinler var. Başlığı "Wanted" ile başlayan issue'lar bunlardan dördünü anlatıyor; [`research/candidates/`](research/candidates/) klasörü ile [`research/HUNT.md`](research/HUNT.md) dosyasındaki "Open leads that need a person" bölümü bölgelere göre daha fazlasını sıralıyor.
@@ -60,7 +60,7 @@ Yalnızca bir GitHub hesabına ihtiyacınız vardır. Bir form seçin:
 - [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): henüz arşivde olmayan bir söz.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): bir kayıttaki hatalı bir bilgi.
 - [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): bir kaydın kaynağını yeniden açtınız ve orada ne yazdığını söyleyebilirsiniz.
-- [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): daha iyi bir Türkçe ifade önerisi.
+- [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): bir alıntı için daha iyi bir İngilizce çeviri ya da daha iyi bir Türkçe ifade önerisi.
 
 Bir söz önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://ataturk.fyi) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
 
@@ -95,6 +95,34 @@ npm run validate                          # must end with OK
 `npm run new` komutu `id`, `voice`, `date` ve tarihten anlaşılıyorsa `era` alanlarını doldurur. Hiçbir zaman mevcut bir dosyanın üzerine yazmaz. Kimlik (`id`) alınmışsa veya isimde Latin harfleri yoksa (Çince, Arapça, Rusça …), kimliği `--id` ile kendiniz verin; örneğin `npm run new -- "Voice Name" 1938-11-10 --id voice-name-1938-11-10`. `npm run validate -- <file>` komutu yalnızca tek bir dosya için rapor verir.
 
 Ardından değişiklikleri kaydedin (commit), kendi çatalınıza gönderin (push) ve bir pull request açın.
+
+## İngilizce çeviriyi düzeltme
+
+İngilizce olmayan bir alıntının İngilizce çevirisi kaydın içinde, `quote.translation` alanındadır; çeviriyi kimin yaptığını `quote.translated_by` söyler. Çoğu makineyle yapıldı ve o dili bilen kimse tarafından okunmadı. Bu dillerden birini okuyabiliyorsanız, alıntı başına birkaç dakikanızı alır.
+
+1. Kaydı açın ve `quote.text` ile `quote.translation` alanlarını karşılaştırarak okuyun.
+2. İngilizcesi doğruysa kendinizi `quote` altındaki `reviewed_by` alanına ekleyin:
+
+   ```yaml
+   quote:
+     text: >-
+       l'ardent patriote et le grand homme d'état qui avait consacré sa vie à la glorieuse résurrection de sa
+       patrie
+     language: fr
+     translation: >-
+       the ardent patriot and great statesman who had devoted his life to the glorious resurrection of his
+       homeland
+     translated_by: "machine: research agent"
+     reviewed_by:
+       - your-github-handle
+   ```
+
+3. Doğru değilse `translation` alanını düzeltin ve `translated_by` alanına kendi kullanıcı adınızı yazın.
+4. `quote.text` alanına dokunmayın. Yarım bir cümle yarım olarak çevrilir; kaynaktaki bir dizgi hatası ise yerine geçtiği kelime olarak çevrilir.
+
+Otomatik kontrol, o kaydın Türkçe alıntısının güncelliğini yitirdiğini bildirecektir. Bu beklenen bir durumdur: bakımcı yeniler.
+
+Dosya düzenlemeyi tercih etmiyorsanız [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml) formunu ya da sergide alıntının altındaki "Daha iyisini önerin" bağlantısını kullanın.
 
 ## Türkçe çeviriyi düzeltme
 

@@ -26,6 +26,7 @@ quote:
     für die Geschicke seines Landes übernahm, war die Türkei ein rückständiges, feudales, autokratisch
     regiertes, durch Niederlagen gedemütigtes Land. Als er starb, hinterließ er einen modernen, aufgeklärten,
     selbstgewissen und geachteten Staat.
+  language: de
   translation: >-
     Atatürk was one of the truly significant statesmen of our century. Few can be placed beside him. […] In
     this sense Mustafa Kemal Atatürk possesses historical greatness. His understanding of people and his
@@ -33,7 +34,7 @@ quote:
     self-confidence and new goals. […] When Atatürk took responsibility for his country's destiny, Turkey was
     a backward, feudal, autocratically ruled country humiliated by defeats. When he died he left a modern,
     enlightened, self-assured and respected state.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bulletin der Bundesregierung no. 108 (20 Oct 1987), as digitised on bundesregierung.de (all lower case,
   umlauts as ae/oe/ue; spelling restored here). The 'Burckhardt' sentence paraphrases Jacob Burckhardt on

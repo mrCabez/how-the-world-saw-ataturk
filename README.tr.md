@@ -23,6 +23,7 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 205 kayıt vardır) |
 | Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 857 |
+| İngilizce olmayan alıntılar | 421; her birinin İngilizce çevirisi var: 408'i makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
 | Kayıtlı kaynak doğrulaması bulunan kayıtlar | 983 (tümü) |
 | Türkçe çeviri dosyası bulunan kayıtlar | 983 (tümü) |
 
@@ -63,23 +64,23 @@ GitHub bir klasörde en fazla 1.000 dosya gösterdiği için kayıtlar yıl klas
 ## Yöntem ve ilkeler
 
 - **Kaynaktan çıkarın, asla ekleme yapmayın.** Her alan belirtilen kaynak tarafından desteklenmelidir. Hiçbir şey hafızadan veya genel kültürden doldurulmaz.
-- **Alıntılar birebirdir ve orijinal dilindedir.** Fransızca bir telgraf Fransızca, Rusça bir anı Rusça alıntılanır. İngilizce çevirisi kendi alanında hemen yanında yer alır.
+- **Alıntılar birebirdir ve orijinal dilindedir.** Fransızca bir telgraf Fransızca, Rusça bir anı Rusça alıntılanır. İngilizce çevirisi kendi alanında hemen yanında yer alır ve kayıt çeviriyi kimin yaptığını söyler: kaynak, makine ya da adı yazılı bir kişi.
 - **Özetler bize aittir ve bizim olarak işaretlenmiştir.** `summary` alanı en fazla 25 kelimelik tarafsız bir açımlamadır. Asla konuşmacının kendi sözleriymiş gibi sunulmaz.
 - **Her kayıt, yazarı dışında biri tarafından yeniden doğrulanır.** Doğrulayıcı, belirtilen kaynağı yeniden açar ve bulduklarını aynı dosyanın `verification` bloğuna kaydeder: sonuç, alıntının bulunup bulunmadığı, neyin okunduğu ve nasıl okunduğu.
 - **Hem hayranlık dolu hem de düşmanca sözler dahil edilir.** Belgelenmiş bir söz, görüşü ne olursa olsun kaydedilir. Düşmanca bir kayıt bunu kimin, ne zaman ve hangi kaynakta söylediğini belirtir. Arşivin değil, konuşmacının görüşünü kaydeder.
 - **Şüpheler kayda geçirilir.** İkinci elden aktarım zincirleri `mediated_by` alanına, belirsizlikler `caveat` alanına yazılır. Doğrulaması başarısız olan kayıtlar veri setinde kalır ancak sergide gösterilmez.
-- **Türkçe çeviriler makine yapımıdır ve bu şekilde işaretlenmiştir.** Her çeviri dosyası bunu ilk satırında ve `translated_by` alanında belirtir. Düzeltmeler memnuniyetle karşılanır. Orijinali Türkçe olan metinler basıldıkları haliyle korunur.
+- **Makine çevirileri işaretlidir.** Türkçe metinlerin tamamı ve alıntıların İngilizce çevirilerinin çoğu makineyle yapıldı. Her biri bunu `translated_by` alanında belirtir; sergi de alıntının altında söyler. Düzeltmeler memnuniyetle karşılanır. Orijinali Türkçe olan metinler basıldıkları haliyle korunur.
 
 ## Nasıl katkıda bulunabilirsiniz
 
-Bir söz önerebilir, bir hata bildirebilir, bir kaydı kaynağıyla karşılaştırabilir veya bir Türkçe çeviriyi düzeltebilirsiniz. Hiçbiri için Git veya YAML bilmeniz gerekmez: her birinin bir formu var.
+Bir söz önerebilir, bir hata bildirebilir, bir kaydı kaynağıyla karşılaştırabilir veya bir çeviriyi düzeltebilirsiniz. Hiçbiri için Git veya YAML bilmeniz gerekmez: her birinin bir formu var.
 
 - Formlardan biriyle **bir issue (konu) açın**: [Söz öner / Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Düzeltme / Correction](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml), [Çeviri düzeltmesi / Translation fix](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Veya yeni ya da düzeltilmiş bir dosyayla bir pull request (çekme isteği) açın.** Bu işlemi doğrudan tarayıcıda yapabilirsiniz.
 
 **Nereden başlayacağınızı mı düşünüyorsunuz?** Aşağıdakilerin hiçbiri özel bir erişim ya da yazılım gerektirmez:
 
-- **Bir alıntıyı İngilizceye çevirin.** Yaklaşık 300 alıntının henüz İngilizce çevirisi yok; en kalabalık gruplar Türkçe, Fransızca, Felemenkçe, Almanca, Çince, İspanyolca ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Bir İngilizce çeviriyi özgün metniyle karşılaştırın.** 30 dilde 408 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı; en kalabalık gruplar Türkçe, Fransızca, Almanca, Felemenkçe, Çince, İspanyolca, Arapça ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Bir Türkçe çeviriyi İngilizcesiyle karşılaştırın** ve kulağa yanlış geleni düzeltin. Türkçe metinlerin tamamı makine çevirisidir ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Bir kaynağı yeniden açın ve orada ne yazdığını bildirin.** Her kaydın ikinci bir okura ihtiyacı var; [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formu birkaç dakikanızı alır. Dokuz kayıt ise hiç açamadığımız bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - **Var olduğunu bildiğimiz ama ulaşamadığımız bir metni bulun:** Cinnah'ın Atatürk'ün ölümü üzerine açıklaması ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Hemingway'in 1922'de Toronto Star'da çıkan cümlesi ([#7](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/7)), Roncalli'nin günlüğü ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze'nin Ankara günlüğü ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). Bu türden başka ipuçları [`research/candidates/`](research/candidates/) klasöründe ve [`research/HUNT.md`](research/HUNT.md) dosyasının "Open leads that need a person" başlığı altında.

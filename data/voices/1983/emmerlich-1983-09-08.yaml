@@ -20,10 +20,11 @@ quote:
   text: >-
     daß die Türkei Kemal Atatürks für viele Nazi-Verfolgte — z. B. Ernst Reuter — eine Zufluchtsstätte war, in
     der sie vor einer Auslieferung sicher sein konnten
+  language: de
   translation: >-
     that Kemal Atatürk's Turkey was a place of refuge for many victims of Nazi persecution, for example Ernst
     Reuter, where they were safe from extradition
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Used in a 1983 debate on extradition of Turkish

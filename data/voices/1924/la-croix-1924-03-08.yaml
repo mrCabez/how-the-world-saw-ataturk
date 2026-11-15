@@ -20,6 +20,10 @@ quote:
     Ceux qui leur ont parlé du fameux milliard des Congrégations de France ont sans doute omis de leur dire
     comment le milliard s'est, évanoui
   language: fr
+  translation: >-
+    Those who told them of the famous billion of the Congregations of France no doubt omitted to tell them how
+    the billion vanished
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Fragment-level (Gallica ContentSearch), cut with '(...)'; Gallica OCR. Hostile polarity is an inference from
   the framing of a truncated paragraph. Page 1.

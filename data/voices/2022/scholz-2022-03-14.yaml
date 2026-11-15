@@ -19,8 +19,11 @@ summary: >-
 quote:
   text: >-
     Modern Türkiye'nin kurucusu büyük Avrupalı devlet adamı Mustafa Kemal Atatürk'e derin saygıyla.
-  is_translation: true
   language: tr
+  translation: >-
+    With deep respect to Mustafa Kemal Atatürk, founder of modern Turkey and great European statesman.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Yeniçağ and Panorama News 14–15 Mar 2022 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of a German entry. Yeniçağ and Panorama News print the same text; the German Embassy's

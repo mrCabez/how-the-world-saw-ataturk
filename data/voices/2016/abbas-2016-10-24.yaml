@@ -19,8 +19,12 @@ quote:
   text: >-
     büyük lider Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nin kuruluş sürecinde gösterdiği büyük rolü
     takdirle karşılıyoruz.
-  is_translation: true
   language: tr
+  translation: >-
+    we regard with appreciation the great role that the great leader Mustafa Kemal Atatürk played in the
+    founding of the Republic of Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: AA via Sputnik Türkiye (Turkish translation of the entry)
 caveat: >-
   AA text republished by Sputnik Türkiye (anlatilaninotesi.com.tr, 24 Oct 2016); Turkish rendering of an

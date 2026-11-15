@@ -19,13 +19,16 @@ quote:
   text: >-
     Milletini nadir görülen bir cesaret, liderlik ve sorumluluk birleşimi içerisinde yönlendirmiş olan büyük
     bir lider, vizyon ve inanç insanına, şahsım ve İsrail halkı adına derin saygı ve takdirlerimi sunuyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    To a great leader, a man of vision and faith, who guided his nation with a rare combination of courage,
+    leadership and responsibility, I offer my deep respect and appreciation on my own behalf and on behalf of
+    the people of Israel.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 caveat: >-
   Handwritten in Hebrew (dated 8 Tammuz 5763 / 8.7.2003); the quote is the compilation's printed Turkish
-  translation ('To a great leader who guided his nation with a rare combination of courage, leadership and
-  responsibility, a man of vision and faith, I offer deep respect on my own behalf and that of the people of
-  Israel'). The Hebrew was not transcribed. Continues: his legacy and vision inspire all freedom-loving
+  translation. The Hebrew was not transcribed. Continues: his legacy and vision inspire all freedom-loving
   democratic nations; 'Yurtta Sulh, Cihanda Sulh' is a message of peace for all humanity. Source: Anıtkabir
   Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet
   başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the image

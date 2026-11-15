@@ -12,11 +12,9 @@ summary: >-
   Komünizm sonrası Macaristan'ı, 'ablası' Türkiye'nin büyük önder Kemal Atatürk önderliğinde tuttuğu yolu
   izleyen bir ülke olarak sunar.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 71 (basılı s. 60). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe basılmıştır. Çeviri: "Böylece Macaristan, tıpkı büyük 'ablası' Türkiye'nin 71 yıl önce büyük
-  önder Kemal Atatürk liderliğinde yaptığı gibi, özgürlük ve kendi kendini yönetme yolunu seçmiştir." Ayrıca:
-  'Kemal Atatürk ruhunun korunduğunu görmekteyiz' (PDF s. 72). Başlık: 'Macar Sosyal Güvenlik Bakan Yardımcısı
-  Andras Kelemen', 23 Nisan 1991.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 71 (basılı s. 60). Konuşma, TBMM tutanaklarında olduğu gibi
+  Türkçe basılmıştır. Ayrıca: 'Kemal Atatürk ruhunun korunduğunu görmekteyiz' (PDF s. 72). Başlık: 'Macar
+  Sosyal Güvenlik Bakan Yardımcısı Andras Kelemen', 23 Nisan 1991.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Macar Sosyal Güvenlik Bakan
@@ -32,9 +30,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e79e781bc771
   role: 1b69ff44bc4b
-  quote: 152b341f17ed
+  quote: c220c2798e17
   summary: 885b6ce4433f
-  caveat: 5e468322baf2
+  caveat: b710c6358dfc
   mediated_by: 8e2cc528453b
   verification_note: 72f19c4fa8cc
   verification_method: d26a2d95d043

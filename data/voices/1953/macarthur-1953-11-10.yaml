@@ -26,6 +26,7 @@ quote:
     bazı vatandaşları tarafından bile tam mânasiyle anlaşılamamaktadır. O tanıdığım diğer insanlar gibi, hür
     insanlığın köleliğe karşı durması meselesinin cihanşümul mahiyetini idrak ediyordu, onun dünyayı sarsan
     mücadelenin vahim bir anında vefatı, telâfisi gayri kabil olmakta devam etmektedir.
+  language: tr
   translation: >-
     Today, 10 November, is the anniversary of the death of my old friend Kemal Atatürk. Although fifteen years
     have passed, I still cannot accustom myself to his passing. Had he lived, the present chaos of the
@@ -34,8 +35,8 @@ quote:
     perhaps not fully understood even by some of his compatriots. Like the other people I have known, he
     grasped the universal nature of free humanity's stand against slavery; his death at a grave moment of the
     world-shaking struggle remains irreparable.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1953, p. 7, box 'Mac Arthur'un mesajı' (Ankara, A.A., 9 Nov): Anatolian Agency's Turkish
   text of the message

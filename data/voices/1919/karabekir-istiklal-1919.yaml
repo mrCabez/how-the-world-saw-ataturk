@@ -19,6 +19,9 @@ summary: >-
 quote:
   text: Mustafa Kemal Paşa kongreye yalnız murahhas değil, reis dahi yapılmalıdır.
   language: tr
+  translation: >-
+    Mustafa Kemal Pasha must be made not only a delegate to the congress but its president too.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Cite: Karabekir, İstiklal Harbimiz, c. 1 (İstanbul: YKY, ed. Ziver Öktem, 2008), pp. 80-81. Reconstructed in
   a later retrospective account (not a 1919 document); p. 81 also reports Erzurum critics saying Kemal kept

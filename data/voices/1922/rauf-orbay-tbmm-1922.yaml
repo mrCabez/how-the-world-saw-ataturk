@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: Mustafa Kemal Paşa Meclisi Âliniz tarafından intihap edilmiş Başkumandandır.
   language: tr
+  translation: Mustafa Kemal Pasha is the Commander-in-Chief elected by your High Assembly.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, 104th sitting (hafi), 2nd
   session, 18 Eylül 1338 (1922), p. 905. Official, deferential register before his 1924-26 break with Kemal;

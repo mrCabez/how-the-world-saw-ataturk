@@ -18,9 +18,9 @@ summary: >-
 quote:
   text: le grand chef et réformateur de la nation turque
   language: fr
-caveat: >-
-  TBMM vol. 2 (c2) PDF p. 10. Quote in French; translation: 'the great leader and reformer of the Turkish
-  nation'. Signed 'Paul'.
+  translation: the great leader and reformer of the Turkish nation
+  translated_by: "machine: research agent"
+caveat: TBMM vol. 2 (c2) PDF p. 10. Quote in French. Signed 'Paul'.
 node: Heads of State Write to the Assembly, November 1938
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467

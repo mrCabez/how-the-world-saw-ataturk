@@ -18,8 +18,8 @@ summary: >-
 quote:
   text: >-
     Our exchange of telegrams. our reciprocal friendship and my knowledge of the man leads me to hope
-  translation: "(already English: the New York Times's rendering of his French remarks)"
   language: en
+  is_translation: true
 mediated_by: New York Times 25 Sep 1922 (English rendering)
 caveat: >-
   Cited as 'Paris Acclaims Peace in Near East; Will Send Franklin-Bouillon by Fast Cruiser to Advise the

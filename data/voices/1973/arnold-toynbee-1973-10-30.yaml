@@ -24,6 +24,7 @@ quote:
     olmasalardı, yurddaşlarını, Atatürk de zafere ulaştıramazdı. 1919 da Atatürk kendi halkına, ancak aşırı
     fedakârlık isteyen bir zafer ihtimali vaadedebilirdi. 1940'da Churchill'in yaptığı da buydu. Türk halkı
     Atatürk'ün çağrısına soylu bir cevap verdi.
+  language: tr
   translation: >-
     The Turks won a thrilling victory in the War of Liberation, the gift of their courage and patience. At
     this critical point in their national history the Turks found a great leader: Mustafa Kemal Atatürk…
@@ -31,8 +32,8 @@ quote:
     Atatürk could have led his compatriots to victory. In 1919 Atatürk could promise his people only the
     chance of a victory demanding extreme sacrifice. That is what Churchill did in 1940. The Turkish people
     gave Atatürk's call a noble answer.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 30 Oct 1973, p. 2: 'İngiliz gözüyle — Türk Kurtuluş Savaşı ve dünya', bylined 'Yazan: Prof. Arnold
   Toynbee' (Turkish translation of his article)

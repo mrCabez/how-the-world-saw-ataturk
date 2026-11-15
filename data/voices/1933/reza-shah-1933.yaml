@@ -21,13 +21,15 @@ quote:
     Sizin söylediğinize göre Gazi Hazretleri benimle görüşmek istemektedirler. Bende kendileri ile görüşmeyi
     son derece arzu etmekteyim.
   language: tr
+  translation: >-
+    According to what you tell me, His Excellency the Gazi wishes to meet me. I too very much wish to meet him.
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: >-
   Atuk, ÇTTAD XVII/35 (2017), p. 232 ← Hüsrev Gerede, Siyasi Hatıratım 1: İran (Vakit, 1952), p. 265
   (ambassador's memoir)
 caveat: >-
   Reported in the ambassador's memoir, not a text of the Shah's own; Atuk places it 'early 1933'. Diplomatic
-  courtesy that states a wish to meet rather than a judgement. Translation: 'According to what you tell me,
-  His Excellency Gazi wants to meet me. I too very much wish to meet him.'
+  courtesy that states a wish to meet rather than a judgement.
 node: Interwar Leaders on Kemal in Their Own Words
 sources:
   - url: https://ataturkilkeleri.deu.edu.tr/wp-content/uploads/2018/03/M.-Volkan-ATUK.pdf

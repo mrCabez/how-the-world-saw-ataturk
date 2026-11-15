@@ -20,13 +20,15 @@ quote:
     …hofft, dass Sie den Weg nach Europa fortsetzen, der durch Ihren großen Staatsmann Mustafa Kemal Atatürk
     geöffnet worden ist.
   language: de
+  translation: >-
+    …hopes that you will continue on the road to Europe opened by your great statesman Mustafa Kemal Atatürk.
+  translated_by: "machine: research agent"
 caveat: >-
   Original-language text
   (https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html); the
   TBMM minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "bu yol Büyük Mustafa Kemal Atatürk
-  tarafından açılmıştır.". TBMM book PDF p. 285 (printed p. 274). English: '…hopes that you will continue on
-  the road to Europe opened by your great statesman Mustafa Kemal Atatürk.' Closes with Atatürk's 'peace at
-  home, peace in the world'.
+  tarafından açılmıştır.". TBMM book PDF p. 285 (printed p. 274). Closes with Atatürk's 'peace at home, peace
+  in the world'.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html

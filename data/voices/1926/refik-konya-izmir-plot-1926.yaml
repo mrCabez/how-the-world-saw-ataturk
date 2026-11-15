@@ -22,6 +22,12 @@ quote:
     kurtulmasından Milletçe duyulan nihayetsiz meserretleri bir defa daha izhar eden Meclisi Âlinin kalbi
     memnuniyet ve tebrikâtını Reisicumhur Hazretlerine iblağ etmek üzere...
   language: tr
+  translation: >-
+    to convey to His Excellency the President the heartfelt satisfaction and congratulations of the High
+    Assembly, which once more expresses the boundless joy felt by the Nation that the accursed assassination
+    plot directed at the life of our dear Saviour and great genius, His Excellency the President Gazi Mustafa
+    Kemal Pasha, came to nothing and that the homeland was thereby saved from certain disaster...
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Text layer OCR-degraded ('Müncilmi'Z', 'mıel'un', 'ıb'ir felalkeltitlen kürtulma'sından', 'hiçin'); quote
   normalised, the felâketten/kurtulmasından words being a heavier reconstruction. The ellipsis marks the cut

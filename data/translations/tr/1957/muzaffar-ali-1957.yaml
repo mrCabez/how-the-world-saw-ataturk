@@ -12,10 +12,9 @@ summary: >-
   Atatürk ve Cinnah'ı Pakistan'ın ilham kaynakları olarak anar; her ikisinin de ülkelerinin bağımsızlığı için
   çalışıp öldüğünü söyler.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 18 (basılı s. 7). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe basılmıştır. Çeviri: "Bu ilhamın kaynağı, Türkiye ve Pakistan'ın büyük şahsiyetleri olan
-  Atatürk ve Muhammed Ali Cinnah'a duyduğumuz derin hayranlıktır." Kitaptaki başlık: 'Pakistan Parlamento
-  Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. İsmin yazılışı kitabı izlemektedir.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 18 (basılı s. 7). Konuşma TBMM tutanaklarındaki gibi Türkçe
+  basılmıştır. Kitap başlığı: 'Pakistan Parlamento Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. İsmin
+  imlası kitabı izlemektedir.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Pakistan Parlamento Heyeti Reisi
@@ -29,9 +28,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 307a68e6d2bf
   role: 983b1221722d
-  quote: 3475b7a5635f
+  quote: beb68b7dba28
   summary: ed08c1e7622d
-  caveat: 657b75b0feae
+  caveat: 234441a21202
   mediated_by: 8e2cc528453b
   verification_note: 8f32ae1f1825
   verification_method: bb57a1b2989c

@@ -17,8 +17,10 @@ summary: >-
   European Union.
 quote:
   text: Modern Türkiye'nin kurucusu Mustafa Kemal Atatürk'e derin saygılarımı sunuyorum.
-  is_translation: true
   language: tr
+  translation: I offer my deep respects to Mustafa Kemal Atatürk, the founder of modern Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Haberler (AA) and Haber7, 11 Dec 2014 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English (Italian). Haberler (AA) and Haber7 print the same text,

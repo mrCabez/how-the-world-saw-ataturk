@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: Kemal es aclamado como salvador
   language: es
+  translation: Kemal is acclaimed as saviour
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   The byline is blurred on the scan; it appears to read 'por Camilo Barcia.' (the OCR had 'Camie Rerría').
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935

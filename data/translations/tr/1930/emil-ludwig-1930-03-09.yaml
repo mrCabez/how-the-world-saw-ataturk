@@ -13,15 +13,13 @@ summary: >-
   Yanında Napolyon'un yarı hayalperest gibi göründüğü soğuk bir akılcı; içtenlikle demokrat olmak ister, 'ama
   yine de diktatördür'.
 caveat: >-
-  [çeviri] 'Yanında Napolyon'un yarı hayalperest gibi göründüğü bir adam, milliyetçi, diğer bütün halklara
-  karşı güvensiz, tek bir fikre tutulmuş, aynı anda hem onun hizmetkârı hem de efendisi olan Gazi, sayılarla
-  ifade edilemeyen bütün güdüleri hor görür.' 'Besuch bei Mustafa Kemal', Neue Freie Presse (Viyana), 9 Mart
-  1930, s. 2 ve 4 (4 Kasım 2026'da ANNO'nun otomatik denetimini geçen görünür pencereli bir tarayıcı
-  aracılığıyla s. 2'nin ANNO sayfa görüntüsünden okundu). Aynı sayfa, 'Der Diktator als Vollstrecker des
-  Volkswillens' bölümü: 'Ja, Kemal hat zum Demokraten das Streben und die Ueberzeugung, es zu sein. … Und doch
-  ist er Diktator.' Ayrıca: 'der Gasi ist der Mann ohne Phantasie, das stilisiert er, darauf ist er stolz'
-  (1991 yeniden basımı üzerinden, Für die Weimarer Republik und Europa, s. 181–187). Ludwig'in 1942 tarihli
-  portresindeki 'a touch of the poet' taşıyan 'blue, dreamy gaze' tasviriyle karşılaştırınız.
+  "Besuch bei Mustafa Kemal", Neue Freie Presse (Viyana), 9 Mart 1930, s. 2 ve 4 (ANNO'nun otomatik kontrolünü
+  geçen arayüzlü bir tarayıcı aracılığıyla, 4 Kasım 2026 tarihinde s. 2'nin ANNO sayfa görüntüsünden
+  okunmuştur). Aynı sayfa, "Der Diktator als Vollstrecker des Volkswillens" bölümü: "Ja, Kemal hat zum
+  Demokraten das Streben und die Ueberzeugung, es zu sein. … Und doch ist er Diktator." Ayrıca: "der Gasi ist
+  der Mann ohne Phantasie, das stilisiert er, darauf ist er stolz" (1991 tıpkıbasımı aracılığıyla, Für die
+  Weimarer Republik und Europa, s. 181–187). Ludwig'in 1942'deki "şairane bir dokunuşa" sahip "mavi, hülyalı
+  bakış" portresiyle karşılaştırınız.
 verification_note: >-
   Alıntı parçacıkta birebir mevcut ('der Gasi ist der Mann ohne Phantasie, das stilisiert er, darauf ist er
   stolz'); içindekiler satırı 'Besuch bei Mustafa Kemal — Die neue Türkei, Neue Freie Presse, 9. März 1930'
@@ -35,8 +33,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8351430af6cd
   role: 67d5bdca5d5d
-  quote: a723baf0cde0
+  quote: f16f87b8b7ed
   summary: 08d2292eae49
-  caveat: 164ebaddc510
+  caveat: cede9a6b1ecf
   verification_note: b2577adfc397
   verification_method: 32a97361e33a

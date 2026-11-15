@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Turquía es una “república” gobernada por el presidente-dictador Kemal Pachá
   language: es
+  translation: Turkey is a 'republic' governed by the president-dictator Kemal Pasha
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Unsigned front-page column. The same column comes back to Kemal in its dictator lists of 27 Jun 1930, 28 May
   1932 and 1 Nov 1935, which are separate records.

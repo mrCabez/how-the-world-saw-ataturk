@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 幸而有凱馬爾其人，國民黨就算成功，不幸而有張作霖其人，就讓第二個國民黨死
   language: zh
+  translation: >-
+    If by good fortune there is a man like Kemal, the Kuomintang will count as a success; if by ill fortune
+    there is a man like Zhang Zuolin, then let the second Kuomintang die
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: >-
   Wang Jingwei, letter of 7 Apr 1928 (汪精衛全集 初集, 1929, pp. 136-157) ← Wu's Dec 1927 article 讀了汪先生的兩件大事
 caveat: >-

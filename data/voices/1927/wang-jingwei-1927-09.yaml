@@ -18,6 +18,10 @@ summary: >-
 quote:
   text: 其在土耳其，何以經國會拯之於垂危，而基瑪爾仍然驅逐共產黨
   language: zh
+  translation: >-
+    And in Turkey, why is it that, after the National Assembly rescued it from the brink of ruin, Kemal still
+    drove out the Communist Party
+  translated_by: "machine: claude-fable-5-2"
 caveat: Speech to the Wuhan Political Branch, 22 Sep 1927.
 node: Wang Jingwei
 sources:

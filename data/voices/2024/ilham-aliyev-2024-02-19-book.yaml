@@ -19,8 +19,12 @@ quote:
   text: >-
     Türk dünyasının büyük evladı, yetenekli komutan ve dahi lider Gazi Mustafa Kemal Atatürk'ün aziz
     hatırasını en içten saygı ve ihtiramla anıyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    I remember with the most sincere respect and reverence the cherished memory of Gazi Mustafa Kemal Atatürk,
+    great son of the Turkic world, gifted commander and leader of genius.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: AA and Kıbrıs Gazetesi, 19 Feb 2024 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering (AA) of an entry probably written in Azerbaijani; the original is not located. AA and

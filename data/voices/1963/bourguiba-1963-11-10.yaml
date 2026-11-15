@@ -27,6 +27,7 @@ quote:
     olan bir İmparatorluğun enkazı üstünde ilerlemeye yönelmiş, müessir ve modern bir devlet kurmuş devrimciye
     hayranlık duymaktayız. O'nun ölmez eseri, egemenliklerini elde etmiş milletlerin kaderlerine hükmedenler
     için ışıklı bir örnek ve bir ilham kaynağı olarak kalacaktır.
+  language: tr
   translation: >-
     Our nation feels the greatest admiration for the immortal work of the 'Gazi' and holds his memory in the
     highest respect. In his person we glorify the great man chosen by God who, having proved himself a great
@@ -36,8 +37,8 @@ quote:
     Atatürk the revolutionary who, on the ruins of an empire breaking apart, built an effective, modern state
     turned towards progress. His immortal work will remain a shining example and a source of inspiration for
     those who govern the destinies of nations that have won their sovereignty.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
   of a message for the 25th anniversary of Atatürk's death

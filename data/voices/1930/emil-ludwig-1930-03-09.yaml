@@ -21,16 +21,18 @@ quote:
     Völker, besessen von einer einzigen Idee, zugleich ihr Diener und ihr Herr, verachtet der Gasi alle
     Motive, die sich in Zahlen nicht ausdrücken lassen
   language: de
+  translation: >-
+    A man beside whom Napoleon appears half a dreamer, national, mistrustful of all other peoples, possessed
+    by a single idea, at once its servant and its master, the Ghazi despises every motive that cannot be
+    expressed in numbers.
+  translated_by: "machine: research agent"
 caveat: >-
-  [translation] 'A man beside whom Napoleon appears half a dreamer, national, mistrustful of all other
-  peoples, possessed by a single idea, at once its servant and its master, the Ghazi despises every motive
-  that cannot be expressed in numbers.' 'Besuch bei Mustafa Kemal', Neue Freie Presse (Vienna), 9 March 1930,
-  pp. 2 and 4 (read on the ANNO page image of p. 2, 4 Nov 2026, via a headed browser that passed ANNO's
-  automatic check). Same page, section 'Der Diktator als Vollstrecker des Volkswillens': 'Ja, Kemal hat zum
-  Demokraten das Streben und die Ueberzeugung, es zu sein. … Und doch ist er Diktator.' Also: 'der Gasi ist
-  der Mann ohne Phantasie, das stilisiert er, darauf ist er stolz' (via the 1991 reprint, Für die Weimarer
-  Republik und Europa, pp. 181–187). Contrast Ludwig's 1942 portrait of a 'blue, dreamy gaze' with 'a touch of
-  the poet'.
+  'Besuch bei Mustafa Kemal', Neue Freie Presse (Vienna), 9 March 1930, pp. 2 and 4 (read on the ANNO page
+  image of p. 2, 4 Nov 2026, via a headed browser that passed ANNO's automatic check). Same page, section 'Der
+  Diktator als Vollstrecker des Volkswillens': 'Ja, Kemal hat zum Demokraten das Streben und die Ueberzeugung,
+  es zu sein. … Und doch ist er Diktator.' Also: 'der Gasi ist der Mann ohne Phantasie, das stilisiert er,
+  darauf ist er stolz' (via the 1991 reprint, Für die Weimarer Republik und Europa, pp. 181–187). Contrast
+  Ludwig's 1942 portrait of a 'blue, dreamy gaze' with 'a touch of the poet'.
 node: Emil Ludwig
 sources:
   - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300309&seite=2

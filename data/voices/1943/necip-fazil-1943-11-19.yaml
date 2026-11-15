@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Bir gün Atatürk dirilecektir!!!
   language: tr
+  translation: One day Atatürk will rise again!!!
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: >-
   Gültekin 2025, p. 52 ← Büyük Doğu, 1st series, no. 10, 19 Nov 1943, p. 2 ('Atatürk Dirilecektir!')
 caveat: >-

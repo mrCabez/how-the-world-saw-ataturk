@@ -10,16 +10,15 @@ summary: >-
   İstanbul kadın kongresinde Atatürk'e 'Türklerin Babası'nın yeterli olmadığını, Doğu için onun 'Ataşark'
   olduğunu söyler.
 caveat: >-
-  ÇEVİRİ (bu kayda ait): 'I say that this is not enough: for us you are Atasharq [Father of the East].' Arapça
-  metin, Muhammad Ahmad Isma'il al-Muqaddam'ın 'Awdat al-hijab adlı eserinin Huda Sha'arawi bölümünde
-  (archive.org 06.0_20210520_20210520_1158; OCR, 'anta' kelimesinde hemze eksik) onun anılarından
-  (Mudhakkirat) aktarıldığı şekliyledir; yazar onun anılarına ve 1980 tarihli bir Hawwa' makalesine atıf yapar
-  ve bu sözleri onu kınamak amacıyla alıntılar. Anı kitabının kendisinde görülmemiştir (Arapça Mudhakkirat
-  Huda Sha'rawi, Dar al-Hilal 1981, açık erişimde değildir). Sözün bağımsız doğrulaması: Libal, 'Staging
-  Turkish Women's Emancipation: Istanbul, 1935', JMEWS 4(1), 2008, dipnot 13 ('reportedly asserted ... Father
-  of the East (Atasark)'). Konuşmasını, 12. IAW kongresi delegeleri onuruna Atatürk'ün verdiği resepsiyonda
-  tercümansız olarak Türkçe yapmıştır. Kontrol: Arapça metin, hasmane bir eleştirmenin (al-Muqaddam) onun
-  anılarından birebir aktardığı şekliyledir; anı kitabının kendisi görülmemiştir.
+  Anılarından (Mudhakkirat) ve 1980 tarihli bir Hawwa' makalesinden yararlanan Muhammad Ahmad Isma'il
+  al-Muqaddam'ın 'Awdat al-hijab adlı eserinin Huda Sha'arawi bölümünde (archive.org
+  06.0_20210520_20210520_1158; OCR, 'anta' kelimesinde hemze eksik) anılarından aktarıldığı şekliyle Arapça
+  metin; yazar onu kınamak amacıyla alıntılar. Bizzat anı kitabında görülmemiştir (Arapça Mudhakkirat Huda
+  Sha'rawi, Dar al-Hilal 1981, erişime açık değildir). Sözün bağımsız doğrulaması: Libal, 'Staging Turkish
+  Women's Emancipation: Istanbul, 1935', JMEWS 4(1), 2008, n. 13 ('reportedly asserted... Father of the East
+  (Atasark)'). Konuşmasını, 12. IAW kongresi delegeleri onuruna Atatürk'ün verdiği resepsiyonda tercümansız
+  olarak Türkçe yapmıştır. Kontrol: Arapça metin, muhalif bir eleştirmen (al-Muqaddam) tarafından anılarından
+  kelimesi kelimesine aktarıldığı şekildedir; anı kitabının kendisi görülmemiştir.
 mediated_by: Muqaddam, 'Awdat al-hijab (İslamcı eleştiri), Sha'arawi'nin anılarından alıntıyla
 verification_note: >-
   Arapça metin birebir bulundu (OCR'da hemzesi eksik 'أنت' ile): 'فأنا أقول إن هذا لا يكفي بل انت بالنسبة لنا
@@ -34,9 +33,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 98434080f1eb
   role: 80af3451dac4
-  quote: ca733574ced3
+  quote: 1b1f0bca6ff0
   summary: 18b8c4078aa9
-  caveat: 1b85255f10fc
+  caveat: 14ab49e05807
   mediated_by: 1dfc53d8bf36
   verification_note: 2e4cd05cfa24
   verification_method: 24e9aa3e106c

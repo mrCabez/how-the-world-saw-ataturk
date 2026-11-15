@@ -19,6 +19,11 @@ summary: >-
 quote:
   text: 孫中山之爲中華民族獨立運動的革命家，正如基瑪爾之爲土耳其民族獨立運動的革命家而不爲共產主義或「過激主義」運動的革命家一樣
   language: zh
+  translation: >-
+    Sun Yat-sen is a revolutionary of the Chinese nation's independence movement, just as Kemal is a
+    revolutionary of the Turkish nation's independence movement and not a revolutionary of a communist or
+    'extremist' movement
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Cai's 2 Nov 1922 Fujian piece also calls for 'a revolutionary government like Turkey's'; recorded here once.
 node: Xiangdao Reads Ankara, 1922–1924

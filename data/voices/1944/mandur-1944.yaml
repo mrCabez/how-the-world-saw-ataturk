@@ -19,10 +19,11 @@ summary: >-
 quote:
   text: >-
     وأن إرادتنا لابد آتية على كافة الصعاب كما أتى مصطفى كمال على صعاب تركيا وستالين على صعاب روسيا
+  language: ar
   translation: >-
     and that our will must surely overcome all obstacles, as Mustafa Kemal overcame Turkey's obstacles and
     Stalin Russia's.
-  language: ar
+  translated_by: "machine: research agent"
 caveat: >-
   Cited as al-Risala no. 586, 25 Sep 1944, Wikisource page 'مجلة الرسالة/العدد 586/مكافحة الشكلية'. Closing
   sentence of an essay on 'Combating Formalism', signed Muhammad Mandur, in which Kemal serves as an example

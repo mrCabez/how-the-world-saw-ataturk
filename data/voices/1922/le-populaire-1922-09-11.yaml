@@ -18,6 +18,9 @@ summary: >-
 quote:
   text: Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou
   language: fr
+  translation: >-
+    Should Fehrid Bey and Mustapha Kemal listen to certain advice that comes to them from Moscow
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   View 1. 'écoulent' and 'Kernal' are OCR for 'écoutent' and 'Kemal'. A warning, not a condemnation; the later
   clause is cut at 'un nouveau conflit s'ensuivra dans les Balkans'. Gallica ContentSearch fragment, OCR

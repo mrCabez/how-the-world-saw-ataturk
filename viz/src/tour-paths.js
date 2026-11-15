@@ -137,7 +137,7 @@ export const PATHS = [
       },
       {
         id: 'elcibey-1992',
-        note: `When the Soviet Union broke up, the new Turkic republics reached for the same model. Azerbaijan’s President Ebülfeyz Elçibey told the Turkish Assembly in 1992: “Our first road is Mustafa Kemal’s road; after that we will build our state.”`,
+        note: `When the Soviet Union broke up, the new Turkic republics reached for the same model. Azerbaijan’s President Ebülfeyz Elçibey told the Turkish Assembly in 1992: “first of all, our road is Mustafa Kemal’s road; then we will build our state.”`,
       },
       {
         id: 'karimov-2000-10-17',
@@ -360,7 +360,7 @@ export const PATHS = [
       },
       {
         id: 'huseyin-avni-tbmm-1922-05-06',
-        note: `Kemal answered him sharply. On 6 May Hüseyin Avni replied: “there is no one who does not know the degree of the Pasha’s sacrifice”, and promised to say everything to him plainly rather than whisper behind his back.`,
+        note: `Kemal answered him sharply. On 6 May Hüseyin Avni replied: “there is no one who does not know the degree of His Excellency the Pasha’s sacrifice”, and promised to say everything to him plainly rather than whisper behind his back.`,
       },
       {
         id: 'arnold-toynbee-1922',

@@ -20,8 +20,12 @@ quote:
   text: >-
     Türk insanının Atatürk'e gösterdiği saygı ve hayranlığını paylaşıyoruz. Atatürk, reformculuğa önderlik
     ederek eşit haklara dayalı demokrasiye sahip Türkiye'yi parlayan bir örnek olarak kurdu.
-  is_translation: true
   language: tr
+  translation: >-
+    We share the respect and admiration that the Turkish people show for Atatürk. Atatürk, by leading reform,
+    founded a Turkey with a democracy based on equal rights, as a shining example.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Hürriyet (Turkish translation of the entry); Yeni Mesaj paraphrase
 caveat: >-
   Hürriyet ('Çok duygulandım') prints the full Turkish text; Yeni Mesaj of 28.06.2004 (probably from the same

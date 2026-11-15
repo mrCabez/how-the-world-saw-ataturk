@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: de dictatuur van Kemal in Turkije op de Republikeinsche Partij
   language: nl
+  translation: the dictatorship of Kemal in Turkey on the Republican Party
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Quote copied from KB/Delpher OCR of the article. Classificatory remark in an anti-fascism piece; hostile
   polarity is inferred from context.; recoded witness after check: neutral listing of one-party regimes, no

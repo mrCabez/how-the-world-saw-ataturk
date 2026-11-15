@@ -23,6 +23,7 @@ quote:
     Atatürk'ü tanıdık. […] Mutlu işbirliği; büyük anlamda Atatürk'ün çalışmalarının neticesidir. Atatürk'ün
     ölümünün 25. yıldönümünde, O'nu kahraman asker olarak saygı ile yâd eder, modern Türkiye'nin Ata'sını,
     devlet adamı Atatürk'ü, takdir ve şükranla anarız.
+  language: tr
   translation: >-
     To us Atatürk's name was known almost fifty years ago as that of a brilliant Turkish military commander.
     After the peace we came to know Atatürk through the qualities of statesmanship that won him his permanent
@@ -30,8 +31,8 @@ quote:
     result of Atatürk's work. On the 25th anniversary of his death we remember him with respect as a heroic
     soldier, and we honour the father of modern Turkey, the statesman Atatürk, with appreciation and
     gratitude.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…'): the paper's Turkish rendering of a message for the 25th
   anniversary of Atatürk's death

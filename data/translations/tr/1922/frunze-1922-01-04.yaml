@@ -10,10 +10,9 @@ summary: >-
   Veda görüşmesinden önce izlenecek çizgide mutabık kaldı: Kemal'i desteklemek, onu Sovyet etkisi altında
   tutmak, kişisel diktatörlüğünü parti diktatörlüğüne yönlendirmek, reklamını yapmak.
 caveat: >-
-  Çeviri: 'to support Mustafa Kemal and work to keep him always under our influence'. Bu çizgi Abilov, Frunze
-  ve Mikhailov tarafından ortaklaşa kararlaştırılmış ve Abilov tarafından kaydedilmiştir; dolayısıyla Frunze
-  üç sesten biridir. Görüşmede Kemal, Meclis'teki grupları ve ordu üzerindeki denetimini anlatmıştır.
-  frunze-1921-12-25 kaydından (ilk görüşme) ayrıdır.
+  Bu satır Abilov, Frunze ve Mihaylov tarafından ortaklaşa kararlaştırılmış ve Abilov tarafından
+  kaydedilmiştir; dolayısıyla Frunze üç sesten biridir. Görüşmede Kemal, Meclis'teki grupları ve ordu
+  üzerindeki denetimini anlatmıştır. frunze-1921-12-25'ten (ilk görüşme) farklıdır.
 mediated_by: >-
   Atatürk'ün Bütün Eserleri c. 12 (Kaynak 2005) s. 203–206 ← Mustafa Kemal ile ikinci Abilov–Frunze
   görüşmesinin Abilov'a ait Rusça kaydı, 4 Ocak 1922 (Azerbaijan State Archive of Recent History, f. 28, op.
@@ -32,9 +31,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d2a0d592c1da
   role: 64c6dc799aa6
-  quote: 14947a1e6248
+  quote: 3565aa95d359
   summary: e8ed5aa72a6f
-  caveat: 4da092126cca
+  caveat: 7e2f3052791d
   mediated_by: 2773d3c2da8a
   verification_note: 05ed09bd94a0
   verification_method: b152e9063489

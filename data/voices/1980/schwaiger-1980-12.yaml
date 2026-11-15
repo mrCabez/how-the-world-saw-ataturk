@@ -19,11 +19,12 @@ quote:
   text: >-
     Der Versuch Kemal Atatürks, einen modernen Staat aus der Türkei zu machen, hatte nur teilweise Erfolg.
   language: de
+  translation: Kemal Atatürk's attempt to make a modern state out of Turkey had only partial success.
+  translated_by: "machine: research agent"
 caveat: >-
   One evaluative sentence inside an economic argument (the ÖVP opposed the loan). First name not given in the
   protocol; the page number is that of the sitting's page before the running head '14729 Dr. Schwaiger'. Not a
-  notable voice. [Translation:] Kemal Atatürk's attempt to make a modern state out of Turkey had only partial
-  success. Check: his speech begins on p. 14728.
+  notable voice. Check: his speech begins on p. 14728.
 node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
 sources:
   - url: https://www.parlament.gv.at/dokument/BR/BRSITZ/403/imfname_177961.pdf

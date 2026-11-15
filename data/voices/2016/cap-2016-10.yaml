@@ -21,11 +21,13 @@ quote:
     Kemal Atatürk im Grabe umdrehen würde. Er hat nämlich wirklich versucht, Reformen zu setzen und die Türkei
     stärker an Europa und an die europäischen Werte heranzuführen.
   language: de
+  translation: >-
+    Kemal Atatürk would turn in his grave. For he really did try to bring in reforms and to move Turkey closer
+    to Europe and to European values.
+  translated_by: "machine: research agent"
 caveat: >-
   Foreign-policy remarks after the July 2016 coup attempt, using Atatürk as the measure of Erdoğan's Turkey
-  (instrumental as well as admiring). Speaker line: 'Abgeordneter Dr. Josef Cap (SPÖ)'. [Translation:] Kemal
-  Atatürk would turn in his grave. For he really did try to bring in reforms and to move Turkey closer to
-  Europe and to European values.
+  (instrumental as well as admiring). Speaker line: 'Abgeordneter Dr. Josef Cap (SPÖ)'.
 node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
 sources:
   - url: https://www.parlament.gv.at/dokument/XXV/NRSITZ/148/fnameorig_584143.html

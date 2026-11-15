@@ -17,8 +17,10 @@ summary: >-
   of minorities.
 quote:
   text: Atatürk'e ve Türk Devleti'ne hayranlığımın temelinde bu gerçekler yatmaktadır
-  is_translation: true
   language: tr
+  translation: these facts lie at the basis of my admiration for Atatürk and the Turkish State
+  translated_by: "machine: research agent"
+  is_translation: true
 mediated_by: Milliyet, 29 Nov 1979, p. 12, as reproduced in Belenli & Birbudak 2021 (Belgi 22), p. 598
 caveat: >-
   The quote is the French original reconstructed from the Vatican's Spanish text (vatican.va

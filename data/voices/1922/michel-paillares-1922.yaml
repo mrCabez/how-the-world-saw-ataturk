@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Les tendances de Moustafa Kemal sont nettement xénophobes.
   language: fr
+  translation: Mustafa Kemal's tendencies are plainly xenophobic.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Book is a compilation of dated chronicle and press excerpts; the passage is in the author's narrative, dated
   1920 only by its place in the book. Page read from garbled running heads.

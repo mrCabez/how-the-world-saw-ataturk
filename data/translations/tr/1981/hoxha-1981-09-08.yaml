@@ -10,12 +10,11 @@ summary: >-
   Atatürk'ün bronz bir portresi için Gölcük'e teşekkür ederken, onu Türkleri modernleşmeye yönelten büyük bir
   devlet adamı ve seçkin bir siyasi şahsiyet olarak nitelendirir.
 caveat: >-
-  Çeviri (arşivin): 'Mustafa Kemal Atatürk was a great statesman-leader and an outstanding political
-  personality.' Arnavutça özgün metin: Enver Hoxha, Letra të zgjedhura, c. 2 (Tiranë: 8 Nëntori, 1986), Gölcük
-  belediye başkanına mektup, 8 Eylül 1981, s. 375–376 (cümle s. 375'tedir); portre 'Rozafa' topluluğu
-  aracılığıyla gelmiştir. Kontrolde düzeltildi: kaydı oluşturan kişi bunu, Atatürk'ten söz etmeyen, Pakistanlı
-  bir adaşı Mustafa Kemal Pasha'ya yazılmış 30 Nisan 1973 tarihli bir mektuba bağlamıştı. Pasaj onun
-  demokratik düşüncesini, 'progress and modernization' anlayışını, gençliğe güvenini ve Arnavutlara yönelik
+  Arnavutça özgün metin: Enver Hoxha, Letra të zgjedhura, c. 2 (Tiranë: 8 Nëntori, 1986), Gölcük Belediye
+  Başkanına mektup, 8 Eylül 1981, s. 375–376 (cümle s. 375'te); portre 'Rozafa' topluluğu aracılığıyla
+  gelmiştir. Kontrolde düzeltildi: Derleyici bunu, Atatürk'ten söz etmeyen, Pakistanlı bir adaşı olan Mustafa
+  Kemal Paşa'ya yazılmış 30 Nisan 1973 tarihli bir mektuba eklemişti. Pasaj onun demokratik düşüncesini,
+  'progress and modernization' (ilerleme ve modernleşme) anlayışını, gençliğe güvenini ve Arnavutlara karşı
   iyi niyetini över.
 verification_note: >-
   YANLIŞ MEKTUP. Arnavutça cümle birebir aynıdır ('Mustafa Kemal Ataturku ka qene nje udhe-heqes i madh
@@ -42,8 +41,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e81e77196f81
   role: 22fc20a7166c
-  quote: 4af6478c0c4b
+  quote: fddcdca3ecd9
   summary: e109e54e16dd
-  caveat: 5b1947448459
+  caveat: 2a29adc7274f
   verification_note: 62c2dfa6285c
   verification_method: 16bd9b1db307

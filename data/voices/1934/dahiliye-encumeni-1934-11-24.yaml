@@ -21,6 +21,11 @@ quote:
     Türk ulusuna tam istiklâlini kazandıran ve ulusa gerçek tarihinin ve öz dilinin yolunu gösteren Ulu Cumhur
     Reisimize (Atatürk) soy adının verilmesi çok yerinde görülmüş
   language: tr
+  translation: >-
+    it was considered most fitting that the surname (Atatürk) be given to our Great President, who won the
+    Turkish nation its full independence and showed the nation the way to its true history and its own
+    language
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Committee text on the bill by İsmet İnönü and colleagues; the bill itself names 'Kemal Öz adlı Cumhur
   reisimize'. Committee identified from the Reis's referral line ('Dahiliye encümenine havale ediyoruz').

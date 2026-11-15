@@ -133,8 +133,21 @@
           "examples": ["en", "tr", "fr", "ota"]
         },
         "translation": {
-          "description": "An English translation, when text is not in English.\n\nTR: Metin İngilizce değilse İngilizce çevirisi.",
-          "type": "string"
+          "description": "An English translation, when text is not in English. Say who made it in translated_by.\n\nTR: Metin İngilizce değilse İngilizce çevirisi. Kimin yaptığını translated_by alanına yazın.",
+          "type": "string",
+          "minLength": 1
+        },
+        "translated_by": {
+          "description": "Who made the English translation: source (the source's own English), machine: <model> (a machine translation), or the name or GitHub handle of the person who translated it.\n\nTR: İngilizce çeviriyi kimin yaptığı: source (kaynağın kendi İngilizcesi), machine: <model> (makine çevirisi) ya da çeviren kişinin adı veya GitHub kullanıcı adı.",
+          "type": "string",
+          "minLength": 1,
+          "examples": ["source", "machine: claude-fable-5-2", "mrCabez"]
+        },
+        "reviewed_by": {
+          "description": "Names or GitHub handles of the people who have read the English translation against the original.\n\nTR: İngilizce çeviriyi özgün metinle karşılaştırarak okuyanların adları ya da GitHub kullanıcı adları.",
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
         },
         "note": {
           "description": "Editorial note about the passage.\n\nTR: Pasaj hakkında editoryal not.",

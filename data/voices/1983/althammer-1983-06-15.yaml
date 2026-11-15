@@ -22,10 +22,11 @@ quote:
     Das Militär in der Türkei hat eine jahrzehntealte Verpflichtung an die Grundsätze Atatürks, der dieses
     Land aus einer veralteten Struktur herausgeführt und sich bemüht hat, durch seine Grundsätze die Türkei
     einer modernen westlichen Entwicklung zu öffnen.
+  language: de
   translation: >-
     The military in Turkey has a decades-old commitment to the principles of Atatürk, who led this country out
     of an outdated structure and tried through his principles to open Turkey to a modern Western development.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Used to defend the post-1980 Turkish military

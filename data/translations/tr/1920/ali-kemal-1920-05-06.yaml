@@ -12,16 +12,14 @@ summary: >-
   Kemal'i ikiyüzlülük kisvesine bürünen, haça karşı hilal cihadı ilan etmiş olan ve saf müminleri aldatan
   sahte bir taraftar olarak nitelendirir.
 caveat: >-
-  Fevzi Çakmak'ın (mareşal değil, tarihçi) 'Peyam-ı Sabah, 6 Mayıs 1920' künyeli 15. dipnota atıfla aktardığı
-  Türkçe özgün metin: 'Milli Mücadele Dönemi Türk Mizahında Muhalif Bir Kimlik: Ali Kemal', Tarih İncelemeleri
-  Dergisi 34/2 (2019), 413-441, DOI 10.18513/egetid.661569. Arşiv çevirisi: 'a false partisan, who, wrapped in
-  the cloak of hypocrisy, has opened a crescent jihad against the cross, deceiving the simple-hearted of the
-  faithful'. Çakmak bu ifadeyi Havza'daki Kemal hakkında kurduğu kendi cümlesinin içine yerleştirir;
-  dolayısıyla bu, başyazının tam metni değil, ondan yapılmış bir alıntıdır. Aynı makale, Ali Kemal'in Ankara
-  mebuslarına 'küçük herifler' dediğini (23 Nisan 1920) ve Kemal'i İttihat ve Terakki çevresinin 'kanlı ve
-  zalim' mensupları arasında saydığını (7 Mayıs 1920) belirtir. Ali Kemal 6 Kasım 1922'de linç edilmiştir.
-  Kontrol: s. 415; ifade Peyam-ı Sabah dipnotuyla Çakmak'ın kendi cümlesinin içinde yer aldığından kırpılmış
-  veya sadeleştirilmiş olabilir; özgün metin görülmedi.
+  Fevzi Çakmak'ın (mareşal değil, tarihçi) 'Milli Mücadele Dönemi Türk Mizahında Muhalif Bir Kimlik: Ali
+  Kemal', Tarih İncelemeleri Dergisi 34/2 (2019), 413-441, DOI 10.18513/egetid.661569 başlıklı makalesinde
+  dipnot 15'te 'Peyam-ı Sabah, 6 Mayıs 1920' kaynağını göstererek aktardığı Türkçe özgün metin. Çakmak bu
+  ifadeyi Havza'daki Kemal hakkındaki kendi cümlesinin içine yerleştirir; dolayısıyla bu, başyazının tam metni
+  değil, ondan bir alıntıdır. Aynı makale, Ali Kemal'in Ankara mebuslarına 'küçük adamlar' dediğini (23 Nisan
+  1920) ve Kemal'i İttihat ve Terakki çevresinin 'kanlı ve zalim' mensupları arasında saydığını (7 Mayıs 1920)
+  belirtir. Ali Kemal 6 Kasım 1922'de linç edildi. Kontrol: s. 415; ifade, Peyam-ı Sabah dipnotuyla Çakmak'ın
+  kendi cümlesinin içinde yer aldığından kırpılmış veya dili sadeleştirilmiş olabilir; özgün nüsha görülmedi.
 mediated_by: Çakmak 2019, s. 416 ← Peyam-ı Sabah, 6 Mayıs 1920
 verification_note: >-
   İfade Çakmak'ın metninde birebir mevcut, ancak s. 416'da değil s. 415'te (sayfa başında 415 üst numarası yer
@@ -37,9 +35,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fe66a69d344c
   role: 327876571c10
-  quote: 2125f5c1666e
+  quote: a4283fe8f073
   summary: ef14463aa72b
-  caveat: 4128649e17c0
+  caveat: 123c099571dc
   mediated_by: 31e5eb495618
   verification_note: 7f59b76b9645
   verification_method: cea48849d01b

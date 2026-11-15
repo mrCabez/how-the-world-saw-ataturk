@@ -18,6 +18,10 @@ summary: >-
 quote:
   text: 但在凯末尔实行革命后，一切均有改革进步。人民禁用包头巾，违者拘禁，可见其政令之严
   language: zh
+  translation: >-
+    But since Kemal carried out his revolution, everything has been reformed and has progressed. The people
+    are forbidden to wear head-wraps, and offenders are detained, which shows how strict his decrees are
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Memoir written long after (page year 1974); visit placed after the 12 Dec 1936 Xi'an Incident from the
   memoir's own order.

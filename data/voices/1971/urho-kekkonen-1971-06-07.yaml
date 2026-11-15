@@ -26,6 +26,7 @@ quote:
     ja johtamaan heidät lopulliseen voittoon. Me suomalaiset, jotka olemme läpikäyneet historiassamme monia
     kohtalokkaita vaiheita, pystymme antamaan täyden tunnustuksen miehelle, joka ei epäröinyt eikä pelännyt ja
     joka elämänsä päättymiseen saakka uskoi isänmaansa tulevaisuuteen.
+  language: fi
   translation: >-
     Both the present Republic of Turkey and the Republic of Finland were born in connection with the First
     World War. Among the greatest statesmen of this century was Kemal Atatürk, on whose grave I had the honour
@@ -33,7 +34,7 @@ quote:
     this city of Ankara and lead them to final victory. We Finns, who have been through many fateful phases in
     our history, can give full recognition to a man who neither hesitated nor feared and who, until the end of
     his life, believed in the future of his fatherland.
-  language: fi
+  translated_by: "machine: research agent"
 caveat: >-
   Finnish text from the President's office typescript (Urho Kekkonen archive, UKK926522 XIX) digitised by the
   National Library of Finland (Doria, handle 10024/7433); read via the Wayback Machine copy because doria.fi

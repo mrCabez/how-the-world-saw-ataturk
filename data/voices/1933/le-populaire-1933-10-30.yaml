@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: L'anniversaire de la République kemaliste
   language: fr
+  translation: The anniversary of the Kemalist Republic
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Fragment-level, page 3. The 'par les ordres de l'autorité' sentence is a separate fragment, probably the
   same dispatch but not confirmed; no explicit view of Kemal.

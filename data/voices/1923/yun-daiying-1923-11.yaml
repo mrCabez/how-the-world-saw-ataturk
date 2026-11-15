@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: 中國亦需要一個凱末爾將軍，亦需要一個凱末爾將軍的軍隊啊
   language: zh
+  translation: China too needs a General Kemal, and needs a General Kemal's army too!
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Wikisource inserts spaces before proper names ('一個 凱末爾將軍'); quote is space-normalised. Dongfang zazhi vol.
   20 no. 22.

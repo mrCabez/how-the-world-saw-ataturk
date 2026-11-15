@@ -10,15 +10,14 @@ summary: >-
   Sakarya'yı Atatürk'ün mucizesi, Mustafa Kemal'i ise örnek kahraman olarak nitelendirir; ancak Arapların
   çekincesini Atatürk'ün dine karşı tavrıyla açıklar.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 43 (basılı s. 32). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe basılmıştır. Çeviri: "Sakarya Savaşı, Sakarya Zaferi, yirmi yaşımın en güçlü hatırası oldu."
-  Aynı konuşmada: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF s. 48, 'Kemalist devriminiz bizim
-  için maya oldu') denir ve PDF s. 44'te Arapların tereddüdü 'bu liderin din ve din müessesesine karşı
-  takındığı tavırlar'a (bu liderin dine ve din kurumlarına karşı aldığı tavırlar) dayandırılır; Bourguiba ise
-  bu 'çok radikal yargılar'a katılmaz. Başlık: 'Tunus Cumhurbaşkanı Habib Burgiba', 25 Mart 1965. Mevcut kişi
-  notu onun daha sonraki Kemalist programını kapsamaktadır. Kontrol edenin notu: Bourguiba, Atatürk ve din
-  konusundaki 'radikal yargılar'la arasına mesafe koyar; eleştirel bölüm kendi hükmünü belirtmekten ziyade
-  Arapların çekincesini açıklamaktadır.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 43 (basılı s. 32). Konuşma TBMM tutanaklarındaki gibi Türkçe
+  basılmıştır. Aynı konuşma: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF s. 48, 'your Kemalist
+  revolution became leaven for us') ve PDF s. 44'te Arap tereddüdü 'bu liderin din ve din müessesesine karşı
+  takındığı tavırlar'a (this leader's stance toward religion and religious institutions) bağlanmakta olup,
+  Bourguiba 'çok radikal hükümler'e katılmamaktadır. Başlık: 'Tunus Cumhurbaşkanı Habib Burgiba', 25 Mart
+  1965. Mevcut kişi notu daha sonraki Kemalist programını kapsamaktadır. Kontrol edenin notu: Bourguiba,
+  Atatürk ve din hakkındaki 'radikal hükümler'le arasına mesafe koyar; eleştirel pasaj kendi hükmünü
+  belirtmekten ziyade Arap çekincesini açıklamaktadır.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Tunus Cumhurbaşkanı Habib
@@ -37,9 +36,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 11bf5bc01517
   role: 400c24018892
-  quote: 4ae9150238bb
+  quote: 106d1df630d4
   summary: c2b5532700e9
-  caveat: 52fc46c184e9
+  caveat: 0b3accee6ee8
   mediated_by: 8e2cc528453b
   verification_note: 54b045c6f3b2
   verification_method: 97f21f95d4dd

@@ -19,8 +19,11 @@ quote:
   text: >-
     Atatürk'ün cenaze töreni, onun son zaferi oldu. … Tabutunun önünde Faşistler, Demokratlar ve Komünistler
     eğildiler.
-  is_translation: true
   language: tr
+  translation: >-
+    Atatürk's funeral was his last victory. … Before his coffin Fascists, Democrats and Communists bowed.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: >-
   Orhan Koloğlu, Mazlum Milletler Devrimleri ve Türk Devrimi (Kaynak, 2004), p. 81, as quoted in Boran 2011
   (thesis, ch. on the funeral, n. 250)

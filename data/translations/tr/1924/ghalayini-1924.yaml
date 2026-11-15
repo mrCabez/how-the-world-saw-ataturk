@@ -10,14 +10,13 @@ summary: >-
   Dağılmış bir milleti bir araya getirip zincirlerini kıran bir komutan olarak Mustafa Kemal ve arkadaşlarını
   Arapların yoksun olduğu örnek diye gösterir.
 caveat: >-
-  YALNIZCA ÇEVİRİ ve çevirinin çevirisi: alıntılanan dize, al-Ghalayini'nin Arapça metninin Ali Benli
-  tarafından yapılan Türkçe çevirisidir (darulfunun ilahiyat 32/1, 2021, s. 29; Divan dipnot 74, s. 83);
-  Arapça beyte ulaşılamamıştır. Çevirisi: 'O Arabs! Is there not among you a Mustafa Kemal to kindle the fire
-  of struggle?' Fransızlar tarafından hapsedilmesinden sonra yazılan şiir, Dîvânu'l-Galâyînî (Haifa:
-  al-Matba'a al-'Abbasiyya, 1924/1925; Benli her iki yılı da verir), s. 80-83'te yer alır. 1924 tarihi
-  Divan'ın olası en geç tarihidir, dolayısıyla şiir en geç o tarihte yazılmıştır; kesin yıl tespit
-  edilememiştir. Kontrol: dize Arapça özgün metin değil, Benli'nin Türkçe çevirisidir; 1924 bir üst sınırdır;
-  'after his imprisonment' bağlamı Benli'de yer almaz.
+  YALNIZCA ÇEVİRİ ve çevirinin çevirisi: alıntılanan dize, el-Galâyînî'nin Arapça metninin Ali Benli
+  tarafından yapılan Türkçe çevirisidir (darulfunun ilahiyat 32/1, 2021, s. 29; Divan not 74, s. 83); Arapça
+  dizeye ulaşılamamıştır. Şiir, Fransızlar tarafından hapsedilmesinden sonra yazılmış olup
+  Dîvânu'l-Galâyînî'de (Hayfa: al-Matba'a al-'Abbasiyya, 1924/1925; Benli her iki yılı da verir), s. 80-83'te
+  yer alır. 1924 tarihi Divan'ın olası en geç tarihidir, dolayısıyla şiir en geç o tarihe kadar yazılmıştır;
+  kesin yılı tespit edilememiştir. Kontrol: dize Arapça aslı değil, Benli'nin Türkçe çevirisidir; 1924 bir üst
+  sınırdır; "hapsedilmesinden sonra" bağlamı Benli'de yer almaz.
 verification_note: >-
   Türkçe 'Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?' dizesi makalenin s.
   29'unda (28 ve 29. yapraklar arasında) Benli'nin çevirisi olarak birebir yer almaktadır; Arapçasına
@@ -33,8 +32,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b10ed3c7b169
   role: 10922fc2fc56
-  quote: 167da22ddabd
+  quote: 14563eb1d7b0
   summary: 9b2dd655aedf
-  caveat: a764fe2c1785
+  caveat: e0f315d34e40
   verification_note: 9ef0875d23ce
   verification_method: cea48849d01b

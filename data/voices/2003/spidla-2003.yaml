@@ -19,8 +19,12 @@ quote:
   text: >-
     80 sene önce, Türkiye Cumhuriyetini kendi liderliğinde Türk halkıyla birlikte kuran Kemal Atatürk'ün
     anısının önünde saygıyla eğiliyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    I bow with respect before the memory of Kemal Atatürk, who 80 years ago, together with the Turkish people
+    and under his own leadership, founded the Republic of Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 caveat: >-
   Handwritten in Czech (not transcribed); the quote is the compilation's Turkish ('I bow with respect before
   the memory of Kemal Atatürk, who 80 years ago founded the Republic of Turkey together with the Turkish

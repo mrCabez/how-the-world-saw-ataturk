@@ -19,10 +19,11 @@ quote:
   text: >-
     Der Dauerkonflikt mit der kurdischen Minderheit ist der deutlichste Ausdruck für einen der schwersten
     Geburtsfehler der modernen Türkei: das kemalistische Dogma, die Fiktion von einer Nation in einem Staat.
+  language: de
   translation: >-
     The permanent conflict with the Kurdish minority is the clearest expression of one of the gravest birth
     defects of modern Turkey: the Kemalist dogma, the fiction of one nation in one state.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Sensitive thread (Kurdish question): the vault

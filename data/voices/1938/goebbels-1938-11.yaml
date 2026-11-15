@@ -18,13 +18,14 @@ summary: >-
 quote:
   text: Er ist gut zu uns eingestellt, was man von Kemal Pascha nicht immer sagen konnte.
   language: de
+  translation: He is well disposed toward us, which could not always be said of Kemal Pasha.
+  translated_by: "machine: research agent"
 caveat: >-
   Search-inside snippet of Die Tagebücher von Joseph Goebbels: sämtliche Fragmente (archive.org
   dietagebuchervon0003goeb; the snippet starts at 'gewählt.', i.e. 'elected'), so the entry date (about 11-12
-  Nov 1938, Inönü's election) is inferred and the page not seen. Translation: 'He is well disposed toward us,
-  which could not always be said of Kemal Pasha.' Same book, an earlier entry (12 June 1937): 'Über Kemal
-  Paschas abenteuerliches Leben weiter gelesen' (reading a biography of Kemal) — no judgement. The English
-  Goebbels Diaries 1942-43 have only an editor's note on Atatürk.
+  Nov 1938, Inönü's election) is inferred and the page not seen. Same book, an earlier entry (12 June 1937):
+  'Über Kemal Paschas abenteuerliches Leben weiter gelesen' (reading a biography of Kemal) — no judgement. The
+  English Goebbels Diaries 1942-43 have only an editor's note on Atatürk.
 node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
 sources:
   - url: https://archive.org/details/dietagebuchervon0003goeb

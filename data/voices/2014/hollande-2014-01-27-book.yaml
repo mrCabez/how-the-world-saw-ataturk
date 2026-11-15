@@ -18,8 +18,12 @@ quote:
   text: >-
     Büyük acılar sonrası modern Türkiye'yi kurmayı ve Fransa ile dostluğu tekrar canlandırmayı başaran devlet
     adamına
-  is_translation: true
   language: tr
+  translation: >-
+    To the statesman who, after great suffering, succeeded in founding modern Turkey and in reviving
+    friendship with France
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: AA, Hürriyet, Sözcü, Dünya and Sondakika, 27 Jan 2014 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English (French). The line is an address ('to the statesman who

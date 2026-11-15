@@ -12,11 +12,9 @@ summary: >-
   Türklerin çoğunluğu Müslüman olmasına rağmen Atatürk'ün cumhuriyeti kurduğunu ve onu demokratik ve laik
   ilkeler üzerine inşa ettiğini söyler.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 220 (basılı s. 209). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe olarak basılmıştır. Çevirisi: "The Republic of Turkey was founded by Atatürk, and by Atatürk
-  Turkey was built on democratic and secular principles." Katılım müzakereleri bağlamı: konuşma din ve AB
-  üyeliğine ilişkin soruları yanıtlamaktadır. Başlık: 'Avrupa Parlamentosu Başkanı Josep Borrell Fontelles', 3
-  Aralık 2004.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 220 (basılı s. 209). Konuşma, TBMM tutanaklarında olduğu gibi
+  Türkçe olarak basılmıştır. Katılım müzakereleri bağlamı: Konuşma, din ve AB üyeliğine ilişkin soruları
+  yanıtlamaktadır. Başlık: 'Avrupa Parlamentosu Başkanı Josep Borrell Fontelles', 3 Aralık 2004.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Parlamentosu Başkanı Josep
@@ -30,9 +28,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 048634843dd8
   role: fb56bd3298ae
-  quote: 4b4085edb775
+  quote: eb42bf46da2a
   summary: ef22930f476c
-  caveat: a343a27a81aa
+  caveat: 7381a8300384
   mediated_by: 8e2cc528453b
   verification_note: 24d3e1cae0a9
   verification_method: ff9574dad158

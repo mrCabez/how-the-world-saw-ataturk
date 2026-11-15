@@ -27,6 +27,7 @@ quote:
     kutladığımızı çok iyi hatırlıyorum. […] O'nun dinamizmi, yılmak ve yorulmak bizmezliği insanda büyük bir
     tesir yaratıyordu... O, Doğuda modern çağın yapıcılarından biridir. O'nun en büyük hayranları arasında
     bulunmakta devam ediyorum.
+  language: tr
   translation: >-
     Kemal Atatürk — or Kemal Pasha, as we knew him then — was my hero in the days of my youth. We were then
     deeply engaged in our own independence movement, and I, with many others, had begun my prison life. Even
@@ -35,8 +36,8 @@ quote:
     celebrated even in prison, when the news of the great victory over the Greeks in Anatolia reached us. […]
     His dynamism, his refusal to flag or tire, made a great impression... He is one of the builders of the
     modern age in the East. I remain among his greatest admirers.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
   of a message for the 25th anniversary of Atatürk's death

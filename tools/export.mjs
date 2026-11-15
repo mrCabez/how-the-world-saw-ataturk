@@ -44,6 +44,7 @@ const COLUMNS = {
   quote: (r) => r.quote?.text,
   quote_language: (r) => r.quote?.language,
   quote_translation: (r) => r.quote?.translation,
+  quote_translated_by: (r) => r.quote?.translated_by,
   mediated_by: (r) => r.mediated_by,
   caveat: (r) => r.caveat,
   source_url: (r) => r.sources?.find((s) => s?.url)?.url,

@@ -11,18 +11,16 @@ summary: >-
   İzmir'e Yunan çıkarmasından bu yana Mustafa Kemal'in artık bir birey değil, ayağa kalkan milletin simgesi
   olduğunu savunur.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'This work belongs not to one person but to a nation. Those who take Mustafa Kemal for
-  one person are mistaken.' Şöyle devam eder: 'Mustafa Kemal İzmir'e efzunlar çıktığı günden evvel bir fertti.
-  O günden beri artık bir fert değil bir timsaldir.' Aynı ifadeler ('Efzunlar' ve 'bir fertdi' imlasıyla),
-  anlaşıldığı kadarıyla Atatürk Araştırma Merkezi Dergisi'nden alınmış olan Kanbak (der.), Yahya Kemal
-  Beyatlı, s. 78-79'daki 'Atatürk - Yahya Kemal dostluğu' başlıklı yazıda da yer alır. ÇIKARSANAN TARİH: Eğil
-  Dağlar onun 1919-1922 yazılarını bir araya getirir; 'Eser', hareketin kendi simgesini Mayıs 1919
-  çıkarmasından sonraki 'within one year' zarfında yarattığından söz eder, dolayısıyla yakl. 1920-21'dir;
-  kesin gazete ve tarih tespit edilememiştir. 'Onun Sesi'nde Kemal'in bir konuşmasını şatafattan, benlik
-  iddiasından ve ihtirastan uzak diyerek över (Eğil Dağlar s. 35). Temaslar: 21 Aralık 1933'te Çankaya'da bir
-  barışma yemeği, daha sonraki sofra davetleri ve milletvekili seçilmesi (Kanbak s. 82-84); Afet İnan onun
-  Atatürk'ün sofrasında şiirler okuduğunu hatırlatır (Hatıralar ve Belgeler, s. 396). 1938 cenaze yazıları
-  bulunamamıştır.
+  Şöyle devam eder: 'Mustafa Kemal İzmir'e efzunlar çıktığı günden evvel bir fertti. O günden beri artık bir
+  fert değil bir timsaldir.' Kanbak (der.), Yahya Kemal Beyatlı, s. 78-79'daki 'Atatürk - Yahya Kemal
+  dostluğu' başlıklı yazıda da (anlaşıldığı kadarıyla Atatürk Araştırma Merkezi Dergisi'nden alınmış) aynı
+  ifadeler ('Efzunlar' ve 'bir fertdi' imlasıyla) yer alır. TARİH ÇIKARIM yoluyla belirlenmiştir: Eğil Dağlar
+  onun 1919-1922 yılları arasındaki yazılarını bir araya getirir; 'Eser', hareketin Mayıs 1919 çıkarmasından
+  itibaren 'bir yıl içinde' kendi timsalini yarattığından söz eder, dolayısıyla yakl. 1920-21; tam gazete ve
+  tarih tespit edilememiştir. 'Onun Sesi' başlıklı yazıda Kemal'in bir konuşmasını şatafattan, bencillikten ve
+  ihtirastan uzak olduğu için över (Eğil Dağlar s. 35). Temaslar: 21 Aralık 1933'te Çankaya'da bir barışma
+  yemeği, daha sonraki sofra davetleri ve milletvekili seçilmesi (Kanbak s. 82-84); Afet İnan onun Atatürk'ün
+  sofrasında şiirler okuduğunu hatırlatır (Hatıralar ve Belgeler, s. 396). 1938 cenaze yazıları bulunamadı.
 mediated_by: >-
   Enginün, Yeni Türk Edebiyatı: Tanzimat'tan Cumhuriyet'e 1839-1923 (Dergâh), s. 124-125 ← Eğil Dağlar (1966),
   s. 31-33, 'Eser' makalesi
@@ -43,9 +41,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9a82cf6e1c12
   role: 5eea621bf035
-  quote: b3d669cfafa4
+  quote: 030da36f9060
   summary: 68a161ba3028
-  caveat: 3312fc76e7fa
+  caveat: cf05beb1efaa
   mediated_by: cf9eedd1abef
   verification_note: bb12be1d6375
   verification_method: afa2d8ca95a4

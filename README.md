@@ -23,6 +23,7 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 | Present-day countries and territories (`country_now`) | 85, plus the European Union, the Council of Europe and UNESCO |
 | Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 205 records) |
 | Records with the speaker's own words (`quote`) | 857, in 31 languages |
+| Quotes not in English | 421, each with an English translation: 408 by machine, 9 by a contributor, 4 the source's own |
 | Records with a stored source check | 983 (all) |
 | Records with a Turkish translation file | 983 (all) |
 
@@ -63,23 +64,23 @@ The records are split into year folders because GitHub shows at most 1,000 files
 ## Method and principles
 
 - **Extract, never add.** Every field must be supported by the cited source. Nothing is filled in from memory or general knowledge.
-- **Quotes are verbatim, in the original language.** A French telegram is quoted in French, a Russian memoir in Russian. An English translation sits next to it in its own field.
+- **Quotes are verbatim, in the original language.** A French telegram is quoted in French, a Russian memoir in Russian. An English translation sits next to it in its own field, and the record says who made it: the source, a machine or a named person.
 - **Summaries are ours, and are marked as ours.** The `summary` field is a neutral paraphrase of at most 25 words. It is never presented as the speaker's words.
 - **Every record is re-checked by someone other than its author.** The checker re-opens the cited source and records what they found in the `verification` block of the same file: the verdict, whether the quote was found, what was read, and how.
 - **Admiring and hostile voices are both included.** A documented voice is recorded whatever its view. A hostile record states who said it, when, and in which source. It records the speaker's view, not the archive's.
 - **Doubts are written down.** Second-hand chains go in `mediated_by`, uncertainties in `caveat`. Records whose check failed stay in the data but are not shown in the exhibition.
-- **Turkish translations are machine-made and marked.** Each translation file says so in its first line and in `translated_by`. Corrections are welcome. Turkish originals are kept as they were printed.
+- **Machine translations are marked.** All the Turkish text and most English translations of quotes were made by machine. Each one says so in `translated_by`, and the exhibition says so under the quote. Corrections are welcome. Turkish originals are kept as they were printed.
 
 ## How to contribute
 
-You can suggest a voice, report an error, check a record against its source or fix a Turkish translation. None of these needs Git or YAML: each has a form.
+You can suggest a voice, report an error, check a record against its source or fix a translation. None of these needs Git or YAML: each has a form.
 
 - **Open an issue** with one of the forms: [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml), [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Or open a pull request** with a new or corrected file. This works in the browser.
 
 **Looking for somewhere to start?** None of these needs special access or software:
 
-- **Translate a quote into English.** About 300 quotes have no English translation yet; Turkish, French, Dutch, German, Chinese, Spanish and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Read an English translation against its original.** 408 quotes in 30 languages have an English translation made by machine that no reader of the language has checked; Turkish, French, German, Dutch, Chinese, Spanish, Arabic and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Read a Turkish translation against its English** and fix what sounds wrong. All the Turkish text was translated by machine ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Re-open a source and tell us what it says.** Every record needs a second reader, and the [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form takes a few minutes. Nine records cite a source we could not open at all ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - **Find a text we know exists but could not reach:** Jinnah's statement on Atatürk's death ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Hemingway's 1922 line in the Toronto Star ([#7](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/7)), Roncalli's diary ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze's Ankara diary ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). More leads of this kind are in [`research/candidates/`](research/candidates/) and under "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md).

@@ -69,6 +69,7 @@ sources:
 #   language:      # ISO 639-1 code / kodu: en, fr, de, tr, ar, ru …; "ota" = Ottoman Turkish in Arabic script / Arap harfli Osmanlıca
 #   translation: >- # English translation, if the text is not English / metin İngilizce değilse İngilizce çevirisi
 #     <English translation / İngilizce çeviri>
+#   translated_by: # who made the English / İngilizceyi kim yaptı: source (the source's own / kaynağın kendi çevirisi), "machine: <model>", or your name / ya da adınız
 #   note: ""       # editorial note on the passage / pasajla ilgili editoryal not
 #   is_translation: false # true only if the text is itself a translation and the original is not available / yalnızca metnin kendisi bir çeviriyse ve aslına ulaşılamıyorsa true
 

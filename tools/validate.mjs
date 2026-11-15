@@ -299,6 +299,17 @@ for (const e of records) {
       report(e, 'error', 'quote.text contains a translation; move the English into quote.translation (or set quote.needs_split: true)', ['quote', 'text']);
     }
   }
+  // an English translation always says who made it, and an English text has none
+  if (isObject(q)) {
+    if (q.translation != null && q.language === 'en') {
+      report(e, 'error', 'quote.language is en, so quote.translation is not needed; remove it (if the text is itself a translation, set quote.is_translation: true)', ['quote', 'translation']);
+    } else if (q.translation != null && q.translated_by == null) {
+      report(e, 'error', 'quote.translation needs quote.translated_by: source (the source\'s own English), "machine: <model>", or your name or GitHub handle', ['quote', 'translation']);
+    }
+    for (const k of ['translated_by', 'reviewed_by']) {
+      if (q[k] != null && q.translation == null) report(e, 'error', `quote.${k} is set but there is no quote.translation`, ['quote', k]);
+    }
+  }
 
   // same voice on the same date: often one statement entered twice
   if (typeof d.voice === 'string' && d.date != null) {

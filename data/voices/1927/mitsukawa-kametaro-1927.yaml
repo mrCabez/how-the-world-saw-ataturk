@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: ケマル・パシヤはトルコの愛國者であります。それ故彼の行つたトルコ革命は徹頭徹尾愛國の精神が流れて居ります。
   language: ja
+  translation: >-
+    Kemal Pasha is a patriot of Turkey. That is why the Turkish revolution he carried out is pervaded from
+    beginning to end by the spirit of patriotism.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Sekai ishin ni menseru Nihon (1927), printed p. 32, NDL image 26 (page image read; the scan's spread order
   is reversed). The 'three great revolutionaries' phrase is reported as what people call him ('稱せられて居ります'),

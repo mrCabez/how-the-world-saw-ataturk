@@ -21,12 +21,15 @@ quote:
     Bu ilham membaını Türkiye ve Pakistan’ın büyük şahsiyetleri olan Atatürk ve Mehmet Ali Cinnah’a karşı
     duyduğumuz derin hayranlık teşkil etmektedir.
   language: tr
+  translation: >-
+    The source of this inspiration is the deep admiration we feel for Atatürk and Muhammad Ali Jinnah, the
+    great figures of Turkey and Pakistan.
+  translated_by: "machine: research agent"
 mediated_by: TBMM minutes (Turkish interpretation)
 caveat: >-
   TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 18 (printed p. 7). Speech printed in Turkish as in the TBMM
-  minutes. Translation: "The source of this inspiration is the deep admiration we feel for Atatürk and
-  Muhammad Ali Jinnah, the great figures of Turkey and Pakistan." Book heading: 'Pakistan Parlamento Heyeti
-  Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. Spelling of the name follows the book.
+  minutes. Book heading: 'Pakistan Parlamento Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. Spelling of
+  the name follows the book.
 node: Foreign Statesmen Address the Assembly, 1956–2010
 sources:
   - url: https://acikerisim.tbmm.gov.tr/handle/11543/122

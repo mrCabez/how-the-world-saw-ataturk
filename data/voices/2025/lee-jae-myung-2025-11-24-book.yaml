@@ -18,8 +18,12 @@ summary: >-
 quote:
   text: >-
     Atatürk'ü anarak, kan bağıyla bağlı kardeş uluslarımızın ortak refahı için birlikte ilerleyeceğiz.
-  is_translation: true
   language: tr
+  translation: >-
+    Remembering Atatürk, we will advance together for the common prosperity of our brother nations, bound by
+    ties of blood.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: AA, Hürriyet, Odatv and Haberler, 24 Nov 2025 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering (AA) of a Korean entry; the original is not located. AA, Hürriyet, Odatv, Haberler, Nefes

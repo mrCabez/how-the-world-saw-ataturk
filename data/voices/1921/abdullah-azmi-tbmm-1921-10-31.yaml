@@ -19,6 +19,9 @@ summary: >-
 quote:
   text: Paşa Hazretleri bu davayı milli için kendisi, herhalde, fedayı nefisle ortaya atıldı.
   language: tr
+  translation: >-
+    His Excellency the Pasha himself, surely, came forward for this national cause ready to sacrifice his life.
+  translated_by: "machine: claude-fable-5-2"
 caveat: Printed p. 479.
 node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
 sources:

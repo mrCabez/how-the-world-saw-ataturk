@@ -34,6 +34,9 @@ const trOf = (g) => TRV.get(g.id) ?? {};
 // links into the archive on GitHub: every record can be corrected there, and missing voices suggested
 const REPO = 'https://github.com/okanerturan/how-the-world-saw-ataturk';
 const editUrl = (path) => `${REPO}/edit/main/${path}`;
+// an issue form with the record already filled in: a correction, a source check or a better translation, without Git
+const FORM_TITLE = { correction: 'Correction / Düzeltme', 'check-record': 'Check / Doğrulama', translation: 'Translation / Çeviri' };
+const formUrl = (form, g, what = '') => `${REPO}/issues/new?template=${form}.yml&record=${encodeURIComponent(g.id)}&title=${encodeURIComponent(`${FORM_TITLE[form]}: ${g.id}${what}`)}`;
 const langName = (code) => { try { return new Intl.DisplayNames([LANG], { type: 'language' }).of(code === 'ota' ? 'tr' : code); } catch { return code; } };
 const voiceName = (g) => nameOf.get(g.id) ?? (trOf(g).voice ?? g.voice).replace(/\s*\(.*\)$/, '');
 const roleOf = (g) => trOf(g).role ?? g.role;
@@ -450,6 +453,12 @@ function sheet(ei) {
   const showOrig = orig && orig !== q && (!TR || tr.quote_kind === 'translated' || tr.quote == null);
   // a text that is itself a rendering (a Turkish paper's version of a foreign speaker) is 'as printed', not the original
   const origLabel = [tx(g.quote_is_translation ? 'as_printed' : 'original'), g.quote_lang && langName(g.quote_lang)].filter(Boolean).join(' · ');
+  // who made the English shown as their words, when it is the archive's translation of another language
+  const by = g.quote_translated_by ?? '', readers = g.quote_reviewed_by ?? [];
+  const enShown = q && g.quote_lang !== 'en' && g.quote_translation && q === restoreName(g.quote_translation);
+  const enBy = !enShown ? '' : by.startsWith('machine') ? tx('en_machine') : by === 'source' ? tx('en_source') : by ? tx('en_by', { x: by }) : '';
+  const enNote = [enBy, readers.length ? tx('en_checked', { x: readers.join(', ') }) : ''].filter(Boolean).join(' ');
+  const enFix = enShown && by.startsWith('machine') && !readers.length;
   const also = byVoice.get(g.voice).filter((i) => i !== ei);
   const cd = g.check_detail ?? {};
   const art = g.artifact ? tx(`art_${g.artifact}`) : '';
@@ -463,6 +472,7 @@ function sheet(ei) {
     ${showOrig ? `<p class="orig"><span class="sc">${esc(origLabel)}</span> “${esc(orig)}”</p>` : ''}
     ${g.quote_is_translation ? `<p class="mt">${esc(tx('only_translation'))}</p>` : ''}
     ${TR && tr.quote_kind === 'translated' ? `<p class="mt">${esc(tx('translated_note'))}</p>` : ''}
+    ${enNote ? `<p class="mt">${esc(enNote)}${enFix ? ` <a href="${esc(formUrl('translation', g, ' (English)'))}" target="_blank" rel="noopener">${esc(tx('fix_english'))}</a>` : ''}</p>` : ''}
     <p class="saw"><span class="sc">${esc(tx('summary_label'))}</span> ${esc(sawOf(g))}</p>
     ${(notesOf.get(g.id) ?? []).map((x) => `<p class="note"><span class="sc">${esc(x.route.title)}</span> ${esc(x.note)}</p>`).join('')}
     <dl>
@@ -483,8 +493,10 @@ function sheet(ei) {
     <ol class="src">${g.sources.map((x) => `<li>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${x.label ? `${esc(x.label)}<br>` : ''}<span>${esc(x.url)}</span></a>` : esc(x.label ?? '')}${x.page ? ` · ${esc(x.page)}` : ''}${x.archived ? ` <a class="arch" href="${esc(x.archived)}" target="_blank" rel="noopener">${esc(tx('archived_copy'))}</a>` : ''}</li>`).join('') || `<li>${esc(tx('none_recorded'))}</li>`}</ol>
     <div class="edit">
       <a href="#" class="share">${esc(tx('share_voice'))}</a>
+      <a href="${esc(formUrl('correction', g))}" target="_blank" rel="noopener">${esc(tx('report_form'))}</a>
+      <a href="${esc(formUrl('check-record', g))}" target="_blank" rel="noopener">${esc(tx('check_form'))}</a>
+      ${TR && tr.path ? `<a href="${esc(formUrl('translation', g, ' (Türkçe)'))}" target="_blank" rel="noopener">${esc(tx('edit_translation'))}</a>` : ''}
       <a href="${esc(editUrl(g.path))}" target="_blank" rel="noopener">${esc(tx('edit_record'))}</a>
-      ${TR && tr.path ? `<a href="${esc(editUrl(tr.path))}" target="_blank" rel="noopener">${esc(tx('edit_translation'))}</a>` : ''}
       <span>${esc(tx('edit_hint', { x: g.id }))}</span>
     </div>`;
   el.querySelector('.x').onclick = () => { sheet(null); relayout(); };

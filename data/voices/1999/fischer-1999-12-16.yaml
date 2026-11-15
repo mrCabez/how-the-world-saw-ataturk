@@ -21,10 +21,11 @@ quote:
     daß Atatürk das türkische Staatswesen auf eine europäische Orientierung gegründet hat. Wenn dieses Europa
     jetzt im Werden Nein sagt, kollabiert im Grunde genommen die gesamte innere Staatsidee der Türkei, die
     sich nach Europa orientiert
+  language: de
   translation: >-
     that Atatürk founded the Turkish state on a European orientation. If this Europe now in the making says
     No, the whole inner state idea of Turkey, which is oriented towards Europe, basically collapses
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Statement to the Bundestag on the Helsinki

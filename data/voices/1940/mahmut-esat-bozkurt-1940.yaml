@@ -21,14 +21,16 @@ quote:
     Bu Türk oğlu, bu sade vatandaş, yarınki hür ve müstakil Türk milletinin, Türk ulusunun kurtarıcısı
     olacaktı. Ve oldu.
   language: tr
+  translation: >-
+    This son of the Turks, this plain citizen, was to become the saviour of the free and independent Turkish
+    nation of tomorrow. And so he did.
+  translated_by: "machine: research agent"
 caveat: >-
-  TRANSLATION (this record's): 'This son of the Turks, this plain citizen, was to become the saviour of the
-  free and independent Turkish nation of tomorrow. And so he did.' Atatürk İhtilali, I (İstanbul Üniversitesi
-  Yayınları, İnkılâp Enstitüsü lectures; İstanbul: Burhaneddin Matbaası, 1940), p. 129 (archive.org OCR). The
-  same page begins 'Atatürk büyük ferağet sahibi idi' and adds first-hand: 'Atatürkten bir çok defalar
-  işittim', quoting Kemal on feeling himself the strongest man once he became a plain citizen. The vault
-  note's 'realities of life, not revelations from the sky' (Civil Code) is not about Kemal and was not
-  checked.
+  Atatürk İhtilali, I (İstanbul Üniversitesi Yayınları, İnkılâp Enstitüsü lectures; İstanbul: Burhaneddin
+  Matbaası, 1940), p. 129 (archive.org OCR). The same page begins 'Atatürk büyük ferağet sahibi idi' and adds
+  first-hand: 'Atatürkten bir çok defalar işittim', quoting Kemal on feeling himself the strongest man once he
+  became a plain citizen. The vault note's 'realities of life, not revelations from the sky' (Civil Code) is
+  not about Kemal and was not checked.
 node: Turkish Writers and Contemporaries on Kemal — Round 33
 sources:
   - url: https://archive.org/details/ataturk-ihtilali

@@ -17,8 +17,10 @@ summary: >-
   UK-Turkey alliance.
 quote:
   text: Modern Türkiye'nin babası Mustafa Kemal Atatürk'e saygılarımı sunmak bir onurdur.
-  is_translation: true
   language: tr
+  translation: It is an honour to pay my respects to Mustafa Kemal Atatürk, the father of modern Turkey.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: AA via Akşam and Haberler, 27 Oct 2025 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an English entry; Akşam and Haberler (both AA) print it with 'babası'; another

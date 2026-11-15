@@ -144,6 +144,7 @@ body[data-mode="read"] #faces, body.unwound #faces { opacity: 0.3; }
 .rooms a { display: inline-block; margin-top: 3px; }
 #sheet .orig .sc { font-style: normal; font-size: 12.5px; margin-right: 4px; }
 #sheet .mt { margin: 6px 0 0; font-size: 13.5px; color: var(--mute); }
+#sheet .mt a { color: var(--red); white-space: nowrap; }
 #sheet .verdict { margin: 6px 0 0; font-weight: 500; }
 #sheet .verdict::before { content: '✓ '; color: var(--red); }
 #sheet .verdict.v-unreachable::before, #sheet .verdict.v-secondary-only::before { content: '◦ '; color: var(--mute); }

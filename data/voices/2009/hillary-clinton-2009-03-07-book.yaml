@@ -19,8 +19,12 @@ quote:
   text: >-
     Bu büyük ülkenin kurucusuna saygımızı ve Amerikan halkının dostluğunu göstermek için ülkem adına burayı
     bir kez daha ziyaret etmekten onur duyuyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    I am honoured to visit this place once again on behalf of my country, to show our respect for the founder
+    of this great country and the friendship of the American people.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Habertürk, T24 and NTV, Mar 2009 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English; Habertürk, T24 and NTV print the same wording. Atatürk is

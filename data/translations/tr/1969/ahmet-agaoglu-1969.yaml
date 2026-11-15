@@ -12,16 +12,13 @@ summary: >-
   1930'da Yalova'daki sofrasında Gazi'ye önceden kurgulanmış bir muhalefet partisinin fazla suni olduğunu
   söylediğini hatırlatır; Kemal önce sinirlenmiş, sonra gülmüştür.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'I did not depart this time either from the honesty and frankness that I had always
-  held, towards the Gazi, to be a debt of honour and a duty to the Fatherland and Turkishness. I said: "This
-  is a bit too artificial!"' Olay: Yalova, Ağustos 1930, Fethi'nin ve Kemal'in mektuplarının okunmasının
-  ardından. TARİH: Soyak hatıratı 'kısmen neşredilen' olarak nitelendirir; ilk basım yılı olan 1969 kademe
-  M'dir (doğrulanmamıştır); Ağaoğlu 1939'da öldüğünden 1930-39 yılları arasında yazılmıştır. Fethi
-  aracılığıyla Kemal'in 'biraz hürriyet havası' istediğini ancak Cumhuriyet Halk Fırkası'nın bir kanadı olacak
-  bir parti arzuladığını aktarır. Soyak Kemal'e sadık bir isimdir ve kendi notlarını ekler. archive.org OCR
-  metninden okunmuştur; tırnak işaretleri standartlaştırılmış ve satır sonu bölünmesi 'suni- dir'
-  birleştirilmiştir. Kontrol: 1969 tarihli bir Baha Matbaası baskısına atıf yapılmaktadır, ancak tarihsiz bir
-  Nebioğlu baskısı da mevcuttur; 1969 ilk basım olmayabilir.
+  Olay: Yalova, Ağustos 1930, Fethi'nin ve Kemal'in mektupları okunduktan sonra. TARİH: Soyak anıları 'kısmen
+  neşredilen' olarak adlandırır; ilk baskı yılı olan 1969 M kademesindedir (doğrulanmamıştır); Ağaoğlu 1939'da
+  öldüğünden metin 1930-39 yılları arasında yazılmıştır. Fethi aracılığıyla, Kemal'in 'biraz hürriyet havası'
+  istediğini ancak CHP'nin bir kanadı olacak bir parti arzuladığını aktarır. Soyak, Kemal'e sadık biridir ve
+  kendi notlarını ekler. archive.org OCR metninden okunmuştur; tırnak işaretleri standartlaştırılmış ve satır
+  sonu bölünmesi olan 'suni- dir' birleştirilmiştir. Kontrol: 1969 Baha Matbaası baskısı kaynak
+  gösterilmektedir, ancak tarihsiz bir Nebioğlu baskısı da mevcuttur; 1969 ilk baskı olmayabilir.
 mediated_by: >-
   Soyak, Atatürk'ten Hatıralar (1973), c. 2, s. 416-417 ← Ağaoğlu, Serbest Fırka Hatıraları, s. 4, 10
 verification_note: >-
@@ -42,9 +39,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fa0921cbed15
   role: e6e8d6a30ed5
-  quote: 9c617ae31d59
+  quote: 42a301613877
   summary: b8937349f59a
-  caveat: 92ead28ffe7e
+  caveat: bddb9e32d6f6
   mediated_by: d9aa8a9ff354
   verification_note: 5bcbbf74b85e
   verification_method: 5f68203ee016

@@ -10,15 +10,14 @@ summary: >-
   'Yeni Atlantis' şiirini Kemal Atatürk'e ithaf eder: çölden yeniden doğan Ankara, çekiç ve balyozla dövülmüş
   hayata dönüşen efsane.
 caveat: >-
-  ÇEVİRİ (bu kayda ait): 'The legend becomes life (long live life!), life forged with hammer and sledge!'
-  'Nova Atlantida' şiiri, ithaf 'На Кемал Ататюрк'. TARİH TESPİT EDİLEMEDİ: bulunan tek tarihli baskı
-  chitanka.info tarafından verildiği şekliyle Amazonka. Izbrana lirika v dva toma (Balgarski pisatel, Sofia,
-  1973) baskısıdır; Atatürk soyadı (1934'te alındı) ve geniş/şimdiki zaman kullanımı ('two piercing eyes do
-  not sleep') 1934-1938 yıllarında yazıldığını düşündürmektedir, ancak bu yalnızca bir çıkarımdır (kademe M).
-  Daha erken bir baskı bulunursa çağdaş döneme yeniden tarihlendirilmelidir. Hüseyin Mevsim'in Türkçe çevirisi
-  'Dünya Şairlerinden Atatürk Şiirleri' (sayı 37) içindedir. Kontrol sırasında tarihlendirildi: şiir Сърце
-  човешко (1932, 1936 baskıları; bagryana.litclub.bg) kitabındadır; 1973 yalnızca okunan seçme şiirler
-  baskısıdır.
+  'Nova Atlantida' şiiri, ithaf 'На Кемал Ататюрк'. TARİHİ TESPİT EDİLEMEMİŞTİR: Bulunan tek tarihli baskı
+  chitanka.info tarafından verildiği şekliyle Amazonka. Izbrana lirika v dva toma'dır (Balgarski pisatel,
+  Sofya, 1973); Atatürk soyadı (1934'te alındı) ve geniş zaman kullanımı ('two piercing eyes do not sleep')
+  1934-1938 yılları arasında yazıldığına işaret eder, ancak bu yalnızca bir çıkarımdır (M kademesi). Daha
+  erken bir baskı bulunursa çağdaş döneme yeniden tarihlendirilmelidir. Hüseyin Mevsim tarafından yapılan
+  Türkçe çevirisi 'Dünya Şairlerinden Atatürk Şiirleri' (sayı 37) içindedir. Kontrol sırasında
+  tarihlendirildi: Şiir Сърце човешко'da (1932, 1936 baskıları; bagryana.litclub.bg) yer almaktadır; 1973
+  yalnızca okunan seçme şiirler baskısıdır.
 verification_note: >-
   Alıntı birebir mevcut, 'На Кемал Ататюрк' ithafı yer alıyor. TARİH VE DÖNEM YANLIŞ: 1973 yalnızca
   chitanka'nın kendi transkripsiyonu için kaynak gösterdiği Balgarski pisatel seçme şiirler baskısıdır
@@ -32,8 +31,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: f2a19c10c076
   role: 5a199ddcd453
-  quote: ab9ba7d6ffaf
+  quote: f51cbda14de3
   summary: 7da604d0a52f
-  caveat: 7ba8cb3d8449
+  caveat: 3bf598f9b371
   verification_note: a0326e1348f6
   verification_method: 2d3844762b8f

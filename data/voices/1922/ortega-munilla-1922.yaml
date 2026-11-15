@@ -19,10 +19,11 @@ quote:
   text: >-
     Y el caudillo esperado surge en Turquía, entre las tumbas de los derviches, bajo la sombra de los cipreses
     de Stambul. Ese héroe vencedor se llama Mustafá Kemal.
+  language: es
   translation: >-
     And the awaited leader rises in Turkey, among the tombs of the dervishes, under the shadow of the
     cypresses of Stambul. That victorious hero is called Mustafá Kemal.
-  language: es
+  translated_by: "machine: research agent"
 caveat: >-
   Column 'El triunfo de Turquía', ABC, Saturday 16 September 1922 (dated at its end), collected posthumously
   in J. Ortega Munilla, Chispas del yunque (Madrid: Prensa Gráfica, 1923) from the open UNC scan; page not

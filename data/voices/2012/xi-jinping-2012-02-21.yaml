@@ -17,8 +17,10 @@ summary: >-
   elaboration.
 quote:
   text: Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, sonsuza kadar yaşa
-  is_translation: true
   language: tr
+  translation: Mustafa Kemal Atatürk, founder of the Republic of Turkey, live for ever
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Hürriyet and AA/A Haber (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of a Chinese entry (Hürriyet; the AA text at A Haber 21 Feb 2012 is identical, same wire).

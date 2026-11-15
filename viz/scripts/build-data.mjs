@@ -47,6 +47,7 @@ for (const { file, data: v } of loadVoices()) {
     caveat: v.caveat ?? null, node: v.node ?? null, sources, sources_from_note: fromNote,
     quote: quoteString(q), quote_text: q?.text ?? null, quote_lang: q?.language ?? null, quote_translation: q?.translation ?? null,
     quote_is_translation: !!q?.is_translation, quote_note: q?.note ?? null,
+    quote_translated_by: q?.translated_by ?? null, quote_reviewed_by: q?.reviewed_by ?? null,
     check: verdict,
     check_detail: { against: v.verification.checked_against ?? null, method: v.verification.method ?? null, issue: v.verification.note ?? null, on: v.verification.checked_on ?? null, quote_found: v.verification.quote_found ?? null },
   });

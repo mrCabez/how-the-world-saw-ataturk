@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: El dictador turco pide las islas del Dodecaneso, que ahora domina Italia.
   language: es
+  translation: The Turkish dictator asks for the Dodecanese islands, which Italy now controls.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Unsigned. An ink blot on the scan covers part of 'del', which the OCR had read as 'Ad'; the sentence is
   otherwise clean and is quoted whole.

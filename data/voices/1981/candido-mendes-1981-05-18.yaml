@@ -20,11 +20,12 @@ quote:
   text: >-
     "Atatürk'ün Avrupa liderlerinden üstün niteliği, 1923-1938 yılları arasında yaptığı devrimlerdir. Atatürk,
     hiçbir zaman geriye dönük bir lider olmamıştır"
+  language: tr
   translation: >-
     What sets Atatürk above the leaders of Europe is the revolutions he made between 1923 and 1938. Atatürk
     was never a backward-looking leader.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu başladı' (name printed 'Candido Mentes');
   paper 'Atatürk çağdaşlaşmasından 1950 sonrası gelişmelere, bir Latin Amerika yaklaşımı'

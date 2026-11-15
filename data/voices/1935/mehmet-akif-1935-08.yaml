@@ -20,18 +20,20 @@ quote:
     Zira Gazi paşa Rauf beyi çekemez. Çünki Gazi paşa def'atla hayatını, şerefini ve mevkiini Rauf beye
     medyundur.
   language: tr
+  translation: >-
+    For the Gazi cannot bear Rauf Bey. Because the Gazi has owed his life, his honour and his position to Rauf
+    Bey time and again.
+  translated_by: "machine: research agent"
 mediated_by: >-
   TBMM, İstiklâl Marşı ve Mehmet Âkif Ersoy: Belgeler (2021), doc. 8.3 (from p. 84) ← İstanbul Valiliği to the
   Interior Minister ← informant '117', report no. 5 of 6 Sept 1935
 caveat: >-
-  TRANSLATION (this record's): 'For the Gazi cannot bear Rauf Bey. Because the Gazi has owed his life, his
-  honour and his position to Rauf Bey time and again.' Hearsay in a police informant's report, a hostile and
-  interested source; the report presents it as what 'Şair Akif ... Atatürk hakkında demişdir'. OCR normalised
-  ('mevki- ini' → 'mevkiini'). Âkif was in Antakya (then French mandate Sanjak) for about three weeks and left
-  on 31 Aug 1935. The same reports say he called the abolition of the Caliphate 'en büyük bir dinsizlik' and
-  praised Abdülmecid; those are about the regime, not Kemal personally. The same TBMM volume prints Kemal's
-  1920 telegram arranging Âkif's election for Burdur (a contact from Kemal's side). Âkif's letters from Egypt
-  were not found in free sources.
+  Hearsay in a police informant's report, a hostile and interested source; the report presents it as what
+  'Şair Akif... Atatürk hakkında demişdir'. OCR normalised ('mevki- ini' → 'mevkiini'). Âkif was in Antakya
+  (then French mandate Sanjak) for about three weeks and left on 31 Aug 1935. The same reports say he called
+  the abolition of the Caliphate 'en büyük bir dinsizlik' and praised Abdülmecid; those are about the regime,
+  not Kemal personally. The same TBMM volume prints Kemal's 1920 telegram arranging Âkif's election for Burdur
+  (a contact from Kemal's side). Âkif's letters from Egypt were not found in free sources.
 node: Turkish Writers and Contemporaries on Kemal — Round 33
 sources:
   - url: https://archive.org/details/istiklal-marsi-ve-mehmet-akif-ersoy

@@ -11,14 +11,13 @@ summary: >-
   Ayasofya üzerinden Atatürk'ü adıyla azarlar: Arapları bir kenara atmak çirkindi, dini bir kenara atmak daha
   çirkindir ve Batı onu yutacaktır.
 caveat: >-
-  ÇEVİRİ (bu kayda ait): 'Eğer Arapları bir kenara atman çirkin idiyse, kutsal dini bir kenara atman daha
-  çirkindir.' Hafiz Ibrahim'den bir epigrafla ('Ayasofya, ayrılık vakti geldi') açılan uzun bir kaside olan
-  'Ayasufya' (Ayasofya) şiiri, al-Risala (Kahire) sayı 109, 5 Ağustos 1935'te yayımlanmıştır; metin sayının
-  Arapça Wikisource transkripsiyonundan alınmıştır; orada sayfa numarası verilmemiştir. Atatürk'e iki kez
-  adıyla hitap edilir ('Atatürk, buyruğun seni aldatmasın'; 'Atatürk, Batı'nın oğullarından gelecek bir
-  sıçrayıştan sakın') ve şiirin ikinci yarısı onu hedef alır; dolayısıyla vesile kilise-cami olsa da muhatap
-  odur. Şöyle kapanır: 'Batı'dan sakın ... onların barışı silahlı bir barıştır.' Yazar yalnızca 'Amjad
-  al-Tarabulsi, Şam' imzasıyla tanımlanmaktadır; doğum-ölüm tarihleri tespit edilememiştir.
+  Hafiz Ibrahim'in bir epigrafıyla ('Ayasofya, the hour of parting has come') açılan uzun bir kaside olan
+  'Ayasufya' (Ayasofya) şiiri; al-Risala'da (Kahire) sayı 109, 5 Ağustos 1935'te basılmıştır, metin ilgili
+  sayının Arapça Wikisource transkripsiyonundan alınmıştır; orada sayfa numarası verilmemiştir. Atatürk'e iki
+  kez adıyla hitap edilir ('Atatürk, do not let your command deceive you'; 'Atatürk, beware a leap from the
+  sons of the West') ve şiirin ikinci yarısı onu hedef alır; dolayısıyla vesile kilise-cami olsa da muhatap
+  odur. Şöyle kapanır: 'Beware the West... their peace is an armed peace.' Yazar yalnızca 'Amjad al-Tarabulsi,
+  Damascus' imzasıyla tanımlanmaktadır; doğum ve ölüm tarihleri tespit edilememiştir.
 verification_note: >-
   Beyit birebir aynıdır ('لئِنْ كان قُبحاً نَبْذكَ العُرْبَ جانباً ... فَنَبْذُك للدينِ المقَدَّسُ أقبح');
   üstbilgide 05-08-1935 tarihi ve 'بقلم أمجد الطرابلسي' yazar satırı yer alır, Şam imzalıdır. Muhatap
@@ -32,8 +31,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9c837bed0013
   role: b052f69d92b5
-  quote: 83052dd40423
+  quote: 7dbc07f2c6bc
   summary: 1404ca6e56fd
-  caveat: 3b24e2c0b09f
+  caveat: d03e8a8d33a8
   verification_note: 5db7d858043f
   verification_method: c75c27c14c28

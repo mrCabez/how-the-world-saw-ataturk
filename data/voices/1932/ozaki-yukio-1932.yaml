@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 而して土のケマルは、先年トルコ文字を廢して、ローマ字を採用した。此一事以て彼が世間普通の豪傑以上に一頭地を拔いてゐることを證するに足る。
   language: ja
+  translation: >-
+    And Turkey's Kemal some years ago abolished the Turkish script and adopted the Roman alphabet. This one
+    thing alone is enough to prove that he stands a head above the ordinary run of heroes.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Kaiko manroku (1947), 'Toruko no senrei', printed p. 103, NDL image 57 (page image read). Hitler is still
   'unknown' in the passage, so the essay dates from the early 1930s; 1947 is the book date. Stronger and more

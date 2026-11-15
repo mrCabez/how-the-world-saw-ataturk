@@ -12,13 +12,11 @@ summary: >-
   Atatürk'ü, Erzurum'a sade bir vatandaş olarak girmek üzere komutanlıktan istifa eden ve milletin kurtarıcısı
   olan büyük bir feragat insanı olarak sunar.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'This son of the Turks, this plain citizen, was to become the saviour of the free and
-  independent Turkish nation of tomorrow. And so he did.' Atatürk İhtilali, I (İstanbul Üniversitesi
-  Yayınları, İnkılâp Enstitüsü dersleri; İstanbul: Burhaneddin Matbaası, 1940), s. 129 (archive.org OCR). Aynı
-  sayfa 'Atatürk büyük ferağet sahibi idi' diye başlar ve birinci elden şunu ekler: 'Atatürkten bir çok
-  defalar işittim'; sade bir vatandaş olduğunda kendisini en güçlü insan hissettiğine dair Kemal'in sözlerini
-  aktarır. Arşiv notundaki 'realities of life, not revelations from the sky' (Medeni Kanun) Kemal hakkında
-  değildir ve kontrol edilmemiştir.
+  Atatürk İhtilali, I (İstanbul Üniversitesi Yayınları, İnkılâp Enstitüsü dersleri; İstanbul: Burhaneddin
+  Matbaası, 1940), s. 129 (archive.org OCR). Aynı sayfa 'Atatürk büyük ferağet sahibi idi' diye başlar ve
+  birinci elden şunu ekler: 'Atatürkten bir çok defalar işittim' diyerek Kemal'in sade bir yurttaş olduğunda
+  kendisini en güçlü adam hissettiğine dair sözlerini aktarır. Arşiv notundaki 'gökten indiği sanılan doğmalar
+  değil, hayatın gerçekleri' (Medeni Kanun) ifadesi Kemal hakkında değildir ve kontrol edilmemiştir.
 verification_note: >-
   Alıntı birebir mevcuttur, ancak s. 130'da değil s. 129'dadır. OCR sayfa başlığı '— 129 —', 'Atatürk büyük
   ferağet sahibi idi ... Bu Türk oğlu, bu sade vatandaş ... kurtarıcısı olacaktı. Ve oldu.' pasajından önce
@@ -35,8 +33,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a42ceb6904e8
   role: 02ba44764e53
-  quote: 72abea7cd4c4
+  quote: 184df4d78673
   summary: 585861c1215e
-  caveat: d7fed1b010fb
+  caveat: 7fd6fd928f3c
   verification_note: 33ebf11b59a1
   verification_method: d098fac14a68

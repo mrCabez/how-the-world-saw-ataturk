@@ -21,6 +21,11 @@ quote:
     terakkiperverler namı altında yaşamış olanlar Gazi'nin huzuruna çıkmak için bilmem bu ölümü tercih
     edebilirler mi?
   language: tr
+  translation: >-
+    The Turk has a historic saying: of deaths, choose your death. Had I been in their place I would have
+    preferred execution. That is, those who lived under the name of Progressives: I wonder whether, in order
+    to come before the Gazi, they could choose this death?
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Text layer OCR-degraded ('Gazi' nirı'); quote normalised. The jab targets the Terakkiperver (Progressive
   Republican) Party, not Atatürk; recorded as an instrument of loyalty. Printed as 'Tunalı Hilmi Bey

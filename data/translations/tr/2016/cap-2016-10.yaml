@@ -12,10 +12,9 @@ summary: >-
   Türkiye'nin yeniden İslamileşmesini eleştirirken Atatürk'ün mezarında ters döneceğini söyler: O gerçekten
   reformlar yapmaya ve Türkiye'yi Avrupa'nın değerlerine yakınlaştırmaya çalışmıştı.
 caveat: >-
-  Temmuz 2016 darbe girişiminin ardından yapılan, Atatürk'ü Erdoğan Türkiye'sinin ölçütü olarak kullanan dış
-  politika değerlendirmeleri (hayranlık bildirdiği kadar araçsal). Konuşmacı satırı: 'Abgeordneter Dr. Josef
-  Cap (SPÖ)'. [Çeviri:] Kemal Atatürk mezarında ters dönerdi. Zira o gerçekten reformlar hayata geçirmeye ve
-  Türkiye'yi Avrupa'ya ve Avrupa değerlerine daha çok yakınlaştırmaya çalıştı.
+  Temmuz 2016 darbe girişiminin ardından yapılan, Atatürk'ü Erdoğan Türkiye'sini değerlendirmede ölçüt olarak
+  kullanan (hayranlık içerdiği kadar araçsal da olan) dış politika değerlendirmeleri. Konuşmacı satırı:
+  'Abgeordneter Dr. Josef Cap (SPÖ)'.
 verification_note: >-
   Birebir aynı (alıntı cümlenin ortasında 'Kemal Atatürk im Grabe...' ifadesiyle başlıyor); konuşmacı, parti,
   tarih doğru; çeviri sadık. Atatürk'ün ne yapmaya çalıştığına dair kendi görüşünü belirtiyor; bakış testini
@@ -25,8 +24,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a82580cbf4fa
   role: 9f0befff6052
-  quote: ead986e424ed
+  quote: 827122a3f26f
   summary: fce885a7f27a
-  caveat: ad71f8561b1b
+  caveat: 15fd71c381aa
   verification_note: 3cf1229d89d1
   verification_method: f4548f3ae88d

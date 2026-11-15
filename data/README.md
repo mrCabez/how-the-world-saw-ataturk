@@ -49,11 +49,12 @@ quote:                                 # THEIR words, verbatim, in the language 
     — Конечно, Мустафа Кемаль-паша не социалист,— говорил Владимир Ильич,— но, по-видимому, хороший
     организатор, талантливый полководец, ведет буржуазно-национальную революцию, прогрессивно настроенный
     человек, умный государственный деятель.
+  language: ru
   translation: >-                      # English, because the text is not English
     Of course, Mustafa Kemal Pasha is not a socialist,' Vladimir Ilyich said, 'but he is evidently a good
     organiser, a talented commander, leading a bourgeois-national revolution, a progressive-minded man, a
     clever statesman.
-  language: ru
+  translated_by: "machine: research agent"   # who made the English
 mediated_by: >-                        # second-hand: where we read it, with the page
   S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moscow: IMO, 1960), pp. 34–35, recalling his
   briefing by Lenin
@@ -186,9 +187,36 @@ The speaker's own words, exactly as printed in the source, in the source's langu
 | `text` | Required when `quote` is present. The words as printed. Omitted words are marked `…`. No translation inside this field. |
 | `language` | ISO 639-1 code (`en`, `tr`, `fr`, `de`, `ar`, `ru` …), or `ota` for Ottoman Turkish in Arabic script. |
 | `translation` | An English translation, when `text` is not English. |
+| `translated_by` | Required with `translation`. Who made the English: `source` (the source's own English), `"machine: <model>"`, or the name or GitHub handle of the person who translated it. See [The English translations](#the-english-translations). |
+| `reviewed_by` | A list of the people who have read the English against the original. |
 | `note` | An editorial note about the passage. |
 | `is_translation` | `true` when `text` is itself a translation and the original is not available (for example a Turkish news agency's rendering of an English guest-book entry). |
 | `needs_split` | `true` when several passages and their translations are mixed together in `text`. It marks older records that still need cleaning up. Do not use it in new records. |
+
+### The English translations
+
+Every quote that is not in English has an English translation, and `translated_by` says where it came from:
+
+| `translated_by` | Meaning |
+|---|---|
+| `source` | The English is the source's own, for example UNESCO's English text of a French address or the Kremlin's English version of a Russian article. |
+| `machine: research agent` | Written by the AI agent that found the source, before the archive recorded which model made a translation. |
+| `machine: <model>` | A machine translation by the named model. The 233 added on 15 November 2026 are `machine: claude-fable-5-2`; a second model (Gemini) translated the same quotes separately and the two versions were compared. |
+| a name or GitHub handle | A person translated it. |
+
+A machine translation has not been read by a person who knows the language unless `reviewed_by` names one. The exhibition says so under the quote.
+
+The translation follows the quote as it stands. A fragment is translated as a fragment. A misprint stays in `text` and is translated as the word it stands for. Words in square brackets were supplied by the translator.
+
+To confirm or correct a translation:
+
+1. Read `quote.text` in its own language, and the source if you can.
+2. If the English is right, add your name to `reviewed_by`. If it is not, correct `translation` and put your name in `translated_by`.
+3. Leave `quote.text` as it is, unless the source prints something else.
+
+The validator will then report the Turkish quote of that record as stale. A maintainer refreshes it.
+
+If you prefer not to edit files, use the [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml) form.
 
 ### sources
 
@@ -338,6 +366,7 @@ It reports errors (the run fails), warnings and notices (the run passes). It che
 - the length of `summary` (warning above 25 words);
 - that no `<placeholder>` from the template is left in a value;
 - that `quote.text` contains no translation (it belongs in `quote.translation`);
+- that a `quote.translation` says who made it (`quote.translated_by`), and that an English `quote.text` has no translation;
 - possible duplicates: the same voice on the same date (warning);
 - translation files: schema, a matching record in the same year folder, empty fields, and stale fields (notice);
 - on a pull request: any change to a `verification` block (notice, for the maintainer).

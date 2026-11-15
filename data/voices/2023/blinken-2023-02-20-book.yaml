@@ -18,8 +18,12 @@ summary: >-
 quote:
   text: >-
     Türk ulusu ve Büyük Önder Mustafa Kemal Atatürk'e saygılarımı sunmaktan büyük bir onur duyuyorum.
-  is_translation: true
   language: tr
+  translation: >-
+    It is a great honour for me to pay my respects to the Turkish nation and to the Great Leader Mustafa Kemal
+    Atatürk.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: TGRT Haber and Şehitler Ölmez, 20 Feb 2023 (Turkish translation of the entry)
 caveat: >-
   Turkish rendering of an entry written in English. Written two weeks after the Kahramanmaraş earthquakes; the

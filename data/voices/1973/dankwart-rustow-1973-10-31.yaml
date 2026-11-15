@@ -26,6 +26,7 @@ quote:
     Türk Ulusu ve devletinin gücü, bu sentezin değerini göstermektedir. […] Gerçekte, Atatürk, salt bir
     elitist değildi; bu ve buna benzer birçok nedenlerde, birtakım birbirine karşı unsurları bir araya
     getirmiş ve belirli çelişmezlikleri uzlaştırmıştı.
+  language: tr
   translation: >-
     Atatürk was a soldier whose victories were always remembered in the longest period of peace Turkey has
     known, and he succeeded in turning the government from military to civilian rule. […] He was a born
@@ -34,8 +35,8 @@ quote:
     produced a synthesis. The strength of the Western Turkish nation and state he founded shows the value of
     this synthesis. […] In fact Atatürk was not a mere elitist; for this and many similar reasons he brought
     together a number of opposing elements and reconciled certain contradictions.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 31 Oct 1973, p. 2: 'Amerikan gözüyle — Batı dengesi, iç isyanlar ve Atatürk…', bylined Prof.
   Dankwart A. Rustow (Turkish translation); the first two passages as printed in the standfirst box above the

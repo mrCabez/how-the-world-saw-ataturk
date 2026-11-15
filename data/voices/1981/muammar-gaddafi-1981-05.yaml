@@ -21,11 +21,12 @@ quote:
   text: >-
     "Atatürk'ün hiçbir zaman unutulmayacak büyük anılar ve devrimler bıraktığını" belirtmiş, "Atatürk sadece
     Türk ulusu için değil, tüm İslâm âlemi ve Araplar için de büyük bir liderdi" demiştir.
+  language: tr
   translation: >-
     that 'Atatürk left great memories and revolutions that will never be forgotten', and: 'Atatürk was a great
     leader not only for the Turkish nation but for the whole Islamic world and for the Arabs.'
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 21 May 1981, p. 9 ('Kaddafi: «Atatürk tüm İslam âlemi için büyük bir liderdi…»', foreign news
   service), teaser on p. 1: Turkish rendering of his message

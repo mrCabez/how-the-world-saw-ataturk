@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 尠くともケマルパシヤだけは、間違ひなく、日本を理想として起つたもので、これは決して疑ひを容れないのであります。
   language: ja
+  translation: >-
+    At the very least Kemal Pasha, without any mistake, rose with Japan as his ideal; of this there can be no
+    doubt whatever.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Warera no Nihon seishin (1936), printed p. 110, read on the page image (NDL image 65); a lecture text. The
   same claim appears in Gendai Nihon to sekai no ugoki (1931, pid 1268736, 'Kemal Pasha ... also learned from

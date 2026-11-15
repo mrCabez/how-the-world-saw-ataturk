@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Der Gazi liebt nur die Türkei, seinen Staat und — sich selbst.
   language: de
+  translation: The Gazi loves only Turkey, his state and — himself.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   The sentence is given as the judgment of the author's friend 'Talaat'; the author endorses it ('durchaus
   unrichtig' on the Germanophile claim). Long-s normalised from Fraktur OCR. Year from archive metadata.

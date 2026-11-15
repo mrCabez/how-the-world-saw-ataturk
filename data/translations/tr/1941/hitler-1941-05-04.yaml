@@ -12,14 +12,12 @@ summary: >-
   Adını anmadığı 'yeni Türkiye'nin yeniden kurucusu'nu büyük ve dahi olarak niteler; yenilmiş müttefiklere
   'dirilişin ilk örneği'ni verdiğini söyler.
 caveat: >-
-  [çeviri] 'Genç Türkiye'nin büyük, dahi yeni yaratıcısı, o zamanlar talihin terk ettiği ve kaderin böylesine
-  korkunç biçimde vurduğu müttefiklerin ayağa kalkışı için harika bir örnek veren ilk kişi oldu.'
   Verhandlungen des Reichstags, 4. Wahlperiode, Bd. 460, 6. Sitzung, 4 Mayıs 1941, s. 85 C (BSB bsb00000613,
-  görüntü 86; ana ajan tarafından sayfa görüntüsünden okundu, 3 Kasım 2026). Pasaj 'Die Türkei war im
-  Weltkrieg unser Verbündeter' ile başlar ve Türkiye'yi savaşın dışında tuttuğu için 'devlet yönetiminin
-  gerçekçi tutumunu' (İnönü) övmeye devam eder. Atatürk'ün adı anılmaz, bağlamdan tespit edilir. Daha önce
-  kayıtlı olan BBC çevirisi ('the great and ingenious reconstructor of the new Turkey … the first example of
-  resurrection') serbesttir.
+  görüntü 86; ana ajan tarafından sayfa görüntüsü üzerinden okundu, 3 Kasım 2026). Pasaj 'Die Türkei war im
+  Weltkrieg unser Verbündeter' diye açılır ve Türkiye'yi savaşın dışında tuttuğu için 'devlet yönetiminin
+  gerçekçi tutumunu' (İnönü) överek devam eder. Atatürk'ün adı geçmez, bağlamdan anlaşılır. Daha önce
+  kaydedilmiş olan BBC çevirisi ('yeni Türkiye'nin büyük ve dahi yeniden kurucusu … dirilişin ilk örneği')
+  serbest bir çeviridir.
 verification_note: >-
   Alıntı birebir, konuşma tarihi 4 Mayıs 1941 doğru: 'Turkey had been our ally in the World War. Its
   unfortunate result was as heavy a burden for Turkey as it was for us. The great and ingenious reconstructor
@@ -37,8 +35,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 63c4153a3f03
   role: aa38f9fbf2a9
-  quote: 3805aa660101
+  quote: 663c12a0506e
   summary: 46d9d9abeb32
-  caveat: a041d6a6ba9a
+  caveat: 2e82ccf69dbd
   verification_note: "829171811742"
   verification_method: be255d02e735

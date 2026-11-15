@@ -11,16 +11,15 @@ summary: >-
   Mersiye: Kemal 'İbnü'l-Velid gibi yatağında öldü'; ölü bir milleti dirilten kişi olarak Mussolini ve
   Hitler'in üstündedir, gerçi hilafet konusu onu rahatsız eder.
 caveat: >-
-  ÇEVİRİ (bu kayda ait): 'Ölüp toprağa verilen sıradan bir fert değildi: küreler arasından bir gök küresi
-  ufkundan düştü.' al-Risala sayı 281, 21 Kasım 1938'de yer alan 'Atatürk' başlıklı deneme-mersiye (üç beyit,
-  ardından düzyazı); Arapça metin sayının Wikisource transkripsiyonundan alınmıştır, orada sayfa
-  verilmemiştir. Düzyazı, birebir: 'Mustafa yatağında İbnü'l-Velid'in ölümüyle öldü' (مات مصطفى ميتة ابن
-  الوليد على فراشه). Çekinceli bir hayranlık taşır: hilafetin kaldırılmasının bir sapkınlık mı yoksa cerrahi
-  bir müdahale mi olduğunu sorup hükmü tarihe bırakır, Latin alfabesi ile şapkayı 'dayatılmış' olarak
-  nitelendirir ve rejimi onaylamaya meylettiği bir diktatörlük olarak adlandırırken ondan sonrası için Türkiye
-  adına endişe duyar. Veri kümesinde zaten yer alan 14 Kasım 1938 tarihli al-Zayyat başyazısıyla aynı sayı
-  veya yazar değildir. Hilafet sorusunun hemen ardından 'Kur'an mütercimini' ateizm suçlamasından temize
-  çıkarır.
+  al-Risala sayı 281, 21 Kasım 1938'deki 'Atatürk' başlıklı deneme-ağıt (üç beyit, ardından düzyazı); Arapça
+  metin sayının Wikisource transkripsiyonundan alınmıştır, orada sayfa numarası verilmemiştir. Düzyazı,
+  kelimesi kelimesine: 'Mustafa died the death of Ibn al-Walid on his bed' (مات مصطفى ميتة ابن الوليد على
+  فراشه). Çekinceleri olan bir hayranlık taşır: hilafetin sona ermesinin bir sapkınlık (küfür) eylemi mi yoksa
+  cerrahi bir müdahale mi olduğunu sorar ve bunu tarihe bırakır, Latin alfabesini ve şapkayı 'dayatılmış'
+  olarak nitelendirir, rejimi ise kendisinden sonra Türkiye için endişelenmekle birlikte onaylamaya meylettiği
+  bir diktatörlük olarak adlandırır. Veri setinde halihazırda bulunan 14 Kasım 1938 tarihli al-Zayyat
+  başyazısıyla aynı sayı veya aynı yazar değildir. Hilafet sorusunun hemen ardından 'Kur'an mütercimini'
+  ateizm suçlamasından temize çıkarır.
 verification_note: >-
   Dize birebir aynıdır ('ما مات فرد وورى بل هوى ... من أفقه فلك من الأفلاك'); üstbilgi 21-11-1938, yazar
   'محمود غنيم', imza (كوم حماده). 'مات مصطفى ميتة ابن الوليد على فراشه' düzyazı alıntısı mevcuttur.
@@ -35,8 +34,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1e7b7deaac6b
   role: 6f1b295ce356
-  quote: bafc74424dac
+  quote: bea4fb8e75e5
   summary: 0ffc5b22ff45
-  caveat: b8aa87fadc92
+  caveat: 399ffdc3b649
   verification_note: 62fbc0ffab87
   verification_method: 3c7f5fe42455

@@ -19,6 +19,9 @@ summary: >-
 quote:
   text: 誰都曉得，基瑪爾能有如此成功，是一半得力於蘇俄帮助的緣故
   language: zh
+  translation: >-
+    Everyone knows that Kemal's being able to succeed like this is half owing to the help of Soviet Russia
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Pen-name attribution is M-tier; issue no. 3, month inferred from the weekly's run (no. 3 = 27 Sep 1922).
 node: Xiangdao Reads Ankara, 1922–1924

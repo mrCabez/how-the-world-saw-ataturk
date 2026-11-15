@@ -20,12 +20,13 @@ quote:
     Kemal Atatürk sadece yeni Türkiye'nin sembolü değil, aynı zamanda çağımızın en dikkate şayan
     şahsiyetlerinden biridir. Faal, kuvvetli ve hür Avrupa'nın diğer ülkeleri ile işbirliğine sağlam şekilde
     bağlı olan bugünkü Türkiye hâlen onun izinden gitmektedir.
+  language: tr
   translation: >-
     Kemal Atatürk is not only the symbol of the new Turkey but also one of the most remarkable personalities
     of our age. Today's Turkey, firmly committed to cooperation with the other countries of an active, strong
     and free Europe, still follows in his footsteps.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Milliyet, 10 Nov 1963, p. 7 (column of leaders' messages under 'Atatürk'ü anıyoruz'): the paper's Turkish
   rendering of a message for the 25th anniversary of Atatürk's death

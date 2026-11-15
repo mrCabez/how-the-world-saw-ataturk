@@ -22,6 +22,12 @@ quote:
     itibarı vasıtai tecavüz kılmağı düşünecek kadar tereddi eden irticaî bir zihniyet göstermek itibariyle
     mucibi teessür olmuştur.
   language: tr
+  translation: >-
+    The assassination affair that came to light as the latest manifestation of these attempts has been a cause
+    of sorrow not in that it concerns our humble person, but in that it shows a reactionary mentality
+    unbefitting the manly qualities of the Turkish Nation and so degenerate as to think of making a rank of
+    such high standing as that of Deputy of the Nation a means of assault.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Self-gaze: the speaker is Atatürk. Text layer OCR-degraded ('Mileltinİn', 'mertelbei', 'zihnayet'); commas
   in the raw print are omitted in the quote. Normalised.

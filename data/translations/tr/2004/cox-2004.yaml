@@ -10,12 +10,11 @@ summary: >-
   Meclis'e, bir denge kurmuş Müslüman bir ülke olan Türkiye'nin Atatürk'ün laik ve demokratik cumhuriyet
   mirasını taşıdığını söyler.
 caveat: >-
-  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 210 (basılı s. 199). Konuşma, TBMM tutanaklarında yer aldığı
-  şekliyle Türkçe olarak basılmıştır. Çevirisi: "Here, as a Muslim country, you have struck a balance; you
-  carry Atatürk's legacy." Türkiye'nin AB üyeliğine yönelik 'Hristiyan kulübü' ('Christian club') itirazına
-  yanıt vermektedir. Başlık: 'Avrupa Parlamentosu Başkanı Pat Cox', 2 Mart 2004. İngilizce özgün metinde
-  (Avrupa Parlamentosu basın bülteni sp0081, kontrol eden tarafından okundu; URL yeniden doğrulanmadı) şöyle
-  denmektedir: 'you have found a special balance here - the legacy of the vision of Atatürk'.
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 210 (basılı s. 199). Konuşma, TBMM tutanaklarında olduğu gibi
+  Türkçe olarak basılmıştır. Türkiye'nin AB üyeliğine yönelik 'Hristiyan kulübü' itirazını yanıtlamaktadır.
+  Başlık: 'Avrupa Parlamentosu Başkanı Pat Cox', 2 Mart 2004. İngilizce özgün metin (Avrupa Parlamentosu basın
+  bülteni sp0081, kontrol eden tarafından okunmuştur; URL yeniden doğrulanmamıştır) şöyledir: 'you have found
+  a special balance here - the legacy of the vision of Atatürk'.
 mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
 verification_note: >-
   Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Parlamentosu Başkanı Pat Cox,
@@ -35,9 +34,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 06cf6ac37c5b
   role: fb56bd3298ae
-  quote: 72eaa2cb3d63
+  quote: 866b550f687b
   summary: ea7c8ba356f5
-  caveat: 2e156d67c93e
+  caveat: f62b2b9ac1db
   mediated_by: 8e2cc528453b
   verification_note: 65815e3397a3
   verification_method: 8fcc9bf6fdf4

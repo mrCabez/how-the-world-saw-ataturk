@@ -10,10 +10,9 @@ summary: >-
   Londra'daki Türkiye büyükelçisine Türkiye'nin reformlarını takip ettiğini, Gazi'nin dehasına ancak hürmet
   duyabileceğini ve Türkiye'nin her Asya milletine örnek olacağını söyledi.
 caveat: >-
-  Çeviri: 'There is no doubt that you will be a model to be followed by all Asian nations.' Aynı pasajda: 'it
-  is not possible ... not to revere [the Gazi's] genius' denilmekte ve milli hareketin başlangıcında böyle
-  sonuçlar beklemediği belirtilmektedir. Sözler bize bir Türk elçisinin raporu aracılığıyla, iki kademe
-  dolaylı olarak ulaşmaktadır.
+  Aynı pasaj: "[Gazi'nin] dehasına... hürmet etmemek mümkün değildir" ve milli hareketin başlangıcında böyle
+  sonuçlar beklememiştir. Sözler bize bir Türk elçisinin raporu aracılığıyla, iki kademe dolaylı olarak
+  ulaşmaktadır.
 mediated_by: >-
   Saygı, Yalova Sosyal Bilimler Dergisi 7/15 (2017) s. 215 ← Balkaya 2015 s. 572 (Londra görüşmesine ilişkin
   Türk diplomatik raporu)
@@ -29,9 +28,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2bc6c18159fa
   role: 9a7f7404dd1a
-  quote: 5b54e4278d72
+  quote: 35776ccbbbb6
   summary: 47433ee9376e
-  caveat: e0849572dbfd
+  caveat: cb26a222027d
   mediated_by: 909f943b3a78
   verification_note: dc4999583522
   verification_method: b4b3491d6dae

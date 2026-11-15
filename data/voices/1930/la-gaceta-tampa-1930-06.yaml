@@ -18,6 +18,8 @@ summary: >-
 quote:
   text: Todas las dictaduras son malas, antidemocráticas
   language: es
+  translation: All dictatorships are bad, anti-democratic
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Unsigned front-page column. The list names Piłsudski, Kemal Pacha, Leguía, Ibáñez and Stalin; Italy and
   Spain appear only as 'Dictadura negra en Italia' and 'Dictadura “verde” militar en España'. Kemal is one

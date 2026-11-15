@@ -21,10 +21,11 @@ quote:
     dass wir ein großes, ein gemeinsames – ich sage: ein nationales – deutsches Interesse daran haben, dass in
     der Türkei die Kräfte unterstützt werden, die eine säkularisierte Türkei im Sinne ihres Staatsgründers
     Atatürk wollen und dafür auch einstehen
+  language: de
   translation: >-
     that we have a great, a shared — I say: a national — German interest in supporting in Turkey the forces
     that want a secularised Turkey in the spirit of its state founder Atatürk and stand up for it
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Government statement before the Copenhagen

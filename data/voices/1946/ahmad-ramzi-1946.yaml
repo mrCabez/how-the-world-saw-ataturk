@@ -19,10 +19,11 @@ summary: >-
 quote:
   text: >-
     إذ هو من الأفراد القلائل في الشرق الذين عملوا بعد تفكير طويل، وأخضعوا أعمالهم لفكرتهم الأولى
+  language: ar
   translation: >-
     For he is one of the few individuals in the East who acted after long reflection and made their deeds
     obedient to their first idea.
-  language: ar
+  translated_by: "machine: research agent"
 caveat: >-
   Cited as al-Risala no. 698, 18 Nov 1946, Wikisource page 'مجلة الرسالة/العدد 698/الغازي مصطفى كمال'. First
   instalment of 'The Ghazi Mustafa Kemal: study and analysis of the psychological motives that led him to

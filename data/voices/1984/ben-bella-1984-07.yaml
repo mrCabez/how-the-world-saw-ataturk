@@ -19,11 +19,12 @@ summary: >-
 quote:
   text: >-
     Türkleri Batılı sayması, çok hayati bir hataydı. Fakat bu bir yana, benim kendisine büyük hayranlığım var.
+  language: tr
   translation: >-
     His counting the Turks as Western was a very vital mistake. But that aside, I have great admiration for
     him.
+  translated_by: "machine: research agent"
   is_translation: true
-  language: tr
 mediated_by: >-
   Cumhuriyet, 16 Jul 1984 p. 8, series 'Ben Bella anlatıyor' (Geneva interview, printed in Turkish translation)
 caveat: >-

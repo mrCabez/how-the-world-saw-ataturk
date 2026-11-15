@@ -19,10 +19,11 @@ summary: >-
 quote:
   text: >-
     وشعروا أن أيا صوفيا قد ختمت فيها صفحة الإسلام، باسم هذا الـ. . (أتاتورك) كما فتحت باسم (محمد الفاتح)!
+  language: ar
   translation: >-
     And they felt that in Hagia Sophia the page of Islam had been closed, in the name of this ... (Atatürk),
     as it was opened in the name of (Muhammad the Conqueror)!
-  language: ar
+  translated_by: "machine: research agent"
 caveat: >-
   Cited as al-Risala no. 98, 20 May 1935, Wikisource page 'مجلة الرسالة/العدد 98/أيا صوفيا'. Piece 'Aya Sufya'
   signed Ali al-Tantawi, Mecca; the gap '. .' before '(Atatürk)' is in the transcription (an epithet left out

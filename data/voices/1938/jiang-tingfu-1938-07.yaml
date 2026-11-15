@@ -19,6 +19,10 @@ summary: >-
 quote:
   text: 土耳其人經過那次大國難以後，一致團結起來，擁護民族領袖基瑪爾，於是始得復興。基瑪爾一心一意爲國家服務，不知有他
   language: zh
+  translation: >-
+    After that great national calamity the Turks united as one and rallied behind the national leader Kemal,
+    and only then were they able to revive. Kemal served the state with heart and soul, knowing nothing else
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   First-edition date (July 1938) from a bookseller's blurb (J), not the Wikisource page; Wikisource text is
   titled 中國近代史大綱.

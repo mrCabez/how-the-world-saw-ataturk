@@ -12,15 +12,13 @@ summary: >-
   Aktarıldığına göre Antakya'da, Gazi'nin hayatını, şerefini ve mevkiini defalarca Rauf'a borçlu olduğunu,
   buna rağmen onu mahvetmeye çalıştığını söyledi.
 caveat: >-
-  ÇEVİRİ (bu kaydın): 'For the Gazi cannot bear Rauf Bey. Because the Gazi has owed his life, his honour and
-  his position to Rauf Bey time and again.' Düşmanca ve çıkar gözetir nitelikteki bir kaynak olan bir polis
-  muhbirinin raporunda yer alan kulaktan dolma aktarım; rapor bunu 'Şair Akif ... Atatürk hakkında demişdir'
-  şeklinde sunar. OCR düzeltilmiştir ('mevki- ini' → 'mevkiini'). Âkif yaklaşık üç hafta Antakya'da (o sırada
-  Fransız mandası altındaki Sancak) bulunmuş ve 31 Ağustos 1935'te ayrılmıştır. Aynı raporlar onun hilafetin
-  kaldırılmasını 'en büyük bir dinsizlik' olarak nitelendirdiğini ve Abdülmecid'i övdüğünü belirtir; bunlar
-  şahsen Kemal'le değil rejimle ilgilidir. Aynı TBMM cildi, Kemal'in Âkif'in Burdur'dan seçilmesini ayarlayan
-  1920 tarihli telgrafını da basar (Kemal tarafından bir temas). Âkif'in Mısır'dan yazdığı mektuplar açık
-  kaynaklarda bulunamamıştır.
+  Hasmane ve tarafgir bir kaynak olan bir polis muhbirinin raporundaki söylenti; rapor bunu 'Şair Akif...
+  Atatürk hakkında demişdir' şeklinde sunar. OCR normalleştirilmiştir ('mevki- ini' → 'mevkiini'). Âkif,
+  Antakya'da (o dönemde Fransız mandası altındaki Sancak) yaklaşık üç hafta kalmış ve 31 Ağustos 1935'te
+  ayrılmıştır. Aynı raporlar, hilafetin kaldırılmasını 'en büyük bir dinsizlik' olarak nitelendirdiğini ve
+  Abdülmecid'i övdüğünü belirtir; bunlar şahsen Kemal'le değil, rejimle ilgilidir. Aynı TBMM cildi, Kemal'in
+  Âkif'in Burdur mebusu seçilmesini ayarlayan 1920 tarihli telgrafını da basmaktadır (Kemal tarafından kurulan
+  bir temas). Âkif'in Mısır'dan yazdığı mektuplar açık kaynaklarda bulunamamıştır.
 mediated_by: >-
   TBMM, İstiklâl Marşı ve Mehmet Âkif Ersoy: Belgeler (2021), belge 8.3 (s. 84'ten) ← İstanbul Valiliği'nden
   İçişleri Bakanı'na ← muhbir '117', 6 Eylül 1935 tarihli 5 sayılı rapor
@@ -43,9 +41,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8968ed2d41cb
   role: fd1279f52cd7
-  quote: eb61b65af903
+  quote: 4f7988cea6a7
   summary: 69c6857891f5
-  caveat: 87a63f660d87
+  caveat: 1dba0063f57a
   mediated_by: b5e86f5fb50d
   verification_note: 11d5b1956f79
   verification_method: b152e9063489

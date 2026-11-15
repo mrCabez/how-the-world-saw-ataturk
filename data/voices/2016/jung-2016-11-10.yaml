@@ -20,10 +20,11 @@ quote:
   text: >-
     denkt man an die Entwicklung in der Türkei, im Land Kemal Atatürks, muss man leider feststellen, dass die
     Politik von Präsident Erdogan mit der Politik von Kemal Atatürk nun wahrlich nichts mehr zu tun hat.
+  language: de
   translation: >-
     if one thinks of the development in Turkey, in the land of Kemal Atatürk, one must unfortunately state
     that President Erdoğan's politics now truly have nothing to do with the politics of Kemal Atatürk.
-  language: de
+  translated_by: "machine: research agent"
 caveat: >-
   Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
   documentation page; printed page checked in the dserver PDF. Debate on the situation in Turkey after the

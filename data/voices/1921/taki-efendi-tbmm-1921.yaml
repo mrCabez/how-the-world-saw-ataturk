@@ -19,6 +19,8 @@ summary: >-
 quote:
   text: Fakat Mustafa Kemal Paşa bu milletin alemdarıdır.
   language: tr
+  translation: But Mustafa Kemal Pasha is the standard-bearer of this nation.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62nd sitting, 1st session,
   5 Ağustos 1337 (1921), p. 193. Argues Kemal should keep commanding without the title.

@@ -9,9 +9,7 @@ quote_kind: translated
 summary: >-
   Onu Türk ulusunun büyük lideri ve reformcusu olarak nitelendirdi; Türkiye, Yugoslavya'nın aziz ve soylu
   müttefikidir.
-caveat: >-
-  TBMM c. 2 (c2) PDF s. 10. Alıntı Fransızcadır; çevirisi: 'Türk ulusunun büyük lideri ve reformcusu'. 'Paul'
-  imzalıdır.
+caveat: TBMM c. 2 (c2) PDF s. 10. Alıntı Fransızcadır. 'Paul' imzalı.
 verification_note: >-
   'le grand chef et reformateur de la nation turque'; 'paul' imzalı; ayrıca 'notre chere et noble alliee'
   (müttefik ifadesi doğrulanıyor). Sayfanın sol tarafındaki telgraf (Barselona, Azana imzalı) farklı bir
@@ -24,8 +22,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 525765ca2666
   role: e3fd6e97cf9b
-  quote: dff4c1b10448
+  quote: c42b5ea34ef6
   summary: 1dc1d30a6b7b
-  caveat: 5b8bc389472e
+  caveat: 44efd68285ea
   verification_note: 1668d7b622b5
   verification_method: 7c3ad23fb937

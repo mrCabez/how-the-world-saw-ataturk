@@ -18,8 +18,12 @@ summary: >-
 quote:
   text: >-
     Büyük vizyoner Mustafa Kemal Atatürk`ü ebedileştiren bu tarihi mekânı ziyaret etmek farklı bir ayrıcalık.
-  is_translation: true
   language: tr
+  translation: >-
+    It is a singular privilege to visit this historic place, which immortalises the great visionary Mustafa
+    Kemal Atatürk.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: Cumhuriyet and Yurt Gazetesi, 10 Mar 2022 (AA; Turkish translation of the entry)
 caveat: >-
   Turkish rendering (AA) of an entry written partly in English and partly in Hebrew; the Hebrew line is a

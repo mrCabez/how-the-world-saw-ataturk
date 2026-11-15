@@ -16,8 +16,10 @@ summary: >-
   Preparing to play him on film, calls Atatürk 'a true hero' and fears he cannot live up to the role.
 quote:
   text: Atatürk, gerçek bir kahramandır. Kendimi onun yerine koyabilmek bana ürperti veriyor.
-  is_translation: true
   language: tr
+  translation: Atatürk is a true hero. Being able to put myself in his place makes me shiver.
+  translated_by: "machine: claude-fable-5-2"
+  is_translation: true
 mediated_by: >-
   Milliyet, 13 Apr 1962, as quoted in Tunç Boran, Mekân ve Siyaset İlişkisi Bağlamında Anıtkabir (1938-1973),
   PhD thesis, Ankara University, 2011, p. ~315 (n. 1503)
