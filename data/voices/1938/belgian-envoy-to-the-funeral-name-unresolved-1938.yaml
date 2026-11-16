@@ -2,7 +2,7 @@
 id: belgian-envoy-to-the-funeral-name-unresolved-1938
 voice: Belgian envoy to the funeral (name unresolved)
 voice_type: person
-role: Former ambassador to Ankara; King Leopold III's representative
+role: Former ambassador to Ankara; represented Belgium at the funeral
 country: Belgium
 country_now: Belgium
 domain: diplomacy
@@ -30,8 +30,10 @@ quote:
   is_translation: true
 mediated_by: Toksoy 2006 CTAD ← Akşam 20 Nov 1938 p. 3
 caveat: >-
-  Name unstable in sources ('Roymond'/'Deryınon'), likely a single man; unresolved. The Turkish is as the
-  article prints it (p. 165, fn 94); it is the Turkish press's rendering of the paper's words.
+  Name unstable in Toksoy's two articles: 'Derymon' in CTAD p. 165 (representing the Belgian Government) and
+  'Roymond' in Atatürk Yolu p. 172 fn 111 (representing the King, Akşam 18 Nov 1938 p. 7); likely a single
+  man, unresolved. The Turkish is as the article prints it (p. 165, fn 94); it is the Turkish press's
+  rendering of his words.
 node: Brussels Stands, November 1938
 sources:
   - url: https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
@@ -40,8 +42,8 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    sources/toksoy-2006-ctad-foreign-representatives.txt fn94 "Çankaya'daki Güneş", Akşam 20 Nov 1938 p.3:
-    former Belgian ambassador "Deryınon": quote verbatim in Turkish
+    sources/toksoy-2006-ctad-foreign-representatives.txt fn 94 "Çankaya'daki Güneş", Akşam 20 Nov 1938 p. 3:
+    former Belgian ambassador 'Derymon' (the OCR has 'Deryınon'): quote verbatim in Turkish
   method: local
   note: >-
     Quote is English translation of Toksoy Turkish (OCR "Çanlmya"). The Turkish wording was read on the page

@@ -2,17 +2,20 @@
 # source_fingerprints: which English each field was translated from. Leave them as they are.
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: independenta-romana-1938
-voice: Independența Română
-role: Rumen gazetesi
+voice: L'Indépendance Roumaine
+role: Bükreş'te yayımlanan Fransızca Romen günlük gazetesi
 quote: >-
   Atatürk tarihte teşkilatçı bir dahi, bir milletin harikalar yaratan sevk ve idarecisi ve memleketinin
   kurtarıcısı olarak kalacaktır
 quote_kind: original-turkish
-summary: Tarihte teşkilatçı bir deha, bir milletin lideri ve kurtarıcısı olarak kalacağını söyledi.
+summary: >-
+  Tarihte teşkilatçı bir deha, bir milletin mucizeler yaratan rehberi ve memleketinin kurtarıcısı olarak
+  kalacağını söyledi.
 caveat: >-
-  Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir. Türkçe metin makalede basıldığı
-  şekliyledir (s. 195, dn. 77); gazetenin sözlerinin Türk basını tarafından aktarımıdır. 16 Kasım 2026
-  öncesindeki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
+  Romen aslı görülmedi; Toksoy'un Türkçesinden çevrildi. Toksoy gazetenin Fransızca adını 'İndependance
+  Romaine' olarak basmaktadır; kayıtta 16 Kasım 2026'ya kadar adı 'Independența Română' olarak geçiyordu.
+  Türkçe metin makalede basıldığı gibidir (s. 195, dn. 77); gazetenin sözlerinin Türk basınındaki aktarım
+  biçimidir. 16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
 mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
 verification_note: >-
   Türkçeden çevrilmiştir; aslına sadıktır. Türkçe ifadeler 16 Kasım 2026 tarihinde makalenin sayfasından
@@ -20,11 +23,11 @@ verification_note: >-
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
-  voice: 5c248c9b8874
-  role: 0afc8d6e7c93
+  voice: cc662916b156
+  role: 81d64dee9d9e
   quote: 3bff690e8504
-  summary: 931a69880a5c
-  caveat: 278e90c1f715
+  summary: 233432c3b745
+  caveat: af88e20a9062
   mediated_by: 374a97c5054a
   verification_note: 427999ba6118
   verification_method: 939bb46a04c3

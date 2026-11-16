@@ -21,14 +21,16 @@ quote:
     hatta gözyaşı döküyorlar.
   language: tr
   translation: >-
-    For three days the entire Palestinian people gathered at their radios listening to Ankara's broadcasts —
-    even shedding tears.
+    For three days now the whole people of Palestine have been gathering at their radios, listening to
+    Ankara's broadcasts and even shedding tears.
   translated_by: "machine: research agent"
   is_translation: true
 mediated_by: Toksoy 2010 ← Cumhuriyet 19 Nov 1938 p. 4
 caveat: >-
-  Turkish-press-mediated; the 'no country more affected' superlative is Turkish framing. The Turkish is as the
-  article prints it (p. 206, fn 123); it is the Turkish press's rendering of the paper's words.
+  Toksoy introduces the extract as comment in Palestinian papers, but the text is a Turk's report from
+  Palestine ('a leading nationalist told me…'; 'as with us, here too…'), printed in Cumhuriyet. So these are a
+  Turkish observer's words about Palestinian listeners. The 'no country more affected' superlative is Turkish
+  framing. The Turkish is as the article prints it (p. 206, fn 123).
 node: Palestine at the Radios, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
@@ -39,6 +41,6 @@ verification:
     sources/toksoy-2010-balkan-mideast-press.txt (Filistin basini, fn.123, Cumhuriyet 19 Kasim 1938 s.4)
   method: local
   note: >-
-    Quote is Toksoy's Turkish rendered in English; Palestinian press original not seen. The Turkish wording
-    was read on the page of the article on 16 Nov 2026; until then the quote was an English rendering alone.
+    Palestinian press original not seen. The Turkish wording was read on the page of the article on 16 Nov
+    2026; until then the quote was an English rendering alone.
   checked_on: "2026-10-29"

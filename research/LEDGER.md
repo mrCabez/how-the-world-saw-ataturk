@@ -1999,6 +1999,21 @@ A separate reader found the Arabic behind 18 English quotes in al-Manar (vols. 2
 
 Left alone: `ben-badis-1924` (the English is stitched from three fragments of a secondary source; no scan of the original issue was seen).
 
-Not yet done: a second reading of the two Rashid Rida passages entered earlier today from my own reading (`rashid-rida-manar-1924`, `rashid-rida-manar-1925`); the reader has not reported. Nothing from this section has been re-read by a second person.
+The two Rashid Rida passages entered earlier today from my own reading (`rashid-rida-manar-1924`, `rashid-rida-manar-1925`) were re-read on the scan by the reader; one dotless ya was corrected. Nothing else in this section has been re-read by a second person.
 
 Counts: 858 quotes, 500 not in English (487 by machine, 9 by a contributor, 4 the source's own).
+
+## The Toksoy reader's other findings (2026-11-16)
+
+Points the reader of the Toksoy and Rásonyi scans noted beside the quotes, now applied:
+
+- `albert-sarraut-1938-2`: the quote ('Ona karşı hayranlık ve sevgi besliyordum') came from his Paris-Soir article on the death (Toksoy 2006 p. 151, fn 26), not from the funeral visit the record is dated by. The quote is now his arrival statement (p. 159, fn 59, Akşam 20 Nov 1938 p. 3), which is where 'deep admiration' comes from; the Paris-Soir sentence is named in the caveat.
+- `hafiz-ramazan-pasha-1938`: Toksoy's 2006 article (p. 157, fn 55, Ulus 18 Nov 1938) prints the same opening as from an article by a French journalist, 'Pier Dominik'. Both attributions are given in the caveat; neither can be preferred on these texts. Only Cumhuriyet 20 Nov is cited for him; page 201, not 200.
+- `al-ahram-1938`: 'Ayın Tarihi no. 194' was a page number; the Cumhuriyet issues were not cited for El-Ahram; the sentence is on p. 202.
+- `bulgarian-press-chorus-…-1938`: the caveat said the headline is tied to no paper. Toksoy also prints it on p. 189 inside Todor Kojuharov's Slovo article, given as said after Gladstone, and on p. 177 as 'a Bulgarian paper'.
+- `palestinian-radio-listeners-1938`: the extract is a Turk reporting from Palestine ('a leading nationalist told me'), not a Palestinian paper; caveat says so. English tense corrected.
+- `belgian-envoy-…-1938`: 'Deryınon' was the OCR's misreading of 'Derymon'.
+- `onni-talas-1938`: 'a small trading state asking what a modernising economy can buy' was not Toksoy's gloss; replaced by what she writes.
+- `polska-1938`: 'hicap' in the summary is humiliation, not the veil.
+- `independenta-romana-1938`: Toksoy prints the French title; the voice is now L'Indépendance Roumaine, the French-language Bucharest daily.
+- `proia-1938`: fn 15 concerns a 1937 issue; only fn 16 is this quotation.

@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=../../schema/voice.schema.json
 id: independenta-romana-1938
-voice: Independența Română
+voice: L'Indépendance Roumaine
 voice_type: press
-role: Romanian paper
+role: French-language Romanian daily, Bucharest
 country: Romania
 country_now: Romania
 domain: press
@@ -12,7 +12,9 @@ polarity: admiring
 intensity: 1
 artifact: article
 evidence: S
-summary: Said he would remain an organizing genius in history, leader and rescuer of a nation.
+summary: >-
+  Said he would remain in history as an organising genius, the wonder-working guide of a nation and the
+  saviour of his country.
 quote:
   text: >-
     Atatürk tarihte teşkilatçı bir dahi, bir milletin harikalar yaratan sevk ve idarecisi ve memleketinin
@@ -25,9 +27,10 @@ quote:
   is_translation: true
 mediated_by: Toksoy 2010 (Romanian originals not seen)
 caveat: >-
-  Romanian originals not seen; translated from Toksoy's Turkish. The Turkish is as the article prints it (p.
-  195, fn 77); it is the Turkish press's rendering of the paper's words. The English before 16 Nov 2026 was a
-  shortened paraphrase of it.
+  Romanian original not seen; translated from Toksoy's Turkish. Toksoy prints the paper's French title,
+  'İndependance Romaine'; the record named it 'Independența Română' until 16 Nov 2026. The Turkish is as the
+  article prints it (p. 195, fn 77); it is the Turkish press's rendering of the paper's words. The English
+  before 16 Nov 2026 was a shortened paraphrase of it.
 node: Romania Hangs the Black Flags, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009

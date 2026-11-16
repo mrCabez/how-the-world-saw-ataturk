@@ -4,32 +4,38 @@
 id: albert-sarraut-1938-2
 voice: Albert Sarraut
 role: Fransa İçişleri Bakanı, cenaze heyeti başkanı
-quote: Ona karşı hayranlık ve sevgi besliyordum.
+quote: >-
+  Türkiye’de sefir bulunduğum müddet içinde itimat ve dostluk hisleriyle beni taltif eden Atatürk’e o zamandan
+  beri derin hayranlığım vardır.
 quote_kind: original-turkish
 summary: >-
-  Fransa'nın cenaze heyetine başkanlık etti; eski bir Ankara büyükelçisi olarak Türk basınına o zamandan beri
-  Atatürk'e 'derin bir hayranlık' duyduğunu söyledi.
+  Fransa'nın cenaze heyetine başkanlık etti; eski bir Ankara büyükelçisi olarak, gelişinde Türk basınına o
+  zamandan beri Atatürk'e 'derin bir hayranlık' duyduğunu söyledi.
 caveat: >-
-  Alıntı ve 'deep admiration' ifadesi, Sarraut'nun beyanlarının Toksoy'daki Türkçe özetlerinin İngilizce
-  aktarımlarıdır. 'Courtship of Ankara' okuması Sarraut'ya değil, bir Hollanda günlük gazetesine aittir. Tüylü
-  Turan 2019 doğrudan okunmamıştır. Türkçe metin makalede basıldığı gibidir (s. 151, dn. 26); gazetenin
-  sözlerinin Türk basınındaki aktarımıdır.
+  Alıntı, cenaze için gelişinde yaptığı ve Akşam'ın Türkçe olarak bastığı açıklamasıdır (Toksoy 2006 s. 159,
+  dn. 59); sözlerinin Türk basını tarafından aktarımıdır. 16 Kasım 2026'dan önce kayıtta başka bir cümle, 'Ona
+  karşı hayranlık ve sevgi besliyordum' (I felt admiration and affection for him) alıntılanıyordu: bu cümle
+  cenaze ziyaretinden değil, Atatürk'ün ölümü üzerine Paris-Soir için yazdığı ve Akşam, Tan ile Ulus'un 11–15
+  Kasım'da bastığı makaledendir (s. 151, dn. 26). 'Ankara'ya kur yapma' ('courtship of Ankara') okuması
+  Sarraut'ya değil, bir Hollanda gazetesine aittir. Tüylü Turan 2019 doğrudan okunmadı.
 mediated_by: >-
-  Toksoy 2006 (Ulus 15 Kasım 1938; Aksam 20 Kasım 1938); Tüylü Turan 2019 (İspanyol basını); Delpher üzerinden
-  Havas
+  Toksoy 2006 ← Akşam 20 Kasım 1938 s. 3 (varış açıklaması); Tüylü Turan 2019 (İspanyol basını); Delpher
+  üzerinden Havas
 verification_note: >-
-  Heyet başkanlığı bilgisi desteklenmektedir. 'Instrumental / courtship of Ankara' notun yorumudur; Toksoy dn.
-  59 Sarraut'nun Atatürk'e duyduğunu belirttiği 'deep admiration' ifadesini aktarır, dolayısıyla araçsal
-  ('instrumental') kutupluluk desteklenmemektedir. Tuylu Turan 2019 okunmamıştır. Türkçe ifadeler 16 Kasım
-  2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce bir aktarımdı.
+  Heyet başkanlığı destekleniyor. 'Araçsal / Ankara'ya kur yapma' ('Instrumental / courtship of Ankara') notun
+  kendi okumasıdır; Toksoy dn. 59, Sarraut'nun Atatürk'e duyduğunu belirttiği 'derin hayranlık' ('deep
+  admiration') ifadesini aktarır, dolayısıyla araçsal yönelim (polarity instrumental) desteklenmemektedir.
+  Tüylü Turan 2019 okunmadı. 16 Kasım 2026'da taranmış sayfayı inceleyen bir okur, önceki alıntının Paris-Soir
+  makalesinden geldiğini tespit etti; alıntı artık o okur tarafından OCR metninde ve sayfa üzerinde okunan dn.
+  59'daki varış açıklamasıdır.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: c8b9ad53d5f8
   role: "297669362429"
-  quote: 792bf4f27844
-  summary: f63d1e537b21
-  caveat: 6c5d5879ef60
-  mediated_by: 6589ffb36ed6
-  verification_note: ede5332909c9
+  quote: 051223a1e654
+  summary: 9ca982fbb819
+  caveat: 9c93c95d3953
+  mediated_by: ac8ae0bd64b5
+  verification_note: 4fd23210c9c9
   verification_method: 939bb46a04c3

@@ -3,7 +3,7 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: belgian-envoy-to-the-funeral-name-unresolved-1938
 voice: Cenazeye gönderilen Belçika elçisi (adı çözümlenemedi)
-role: Eski Ankara büyükelçisi; Kral III. Leopold'un temsilcisi
+role: Eski Ankara büyükelçisi; cenazede Belçika'yı temsil etti
 quote: >-
   Atatürk'ü şahsen tanımakla bahtiyarım. Kendisine derin bir hürmetim vardır. Ben Ankara'da olduğum zaman
   daima güneşe bakardım. Fakat ben güneşi ufukta değil, Çankaya'da görürdüm. Çünkü hakiki güneş Çankaya'daki
@@ -13,9 +13,10 @@ summary: >-
   Atatürk'ü şahsen tanıdı ve ona derin saygı duydu; gerçek güneşi Çankaya'da gördü; kaybının bütün dünya için
   büyük olduğunu söyledi.
 caveat: >-
-  İsim kaynaklarda değişkenlik göstermektedir ('Roymond'/'Deryınon'), muhtemelen tek bir kişidir;
-  çözümlenmemiştir. Türkçe metin makalede basıldığı gibidir (s. 165, dn. 94); gazetenin sözlerinin Türk
-  basınındaki aktarımıdır.
+  Adı Toksoy'un iki makalesinde değişkenlik gösteriyor: CTAD s. 165'te 'Derymon' (Belçika Hükümeti'ni
+  temsilen) ve Atatürk Yolu s. 172 dn. 111'de 'Roymond' (Kral'ı temsilen, Akşam 18 Kasım 1938 s. 7);
+  muhtemelen tek bir kişi, çözümlenemedi. Türkçe metin makalenin bastığı şekildedir (s. 165, dn. 94);
+  sözlerinin Türk basını tarafından aktarımıdır.
 mediated_by: Toksoy 2006 CTAD ← Akşam 20 Kasım 1938 s. 3
 verification_note: >-
   Alıntı, Toksoy'un Türkçesinin İngilizce çevirisidir (OCR "Çanlmya"). Türkçe ifadeler 16 Kasım 2026'da
@@ -24,10 +25,10 @@ verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a66b75bd498f
-  role: 91748885e4e9
+  role: 815528d9bb2a
   quote: b3725264888d
   summary: 55ec3ee5f401
-  caveat: 91c5966b8379
+  caveat: a9bf3579e592
   mediated_by: 279beb042eb1
   verification_note: 18b550b86338
   verification_method: 939bb46a04c3

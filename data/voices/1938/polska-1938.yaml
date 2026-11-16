@@ -14,7 +14,7 @@ mirror: nation-forge-template
 artifact: editorial
 evidence: S
 summary: >-
-  Said he made new Turkey with the sword and ordered it with genius; saved it from the veil and partition.
+  Said he made new Turkey with the sword and ordered it with genius; saved it from humiliation and partition.
 quote:
   text: Atatürk yeni Türkiye’yi kılıç ile meydana getirmiş ve dehası ile tensik etmiştir.
   language: tr
@@ -24,7 +24,8 @@ quote:
 mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
 caveat: >-
   The Turkish is as the article prints it (p. 169, fn 98); it is the Turkish press's rendering of the paper's
-  words.
+  words. The summary's 'humiliation' is 'hicap' in the Turkish ('hicaptan ve taksime uğramaktan
+  kurtarmıştır'); before 16 Nov 2026 it read 'the veil'.
 node: Warsaw Compares Him to Washington, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/20592

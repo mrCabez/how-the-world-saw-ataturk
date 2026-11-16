@@ -12,7 +12,7 @@ summary: >-
 caveat: >-
   Üstünlük ifadeleri ve sıralama gazetenin kendisine aittir; bize Türkçe çeviri yoluyla ulaşmaktadır. Türkçe
   metin makalede basıldığı gibidir (s. 202, dn. 109); gazetenin sözlerinin Türk basınındaki aktarımıdır.
-mediated_by: Toksoy 2010 ← Cumhuriyet 12 ve 20 Kasım 1938, Ayın Tarihi no. 194 (Türkçe çeviri)
+mediated_by: Toksoy 2010 ← Ayın Tarihi s. 194 (Türkçe çeviri)
 verification_note: >-
   Toksoy'un Türkçesinden çevrilmiştir; '11 Kasım tarihli tüm Mısır gazeteleri' ('all Egyptian papers of 11
   Nov') dışında 11 Kasım kesin nüsha tarihi belirtilmemiştir. Türkçe ifadeler 16 Kasım 2026'da makalenin
@@ -25,6 +25,6 @@ source_fingerprints:
   quote: 034cd7531317
   summary: 7a131b959c25
   caveat: fb33ad1aa9de
-  mediated_by: e0cb488042f7
+  mediated_by: 7c7cc1534360
   verification_note: 0c619d848e7f
   verification_method: 939bb46a04c3

@@ -13,21 +13,27 @@ intensity: 2
 artifact: visit
 evidence: P+S
 summary: >-
-  Led France's funeral delegation; a former ambassador in Ankara, he told the Turkish press he had felt 'deep
-  admiration' for Atatürk ever since.
+  Led France's funeral delegation; a former ambassador in Ankara, he told the Turkish press on arriving that
+  Atatürk had had his 'deep admiration' ever since.
 quote:
-  text: Ona karşı hayranlık ve sevgi besliyordum.
+  text: >-
+    Türkiye’de sefir bulunduğum müddet içinde itimat ve dostluk hisleriyle beni taltif eden Atatürk’e o
+    zamandan beri derin hayranlığım vardır.
   language: tr
-  translation: I felt admiration and affection for him
-  translated_by: "machine: research agent"
+  translation: >-
+    Atatürk, who honoured me with feelings of trust and friendship while I was ambassador in Turkey, has had
+    my deep admiration ever since.
+  translated_by: "machine: claude-opus-5-5"
   is_translation: true
 mediated_by: >-
-  Toksoy 2006 (Ulus 15 Nov 1938; Aksam 20 Nov 1938) ; Tüylü Turan 2019 (Spanish press); Havas via Delpher
+  Toksoy 2006 ← Akşam 20 Nov 1938 p. 3 (arrival statement); Tüylü Turan 2019 (Spanish press); Havas via Delpher
 caveat: >-
-  Quote and 'deep admiration' are English renderings of Toksoy's Turkish summaries of Sarraut's statements.
-  The 'courtship of Ankara' reading belongs to a Dutch daily, not to Sarraut. Tüylü Turan 2019 not read
-  directly. The Turkish is as the article prints it (p. 151, fn 26); it is the Turkish press's rendering of
-  the paper's words.
+  The quote is his statement on arriving for the funeral as Akşam printed it in Turkish (Toksoy 2006 p. 159,
+  fn 59); it is the Turkish press's rendering of his words. Before 16 Nov 2026 the record quoted another
+  sentence, 'Ona karşı hayranlık ve sevgi besliyordum' (I felt admiration and affection for him): that is from
+  the article he wrote on Atatürk's death for Paris-Soir, as Akşam, Tan and Ulus printed it on 11–15 Nov (p.
+  151, fn 26), not from the funeral visit. The 'courtship of Ankara' reading belongs to a Dutch daily, not to
+  Sarraut. Tüylü Turan 2019 not read directly.
 node: Albert Sarraut
 sources:
   - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
@@ -44,9 +50,10 @@ verification:
     delegation, fn.59)
   method: local
   note: >-
-    Delegation lead supported. 'Instrumental / courtship of Ankara' is the note's reading; Toksoy fn.59 quotes
-    Sarraut's stated 'deep admiration' for Ataturk, so polarity instrumental is unsupported. Tuylu Turan 2019
-    not read. The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was
-    an English rendering alone.
+    Delegation lead supported. 'Instrumental / courtship of Ankara' is the note's reading; Toksoy fn 59 quotes
+    Sarraut's stated 'deep admiration' for Atatürk, so polarity instrumental is unsupported. Tüylü Turan 2019
+    not read. On 16 Nov 2026 a reader of the scanned page found that the earlier quote came from the
+    Paris-Soir article; the quote is now the arrival statement of fn 59, read in the OCR text and on the page
+    by that reader.
   resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
   checked_on: "2026-10-29"

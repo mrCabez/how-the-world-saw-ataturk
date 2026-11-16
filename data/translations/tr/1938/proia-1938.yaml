@@ -11,11 +11,11 @@ summary: >-
   Onu, Türk-Yunan dostluğuna olan inancı Yunanlar tarafından hatırlanacak büyük bir reformcu olarak
   nitelendirdi: Türkiye büyük kurucusunu, Yunanistan ise büyük ve güvenilir bir dostunu kaybediyor.
 caveat: >-
-  Toksoy, Yunan gazetesinden Türkçe olarak (kendi özeti olarak değil, tırnak içinde) alıntı yapmaktadır. Bu
-  alıntının Estia'ya değil Proia'ya ait olduğu anlaşıldığında 2026-10-29 tarihinde eklendi. Türkçe metin
-  makalede basıldığı gibidir (s. 180, dn. 16); gazetenin sözlerinin Türk basını tarafından aktarılmış halidir.
-  16 Kasım 2026'dan önceki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
-mediated_by: Toksoy 2010 §Yunanistan, dn. 15-16
+  Toksoy, Yunan gazetesini Türkçe olarak (yazarın kendi özeti olarak değil, tırnak içinde) aktarır. Bu
+  alıntının Estia'ya değil Proia'ya ait olduğu tespit edildiğinde 2026-10-29 tarihinde eklendi. Türkçe metin
+  makalede basıldığı gibidir (s. 180, dn. 16); bu, Türk basınının gazetenin sözlerini aktarışıdır. 16 Kasım
+  2026'dan önceki İngilizce metin bunun kısaltılmış bir açımlamasıydı.
+mediated_by: Toksoy 2010 §Yunanistan, dn. 16 (Akşam 14 Kasım 1938 s. 2)
 verification_note: >-
   düzeltmeler sırasında eklendi (alıntı estia-1938 kaydından taşındı) Türkçe ifadeler 16 Kasım 2026'da
   makalenin sayfasından okundu; o tarihe kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
@@ -26,7 +26,7 @@ source_fingerprints:
   role: 5e3f5e9ffd0a
   quote: 6f95530b3395
   summary: dee49c2efee2
-  caveat: a5e43ffd2547
-  mediated_by: 84729c372932
+  caveat: 69d2e3679bc7
+  mediated_by: 9dba4d8f5c35
   verification_note: fef94900ef84
   verification_method: 939bb46a04c3

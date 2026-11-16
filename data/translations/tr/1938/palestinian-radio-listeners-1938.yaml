@@ -12,22 +12,22 @@ summary: >-
   Üç gün boyunca bütün Filistin halkı radyolarının başında toplanarak Ankara'nın yayınlarını dinledi, hatta
   gözyaşı döktü.
 caveat: >-
-  Türk basını aracılığıyla aktarılmıştır; 'daha fazla etkilenen bir ülke olmadığı' yönündeki üstünlük ifadesi
-  Türk basınının çerçevelemesidir. Türkçe metin makalede basıldığı şekildedir (s. 206, dn. 123); gazetenin
-  sözlerinin Türk basını tarafından aktarılmış halidir.
+  Toksoy alıntıyı Filistin gazetelerindeki yorumlar olarak sunar, ancak metin bir Türk'ün Filistin'den
+  bildirdiği, Cumhuriyet'te basılan bir yazıdır ('a leading nationalist told me…'; 'as with us, here too…').
+  Dolayısıyla bunlar Filistinli dinleyiciler hakkında bir Türk gözlemcinin sözleridir. 'no country more
+  affected' üstünlük ifadesi Türk çerçevelemesidir. Türkçe metin makalede basıldığı gibidir (s. 206, dn. 123).
 mediated_by: Toksoy 2010 ← Cumhuriyet 19 Kasım 1938 s. 4
 verification_note: >-
-  Alıntı, Toksoy'daki Türkçe metnin İngilizceye çevrilmiş halidir; Filistin basınındaki aslı görülmemiştir.
-  Türkçe metin 16 Kasım 2026'da makalenin sayfasından okunmuştur; o tarihe kadar alıntı yalnızca İngilizce
-  çeviriden ibaretti.
+  Filistin basınındaki aslı görülmedi. Türkçe ifadeler 16 Kasım 2026'da makalenin sayfasından okundu; o tarihe
+  kadar alıntı yalnızca İngilizce bir çeviriden ibaretti.
 verification_method: yerel
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: feb5bd2f514f
   role: 124dc8cdbb38
-  quote: 196ffde3768b
+  quote: f92fc78e48f2
   summary: 75706cddd094
-  caveat: "446579452983"
+  caveat: 22ab5b7252d3
   mediated_by: 32885fc42576
-  verification_note: c6761a96280d
+  verification_note: 8020f2a565a4
   verification_method: 939bb46a04c3

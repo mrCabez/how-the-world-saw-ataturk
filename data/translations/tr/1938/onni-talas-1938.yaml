@@ -10,9 +10,10 @@ summary: >-
   Türkler kadar kederlendi; Türkiye'de görülen ilerlemeyi, özellikle ekonomiyi övdü ve Fin-Türk ekonomik
   ilişkilerinin iyi olmasını umdu.
 caveat: >-
-  Toksoy'un yorumu: modernleşen bir ekonominin ne satın alabileceğini soran küçük bir ticaret devleti. Türkçe
-  metin makalede basıldığı şekildedir (s. 166, dn. 96); gazetenin sözlerinin Türk basını tarafından aktarılmış
-  halidir.
+  Alıntı, kayıp üzerine yaptığı açıklamadır; haberi Budapeşte'de duyduğunu söylemektedir. Toksoy yalnızca
+  Talas'ın Türkiye'nin ekonomik kalkınmasına büyük ilgi duyduğunu ve bunun iki ülke arasındaki ticarete
+  yardımcı olacağını düşündüğünü ekler. Türkçe metin makalede basıldığı gibidir (s. 166, dn. 96); sözlerinin
+  Türk basınındaki aktarım biçimidir.
 mediated_by: Toksoy 2006 (CTAD) ← Ulus 7 Aralık 1938
 verification_note: >-
   Türkçeden çevrilmiştir; açıklama 7 Aralık tarihli Ulus gazetesinde yer almıştır. Türkçe metin 16 Kasım
@@ -24,7 +25,7 @@ source_fingerprints:
   role: 4f6db4f90b64
   quote: c7b3cef6a51f
   summary: 7a0d6d9ce71d
-  caveat: 826a0e3b04d9
+  caveat: b749fd43dc94
   mediated_by: a8eb3bcb8457
   verification_note: 2afc2d99d456
   verification_method: 939bb46a04c3

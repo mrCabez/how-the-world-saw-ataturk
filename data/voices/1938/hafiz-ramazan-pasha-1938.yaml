@@ -21,17 +21,20 @@ quote:
   translation: Without Kemal Atatürk, would we have seen a new Turkey? Perhaps not.
   translated_by: "machine: research agent"
   is_translation: true
-mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
+mediated_by: Toksoy 2010 ← Cumhuriyet 20 Nov 1938 p. 9 (Turkish translation)
 caveat: >-
   Note calls the Lausanne claim Egyptian self-interest speaking. The Turkish is as the article prints it (p.
-  201, fn 106); it is the Turkish press's rendering of the paper's words.
+  201, fn 106); it is the Turkish press's rendering of his words. Toksoy's 2006 article (p. 157, fn 55: Ulus
+  18 Nov 1938 p. 5) prints the same opening sentences, and several later phrases, as from an article by a
+  French journalist, 'Pier Dominik'. Which attribution is right cannot be settled from the two articles.
 node: Cairo Mourns, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.200 (Hafız Ramazan Paşa, Cumhuriyet 20 Nov)
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt p. 201 (Hafız Ramazan Paşa, Cumhuriyet 20 Nov)
   method: local
   note: >-
     The Turkish wording was read on the page of the article on 16 Nov 2026; until then the quote was an

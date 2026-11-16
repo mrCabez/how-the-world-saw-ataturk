@@ -9,8 +9,11 @@ quote_kind: original-turkish
 summary: >-
   Bir basın korosu onun yasını tuttu; bir manşet, ölümünden sonra dünyanın daha az ilginç olduğunu söyledi.
 caveat: >-
-  Başlık notta belirli bir gazeteye atfedilmemiştir. Türkçe metin makalede basıldığı şekildedir (s. 188); Türk
-  basınının gazetenin sözlerini aktarım biçimidir.
+  Toksoy bu cümleyi üç kez basar: s. 177'de 'a Bulgarian paper' (bir Bulgar gazetesi) sözleri olarak (Ulus 14
+  Kasım 1938); s. 188'de genel olarak Bulgar gazetelerindeki bir manşet olarak; ve s. 189'da Slovo direktörü
+  Todor Kojuharov imzalı, bunu Gladstone'dan sonra söylenmiş olarak aktaran bir yazının içinde (dn. 57: Akşam
+  14 Kasım, Kurun 15 Kasım 1938). Alıntı, s. 188'deki manşet biçimidir. Gazetelerin sözlerinin Türk
+  basınındaki aktarımıdır.
 mediated_by: Toksoy 2010 ← Türk basını; Tatarlı 'Bulgar Basınında Atatürk'
 verification_note: >-
   Başlık genel olarak 'Bulgar gazeteleri'ne atfedilmiştir; Slovo, Utro, Dness, Zora ve La Parole Bulgare
@@ -23,7 +26,7 @@ source_fingerprints:
   role: c87e66387564
   quote: e52c261f64d0
   summary: 49ee4a89fdee
-  caveat: 721dcbe94f0b
+  caveat: ff73732f7244
   mediated_by: 6f887b83e062
   verification_note: 2e6df0c605f6
   verification_method: 939bb46a04c3

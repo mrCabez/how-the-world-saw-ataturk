@@ -7,10 +7,13 @@ role: Yarı resmî Polonya günlük gazetesi
 quote: Atatürk yeni Türkiye’yi kılıç ile meydana getirmiş ve dehası ile tensik etmiştir.
 quote_kind: original-turkish
 summary: >-
-  Yeni Türkiye'yi kılıçla kurup dehasıyla düzene koyduğunu; onu peçeden ve parçalanmaktan kurtardığını söyledi.
+  Yeni Türkiye'yi kılıçla kurup dehasıyla düzene koyduğunu; onu aşağılanmaktan ve parçalanmaktan kurtardığını
+  söyledi.
 caveat: >-
-  Türkçe metin makalede basıldığı gibidir (s. 169, dn. 98); gazetenin sözlerinin Türk basını tarafından
-  aktarılmış halidir.
+  Türkçe metin makalede basıldığı gibidir (s. 169, dn. 98); bu, Türk basınının gazetenin sözlerini
+  aktarışıdır. Özetteki 'aşağılanma' (humiliation) ifadesi Türkçe metinde 'hicap' olarak geçmektedir
+  ('hicaptan ve taksime uğramaktan kurtarmıştır'); 16 Kasım 2026'dan önce burada 'peçe' ('the veil')
+  yazıyordu.
 mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
 verification_note: >-
   Türkçe ifadeler 16 Kasım 2026'da makalenin sayfasından okundu; o tarihe kadar alıntı yalnızca İngilizce bir
@@ -21,8 +24,8 @@ source_fingerprints:
   voice: 224d1ec2cc10
   role: 72369b2af260
   quote: 3113f57a536b
-  summary: 6476f5db12fa
+  summary: 59a7b21c66d7
   mediated_by: aa5a462e96c0
   verification_method: 939bb46a04c3
-  caveat: fa5da2fdd846
+  caveat: a7f4d3608106
   verification_note: 34527eb75960

@@ -10,10 +10,11 @@ summary: >-
   Hem Türkiye'nin yeniden doğuşunu hem de kalıcı bir Türk-Yunan dostluğunu anlayıp gerçekleştirmiş olan
   Atatürk'ün, Türk-Yunan ilişkilerinin iyi bir hamisi olduğunu yazdı.
 caveat: >-
-  Toksoy, Yunan gazetesini Türkçe olarak (kendi özeti olarak değil, tırnak içinde) aktarır. 29 Ekim 2026'da
-  düzeltildi: 'if Turkey loses its founder, Greece loses a great and trusted friend' satırı Estia'ya değil,
-  Proia'ya aittir (Toksoy dipnot 16); bkz. proia-1938. Türkçe metin makalede basıldığı gibidir (s. 179);
-  gazetenin sözlerinin Türk basını tarafından aktarılmış halidir.
+  Toksoy Yunan gazetesini Türkçe olarak (yazarın kendi özeti olarak değil, tırnak içinde) alıntılar.
+  2026-10-29 tarihinde düzeltildi: 'if Turkey loses its founder, Greece loses a great and trusted friend'
+  (Türkiye kurucusunu kaybederse, Yunanistan büyük ve güvenilir bir dostunu kaybeder) cümlesi Estia'nın değil,
+  Proia'nındır (Toksoy dn. 16); bkz. proia-1938. Türkçe metin makalede basıldığı gibidir (s. 179); gazetenin
+  sözlerinin Türk basınındaki aktarımıdır.
 mediated_by: Toksoy 2010 §Yunanistan
 verification_note: >-
   Alıntı yanlış atfedilmiştir: 'If Turkey loses its great founder, Greece loses a great and trusted friend'
@@ -28,7 +29,7 @@ source_fingerprints:
   role: 5e3f5e9ffd0a
   quote: ef6d067a083e
   summary: 77ff8e1c3a95
-  caveat: ecdd0f820dcf
+  caveat: 01569fdad537
   mediated_by: 260873f7d960
   verification_note: 5ec49809aab5
   verification_method: 939bb46a04c3
