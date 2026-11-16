@@ -4,22 +4,31 @@
 id: l-action-francaise-1933-10-31
 voice: L'Action française
 role: Kralcı-milliyetçi günlük gazete
-quote: Mustafa Kemal'in zaferi feci iflasa yol açtı
+quote: >-
+  Mustafa Kemal'in zaferinin Yunan megalomanisinin feci iflasına yol açtığı 1922 yazından bu yana Yunanistan
+  boyun eğmiştir: yeni bir Helen Bizans'ına dair 'Büyük İdea'dan geriye, kendisine yalnızca bedeli ağır
+  ödenmiş muazzam yanılsamaların anısı kalmıştır.
 quote_kind: translated
 summary: >-
   Türk-Yunan dostluğunun arka planı olarak, Mustafa Kemal'in 1922'deki zaferinin Yunan megalomanisinin 'feci
   başarısızlığına' yol açtığını hatırlattı.
 caveat: >-
-  Metin parçası düzeyinde, sayfa 1, 'mèga' (muhtemelen 'mégalomanie') ifadesinden sonra kesilmiş; OCR 'provo
-  qua' kelimesini bölmüş. Nötr ile onaylayıcı arası bir okuma görülmediğinden tanık olarak kaydedildi.
-verification_note: OCR 'provo qua' kelimesini bölmüş; yalnızca metin parçası
-verification_method: veri çekme
+  'Du nouveau dans les Balkans', Jacques Arnauld imzalı (Bainville veya Maurras değil), sayfa 1, sütun 6'nın
+  altından sayfa 2'ye uzanıyor (künye: 26. yıl, sayı 304, 31 Ekim 1933 Salı); cümle sayfa geçişinde bölünüyor
+  ('méga-' / 'lomanie'). Kemal'in adı yalnızca burada geçiyor; geri kalanı Bulgaristan, Küçük Antant ve Fransa
+  hakkında. Devamı şöyle: 'Et vite, la Grèce … comprit qu'un seul parti lui restait : se réconcilier avec son
+  vainqueur. Ainsi naquit l'amitié gréco-turque.'
+verification_note: >-
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5935eec82225
   role: 15eee0b2b72c
-  quote: 6f94b1fe7380
+  quote: 5b4e741ab223
   summary: ed0672de7dae
-  caveat: 5da627256b66
-  verification_note: 41f0f8ab76ed
-  verification_method: ad8cee67138e
+  caveat: 80df563c3a56
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

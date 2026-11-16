@@ -13,17 +13,21 @@ intensity: 1
 artifact: article
 evidence: P
 summary: >-
-  Fragment: Kemal is wary, and right to be; lead-in cut, so object and editorial voice are unshown.
+  Remarked that Kemal, wanting the armistice request to come from the Greek commander, is wary and right: 'a man who knows how to will'.
 quote:
-  text: Moyistapha Kémal se méfie et il a rai son
+  text: Moustapha Kémal se méfie et il a raison.
   language: fr
-  translation: Mustapha Kemal is wary, and he is right
+  translation: Moustapha Kémal is wary, and he is right.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 3. Short fragment; the lead-in is cut. OCR 'Moyistapha ... rai son' for 'Moustapha ... raison'. Reading
-  as the paper's own view is from the first-person tone of the line. Gallica ContentSearch fragment, OCR
-  copied as given; view number is Gallica's, not necessarily the printed page. After check: context
-  (neutral-zone ultimatum) and paper's-own-view reading not supported by the fragment; trimmed.
+  Page 3 (masthead: no. 260, Sunday 17 September 1922), 'Revue de la presse', section 'La maladie de la
+  volonté', continued on p. 4 and signed Robert Havard de la Montagne. The paper reviews Eugène Lautier in
+  L'Homme libre. The sentence is set in the reviewer's own type, with no quotation marks, so it is the
+  reviewer's comment or his condensing of Lautier's conclusion; which of the two the type does not settle.
+  Context: Kemal says that before negotiating with the Greeks he would prefer an armistice request from the
+  Greek commander-in-chief to the Allied powers' intervention, which Lautier sets against France's armistice
+  of November 1918. The review ends: 'Voilà un homme qui sait vouloir...'. (The printed 'se méfie' and
+  'raison' were OCR-damaged in the earlier record; the neutral-zone context it described is not in the print.)
 node: Paris Dailies on Kemal's Victory, 11–17 September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k7613473
@@ -31,11 +35,10 @@ sources:
 verification:
   verdict: partial
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k7613473 (PAG_3)
-  method: ms fetch ContentSearch (first call bot_blocked, retry ok)
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k7613473), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    OCR fragment 'Moyistapha Kémal se méfie et il a rai son' present, but fragment gives no context:
-    'threatened him over neutral zone' and the paper's own stance are not visible (only PAG_1 line that Allied
-    governments instructed high commissioners to notify Mustapha-Kemal). Date not confirmed.
-  resolution: fixed before merge
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

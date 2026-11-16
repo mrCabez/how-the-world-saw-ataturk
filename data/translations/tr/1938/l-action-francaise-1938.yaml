@@ -4,24 +4,34 @@
 id: l-action-francaise-1938
 voice: L'Action française
 role: Paris kralcı-milliyetçi günlük gazetesi
-quote: artık ulusal toprağı savunmaya hazır adamlardan başka hiçbir şey yoktu
+quote: >-
+  Kemal'in büyük sırrı, Osmanlı İmparatorluğu'nun romantik dantelinin ardında ulusal toprağı savunmaya hazır
+  insanlardan başka hiçbir şey kalmadığını anlamış olması değil midir.
 quote_kind: translated
 summary: >-
   Sırrı: Osmanlı dantelinin ardında yalnızca ulusal toprağı savunmaya hazır adamlar duruyordu; Batı Çanakkale
   Boğazı'nı izlerken öldü.
 caveat: >-
-  Alıntı Gallica OCR'ından kopyalanmıştır; makalenin tamamı olarak değil, arama sonucu parçaları olarak
-  okunmuştur. Ertesi günkü basın özeti yazısı (12 Kasım) diğer gazeteleri aktarır; gazetenin oradaki kendi
-  tutumu kısmen çıkarımla belirlenmiştir.
+  11 Kasım 1938 (sayı 315), sayfa 2, sütun 1, 'La mort du Ghazi', J. Le Boucher imzalı. Yazı şöyle devam
+  ediyor: 'L'audace sans limites de Mustapha Kemal aura grandement servi sa patrie et lui' ve şöyle bitiyor:
+  'Kemal Ataturk, le « père de la patrie », disparaît au moment où l'Occident, plus que jamais, a les regards
+  tournés vers les Dardanelles. Sa succession sera lourde à porter.' Yazı ayrıca 'Mustapha Kemal se permet
+  tout et tous les Turcs l'applaudissent' diyor ve fesin yasını tutuyor ('une casquette vulgaire et sombre').
+  12 Kasım sayısı (sayı 316), sayfa 5, 'Revue de la presse' (Interim imzalı), La République'ten Pierre
+  Dominique'i ('Oui ou non, Kemal Ataturk a-t-il sauvé l'Etat ? Tous les Turcs dignes de ce nom répondent
+  oui') ve L'Intransigeant'dan Gallus'u alıntılıyor ve incelemeyi yapanın, diktatörlüğün istikrarsızlığının
+  gazete yazarlarını 'monarchistes' yaptığına dair kendi satırını ekliyor.
 verification_note: >-
-  Tam makale/11 Kasım 1938 tarihi ve "West watched Dardanelles" doğrulanamıyor; alıntı bir arama parçasıdır.
-verification_method: getirme
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5935eec82225
   role: 48f28912435a
-  quote: adbcd99df1e0
+  quote: 6264dec0bb34
   summary: c819acd967ad
-  caveat: fbb5856d3882
-  verification_note: d9891147ae19
-  verification_method: ad8cee67138e
+  caveat: 37cb0281df4c
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

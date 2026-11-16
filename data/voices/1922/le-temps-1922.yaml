@@ -15,18 +15,36 @@ evidence: P
 summary: >-
   Reported that Kemal decreed death for soldiers committing excesses and was ready for a peace conference,
   alongside the burning of Smyrna.
+quote:
+  text: >-
+    Moustapha Kemal se déclara prêt à participer à une conférence de paix; mais si elle n'a pas lieu en
+    territoire turc, il ne sera pas autorisé par le gouvernement d'Angora à s'y rendre.
+  language: fr
+  translation: >-
+    Moustapha Kemal declared himself ready to take part in a peace conference; but if it is not held on
+    Turkish territory, he will not be authorised by the Angora government to attend.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Dispatch-level
-  reporting; no editorial judgement of him in the fragments.
+  Both passages are on page 2 of the issue of 16 September 1922 (no. 22321). The peace-conference sentence is
+  the paper's unsigned summary of Kemal's interview with Ward Price of the Daily Mail, in the section 'Les
+  conditions de paix de la Turquie / Déclarations de Moustapha Kemal', which also prints him directly ('Il n'y
+  a plus de raisons de se battre. Je désire sincèrement la paix.'; 'Nous ne voulons pas d'actes de vengeance …
+  pour nous, le passé est le passé'). The death-penalty sentence ('Kemal pacha a édicté la peine de mort
+  contre tous les soldats qui commettraient des excès. Cet ordre sera respecté.') is from the paper's special
+  correspondent in Berlin, relaying the Angora minister of posts, Sabri bey. The burning of Smyrna is on p. 1
+  ('Smyrne en feu', 'Smyrne brûle depuis douze heures'); Kemal is not named in those dispatches. Neither
+  passage was found in the 17 September issue.
 node: Paris Reads Smyrna and the Straits, September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k244864h
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k244865w
 verification:
   verdict: confirmed
+  quote_found: true
   checked_against: >-
-    gallica ContentSearch ark bpt6k244864h (16 Sep 1922) hits 'Kemal pacha a édicté la peine de mort ...
-    excès'; 'se déclara prêt à participer à une conférence de paix'
-  method: fetch
-  note: Search-hit fragments only (as caveat says); Smyrna fire part not seen in fragments.
-  checked_on: "2026-10-29"
+    Gallica scan (page images of ark:/12148/bpt6k244864h), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

@@ -4,24 +4,32 @@
 id: l-humanite-1922-09-11
 voice: L'Humanité
 role: Paris Komünist günlük gazetesi
-quote: Kemal bununla birlikte Asya'da Britanya emperyalizmini vurabilir
+quote: >-
+  Bununla birlikte Kemal, gerek Mezopotamya ve Filistin Araplarıyla anlaşarak — dün bir hayal olan bu uzlaşma
+  bugün hiç kuşkusuz gerçekleştirilebilir — gerekse Afganistan ve Hindistan'da İslamcılığın yeniden
+  şahlanışından yararlanarak Asya'daki Britanya emperyalizmini vurabilir.
 quote_kind: translated
 summary: >-
   Kemal'in zaferini, Araplar veya Afganistan üzerinden Asya'daki Britanya emperyalizmine olası bir darbe
   olarak okudu.
 caveat: >-
-  Görünüm 3. Parça cümle ortasından kesilmiştir; içinde bir kişi olarak Kemal'e yönelik övgü ya da yergi yer
-  almaz. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir,
-  basılı sayfa numarası olmayabilir.
+  Sayfa 3, sütun 1, 'Nouvelles internationales', üst başlık 'L'Angleterre en face des Turcs', başlık 'Les
+  conséquences mondiales du conflit', Paul Louis imzalı (künye: sayı 6743, 11 Eylül 1922 Pazartesi). Matbaa
+  satır sonunda bir heceyi çift basmıştır ('ac-/accord'); alıntıda 'accord' yer almaktadır. Makale şöyle
+  başlar: 'L'Angleterre de Lloyd George, de Curzon, des grands financiers, des grands pétroliers et le
+  kemalisme — c'est-à-dire la Turquie réveillée — sont face à face' ve milliyetçilerin Küçük Asya'yı 'avec une
+  rapidité prodigieuse' yeniden fethettiğini söyler.
 verification_note: >-
-  Birebir OCR parçası; nüsha tarihi kayıt/ark bilgisinden alınmıştır, bağımsız olarak doğrulanmamıştır.
-verification_method: ms fetch ContentSearch
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1dc1e2aacc89
   role: eeeadc09fd53
-  quote: 7b484414fe11
+  quote: 70a00469554d
   summary: 17a1e3dcb91a
-  caveat: fb52893cc081
-  verification_note: e932b79134cd
-  verification_method: 20b5d45e7de4
+  caveat: 70b3b78b9ef6
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

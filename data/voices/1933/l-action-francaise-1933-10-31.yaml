@@ -16,13 +16,22 @@ summary: >-
   Recalled that Mustapha Kemal's victory in 1922 caused the 'catastrophic failure' of Greek megalomania, as
   background to Greek-Turkish friendship.
 quote:
-  text: la victoire de Mustapha Kemal provo qua la faillite catastrophique
+  text: >-
+    Depuis l'été de 1922, où la victoire de Mustapha Kemal provoqua la faillite catastrophique de la
+    mégalomanie grecque, la Grèce s'est résignée : de la « Grande Idée » d'une nouvelle Byzance hellénique, il
+    ne lui reste que le souvenir d'immenses illusions chèrement payées.
   language: fr
-  translation: the victory of Mustapha Kemal brought about the catastrophic collapse
+  translation: >-
+    Since the summer of 1922, when Mustapha Kemal's victory caused the catastrophic bankruptcy of Greek
+    megalomania, Greece has resigned herself: of the 'Great Idea' of a new Hellenic Byzantium, nothing remains
+    but the memory of immense illusions dearly paid for.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Fragment-level, page 1, cut after 'mèga' (presumably 'mégalomanie'); OCR splits 'provo qua'.
-  Neutral-to-approving reading is not shown, so recorded as witness.
+  'Du nouveau dans les Balkans', signed Jacques Arnauld (not Bainville or Maurras), from the foot of page 1,
+  column 6 to page 2 (masthead: 26th year, no. 304, Tuesday 31 October 1933); the sentence crosses the page
+  turn ('méga-' / 'lomanie'). Kemal is named only here; the rest is about Bulgaria, the Little Entente and
+  France. Next: 'Et vite, la Grèce … comprit qu'un seul parti lui restait : se réconcilier avec son vainqueur.
+  Ainsi naquit l'amitié gréco-turque.'
 node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k765409w
@@ -30,7 +39,9 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    gallica.bnf.fr ark bpt6k765409w ContentSearch page 1 + OAIRecord (31 octobre 1933, no. 304)
-  method: fetch
-  note: OCR splits 'provo qua'; fragment only
-  checked_on: "2026-10-29"
+    Gallica scan (page images of ark:/12148/bpt6k765409w), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

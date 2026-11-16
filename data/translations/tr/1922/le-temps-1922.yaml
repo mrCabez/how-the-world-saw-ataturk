@@ -4,21 +4,35 @@
 id: le-temps-1922
 voice: Le Temps
 role: Paris yarı resmi günlük gazetesi
+quote: >-
+  Mustafa Kemal bir barış konferansına katılmaya hazır olduğunu beyan etti; ancak konferans Türk topraklarında
+  yapılmazsa, Angora hükümeti tarafından oraya gitmesine izin verilmeyecektir.
+quote_kind: translated
 summary: >-
   İzmir yangınıyla birlikte, Kemal'in taşkınlık yapan askerler için ölüm cezası kararlaştırdığını ve bir barış
   konferansına hazır olduğunu bildirdi.
 caveat: >-
-  Alıntı Gallica OCR'dan kopyalanmıştır; makalenin tamamı olarak değil, arama eşleşmesi parçaları halinde
-  okunmuştur. Telgraf düzeyinde habercilik; parçalarda onun hakkında editöryal bir yargı yer almamaktadır.
+  Her iki pasaj da 16 Eylül 1922 tarihli sayının (sayı 22321) 2. sayfasındadır. Barış konferansı cümlesi, 'Les
+  conditions de paix de la Turquie / Déclarations de Moustapha Kemal' bölümünde yer alan, Kemal'in Daily
+  Mail'den Ward Price'a verdiği mülakatın gazeteye ait imzasız özetidir; aynı bölüm onun sözlerini doğrudan da
+  aktarır ('Il n'y a plus de raisons de se battre. Je désire sincèrement la paix.'; 'Nous ne voulons pas
+  d'actes de vengeance … pour nous, le passé est le passé'). Ölüm cezası cümlesi ('Kemal pacha a édicté la
+  peine de mort contre tous les soldats qui commettraient des excès. Cet ordre sera respecté.'), gazetenin
+  Berlin'deki özel muhabirinden gelmekte olup Ankara posta nazırı Sabri Bey'in sözlerini aktarmaktadır. İzmir
+  yangını s. 1'dedir ('Smyrne en feu', 'Smyrne brûle depuis douze heures'); bu telgraflarda Kemal'in adı
+  geçmez. Her iki pasaja da 17 Eylül tarihli sayıda rastlanmamıştır.
 verification_note: >-
-  Yalnızca arama eşleşmesi parçaları (uyarı notunda belirtildiği gibi); İzmir yangını kısmı parçalarda
-  görülmedi.
-verification_method: fetch
+  16 Kasım 2026 tarihinde başka bir okuyucu tarafından BnF görüntü servisinden alınan sayfa taraması üzerinden
+  okundu; kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına
+  dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri alındı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d5ca4c141833
   role: e6898d5c7551
   summary: 95dd1be27021
-  caveat: 9eaf1110bcab
-  verification_note: 9bb5ab245511
-  verification_method: ad8cee67138e
+  caveat: 651a7677ae17
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f
+  quote: d96c70abf6b4

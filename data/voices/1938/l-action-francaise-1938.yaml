@@ -17,25 +17,35 @@ summary: >-
   His secret: behind the Ottoman lace stood only men ready to defend national soil; he died as the West
   watched the Dardanelles.
 quote:
-  text: il n'y avait plus rien, sinon des hommes prêts à défendre le sol national
+  text: >-
+    Le grand secret de Kemal n'aura-t-il pas été de comprendre que derrière la dentelle romantique de l'empire
+    ottoman, il n'y avait plus rien, sinon des hommes prêts à défendre le sol national.
   language: fr
-  translation: there was nothing left, except men ready to defend the national soil
+  translation: >-
+    Was not Kemal's great secret to have understood that behind the romantic lace of the Ottoman empire there
+    was nothing left, except men ready to defend the national soil.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Next day's press-review
-  item (12 Nov) relays other papers; the paper's own stance there is partly inferred.
+  11 November 1938 (no. 315), page 2, column 1, 'La mort du Ghazi', signed J. Le Boucher. It goes on:
+  'L'audace sans limites de Mustapha Kemal aura grandement servi sa patrie et lui', and ends: 'Kemal Ataturk,
+  le « père de la patrie », disparaît au moment où l'Occident, plus que jamais, a les regards tournés vers les
+  Dardanelles. Sa succession sera lourde à porter.' The article also says 'Mustapha Kemal se permet tout et
+  tous les Turcs l'applaudissent' and mourns the fez ('une casquette vulgaire et sombre'). The 12 November
+  issue (no. 316), page 5, 'Revue de la presse' (signed Interim), quotes Pierre Dominique in La République
+  ('Oui ou non, Kemal Ataturk a-t-il sauvé l'Etat ? Tous les Turcs dignes de ce nom répondent oui') and Gallus
+  in L'Intransigeant, and adds the reviewer's own line that the precariousness of dictatorship makes
+  'monarchistes' of the paper's writers.
 node: Paris Reads the Death, 11–12 November 1938
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k767243x
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k7672449
 verification:
-  verdict: secondary-only
+  verdict: confirmed
   quote_found: true
   checked_against: >-
-    Gallica ark bpt6k767243x: only search-hit snippet a local working file cs2.out) "il n'y avait plus rien,
-    sinon des hommes prêts à défendre le sol national"; Gallica blocked
-  method: fetch
+    Gallica scan (page images of ark:/12148/bpt6k767243x), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Full article/date 11 Nov 1938 and "West watched Dardanelles" not checkable; quote is a search fragment.
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

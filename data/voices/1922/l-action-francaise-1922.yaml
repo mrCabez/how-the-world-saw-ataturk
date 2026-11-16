@@ -13,28 +13,32 @@ intensity: 1
 artifact: article
 evidence: P
 summary: >-
-  Read Moustapha Kemal's and Fethi Bey's statements as moderate, the Turks as not unreasonable, in a Balkan
-  war-scare column.
+  Read Moustapha Kemal's and Fethi Bey's statements as moderate and urged a quick peace, warning he might grow
+  bolder if it was delayed.
 quote:
-  text: De même, Moustapha Kemal semble modéré
+  text: >-
+    De même, Moustapha Kemal semble modéré. Il n'est pas sûr que bientôt il ne vienne à s'enhardir.
   language: fr
-  translation: Likewise, Mustapha Kemal seems moderate
+  translation: >-
+    Likewise, Moustapha Kemal seems moderate. It is not certain that he will not soon grow bolder.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. 'Instrumental' is an
-  inference from the paper's Eastern-question framing, not stated in the fragments.
+  Page 1, last column, 'La paix tardive de l'Orient', signed J. B. (masthead: no. 259, Saturday 16 September
+  1922). The article says the Turks do not seem unreasonable or intent on attacking the neutral zone (the
+  paper spells 'Fehti bey'), dismisses the Balkan scare reported by the English press as 'déjà calmée si elle
+  n'a pas été inventée', and asks: 'puisque la Turquie n'est pas détruite et que personne ne se charge d'aller
+  la tuer à Angora, ne vaut-il pas mieux s'accommoder de son existence ?'. It is not a Balkan war-scare
+  column, as the earlier record said.
 node: Paris Reads Smyrna and the Straits, September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k761346q
 verification:
-  verdict: secondary-only
+  verdict: confirmed
   quote_found: true
   checked_against: >-
-    Gallica ark bpt6k761346q: only search-hit snippet a local working file cs3.out/cs4.out) "De même,
-    Moustapha Kemal semble modéré"; Gallica page blocked (captcha/bot_blocked)
-  method: fetch
+    Gallica scan (page images of ark:/12148/bpt6k761346q), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Full article, date 16 Sep 1922, "Balkan war-scare column" and polarity=instrumental not checkable; quote
-    is a search fragment.
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

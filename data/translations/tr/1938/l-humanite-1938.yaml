@@ -12,17 +12,22 @@ summary: >-
   Türkiye'yi hilafetten ve İngiliz emellerinden kurtardı, Sovyet dostluğunu korudu, ancak sosyalistleri ve
   komünistleri bastırdı; ölümü Türkiye'yi Hitler'e açabilir.
 caveat: >-
-  Alıntı Gallica OCR metninden kopyalandı; makalenin tamamı olarak değil, arama sonucu parçaları olarak okundu.
+  Sayfa 3, sağ üst, 'Kemal Ataturk est mort hier', 'Istamboul, 10 novembre' mahreçli, imzasız, 11 Kasım 1938
+  tarihli sayıda (sayı 14.571). 'libéra la Turquie du joug du califat et des visées anglaises, et dont la
+  disparition peut favoriser la poussée hitlérienne' ifadeleri 1. sayfadaki bir karikatürün alt yazısıdır;
+  'répression féroce' cümlesi 3. sayfadadır ve ardından şu gelir: 'ne va-t-elle pas permettre à la réaction
+  turque de laisser s'accentuer la pénétration hitlérienne en Proche-Orient ?'.
 verification_note: >-
-  Birinci sayfa: 'libéra la Turquie du joug du califat et des visées anglaises ... disparition peut favoriser
-  la poussée hitlérienne'. Tam sayfa değil, yalnızca parçalar; alıntı s. 3 parçasında birebir yer alıyor.
-verification_method: veri çekme
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1dc1e2aacc89
   role: eeeadc09fd53
   quote: 080160c5f76d
   summary: f9a407d439a8
-  caveat: 832b40f430db
-  verification_note: 7fff32e73679
-  verification_method: ad8cee67138e
+  caveat: 48f824d42990
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

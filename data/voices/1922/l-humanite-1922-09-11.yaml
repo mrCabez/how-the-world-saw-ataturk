@@ -15,20 +15,33 @@ evidence: P
 summary: >-
   Read Kemal's victory as a possible blow at British imperialism in Asia, through the Arabs or Afghanistan.
 quote:
-  text: Kemal peut cependant '.atteindre l'impérialisme britannique en Asie
+  text: >-
+    Kemal peut cependant atteindre l'impérialisme britannique en Asie, — soit qu'il se concerte avec les
+    Arabes de Mésopotamie et de Palestine — accord chimérique hier, sans doute réalisable aujourd'hui, — soit
+    qu'il exploite en Afghanistan et dans l'Inde le sursaut de l'islamisme.
   language: fr
-  translation: Kemal can, however, strike at British imperialism in Asia
+  translation: >-
+    Kemal can nevertheless strike British imperialism in Asia, either by coming to terms with the Arabs of
+    Mesopotamia and Palestine, an agreement that was a chimera yesterday and is no doubt feasible today, or by
+    exploiting the revival of Islamism in Afghanistan and India.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 3. Fragment is a mid-sentence cut; no praise or blame of Kemal as a person appears in it. Gallica
-  ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+  Page 3, column 1, 'Nouvelles internationales', overline 'L'Angleterre en face des Turcs', headline 'Les
+  conséquences mondiales du conflit', signed Paul Louis (masthead: no. 6743, Monday 11 September 1922). The
+  printer doubled a syllable at the line end ('ac-/accord'); the quote has 'accord'. The article opens:
+  'L'Angleterre de Lloyd George, de Curzon, des grands financiers, des grands pétroliers et le kemalisme —
+  c'est-à-dire la Turquie réveillée — sont face à face', and says the nationalists reconquered Asia Minor
+  'avec une rapidité prodigieuse'.
 node: Paris Dailies on Kemal's Victory, 11–17 September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k400518q
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k400518q, PAG_3 fragment
-  method: ms fetch ContentSearch
-  note: Exact OCR fragment; issue date taken from record/ark, not independently confirmed.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k400518q), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

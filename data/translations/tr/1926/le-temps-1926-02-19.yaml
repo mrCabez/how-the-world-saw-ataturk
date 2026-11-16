@@ -4,25 +4,29 @@
 id: le-temps-1926-02-19
 voice: Le Temps
 role: Paris yarı resmi günlük gazetesi
-quote: Bu oylama, medeni statü ile dini geleneklerin ayrılığını tescil etmektedir
+quote: >-
+  Bu oylama, Türk halkının kamusal ve toplumsal yaşamında medeni statü ile dini geleneklerin ayrılmasını
+  resmileştirmektedir.
 quote_kind: translated
 summary: >-
   Türk meclisinin İsviçre Medeni Kanunu'nu oybirliğiyle kabul ettiğini bildirdi ve bu oylamanın medeni
   statünün dini gelenekten ayrılışını tescil ettiğini belirtti.
 caveat: >-
-  Parça düzeyinde, sayfa 6; parçada Kemal'in adı geçmiyor, bakış reformun üzerinde. Yorumu gazeteye ya da
-  telgrafa ait olabilecek ajans tarzı haber; kontrol sonrasında tanıklık yeniden kodlandı: Kemal'in adı
-  geçmiyor, yorum nötr
+  Sayfa 6, 'Dernières nouvelles', sütun 2, 'Les réformes intérieures en Turquie', tarihsiz, ajanssız veya
+  imzasız 'On mande d'Angora' (19 Şubat 1926 künyesi: 66. yıl, sayı 23565, son rakam silik). Kemal'in adı
+  geçmiyor; odak noktası reform. Haberde ayrıca şu ekleniyor: 'La polygamie est proscrite et toute personne
+  majeure est libre de professer la foi qu'elle préfère.'
 verification_note: >-
-  Alıntı birebir aynı; Kemal'in adı geçmiyor ve 'admiring' kutupluluğu nötr bir telgraf yorumundan
-  çıkarımlanmış.
-verification_method: kaynak getirme
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d5ca4c141833
   role: e6898d5c7551
-  quote: 6d1efd41285c
+  quote: 5ec0836009ea
   summary: fc7146498ace
-  caveat: 9f64031a48a7
-  verification_note: 9a6751b40c32
-  verification_method: ad8cee67138e
+  caveat: 973367723dfc
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

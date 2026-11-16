@@ -10,29 +10,39 @@ date: "1922-09-11"
 era: contemporary
 polarity: admiring
 intensity: 2
-artifact: editorial
+artifact: article
 evidence: P
 summary: >-
-  Answered the Evening Standard that Kemal and his staff officers are not 'uncultured peasants', citing
-  Townshend on Angora's industrial effort.
+  In a bracketed note under a London dispatch, answered the Evening Standard that Kemal and his officers are not 'uncultured peasants', citing Townshend.
 quote:
-  text: Moustapha Kemal et ses officiers d'étatmajor ne sont pas des « paysans incultes »
+  text: >-
+    [On pourrait répondre aux insinuations de l'Evening Standard que Moustapha Kemal et ses officiers
+    d'état-major ne sont pas des « paysans incultes », comme en a témoigné tout récemment dans une interview
+    le général anglais Townshend, à son retour d'Angora.
   language: fr
-  translation: Mustapha Kemal and his staff officers are not 'uncultured peasants'
+  translation: >-
+    [One could answer the Evening Standard's insinuations that Moustapha Kemal and his staff officers are not
+    'uncultured peasants', as General Townshend recently testified in an interview on his return from Angora.
   translated_by: "machine: claude-fable-5-2"
+  note: The sentence opens a note in square brackets that the paper adds to a dispatch.
 caveat: >-
-  View 1. Leading words of the sentence ('On pourrait répondre aux insinuations de l'Evening Standard que')
-  are partly garbled in OCR. Gallica ContentSearch fragment, OCR copied as given; view number is Gallica's,
-  not necessarily the printed page.
+  Page 1, column 6, rubric 'Proche-Orient / Le conflit gréco-turc', item 'Une insinuation anglaise contre la
+  France', 'On mande de Londres' (masthead: no. 22316, Monday 11 September 1922). The sentence is the paper's
+  own comment in square brackets, unsigned, after the Evening Standard's note; it is not in the 'Bulletin du
+  jour', so the artifact is an article, not an editorial. The bracket runs on: 'Le général Townshend … a jeté
+  une pleine lumière sur le remarquable effort industriel d'Angora et sur les capacités stratégiques des chefs
+  de l'armée ottomane.' The leading article of the same page begins: 'En quinze jours, par une offensive
+  foudroyante, les troupes de Kemal pacha ont donc atteint leur but'.
 node: Paris Dailies on Kemal's Victory, 11–17 September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k2448592
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k2448592 (PAG_1)
-  method: ms fetch ContentSearch
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k2448592), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Quote verbatim in OCR fragment (Evening Standard / Townshend context present). Issue date not
-    independently confirmed beyond 9-10 Sept dispatches on PAG_4.
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

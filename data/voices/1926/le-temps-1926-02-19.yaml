@@ -16,25 +16,29 @@ summary: >-
   Reported the Turkish assembly's unanimous adoption of the Swiss Civil Code and said the vote consecrates the
   separation of civil status from religious tradition.
 quote:
-  text: Ce vote consacre la séparation du statut civil et des traditions religieuses
+  text: >-
+    Ce vote consacre la séparation du statut civil et des traditions religieuses dans la vie publique et
+    sociale du peuple turc.
   language: fr
-  translation: This vote consecrates the separation of civil status from religious traditions
+  translation: >-
+    This vote consecrates the separation of civil status and religious traditions in the public and social
+    life of the Turkish people.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Fragment-level, page 6; Kemal is not named in the fragment, the gaze is on the reform. Agency-style dispatch
-  whose gloss may be the paper's or the dispatch's.; recoded witness after check: Kemal not named, gloss
-  neutral
+  Page 6, 'Dernières nouvelles', column 2, 'Les réformes intérieures en Turquie', 'On mande d'Angora' with no
+  date, agency or signature (masthead of 19 February 1926: 66th year, no. 23565, last digit smeared). Kemal is
+  not named; the gaze is on the reform. The item adds: 'La polygamie est proscrite et toute personne majeure
+  est libre de professer la foi qu'elle préfère.'
 node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k246148q
 verification:
-  verdict: partial
+  verdict: confirmed
   quote_found: true
   checked_against: >-
-    Gallica ContentSearch bpt6k246148q p.6 (Le Temps; issue date not independently read, internal dates 11/18
-    Feb 1926)
-  method: fetch
+    Gallica scan (page images of ark:/12148/bpt6k246148q), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Quote exact; Kemal not named and the 'admiring' polarity is inferred from a neutral dispatch gloss.
-  resolution: fixed before merge
-  checked_on: "2026-10-29"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

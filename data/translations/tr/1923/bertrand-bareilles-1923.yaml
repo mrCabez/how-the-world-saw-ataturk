@@ -4,20 +4,31 @@
 id: bertrand-bareilles-1923
 voice: Bertrand Bareilles
 role: Fransız yazar
-quote: Mustafa Kemal tüm yetkilere el koydu ve bunları yardımcılarıyla paylaştı
+quote: >-
+  Bu doğaçlama makinenin oluşturduğu, istenildiğinde sökülebilir sistemi basitleştirmek için Mustafa Kemal,
+  yardımcılarıyla paylaştığı tüm yetkileri gasp etmiştir.
 quote_kind: translated
 summary: >-
   Ankara anayasasını Levanten cambazlığı, Kemal'i ise tüm yetkilere el koymuş biri diyerek alaya aldı; buna
   karşın onu İslam'ın Selahaddin tipi modern sancaktarı olarak resmetti.
 caveat: >-
-  Kitabın tamamı değil, Gallica ContentSearch parçaları olarak okunmuştur (görüntü numaraları 193, 196, 198);
-  tutum düşmanca eğilimlidir, çelişkili olduğu savunulabilir.
-verification_method: veri çekme
+  Bertrand Bareilles, Le drame oriental d'Athènes à Angora (Bossard, 1923), basılı s. 194 (görüntü 196), s.
+  195'e devam ediyor. S. 195 şöyle devam eder: 'Cette combinaison montre à quel point est normal en pays
+  d'Orient le gouvernement despotique et combien la livrée dont on a cru devoir l'affubler trahit le
+  clinquant.' 'Acrobatie levantine' ve Selahaddin pasajları (görüntü 193, 198) yeniden okunmadı; tutum
+  düşmanca eğilimli, tartışmalı olarak çelişkili.
+verification_note: >-
+  16 Kasım 2026 tarihinde başka bir okuyucu tarafından BnF görüntü servisinden alınan sayfa taraması üzerinden
+  okundu; kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına
+  dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri alındı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5b7bbdd1ce9e
   role: 7bf1cd969104
-  quote: 39fb0f181c39
+  quote: d4adfc79328d
   summary: 006f46a6871c
-  caveat: 574b902bd6d5
-  verification_method: ad8cee67138e
+  caveat: 1348e51f991c
+  verification_method: cc01de20aa6f
+  verification_note: 669230c27a92

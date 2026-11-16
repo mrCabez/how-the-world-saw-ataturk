@@ -4,29 +4,32 @@
 id: l-action-francaise-1922-09-17
 voice: L'Action française
 role: Paris'te yayımlanan monarşist günlük gazete
-quote: Mustafa Kemal kuşku duyuyor ve haklı
+quote: Mustafa Kemal kuşku duyuyor ve haklı.
 quote_kind: translated
 summary: >-
-  Kesit: Kemal temkinli ve öyle olmakta haklı; giriş kısmı kesik olduğundan nesnesi ve editoryal ses
-  görülmüyor.
+  Mütareke talebinin Yunan komutanından gelmesini isteyen Kemal'in temkinli ve haklı olduğunu belirtti:
+  'istemesini bilen bir adam'.
 caveat: >-
-  Görünüm 3. Kısa kesit; giriş kısmı kesik. 'Moustapha ... raison' için OCR'da 'Moyistapha ... rai son'
-  çıkmış. Gazetenin kendi görüşü olarak okunması, satırın birinci şahıs üslubuna dayanmaktadır. Gallica
-  ContentSearch kesiti, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
-  numarası olmayabilir. Kontrol sonrası: bağlam (tarafsız bölge ültimatomu) ve gazetenin kendi görüşü olduğu
-  okuması kesit tarafından desteklenmemektedir; kırpıldı.
+  Sayfa 3 (künye: sayı 260, 17 Eylül 1922 Pazar), 'Revue de la presse', 'La maladie de la volonté' bölümü, s.
+  4'te devam ediyor ve Robert Havard de la Montagne imzalı. Gazete, Eugène Lautier'nin L'Homme libre'deki
+  yazısını inceliyor. Cümle tırnak işareti olmaksızın incelemeyi yapanın kendi dizgisiyle verilmiştir;
+  dolayısıyla ya incelemecinin kendi yorumudur ya da Lautier'nin sonucunu özetlemesidir; dizgi bu ikisinden
+  hangisi olduğunu netleştirmez. Bağlam: Kemal, Yunanlılarla müzakereye oturmadan önce İtilaf Devletleri'nin
+  aracılığı yerine Yunan başkomutanından gelecek bir mütareke talebini tercih edeceğini söylüyor; Lautier de
+  bunu Fransa'nın Kasım 1918 mütarekesiyle karşılaştırıyor. İnceleme şöyle bitiyor: 'Voilà un homme qui sait
+  vouloir...'. (Basılı metindeki 'se méfie' ve 'raison' ifadeleri önceki kayıtta OCR hasarlıydı; o kaydın
+  tarif ettiği tarafsız bölge bağlamı baskıda yer almamaktadır.)
 verification_note: >-
-  OCR kesiti 'Moyistapha Kémal se méfie et il a rai son' mevcut, ancak kesit bağlam vermiyor: 'threatened him
-  over neutral zone' ifadesi ve gazetenin kendi tutumu görünmüyor (yalnızca İtilaf hükümetlerinin yüksek
-  komiserlere Mustapha-Kemal'e bildirimde bulunma talimatı verdiğine dair PAG_1 satırı var). Tarih
-  doğrulanmadı.
-verification_method: ms fetch ContentSearch (ilk çağrı bot_blocked, yeniden deneme başarılı)
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5935eec82225
   role: 7babd1156f28
-  quote: 1858dc4909d4
-  summary: 2b67a66c86b3
-  caveat: e5f07f3ee74b
-  verification_note: 0e19d24c0c8c
-  verification_method: de54fd9baffb
+  quote: 581bc7a6dd31
+  summary: da09c80ac365
+  caveat: 080dd441d396
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

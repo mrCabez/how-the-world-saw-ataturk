@@ -13,25 +13,36 @@ intensity: 1
 artifact: article
 evidence: P
 summary: >-
-  Explained Kemal's reasoning on the caliphate as simple, and noted he and the Assembly had not dared to
-  overturn it earlier.
+  Explained Kemal's reasoning as a modern Turkey cut from every tie with the past, 'a thirst for isolation', and called the abolition a religious suicide.
 quote:
-  text: Le raisonnement de Mustapha Kemal pacha et de ses partisans est des plus simples
+  text: >-
+    Le raisonnement de Mustapha Kemal pacha et de ses partisans est des plus simples. Ils veulent faire de la
+    Turquie une nation moderne et européenne, entièrement indépendante des grandes puissances occidentales,
+    indépendante des autres puissances de l'Islam, et détachée de tous liens avec l'ancienne Turquie des
+    sultans.
   language: fr
-  translation: The reasoning of Mustapha Kemal Pasha and his supporters is of the simplest
+  translation: >-
+    The reasoning of Mustapha Kemal Pasha and his followers is of the simplest. They want to make Turkey a
+    modern and European nation, entirely independent of the great Western powers, independent of the other
+    Islamic powers, and detached from every tie with the old Turkey of the sultans.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 1. Second clause ('n'avaient pas osé bou[le]verser') is cut by OCR; no judgment of Kemal shown. Gallica
-  ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+  Page 1, columns 1-2, 'L'abolition du califat et la politique musulmane de la France', signed Marcel Ray
+  (masthead: no. 22 329, Wednesday 5 March 1924). The article goes on: 'la jeune république turque ne pense
+  qu'à couper tous les liens avec le passé et montre comme une soif d'isolement', and says 'Mustapha Kemal et
+  la Grande Assemblée n'avaient pas osé bouleverser d'un seul coup toutes les traditions et les institutions
+  ottomanes' before abolishing the caliphate; of the Turks' 'espèce de suicide religieux' it says it does not
+  seem to harm France, since it checks pan-Islamic propaganda.
 node: Paris Dailies and the Abolition of the Caliphate, March 1924
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k628753x
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k628753x (PAG_1)
-  method: ms fetch ContentSearch
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k628753x), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Quote verbatim; second clause fragment ('n'avaient pas osé bouleverser') present with OCR break; 'earlier'
-    not visible in fragment. Date not confirmed.
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

@@ -24,16 +24,22 @@ quote:
     Let us say, however, that Atatürk's government carried out a ferocious repression of the socialist and
     communist movement.
   translated_by: "machine: claude-fable-5-2"
-caveat: Quote copied from Gallica OCR; read as search-hit fragments, not the whole article.
+caveat: >-
+  Page 3, top right, 'Kemal Ataturk est mort hier', dateline 'Istamboul, 10 novembre', unsigned, in the issue
+  of 11 November 1938 (no. 14.571). The 'libéra la Turquie du joug du califat et des visées anglaises, et dont
+  la disparition peut favoriser la poussée hitlérienne' wording is the caption of a caricature on page 1; the
+  'répression féroce' sentence is on page 3, followed by: 'ne va-t-elle pas permettre à la réaction turque de
+  laisser s'accentuer la pénétration hitlérienne en Proche-Orient ?'.
 node: Paris Reads the Death, 11–12 November 1938
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k4076255
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: gallica ContentSearch ark bpt6k4076255 (L'Humanité 11 Nov 1938), p.1 and p.3 hits
-  method: fetch
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k4076255), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Front-page: 'libéra la Turquie du joug du califat et des visées anglaises ... disparition peut favoriser
-    la poussée hitlérienne'. Fragments only, not full page; quote verbatim in p.3 fragment.
-  checked_on: "2026-10-29"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

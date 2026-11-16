@@ -1981,3 +1981,14 @@ Forty-eight records had an English quote that a research agent made from the Tur
 Counts: 987 records, 808 voice names, 857 quotes, 481 not in English (468 by machine, 9 by a contributor, 4 the source's own); `confirmed` 795.
 
 Not done: the 19 Arabic originals and the 18 French page scans are with readers who had not yet reported when this was written. No record in this section has been re-read by a second person; its `verification` says so.
+
+## The 18 French records read on the page scans (2026-11-16)
+
+Two readers who had not written the records read each passage on the BnF page images (masthead, article, signature, whole sentence). Every quote was found in print, but the earlier records, built from OCR fragments, were wrong or thin in many places:
+
+- Quotes restored to the whole sentence in 14 records; OCR damage cleared ('Moyistapha', 'Kernal', 'écoulent', 'provo qua').
+- **Wrong speaker or context:** `le-temps-1922-09-15` is Reuter's account of French opinion, not the paper's ('realist' is not in the text); `le-temps-1922-09-11` is a bracketed note in a dispatch, not an editorial; `journal-des-debats-1924-03-05` had merged two items (Gauvain's article and a separate news item); `l-action-francaise-1922-09-17` is not about the neutral zone but about who should ask for the armistice, and ends 'Voilà un homme qui sait vouloir'; `l-action-francaise-1922` is not a Balkan war-scare column; `l-action-francaise-1933-10-31` is by Jacques Arnauld.
+- `le-temps-1922` gained a quote (his interview with Ward Price, summarised by the paper); the other record items cited in the caveat are in the 16 September issue.
+- Bareilles, Kayser: title and page data added. L'Humanité 1938: the 'libéra … califat' wording is a page-1 caption; 'répression féroce' is on p. 3.
+
+Not done: I have not re-read the crops myself; the Sèvres passages in Kayser, the 'acrobatie levantine' and Saladin passages in Bareilles, and p. 2 of the 12 Nov 1938 Action française remain unread.

@@ -16,25 +16,31 @@ summary: >-
   Warned that if Kemal and Fehrid Bey follow Moscow's counsel a new conflict would spread through the Balkans
   and central Europe.
 quote:
-  text: Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou
+  text: >-
+    Que Fehrid bey et Mustapha Kemal écoutent certains conseils qui leur viennent de Moscou, un nouveau
+    conflit s'ensuivra dans les Balkans, et toute une partie de l'Europe centrale y sera entraînée !
   language: fr
   translation: >-
-    Should Fehrid Bey and Mustapha Kemal listen to certain advice that comes to them from Moscow
+    If Fehrid Bey and Mustapha Kemal listen to certain counsels that reach them from Moscow, a new conflict
+    will follow in the Balkans, and a whole part of central Europe will be drawn into it!
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 1. 'écoulent' and 'Kernal' are OCR for 'écoutent' and 'Kemal'. A warning, not a condemnation; the later
-  clause is cut at 'un nouveau conflit s'ensuivra dans les Balkans'. Gallica ContentSearch fragment, OCR
-  copied as given; view number is Gallica's, not necessarily the printed page.
+  Page 1, column 4, overline 'Le problème du Proche-Orient', headline 'Conséquences de la victoire turque',
+  signed S. Grumbach (masthead: 7th year, no. 720, Monday 11 September 1922); the sentence is set in italics.
+  The printed words are 'Kemal' and 'écoutent'; the earlier OCR read 'Kernal' and 'écoulent'. A warning, not a
+  condemnation. The article calls French rejoicing at the Turkish success 'puéril', says Angora nationalism
+  'implique également de graves dangers pour la paix', and ends that internationalising the Dardanelles would
+  serve world stability better than 'le retour d'une domination purement turque'.
 node: Paris Dailies on Kemal's Victory, 11–17 September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k8181715
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k8181715, PAG_1 fragment
-  method: ms fetch ContentSearch (metadata unavailable)
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k8181715), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Fragment 'Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou, un
-    nouveau conflit s'ensuivra dans les Balkans...' matches. Conditional warning reading holds. Issue date not
-    independently verified.
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

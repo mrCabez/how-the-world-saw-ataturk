@@ -13,29 +13,32 @@ intensity: 1
 artifact: article
 evidence: P
 summary: >-
-  Judged Kemal a realist who knows the Allies would jointly oppose any move on Constantinople.
+  Relayed a Reuter note that French circles think Kemal knows the Allies would jointly oppose any move on
+  Constantinople.
 quote:
   text: >-
     Moustapha Kemal se rend parfaitement compte que les Français, les Anglais et les autres alliés
-    s'opposeraient ensemble
+    s'opposeraient ensemble à une tentative quelconque contre Constantinople.
   language: fr
   translation: >-
-    Mustapha Kemal is perfectly well aware that the French, the English and the other Allies would together
-    oppose
+    Moustapha Kemal is perfectly aware that the French, the English and the other allies would jointly oppose
+    any attempt against Constantinople.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 1. Not shown whether the sentence is the paper's own or a correspondent's; fragment ends before the
-  object ('à Constantinople') in the OCR. Gallica ContentSearch fragment, OCR copied as given; view number is
-  Gallica's, not necessarily the printed page.
+  Page 1, column 6, 'Pour la conclusion de la paix', item 'Une note officieuse anglaise', 'On mande de
+  Londres' (masthead: no. 22320, Friday 15 September 1922). The sentence is Reuter's account of opinion 'dans
+  certains milieux français', not the paper's own judgement; the word 'realist' of the earlier summary is not
+  in the text.
 node: Paris Dailies on Kemal's Victory, 11–17 September 1922
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k2448634
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica bpt6k2448634 ContentSearch; masthead VENDREDI 15 SEPTEMBRE 1922, 62e année
-  method: Gallica ContentSearch fragment via ms fetch
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k2448634), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    Verbatim in PAG_1 fragment (fragment continues 'à une tentative quelconque Constantinople'); sentence
-    attribution (paper vs correspondent) cannot be shown from the fragment.
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

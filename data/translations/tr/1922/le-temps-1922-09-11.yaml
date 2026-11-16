@@ -4,25 +4,33 @@
 id: le-temps-1922-09-11
 voice: Le Temps
 role: Paris yarı resmi günlük gazetesi
-quote: Mustafa Kemal ve kurmay subayları «kültürsüz köylüler» değildir
+quote: >-
+  [Evening Standard'ın imalarına karşılık olarak, İngiliz General Townshend'in Ankara'dan dönüşünde yakın
+  zamanda verdiği bir mülakatta tanıklık ettiği üzere, Mustafa Kemal ve kurmay subaylarının "kültürsüz
+  köylüler" olmadığı söylenebilir.
 quote_kind: translated
 summary: >-
-  Ankara'nın sanayi çabası konusunda Townshend'den alıntı yaparak, Evening Standard'a Kemal ve kurmay
-  subaylarının 'kültürsüz köylüler' olmadığı yanıtını verdi.
+  Bir Londra telgrafının altındaki köşeli parantez içi notta, Townshend'i kaynak göstererek Evening Standard'a
+  Kemal ve subaylarının "kültürsüz köylüler" olmadığı yanıtını verdi.
 caveat: >-
-  Görünüm 1. Cümlenin giriş sözcükleri ('On pourrait répondre aux insinuations de l'Evening Standard que')
-  OCR'da kısmen bozulmuştur. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
-  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+  Sayfa 1, sütun 6, 'Proche-Orient / Le conflit gréco-turc' bölümü, 'Une insinuation anglaise contre la
+  France' başlıklı yazı, 'On mande de Londres' (künye: sayı 22316, 11 Eylül 1922 Pazartesi). Cümle, Evening
+  Standard'ın notunun ardından gazetenin köşeli parantez içinde verdiği imzasız kendi yorumudur; 'Bulletin du
+  jour' sütununda yer almaz, dolayısıyla kupür bir başyazı değil bir makaledir. Köşeli parantez şöyle devam
+  eder: 'Le général Townshend … a jeté une pleine lumière sur le remarquable effort industriel d'Angora et sur
+  les capacités stratégiques des chefs de l'armée ottomane.' Aynı sayfanın başmakalesi şöyle başlar: 'En
+  quinze jours, par une offensive foudroyante, les troupes de Kemal pacha ont donc atteint leur but'.
 verification_note: >-
-  Alıntı OCR parçasında birebir yer alıyor (Evening Standard / Townshend bağlamı mevcut). Nüsha tarihi,
-  PAG_4'teki 9-10 Eylül telgrafları dışında bağımsız olarak doğrulanmamıştır.
-verification_method: ms fetch ContentSearch
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d5ca4c141833
   role: e6898d5c7551
-  quote: 22b0b30df336
-  summary: debaa6efd0fa
-  caveat: 2cc726ae1f6a
-  verification_note: 622e8625cd08
-  verification_method: 20b5d45e7de4
+  quote: 8fc022ad1a7f
+  summary: 0daeb60fd68b
+  caveat: 90d7f6181cb5
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

@@ -16,22 +16,27 @@ summary: >-
   Presented Kemal as a pragmatist made by the Treaty of Sèvres, who took Soviet help but kept Moscow's
   propagandists out; no reproach due.
 quote:
-  text: aurait tort de reprocher à Mustapha Kemal son attitude en cette occasion
+  text: On aurait tort de reprocher à Mustapha Kemal son attitude en cette occasion.
   language: fr
-  translation: would be wrong to reproach Mustapha Kemal for his attitude on this occasion
+  translation: One would be wrong to reproach Mustapha Kemal for his attitude on this occasion.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Gallica ContentSearch fragments only (views 68, 80, 105, 106); stance inferred from the few evaluative
-  passages. Author birth year from Gallica authority record.
+  Jacques Kayser, L'Europe et la Turquie nouvelle (Paris: Les Presses universitaires de France, 1922;
+  legal-deposit stamp 1923), printed p. 94 (Gallica view 106). The 'occasion' is the treaty of alliance with
+  Moscow; the sentence goes on: 'Aux prises avec un ennemi acharné, il fut contraint par les nécessités
+  vitales de sa patrie d'accepter l'aide de tous les défenseurs qui s'offraient. Il a saisi l'occasion russe
+  en réussissant à ne se lier en aucune façon.' P. 93: 'il a interdit l'accès de son territoire aux
+  propagandistes de Moscou'. The Sèvres passages (views 64, 82) were not re-read.
 node: Jacques Kayser
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k3403660t
 verification:
-  verdict: paraphrase-ok
+  verdict: confirmed
   quote_found: true
   checked_against: >-
-    gallica.bnf.fr/ark:/12148/bpt6k3403660t ContentSearch PAG_106 (reprocher), PAG_105 (propagandistes de
-    Moscou), PAG_64/82 (Sèvres)
-  method: fetch
-  note: Quote verbatim; 'no reproach due' read from a fragment; stance inferred as caveat says
-  checked_on: "2026-10-29"
+    Gallica scan (page images of ark:/12148/bpt6k3403660t), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

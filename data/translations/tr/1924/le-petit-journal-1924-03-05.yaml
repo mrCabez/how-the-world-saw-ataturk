@@ -4,25 +4,32 @@
 id: le-petit-journal-1924-03-05
 voice: Le Petit Journal
 role: Paris popüler günlük gazetesi
-quote: Mustafa Kemal Paşa ve taraftarlarının akıl yürütmesi son derece basittir
+quote: >-
+  Mustafa Kemal Paşa ve taraftarlarının akıl yürütmesi son derece basittir. Türkiye'yi büyük Batılı
+  devletlerden tamamen bağımsız, diğer İslam devletlerinden bağımsız ve sultanların eski Türkiye'siyle olan
+  tüm bağlarından kopmuş modern ve Avrupalı bir ulus yapmak istiyorlar.
 quote_kind: translated
 summary: >-
-  Kemal'in hilafet konusundaki akıl yürütmesini basit olarak açıkladı ve onunla Meclis'in bunu daha önce
-  devirmeye cesaret edemediğini belirtti.
+  Kemal'in akıl yürütmesini geçmişle tüm bağlarını koparmış modern bir Türkiye, 'bir yalnızlık susuzluğu'
+  olarak açıkladı ve hilafetin kaldırılmasını dini bir intihar olarak nitelendirdi.
 caveat: >-
-  Görünüm 1. İkinci cümlecik ('n'avaient pas osé bou[le]verser') OCR tarafından kesilmiştir; Kemal hakkında
-  bir yargı görülmemektedir. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
-  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+  Sayfa 1, sütun 1-2, 'L'abolition du califat et la politique musulmane de la France', Marcel Ray imzalı
+  (künye: sayı 22 329, 5 Mart 1924 Çarşamba). Yazı şöyle devam ediyor: 'la jeune république turque ne pense
+  qu'à couper tous les liens avec le passé et montre comme une soif d'isolement' ve hilafeti kaldırmadan önce
+  'Mustapha Kemal et la Grande Assemblée n'avaient pas osé bouleverser d'un seul coup toutes les traditions et
+  les institutions ottomanes' diyor; Türklerin 'espèce de suicide religieux'sü hakkında ise pan-İslamcı
+  propagandayı dizginlediği için Fransa'ya zarar vermiyor gibi göründüğünü söylüyor.
 verification_note: >-
-  Alıntı birebir aynı; ikinci cümlecik parçası ('n'avaient pas osé bouleverser') OCR kopukluğuyla mevcut;
-  'daha önce' ifadesi parçada görünmüyor. Tarih doğrulanmadı.
-verification_method: ms fetch ContentSearch
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 97765be6b8e5
   role: cc6b65e8924d
-  quote: ce6c274550b2
-  summary: db7fb067a2ef
-  caveat: 220ceb81f804
-  verification_note: 9c44f9913c10
-  verification_method: 20b5d45e7de4
+  quote: 1409f17558e1
+  summary: ec8e591cfda4
+  caveat: de6815977d73
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

@@ -13,27 +13,37 @@ intensity: 2
 artifact: article
 evidence: P
 summary: >-
-  Described Kemal as the victor who controlled the elections, lived in Western style and wanted the imperial
-  family not banished.
+  Called him Kémal the Victorious, who controlled the elections and lived in Western fashion, and doubted the
+  new secular laws could be applied.
 quote:
-  text: Moustafa Kémal le Victorieux
+  text: >-
+    De nouvelles élections générales, effectuées sous le contrôle le plus strict de Moustafa Kémal le
+    Victorieux, éliminèrent de la G. A. N. T. la plupart des hodjas et amenèrent des partisans du régime
+    laïque.
   language: fr
-  translation: Mustafa Kemal the Victorious
+  translation: >-
+    New general elections, held under the strictest control of Moustafa Kémal the Victorious, eliminated most
+    of the hodjas from the Grand National Assembly and brought in supporters of the secular regime.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  View 1. The epithet is the paper's; the rest is narration. 'ne bannit' appears as 'ho bannit' in OCR.
-  Gallica ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed
-  page.
+  Page 1, columns 3-4, 'La Turquie laïque', signed Auguste Gauvain (masthead: 136th year, no. 64, Wednesday 5
+  March 1924). The next sentences: 'Moustafa Kémal vivait à l'occidentale, et sa jeune femme se libérait des
+  voiles des femmes turques.' Gauvain's own judgement: the decisions 'cadrent avec l'esprit qui a dirigé les
+  négociateurs turcs du traité de Lausanne' but are 'd'une application si difficile … qu'on se demande si
+  elles sont réalisables'; he notes they 'consomment la ruine de nos écoles'. The sentence that Kemal 'aurait
+  voulu qu'on ne bannît pas les membres de la famille impériale' is not Gauvain's: it is in a separate
+  unsigned news item in column 6 of the same page, 'L'abolition du califat et le bannissement de la famille
+  impériale turque', which the earlier record merged with this article.
 node: Paris Dailies and the Abolition of the Caliphate, March 1924
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k490711v
 verification:
-  verdict: paraphrase-ok
+  verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch ark bpt6k490711v, PAG_1 fragments
-  method: ms fetch ContentSearch (later query bot_blocked, stopped)
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k490711v), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
   note: >-
-    'Moustafa Kémal le Victorieux' verbatim; elections 'sous le contrôle le plus strict' and 'Moustapha Kerhal
-    aurait voulu qu'on ne bannit pas les membres de la famille impériale' seen. 'Lived in Western style' not
-    confirmed. Issue date not independently verified.
-  checked_on: "2026-10-30"
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

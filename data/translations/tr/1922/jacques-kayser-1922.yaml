@@ -4,24 +4,29 @@
 id: jacques-kayser-1922
 voice: Jacques Kayser
 role: Fransız radikal gazeteci
-quote: bu vesileyle gösterdiği tutumdan ötürü Mustafa Kemal'i kınamak haksızlık olurdu
+quote: Bu vesileyle sergilediği tutumdan ötürü Mustafa Kemal'i kınamak hata olur.
 quote_kind: translated
 summary: >-
   Kemal'i Sevr Antlaşması'nın yarattığı, Sovyet yardımı alan fakat Moskova'nın propagandacılarını dışarıda
   tutan bir pragmatist olarak sundu; kınanacak bir şey yoktu.
 caveat: >-
-  Yalnızca Gallica ContentSearch parçaları (görünüm 68, 80, 105, 106); tutum, değerlendirme içeren birkaç
-  pasajdan çıkarılmıştır. Yazarın doğum yılı Gallica otorite kaydından alınmıştır.
+  Jacques Kayser, L'Europe et la Turquie nouvelle (Paris: Les Presses universitaires de France, 1922; derleme
+  nüshası damgası 1923), basılı s. 94 (Gallica görüntü 106). Söz konusu "vesile", Moskova ile yapılan ittifak
+  antlaşmasıdır; cümle şöyle devam eder: 'Aux prises avec un ennemi acharné, il fut contraint par les
+  nécessités vitales de sa patrie d'accepter l'aide de tous les défenseurs qui s'offraient. Il a saisi
+  l'occasion russe en réussissant à ne se lier en aucune façon.' S. 93: 'il a interdit l'accès de son
+  territoire aux propagandistes de Moscou'. Sevr pasajları (görüntü 64, 82) yeniden okunmamıştır.
 verification_note: >-
-  Alıntı birebirdir; 'no reproach due' bir parçadan okunmuştur; tutum, uyarı notunda belirtildiği gibi
-  çıkarımdır
-verification_method: veri çekme
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 90633ac6f32e
   role: accd76dce63d
-  quote: eb1f5e380170
+  quote: aebe0e76f2a5
   summary: 1ed0f6ec3bb2
-  caveat: 53bfbdcee6bb
-  verification_note: 8b0a0051bf46
-  verification_method: ad8cee67138e
+  caveat: 909cd5fd0750
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

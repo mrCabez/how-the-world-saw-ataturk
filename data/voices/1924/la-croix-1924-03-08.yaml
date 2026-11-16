@@ -13,27 +13,32 @@ intensity: 2
 artifact: editorial
 evidence: P
 summary: >-
-  Under 'Gazette', tied Angora's abolition of the caliphate to France's 'milliard des Congrégations', as if
-  Ankara had believed the French story of confiscated religious wealth.
+  Under 'Gazette', suggested Angora's abolition of the caliphate aimed at mosque property, misled by the French 'milliard des Congrégations'; Kemal is not named.
 quote:
   text: >-
     Ceux qui leur ont parlé du fameux milliard des Congrégations de France ont sans doute omis de leur dire
-    comment le milliard s'est, évanoui
+    comment le milliard s'est évanoui et de leur raconter l'histoire du forçat Duez.
   language: fr
   translation: >-
-    Those who told them of the famous billion of the Congregations of France no doubt omitted to tell them how
-    the billion vanished
+    Those who told them of the famous billion of the Congregations of France no doubt forgot to tell them how
+    the billion vanished, and to tell them the story of the convict Duez.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Fragment-level (Gallica ContentSearch), cut with '(...)'; Gallica OCR. Hostile polarity is an inference from
-  the framing of a truncated paragraph. Page 1.
+  Page 1, column 3, rubric 'Gazette', item 'Le « milliard des Congrégations » en Turquie', unsigned (masthead:
+  45th year, no. 12 571, Saturday 8 March 1924). Kemal is not named; the item speaks of 'le gouvernement
+  d'Angora' and 'les radicaux d'Angora'. It opens: 'En abolissant le califat, le gouvernement d'Angora
+  n'aurait-il pas en vue la liquidation des biens religieux auxquels Abd-ul-Hamid et les premiers Jeunes Turcs
+  eux-mêmes n'avaient pas osé toucher ?'. Hostile polarity is an inference from the framing.
 node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k261790c
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Gallica ContentSearch bpt6k261790c PAG_1; OAI record La Croix 1924-03-08 no. 12571
-  method: fetch
-  note: Fragment-level only; hostile polarity remains inference (as the record says).
-  checked_on: "2026-10-29"
+  checked_against: >-
+    Gallica scan (page images of ark:/12148/bpt6k261790c), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

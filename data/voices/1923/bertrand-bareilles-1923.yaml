@@ -16,13 +16,20 @@ summary: >-
   Mocked the Angora constitution as Levantine acrobatics and Kemal as having confiscated all powers, yet cast
   him as Islam's modern Saladin-type standard-bearer.
 quote:
-  text: Mustapha Kemal a confisqué tous les pouvoirs qu'il a partagés avec ses lieutenants
+  text: >-
+    Pour simplifier le système démontable à volonté que constitue cette machine improvisée, Mustapha Kemal a
+    confisqué tous les pouvoirs qu'il a partagés avec ses lieutenants.
   language: fr
-  translation: Mustapha Kemal has confiscated all the powers, which he has shared with his lieutenants
+  translation: >-
+    To simplify the system, which can be taken apart at will, that this improvised machine constitutes,
+    Mustapha Kemal has confiscated all the powers, which he has shared with his lieutenants.
   translated_by: "machine: claude-fable-5-2"
 caveat: >-
-  Read as Gallica ContentSearch fragments (view numbers 193, 196, 198), not the whole book; polarity is
-  hostile-leaning, arguably conflicted.
+  Bertrand Bareilles, Le drame oriental d'Athènes à Angora (Bossard, 1923), printed p. 194 (view 196), running
+  on to p. 195. P. 195 goes on: 'Cette combinaison montre à quel point est normal en pays d'Orient le
+  gouvernement despotique et combien la livrée dont on a cru devoir l'affubler trahit le clinquant.' The
+  'acrobatie levantine' and Saladin passages (views 193, 198) were not re-read; polarity is hostile-leaning,
+  arguably conflicted.
 node: Bertrand Bareilles
 sources:
   - url: https://gallica.bnf.fr/ark:/12148/bpt6k9734946p
@@ -31,7 +38,9 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    Gallica ContentSearch bpt6k9734946p PAG_196 (quote), acrobatie levantine, Salaheddine/porte-drapeaux de
-    l'Islam; title page: Le drame oriental d'Athenes a Angora, Bossard 1923
-  method: fetch
-  checked_on: "2026-10-29"
+    Gallica scan (page images of ark:/12148/bpt6k9734946p), read through the BnF open image service
+  method: page image downloaded and read by eye, crops of the passage and the masthead
+  note: >-
+    Read on the page scan from the BnF image service on 16 Nov 2026 by a separate reader; I have not re-read
+    the crops myself. Until then the record rested on Gallica OCR fragments.
+  checked_on: "2026-11-16"

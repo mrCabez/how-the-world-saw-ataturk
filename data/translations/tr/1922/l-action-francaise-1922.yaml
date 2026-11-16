@@ -4,25 +4,30 @@
 id: l-action-francaise-1922
 voice: L'Action française
 role: Paris kralcı-milliyetçi günlük gazetesi
-quote: Aynı şekilde, Mustafa Kemal ılımlı görünüyor
+quote: >-
+  Aynı şekilde, Mustafa Kemal ılımlı görünüyor. Yakında daha da cesaretlenmeyeceği kesin değil.
 quote_kind: translated
 summary: >-
-  Balkan savaşı paniği konulu bir köşe yazısında, Mustafa Kemal ve Fethi Bey'in açıklamalarını ılımlı,
-  Türkleri ise makuliyetten uzak olmayan bir tutumda okudu.
+  Mustafa Kemal ve Fethi Bey'in açıklamalarını ılımlı olarak değerlendirdi ve gecikmesi halinde daha da
+  cesaretlenebileceği uyarısında bulunarak hızlı bir barış çağrısı yaptı.
 caveat: >-
-  Alıntı Gallica OCR'dan kopyalanmıştır; makalenin tamamı olarak değil, arama eşleşmesi parçaları halinde
-  okunmuştur. 'Instrumental', parçalarda açıkça ifade edilmeyip gazetenin Şark Meselesi çerçevesinden yapılan
-  bir çıkarımdır.
+  Sayfa 1, son sütun, 'La paix tardive de l'Orient', J. B. imzalı (künye: sayı 259, 16 Eylül 1922 Cumartesi).
+  Makale, Türklerin mantıksız görünmediğini veya tarafsız bölgeye saldırma niyetinde olmadığını söylüyor
+  (gazete 'Fehti bey' şeklinde yazıyor), İngiliz basınının bildirdiği Balkan paniğini 'déjà calmée si elle n'a
+  pas été inventée' diyerek bir kenara bırakıyor ve şu soruyu soruyor: 'puisque la Turquie n'est pas détruite
+  et que personne ne se charge d'aller la tuer à Angora, ne vaut-il pas mieux s'accommoder de son existence
+  ?'. Önceki kayıtta belirtildiğinin aksine bu bir Balkan savaşı paniği yazısı değildir.
 verification_note: >-
-  Tam makale, 16 Eylül 1922 tarihi, "Balkan war-scare column" ve polarity=instrumental doğrulanamıyor; alıntı
-  bir arama parçasıdır.
-verification_method: fetch
+  16 Kasım 2026'da BnF görüntü servisinden alınan sayfa taraması üzerinden ayrı bir okuyucu tarafından okundu;
+  kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 5935eec82225
   role: 48f28912435a
-  quote: 0600a31c1c95
-  summary: bc28d7b23948
-  caveat: 0c2e160d92b7
-  verification_note: fa46fe3af070
-  verification_method: ad8cee67138e
+  quote: 0ec6b0f9d061
+  summary: c8c8519ddd8e
+  caveat: 1378fa3c99ec
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

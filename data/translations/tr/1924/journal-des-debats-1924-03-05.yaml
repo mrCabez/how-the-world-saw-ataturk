@@ -4,26 +4,35 @@
 id: journal-des-debats-1924-03-05
 voice: Journal des débats
 role: Paris muhafazakâr-liberal günlük gazetesi
-quote: Muzaffer Mustafa Kemal
+quote: >-
+  Muzaffer Mustafa Kemal'in en sıkı denetimi altında gerçekleştirilen yeni genel seçimler, hocaların çoğunu
+  Büyük Millet Meclisi'nden (G. A. N. T.) tasfiye etti ve laik rejim yanlılarını getirdi.
 quote_kind: translated
 summary: >-
-  Kemal'i seçimleri denetleyen, Batılı tarzda yaşayan ve hanedan ailesinin sürgün edilmemesini isteyen galip
-  olarak tanımladı.
+  Ondan seçimleri denetleyen ve Batılı tarzda yaşayan Muzaffer Kemal diye söz etti ve yeni laik yasaların
+  uygulanabileceğinden kuşku duydu.
 caveat: >-
-  Görünüm 1. Sıfat gazeteye aittir; geri kalanı anlatımdır. 'ne bannit' ifadesi OCR'da 'ho bannit' olarak
-  görünmektedir. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya
-  aittir, basılı sayfa numarası olmayabilir.
+  Sayfa 1, sütun 3-4, 'La Turquie laïque', Auguste Gauvain imzalı (künye: 136. yıl, sayı 64, 5 Mart 1924
+  Çarşamba). Sonraki cümleler: 'Moustafa Kémal vivait à l'occidentale, et sa jeune femme se libérait des
+  voiles des femmes turques.' Gauvain'in kendi yargısı: kararlar 'cadrent avec l'esprit qui a dirigé les
+  négociateurs turcs du traité de Lausanne' ancak 'd'une application si difficile … qu'on se demande si elles
+  sont réalisables' niteliktedir; bunların 'consomment la ruine de nos écoles' olduğunu belirtir. Kemal'in
+  'aurait voulu qu'on ne bannît pas les membres de la famille impériale' şeklindeki cümlesi Gauvain'e ait
+  değildir: aynı sayfanın 6. sütununda yer alan 'L'abolition du califat et le bannissement de la famille
+  impériale turque' başlıklı imzasız ayrı bir haber maddesindedir; önceki kayıt bu haberi bu makaleyle
+  birleştirmişti.
 verification_note: >-
-  'Moustafa Kémal le Victorieux' birebir aynı; seçimlerin 'sous le contrôle le plus strict' olduğu ve
-  'Moustapha Kerhal aurait voulu qu'on ne bannit pas les membres de la famille impériale' ifadeleri görüldü.
-  'Batılı tarzda yaşadığı' bilgisi doğrulanmadı. Sayı tarihi bağımsız olarak teyit edilmedi.
-verification_method: ms fetch ContentSearch (sonraki sorgu bot_blocked oldu, durduruldu)
+  16 Kasım 2026 tarihinde başka bir okuyucu tarafından BnF görüntü servisinden alınan sayfa taraması üzerinden
+  okundu; kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına
+  dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri alındı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: b3bcc5cb5748
   role: e18f47b52e32
-  quote: 9b19e7d60456
-  summary: f5c1dda5c8ff
-  caveat: ba7961ed17cb
-  verification_note: 1c0898e981cc
-  verification_method: f03ced197f70
+  quote: adba111fa937
+  summary: 152981f29881
+  caveat: df895dcf6a80
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f

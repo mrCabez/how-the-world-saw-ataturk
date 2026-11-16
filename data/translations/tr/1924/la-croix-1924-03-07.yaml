@@ -4,28 +4,33 @@
 id: la-croix-1924-03-07
 voice: La Croix
 role: Paris Katolik günlük gazetesi
-quote: Ve Mustafa Kemal başlatmayı iddia ettiğine göre
+quote: >-
+  Ve mademki Mustafa Kemal kendi ülkesinde modern bir rejim kurduğunu iddia ediyor, kendisine din özgürlüğünün
+  ve onunla birlikte propaganda özgürlüğünün modern toplumumuzun başvurmayı sevdiği ilkelerden biri olduğu
+  hatırlatılamaz mı?
 quote_kind: translated
 summary: >-
   Kemal'in Hristiyan okullarına dokunmadığı iddiasını reddetti; Türk milliyetçilerinin mezhepçi politikasına
   ve bunun laikliğini alkışladığı için Le Temps'a saldırdı.
 caveat: >-
-  Görünüm 1. Geri çekilen 9 Mart kaydının yerini almaktadır (alıntı 9 Mart değil, bu 7 Mart sayısındaydı).
-  Parça 'inaugurer' kelimesinden sonra '(...)' ile kesilmiştir. Aynı görünümde ayrıca 'cette intolérance
-  jeune-turque' ifadesi ve 'des journaux comme le Temps'a yönelik kınama yer almaktadır. Gallica ContentSearch
-  parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa numarası
-  olmayabilir.
+  Sayfa 1, sütun 2-3, 'L'intolérance turque (deuxième article)', Jean Guiraud imzalı (künye: 45. yıl, sayı 12
+  570, 7 Mart 1924 Cuma). Sütun 3'te daha sert bir ifadeyle: 'Le gouvernement va-t-il laisser détruire ainsi
+  l'œuvre de plusieurs siècles sous les coups du fanatisme maçonnique et nationaliste de Mustapha Kemal ?' ve
+  sütun 2'de: 'Mustapha Kemal ne ferme pas les écoles chrétiennes, disent-ils, il se contente de leur
+  interdire d'être chrétiennes.' 'Cette intolérance jeune-turque' ifadesi, Barrès'e atıfla Jön Türkler
+  hakkındadır. Geri çekilen 9 Mart kaydının yerini almıştır (alıntı bu 7 Mart sayısındaydı).
 verification_note: >-
-  PAG_1'de 'Et, puisque Mustapha Kemal prétend inaugurer(...)' birebir aynı; ayrıca 'cette intolérance
-  jeune-turque' ve 'journaux comme le Temps'a yönelik kınama mevcut. Yalnızca parça düzeyinde olduğundan
-  düşmanca tutum komşu parçalardan okunmaktadır.
-verification_method: ms fetch aracılığıyla Gallica ContentSearch parçası
+  16 Kasım 2026 tarihinde başka bir okuyucu tarafından BnF görüntü servisinden alınan sayfa taraması üzerinden
+  okundu; kırpılmış görüntüleri bizzat yeniden okumadım. O zamana kadar kayıt Gallica OCR parçalarına
+  dayanıyordu.
+verification_method: >-
+  sayfa görüntüsü indirildi ve gözle okundu, ilgili pasajın ve künyenin kırpılmış görüntüleri alındı
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9faf84306a18
   role: 42a56c544ca1
-  quote: 8f20a39f6e62
+  quote: 1d999e564dfd
   summary: 9913349a8992
-  caveat: c33590483c45
-  verification_note: 413b2c6ee69c
-  verification_method: 25cd88e6eafd
+  caveat: eaa4c6487dcc
+  verification_note: 669230c27a92
+  verification_method: cc01de20aa6f
