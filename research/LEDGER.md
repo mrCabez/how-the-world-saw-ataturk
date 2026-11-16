@@ -2013,7 +2013,7 @@ Points the reader of the Toksoy and Rásonyi scans noted beside the quotes, now 
 - `bulgarian-press-chorus-…-1938`: the caveat said the headline is tied to no paper. Toksoy also prints it on p. 189 inside Todor Kojuharov's Slovo article, given as said after Gladstone, and on p. 177 as 'a Bulgarian paper'.
 - `palestinian-radio-listeners-1938`: the extract is a Turk reporting from Palestine ('a leading nationalist told me'), not a Palestinian paper; caveat says so. English tense corrected.
 - `belgian-envoy-…-1938`: 'Deryınon' was the OCR's misreading of 'Derymon'.
-- `onni-talas-1938`: 'a small trading state asking what a modernising economy can buy' was not Toksoy's gloss; replaced by what she writes.
+- `onni-talas-1938`: 'a small trading state asking what a modernising economy can buy' was not Toksoy's gloss; replaced by what the article says.
 - `polska-1938`: 'hicap' in the summary is humiliation, not the veil.
 - `independenta-romana-1938`: Toksoy prints the French title; the voice is now L'Indépendance Roumaine, the French-language Bucharest daily.
 - `proia-1938`: fn 15 concerns a 1937 issue; only fn 16 is this quotation.
