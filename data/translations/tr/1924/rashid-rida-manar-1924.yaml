@@ -20,10 +20,11 @@ caveat: >-
   konuşmasından bilindiği üzere, Mustafa Kemal ve partisinin görüşü budur). Arapça metin basıldığı şekliyle,
   hemzesiz yazılmıştır. archive.org PDF'inde sayfa numarası 210'dur.
 verification_note: >-
-  16 Kasım 2026'da yeniden okundu. Arapça cümle alıntılandığı şekliyle s. 285'tedir ve 'مصطفى كمال وحزبه'
-  ifadesi aynı sayfanın üst kısmında yer alır. 4. cüzün iç kapağında kaydın tarihini veren '٣٠ رمضان ١٣٤٢ … ٤
-  مايو ١٩٢٤' ibaresi yazılıdır; o zamana kadar tarih tahminen 1924 olarak verilmişti. Alıntı daha önce
-  yalnızca İngilizce metinden ibaretti.
+  16 Kasım 2026'da yeniden okundu. Arapça cümle, alıntılandığı şekliyle s. 285'tedir ve 'مصطفى كمال وحزبه'
+  ifadesi aynı sayfanın üst kısmında yer almaktadır. 4. cüzün başlık sayfasında '٣٠ رمضان ١٣٤٢ … ٤ مايو ١٩٢٤'
+  yazmaktadır ve bu da kaydın tarihini belirlemektedir; o zamana kadar tarih tahmine dayalı olarak 1924 idi.
+  Alıntı daha önce yalnızca İngilizce metinden ibaretti. İkinci bir okur, 16 Kasım 2026'da Arapça metni
+  taramayla kelimesi kelimesine karşılaştırdı: birebir aynı.
 verification_method: PDF indirildi, sayfalar görüntü olarak işlendi ve Arapça metin okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
@@ -32,5 +33,5 @@ source_fingerprints:
   quote: 83842117c291
   summary: e321b2cb0c15
   caveat: 810b012a9a95
-  verification_note: 200de672491f
+  verification_note: 07f883809c88
   verification_method: d16f4dc31877

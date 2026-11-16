@@ -18,7 +18,7 @@ summary: >-
   Arabic word of God.
 quote:
   text: >-
-    وكانت توجهت فكرة ملاحدتهم الى هذا العمل منذ سنين كثيرة لاجل صرف أهل الدين منهم بالترجمة التركية التي هي من
+    وكانت توجهت فكرة ملاحدتهم الى هذا العمل منذ سنين كثيرة لاجل صرف أهل الدين منهم بالترجمة التركية التى هي من
     كلامهم وتأليفهم ونظامهم عن كلام الله تعالى
   language: ar
   translation: >-
@@ -56,5 +56,5 @@ verification:
     The passage was read on the page on 16 Nov 2026. The title page of part 10 reads '٣٠ شعبان سنة ١٣٤٣ … ٢٥
     مارس سنة ١٩٢٥', so the record moved from 1924 to 1925 and its id from rashid-rida-1924 to this one. Before
     that the quote was three English words from Wilson 2009 ('their heretical idea'), checked against Wilson
-    alone on 29 Oct 2026.
+    alone on 29 Oct 2026. A second reader compared the Arabic word by word with the scan on 16 Nov 2026: one difference, 'التى' is printed with a dotless ya (corrected here).
   checked_on: "2026-11-16"
