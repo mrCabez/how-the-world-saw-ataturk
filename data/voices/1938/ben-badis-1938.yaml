@@ -16,12 +16,20 @@ summary: >-
   Called him the greatest man of modern history, a genius, saviour of Turkey; said he rebelled against
   self-styled Muslims not Islam, spreading blame to clerics.
 quote:
-  text: greatest man humanity has known in modern history
-  language: en
+  text: أعظم رجل عرفته البشرية فى التاريخ الحديث
+  language: ar
+  translation: greatest man humanity has known in modern history
+  translated_by: "machine: research agent"
 caveat: >-
   Original read (r7): al-Shihab 14/9, 'مصطفى كمال رحمه الله', signed Ben Badis, pp. 131–134 (title page p. 130
   inferred); cover month Nov 1938, contents page dates publication 30 Dec 1938. Hedges: his stance toward
-  Islam 'made the Muslim's heart contract'.
+  Islam 'made the Muslim's heart contract'. The Arabic is as printed, without the hamzas the typesetter left
+  out; read on the scan (archive.org Alshehab-mag, alchihab-09-14.pdf (al-Shihab vol. 14 part 9), PDF p. 4:
+  first lines of the article 'مصطفى كمال رحمه الله', under the part masthead; this page carries no number (the
+  next four print 131-134, so it is p. [130]); contents page PDF p. 3); date as printed: Part masthead: 'الجزء
+  التاسع — المجلد الرابع عشر — قسنطينة — رمضان ١٣٥٧ ه — نـفامبر ١٩٣٨' (Ramadan 1357 / November 1938). Contents
+  page: 'صدر يوم الجمعة ٨ ذي القعدة ١٣٥٧ الموافق ٣٠ ديسانبر ١٩٣٨' (published Friday 8 Dhu'l-Qa'da 1357 / 30
+  December 1938; the third letter of the month name reads ص or س)..
 node: Abdelhamid Ben Badis
 sources:
   - url: https://archive.org/details/Alshehab-mag
@@ -37,5 +45,6 @@ verification:
   method: fetch
   note: >-
     Quote is English translation of Arabic 'a'zam rajul 'arafathu al-bashariyya fi al-tarikh al-hadith';
-    'heart contracts' hedge present in alsalabi text.
+    'heart contracts' hedge present in alsalabi text. The Arabic was read on the page image on 16 Nov 2026 by
+    a separate reader; until then the quote was an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-29"

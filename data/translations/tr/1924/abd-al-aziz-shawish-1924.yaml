@@ -5,29 +5,36 @@ id: abd-al-aziz-shawish-1924
 voice: Abd al-Aziz Shawish
 role: al-Akhbar için yazan Mısırlı yazar
 quote: >-
-  Mustafa Kemal, hilafet meselesinde, Halife Abdülmecid günlerinde var olan orta yolla yetinebilirdi
+  Mustafa Kemal, hilafet meselesinde Halife Abdülmecid Hazretleri'nin döneminde geçerli olan orta yolla
+  yetinebilirdi
 quote_kind: translated
 summary: >-
   Kemal, Abdülmecid dönemindeki orta yolu koruyabilirdi; bir zamanlar bizzat kendisi de hilafete talip olmuş,
   bundan yalnızca huzursuzluk çıkması korkusuyla geri durmuştu.
 caveat: >-
   Rida'nın yeniden basımı aracılığıyla aktarılmıştır; üç al-Akhbar makalesinden hangisinden alıntı yapıldığı
-  bilinmiyor. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılmış İngilizce
-  çevirisidir.
+  bilinmemektedir. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce
+  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; taramadan okunmuştur
+  (archive.org Almanar, almanar25.pdf (al-Manar c. 25 kısım 4), PDF s. 215, basılı s. 290; Rida'nın girişi PDF
+  s. 214 = basılı s. 289'da; kısım künyesi PDF s. 181 = basılı s. 241); basılı tarih: al-Manar 25(4) künyesi,
+  s. 241: '٣٠ رمضان ١٣٤٢ — ١٤ الثور ١٣٣٠ ه ش — ٤ مايو ١٩٢٤' (30 Ramazan 1342 / 4 Mayıs 1924; şemsi-hicri yıl
+  ١٣٣٠ olarak basılmıştır). s. 289'da verildiği şekliyle al-Akhbar sayısı: 'صدر في ٣ رجب الموافق ٦ مارث' (3
+  Recep / 6 Mart)..
 mediated_by: >-
   al-Akhbar (Kahire), 6 Mart 1924 tarihli makaleler, al-Manar 25(4) s. 290'da aktarıldığı şekliyle
 verification_note: >-
   Arapça 'لقد كان يمكن أن يكتفي مصطفى كمال في مسألة الخلافة بالنحو الوسط الذي كان قائماً لعهد جلالة الخليفة
-  عبد المجيد' ifadesi mevcut; çeviri sadık. s. 289 bunu al-Akhbar'ın 3 Recep / 6 Mart tarihli sayısında
-  Shawish'e atfediyor.
+  عبد المجيد' ifadesi mevcuttur; çeviri sadıktır. s. 289 bunu al-Akhbar'ın 3 Recep / 6 Mart tarihli sayısında
+  Shawish'e atfeder. Arapça metin 16 Kasım 2026'da ayrı bir okur tarafından sayfa görüntüsünden okunmuştur; o
+  zamana kadar alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi.
 verification_method: işlenmiş PDF sayfa görüntüleri ve Arapça okuma
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1c188cb776a3
   role: 9c7878e68858
-  quote: 7b4996c52265
+  quote: a2ed2363380f
   summary: 2e49f5431819
-  caveat: 669a454a5504
+  caveat: 2e53b403a789
   mediated_by: 8f19017d4172
-  verification_note: fcfbac1f6431
+  verification_note: f19e6a6c3c82
   verification_method: 54f3a294f263

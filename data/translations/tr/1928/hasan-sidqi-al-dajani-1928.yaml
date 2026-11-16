@@ -5,22 +5,27 @@ id: hasan-sidqi-al-dajani-1928
 voice: Hasan Sidqi al-Dajani
 role: "'Türkiye'de Yenilenme ve İslam' konulu konferansın konuşmacısı"
 quote: >-
-  Gazi Mustafa Kemal Paşa'nın yaptığı, zamana karşı açık bir zafer, muazzam bir devrim ve büyük bir gelişme
-  olan parlak işler
+  Gazi Mustafa Kemal Paşa'nın zamana karşı apaçık bir zafer, muazzam bir inkılap ve büyük bir gelişme olan
+  parlak icraatı, İslam dininde kendisine uyulması gereken esaslardan başka bir şey değildir.
 quote_kind: translated
 summary: >-
   Konuşmacı, Kemal'in yaptıklarını zamana karşı açık bir zafer ve büyük bir devrim olarak nitelendirdi;
   kadınların peçeyi çıkarmasını ve Latin harflerini savundu.
 caveat: >-
-  Düşmanca tutumlu bir muhabir tarafından aktarılmıştır; konferansın kendisi görülmemiştir; konferansın tarihi
-  bilinmiyor (haberin ayı). Alıntı, notun yer verdiği Arapça özgün metnin not yazarı tarafından yapılmış
-  İngilizce çevirisidir.
+  Hasım bir muhabir tarafından aktarılmıştır; konferansın kendisi görülmemiştir; konferansın tarihi
+  bilinmemektedir (haber ayı). Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan
+  İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan, basıldığı şekliyledir; taramadan
+  okunmuştur (archive.org efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1897,
+  basılı s. 301 (sayı s. 13), sağ sütunun başı, « » içinde; künye PDF s. 1885); basılı tarih: 'العدد ١١٩ —
+  القاهرة : ١١ جمادى الاولى سنة ١٣٤٧ — ٢٥ أكتوبر سنة ١٩٢٨ — السنة الثالثة' (sayı 119, 11 Cemaziyelevvel 1347 /
+  25 Ekim 1928); konferans için basılı bir tarih yoktur.
 mediated_by: al-Fath no. 119 s. 301, al-Ri'awi al-Saghir imzalı (düşmanca haber)
 verification_note: >-
-  Arapça alıntı, Hasan Sidqi al-Dajani'nin düşmanca tutumlu muhabir tarafından aktarılan 'al-Tajaddud fi
-  Turkiya wa al-Islam' başlıklı konferansına ilişkin haberin başında yer alıyor; konsolosluk kaynağı,
-  kadınlar/peçe ve Latin harfleri noktaları mevcut; konferans tarihi basılmamış; dolaylı aktarım çekincesi
-  doğru.
+  Arapça alıntı, Hasan Sidqi al-Dajani'nin hasım bir muhabir tarafından aktarılan 'al-Tajaddud fi Turkiya wa
+  al-Islam' başlıklı konferansına dair haberi açmaktadır; konsolos kaynağı, kadınlar/peçe ve Latin harfleri
+  noktaları mevcuttur; konferans tarihi basılı değildir; dolaylı aktarım uyarısı doğrudur. Arapça metin 16
+  Kasım 2026'da ayrı bir okuyucu tarafından sayfa görüntüsünden okunmuştur; o zamana kadar alıntı, araştırma
+  notundaki Arapça metnin İngilizce çevirisiydi. İngilizce metin o zaman düzeltilmiştir.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -28,9 +33,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 126dbc4cca6b
   role: 00828189bb8d
-  quote: 27652ce7eb48
+  quote: abc6b223bbd3
   summary: 95d893b6de76
-  caveat: 30aad2d5330d
+  caveat: 00e34aa7b0df
   mediated_by: 933bdff21104
-  verification_note: 26e49a1221f7
+  verification_note: 512c85e19aff
   verification_method: 6190bebdb3a6

@@ -5,19 +5,24 @@ id: al-fath-1928-01
 voice: Al-Fath (sayı 79), al-Akhbar'dan yeniden basım
 role: Kahire Selefi haftalık dergisi
 quote: >-
-  kendisinin enine boyuna yeryüzünün adamı haline geldiğini ve söylediği her şeyin gökten indirilmiş ayetler
-  haline geldiğini sandı
+  kendisinin enine boyuna yeryüzünün tek adamı haline geldiğini ve söylediği her şeyin gökten indirilmiş
+  ayetler olduğunu sandı
 quote_kind: translated
 summary: >-
   Yunanları yendikten sonra Kemal kendisini yeryüzünün efendisi, sözlerini ise kutsal metin sandı; onun
   Rousseau dersini alaya alıyor.
 caveat: >-
-  İmzasız yeniden basım. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılmış
-  İngilizce çevirisidir.
+  İmzasız yeniden basım. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce
+  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; taramadan okunmuştur
+  (archive.org efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1252, basılı s. 452
+  (sayı s. 4), sağ sütunun başı; künye PDF s. 1249); basılı tarih: 'العدد ٧٩ — القاهرة : الخميس ١٩ رجب سنة
+  ١٣٤٦ — ١٢ يناير سنة ١٩٢٨ — السنة الثانية' (sayı 79, Perşembe 19 Recep 1346 / 12 Ocak 1928).
 mediated_by: İsimsiz bir 'belagat prensi'nin al-Akhbar makalesi
 verification_note: >-
-  s. 452'de Arapça 'al-Maghrur', 'min maqal fi al-Akhbar li-amir min umara' al-bayan yunimm qalamuhu alayh'
-  ifadeleri mevcut; imzasız yeniden basım; Rousseau alayı mevcut; düşmanca tutum geçerli.
+  s. 452'de Arapça 'al-Maghrur', 'min maqal fi al-Akhbar li-amir min umara' al-bayan yunimm qalamuhu alayh';
+  imzasız yeniden basım; Rousseau alayı mevcuttur; karşıt tutum geçerlidir. Arapça metin 16 Kasım 2026'da ayrı
+  bir okur tarafından sayfa görüntüsünden okunmuştur; o zamana kadar alıntı, araştırma notundaki Arapça metnin
+  İngilizce çevirisiydi.
 verification_method: >-
   curl ile tam IA PDF'i indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künyeler/kapaklar oluşturuldu
@@ -25,9 +30,9 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: bd0585148957
   role: abf29e803c77
-  quote: 979d99b41fc1
+  quote: 8dceb442d42b
   summary: ab6925281ffc
-  caveat: 20058a05439b
+  caveat: 2b32207812d5
   mediated_by: 1e92cd6f1552
-  verification_note: 4fe4de3a817a
+  verification_note: 529b4030c21e
   verification_method: 6190bebdb3a6

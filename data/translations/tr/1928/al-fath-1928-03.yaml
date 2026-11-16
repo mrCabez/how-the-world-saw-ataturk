@@ -5,19 +5,25 @@ id: al-fath-1928-03
 voice: Al-Fath (sayı 86)
 role: Kahire'de yayımlanan haftalık Selefi dergi
 quote: >-
-  Eskiden övdüğümüz, kendisi için dua edip hayır dilediğimiz ve İslam'ı yüceltip onurlandıracağını umduğumuz
-  Mustafa Kemal, İslam'a karşı böyle davranıyor
+  Adını övgüyle andığımız, kendisine dua ettiğimiz, mübarek kıldığımız ve İslam'ı yüceltip aziz kılmasını
+  umduğumuz Mustafa Kemal, İslam'a böyle yapıyor
 quote_kind: translated
 summary: >-
   Hayal kırıklığına uğramış bir hayran: bir zamanlar övülen ve hayır dua edilen Kemal şimdi İslam'a karşı
   hareket ediyor; Anadolu askerleri din saikiyle savaşmıştı.
 caveat: >-
-  İmzasız; 1924 tarihli notlar 1928'de yeniden basılmıştır. Alıntı, notun yer verdiği Arapça özgün metnin not
-  yazarı tarafından yapılmış İngilizce çevirisidir.
+  İmzasız; 1924 tarihli notlar 1928'de yeniden basılmıştır. Alıntı, notta basılı olan Arapça özgün metnin not
+  yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan,
+  basıldığı şekliyledir; taramadan okunmuştur (archive.org efath-moheb-elden-elkheeb,
+  001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1369, basılı s. 569 (sayı s. 9), sağ sütun; künye PDF s.
+  1361); basılı tarih: 'العدد ٨٦ — القاهرة : الخميس ٩ رمضان المكرم سنة ١٣٤٦ — أول مارس سنة ١٩٢٨ — السنة
+  الثانية' (sayı 86, Perşembe 9 Ramazan 1346 / 1 Mart 1928).
 verification_note: >-
-  Arapça metin s. 569'da 'Dhikra ilgha' al-khilafa' başlığı altında basılı (3 Mart 1924 tarihli notlar); 'ندعو
-  له' = kendisi için dua ederdik; çeviri sadık; imzasız; Anadolu askeri/Hintliler-Afganlar noktası da mevcut.
-  Çelişkili kutupluluk geçerli.
+  Arapça metin s. 569'da 'Dhikra ilgha' al-khilafa' (3 Mart 1924 tarihli notlar) başlığı altında basılıdır;
+  'ندعو له' = kendisine dua ettiğimiz; çeviri sadıktır; imzasızdır; Anadolu askeri / Hintliler-Afganlar
+  noktası da mevcuttur. Çelişkili yönelim geçerliliğini koruyor. Arapça metin 16 Kasım 2026'da ayrı bir
+  okuyucu tarafından sayfa görüntüsünden okunmuştur; o zamana kadar alıntı, araştırma notundaki Arapça metnin
+  İngilizce çevirisiydi.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -25,8 +31,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 61d33cab498e
   role: abf29e803c77
-  quote: 74f25075077e
+  quote: 60c857963beb
   summary: 21d3d9e77898
-  caveat: e84e4b23c7de
-  verification_note: 4d8ee5673ea7
+  caveat: 1ac7136e8db7
+  verification_note: fef36ee1bfe7
   verification_method: 6190bebdb3a6

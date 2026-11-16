@@ -16,11 +16,17 @@ summary: >-
   Calls Kemal a fake Robespierre, an ordinary man whose hatred of Islam matters little and who will be
   remembered for childishness.
 quote:
-  text: >-
+  text: ونحن لا نهتم كثيراً بحقد مصطفى كمال على الدين الاسلامي وكراهته له
+  language: ar
+  translation: >-
     We do not much mind Mustafa Kemal's rancour against the Islamic religion and his hatred of it
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
-  Quote is the note author's English translation of the Arabic original, which the note prints.
+  Quote is the note author's English translation of the Arabic original, which the note prints. The Arabic is
+  as printed, without the hamzas the typesetter left out; read on the scan (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1778, printed p. 172 (issue p. 6),
+  right-hand column; masthead PDF p. 1773); date as printed: 'العدد ١١٢ — القاهرة : ٢٢ ربيع الاول سنة ١٣٤٧ — ٦
+  سبتمبر سنة ١٩٢٨ — السنة الثالثة' (no. 112, 22 Rabi' al-Awwal 1347 / 6 September 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -33,5 +39,7 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic on p.172 under 'Tufulat al-za'im al-turki / Robespierre al-za'if'; signed Muhammad Ali Gharib at
-    article end; ordinary-man/childishness theme present; hostile holds.
+    article end; ordinary-man/childishness theme present; hostile holds. The Arabic was read on the page image
+    on 16 Nov 2026 by a separate reader; until then the quote was an English rendering of the Arabic in the
+    research note. 
   checked_on: "2026-10-30"

@@ -15,11 +15,18 @@ artifact: editorial
 evidence: P
 summary: Atatürk banished Arabic from Turkish; Persia's Shah followed, purging Arab words.
 quote:
-  text: Atatürk expelled Arabic from the Turks' language in the worst of expulsions
-  language: en
+  text: فان « أتاتورك » طرد العربية من لغة الاتراك شر طردة
+  language: ar
+  translation: Atatürk expelled Arabic from the Turks' language in the worst of expulsions
+  translated_by: "machine: research agent"
 caveat: >-
   Issue date inferred (1 Muharram 1355 cover leaf; cites 17 Mar 1936). Quote is the note author's English
-  translation of the Arabic original, which the note prints.
+  translation of the Arabic original, which the note prints. The Arabic is as printed, without the hamzas the
+  typesetter left out; read on the scan (archive.org efath-moheb-elden-elkheeb,
+  426_530_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1395 = printed p. 951 (issue p. 3); the article begins on PDF
+  p. 1394 = printed p. 950 (issue p. 2); cover leaf PDF p. 1393); date as printed: Cover leaf: 'القاهرة غرّة
+  المحرّم ١٣٥٥' and '(العام العاشر)' (Cairo, 1 Muharram 1355, year 10). No Gregorian date is printed; the
+  issue number is hidden in the gutter..
 node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -30,5 +37,7 @@ verification:
   method: rendered page image and READ Arabic
   note: >-
     Arabic 'فإن «أتاتورك» طرد العربية من لغة الأتراك شر طردة وقفاه في العام الماضي شاه العجم' present;
-    faithful; page cites al-Balagh 23 Dhu'l-Hijja 1354 = 17/3/1936, so date inference sound.
+    faithful; page cites al-Balagh 23 Dhu'l-Hijja 1354 = 17/3/1936, so date inference sound. The Arabic was
+    read on the page image on 16 Nov 2026 by a separate reader; until then the quote was an English rendering
+    of the Arabic in the research note. 
   checked_on: "2026-10-29"

@@ -4,25 +4,33 @@
 id: al-fath-1927
 voice: Al-Fath
 role: Kahire Selefi haftalık dergisi (Muhibb al-Din al-Khatib)
-quote: Ankara'daki Kemalistler 'fikir özgürlüğü' iddialarında yalancıdırlar
+quote: >-
+  Bu makale, Mısır'daki Kemalistlerin kuyruklarının —Ankara'daki Kemalistler gibi— «fikir özgürlüğü»
+  iddiasında yalancı olduklarını göstermektedir.
 quote_kind: translated
 summary: >-
   Kemal'in uzun konuşmasının ardından al-Siyasa'ya yanıt verirken: Ankara'daki Kemalistler yalan yere fikir
   özgürlüğü iddiasında bulunuyor ve Mısır'a da vicdan işkencesi çektireceklerdir.
 caveat: >-
-  Konuşmanın Nutuk olarak tanımlanması not yazarının tespitidir. Alıntı, notta basılı olan Arapça özgün metnin
-  not yazarı tarafından yapılmış İngilizce çevirisidir.
+  Konuşmanın Nutuk olarak tanımlanması not yazarına aittir. Alıntı, notta basılı olan Arapça özgün metnin not
+  yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan
+  basıldığı gibidir; taramadan okunmuştur (archive.org efath-moheb-elden-elkheeb,
+  001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1080, basılı s. 280 (sayı s. 8): sağ sütunun son satırı ve sol
+  sütunun ilk iki satırı; künye PDF s. 1073); basılı tarih: 'العدد ٦٨ — القاهرة : الخميس ٢ جمادى الاولى سنة
+  ١٣٤٦ — ٢٧ أكتوبر سنة ١٩٢٧ — السنة الثانية' (sayı 68, Perşembe 2 Cemaziyelevvel 1346 / 27 Ekim 1927, yıl 2).
 verification_note: >-
-  Arapça 'الكماليين في أنقرة كاذبون في دعوى الحرية الفكرية' ifadesi mevcut; al-Siyasa'ya yanıt veriyor,
-  vicdanlara yapılan işkenceden söz ediyor. 27 Ekim 1927 sayı tarihi künyeden yeniden okunmadı (bu sayfada
-  yok).
+  Arapça 'الكماليين في أنقرة كاذبون في دعوى الحرية الفكرية' ifadesi mevcuttur; al-Siyasa'ya yanıt verir,
+  vicdanların azabından söz eder. 27 Ekim 1927 sayı tarihi künyeden yeniden okunmamıştır (bu sayfada
+  değildir). Arapça metin 16 Kasım 2026'da ayrı bir okur tarafından sayfa görüntüsünden okunmuştur; o zamana
+  kadar alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi. İngilizce metin o zaman
+  düzeltilmiştir.
 verification_method: PDF indirildi, sayfa görüntüsü oluşturuldu ve Arapça metin okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7411ffc047d5
   role: be8e56dfc3d1
-  quote: cf7ad6473eb4
+  quote: cbf107af8709
   summary: 844310db0a1d
-  caveat: 8859722864f6
-  verification_note: 236f3d2c4ffb
+  caveat: 4b3f4211b681
+  verification_note: 106362637d91
   verification_method: 53856b150f76

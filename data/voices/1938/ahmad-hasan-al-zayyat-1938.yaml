@@ -17,11 +17,18 @@ summary: >-
   Kemal no man of chance but a chosen leader of a flock; yet he doubts the comparison with Muhammad, whose
   renaissance rested on revelation.
 quote:
-  text: Mustafa Kemal, God have mercy on him, was not a man of chance and luck
-  language: en
+  text: لم يكن مصطفى كمال رحمه الله رجلاً من رجال المصادفة والحظ
+  language: ar
+  translation: Mustafa Kemal, God have mercy on him, was not a man of chance and luck
+  translated_by: "machine: research agent"
 caveat: >-
   Admiring with a reservation about the Muhammad comparison. Quote is the note author's English translation of
-  the Arabic original, which the note prints.
+  the Arabic original, which the note prints. The Arabic is as printed, without the hamzas the typesetter left
+  out; read on the scan (archive.org AAlexandrina-230539, file '230539 - الرسالة_issue-261-286_Year-1938.pdf',
+  PDF p. 769, printed p. 1842, first lines of the right-hand column; masthead PDF p. 768 = printed p. 1841);
+  date as printed: 'العدد ٢٨٠ — « القاهرة فى يوم الأثنين ٢٢ رمضان سنة ١٣٥٧ — ١٤ نوفمبر سنة ١٩٣٨ » — السنة
+  السادسة'; also in French on the masthead: '6me Année, No. 280' and 'Lundi - 14 - 11 - 1938' (Monday 22
+  Ramadan 1357 / 14 November 1938).
 node: Ahmad Hasan al-Zayyat
 sources:
   - url: https://archive.org/details/AAlexandrina-230539
@@ -33,4 +40,7 @@ verification:
     OCR (noisy) shows 'lam yakun Mustafa Kamal rahimahu Allah rajulan min rijal al-musadafa wal-hazz ...' and
     the Muhammad-comparison reservation ('nahdat Muhammad yusadiduha Qur'an wa yasnuduha wahy'); translation
     faithful
+  note: >-
+    The Arabic was read on the page image on 16 Nov 2026 by a separate reader; until then the quote was an
+    English rendering of the Arabic in the research note. 
   checked_on: "2026-10-29"

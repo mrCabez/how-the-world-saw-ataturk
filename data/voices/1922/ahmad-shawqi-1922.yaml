@@ -15,12 +15,17 @@ evidence: P
 summary: >-
   Victor of the Greek war and Lausanne as 'Khalid of the Turks', renewing Khalid ibn al-Walid for the Arabs.
 quote:
-  text: >-
+  text: اللهُ أكبر ، كمْ فى الفتحِ من عَجَب / ياخالدَ التُّركِ جدِّدْ خالدَ العَرَب
+  language: ar
+  translation: >-
     Allahu akbar, how many wonders in the conquest - O Khalid of the Turks, renew Khalid of the Arabs
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
   Date from the poem's Lausanne reference (conference opened 20 Nov 1922); scan gives none. Quote is the note
-  author's English translation of the Arabic original, which the note prints.
+  author's English translation of the Arabic original, which the note prints. The Arabic is as printed,
+  without the hamzas the typesetter left out; read on the scan (archive.org elshandawily1184, file 'الشوقيات
+  -ج1.pdf' (al-Shawqiyyat vol. 1, Dar al-'Awda), PDF p. 60, printed p. 59; first line of the poem headed
+  'انتصار الأتراك فى الحرب والسياسة').
 node: Shawqi's Two Poems on the Ghazi, 1922–1924 (al-Shawqiyyat)
 sources:
   - url: https://archive.org/details/elshandawily1184
@@ -32,5 +37,7 @@ verification:
   note: >-
     Arabic line 1 of 'Intisar al-Atrak fi'l-harb wa'l-siyasa' reads exactly 'الله أكبر، كم في الفتح من عجب /
     يا خالد الترك جدد خالد العرب'; fn 1 identifies Khalid al-Turk as al-Ghazi Mustafa Pasha Kemal; translation
-    faithful. 1922 date inferred (Lausanne ref), as caveat says.
+    faithful. 1922 date inferred (Lausanne ref), as caveat says. The Arabic was read on the page image on 16
+    Nov 2026 by a separate reader; until then the quote was an English rendering of the Arabic in the research
+    note. 
   checked_on: "2026-10-29"

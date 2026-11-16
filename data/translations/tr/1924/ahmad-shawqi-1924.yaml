@@ -4,15 +4,21 @@
 id: ahmad-shawqi-1924
 voice: Ahmad Shawqi
 role: Mısırlı 'Şairler Prensi'
-quote: Topluluğu diriltenin mürtet olduğunu ve hakları iade edenin sefih olduğunu mu söyleyeyim?
+quote: >-
+  Cemaati ihya edene mülhit (dinsiz) mi diyeyim / Ve hakları geri verene ibahi (kuralsız) mi diyeyim?
 quote_kind: translated
 summary: >-
   Kaldırılan hilafetin yasını tutar, Gazi'ye mürtet denmesini reddeder ve onu öğüt dinleyip bu yoldan dönmeye
   çağırır.
 caveat: >-
-  Tarih kaldırılıştan çıkarımlandı; editörün notu yanlışlıkla 1923 diyor. Alıntı, notta basılı olan Arapça
-  özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
-verification_note: ""
+  Tarih ilgadan çıkarılmıştır; editörün notu yanlışlıkla 1923 der. Alıntı, notta basılı olan Arapça özgün
+  metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler
+  olmadan basıldığı gibidir; taramadan okunmuştur (archive.org elshandawily1184, 'الشوقيات -ج1.pdf' dosyası,
+  PDF s. 108, basılı s. 107 (sayfadaki sekizinci dize); 'خلافة الاسلام' şiiri PDF s. 106 = basılı s. 105'te
+  başlar).
+verification_note: >-
+  Arapça metin 16 Kasım 2026'da ayrı bir okur tarafından sayfa görüntüsünden okunmuştur; o zamana kadar
+  alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi. İngilizce metin o zaman düzeltilmiştir.
 verification_method: >-
   sayfa görüntüsü okundu; Arapça 'a-aqulu man ahya al-jama'a mulhid / wa-aqulu man radd al-huquq ibahi'
   mevcut, çeviri sadık; editör notu 7 al-Ghazi = Mustafa Kemal açıklamasını düşüyor
@@ -20,8 +26,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 21df07376994
   role: 1ae8aee12900
-  quote: 31f072a8502e
+  quote: 9709f3cc3be1
   summary: 54bf974a26a2
-  caveat: 71c2b4fd10e2
-  verification_note: da39a3ee5e6b
+  caveat: a0dda77d323c
+  verification_note: 2d0c260a0d6f
   verification_method: 8a82216f8395

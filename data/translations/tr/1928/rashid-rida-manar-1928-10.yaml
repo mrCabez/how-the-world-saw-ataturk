@@ -5,20 +5,25 @@ id: rashid-rida-manar-1928-10
 voice: Rashid Rida
 role: Selefi ilahiyatçı; al-Manar editörü
 quote: >-
-  ömrüme yemin olsun ki, biz Müslümanlar bu yeni plandan nefret etsek de bu büyük bir ruh ve uzak erimli bir
-  hırstır
+  Ömrüme پند olsun ki bu büyük bir ruh ve uzak erimli bir himmettir; her ne kadar biz Müslümanlar bu yeni yolu
+  kınasak da
 quote_kind: translated
 summary: >-
   Harf devrimini Kemalistlerin İslam'a saldırısı olarak görür; yine de Kemal'in büyük bir ruha ve uzak erimli
   bir hırsa sahip olduğunu teslim eder.
 caveat: >-
-  İmzasız, birinci tekil şahısla yazılmış başyazı; Rida'ya atfedilir. Alıntı, notun yer verdiği Arapça özgün
-  metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+  İmzasız birinci tekil şahıs başyazı, Rida'ya atfedilmiştir. Alıntı, araştırma notunda basılı olan Arapça
+  özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler
+  olmadan basıldığı gibidir; tarama üzerinden okunmuştur (archive.org Almanar, almanar29.pdf (al-Manar c. 29
+  cüz 6), PDF s. 393, basılı s. 466, bölüm '٣— ما يطمع فيه مصطفى كمال بنجاحه'; cüz künyesi PDF s. 328 = basılı
+  s. 401); basılı tarih: '٣٠ ربيع الآخر سنة ١٣٤٧ ه — ٢١ برج الميزان سنة ١٣٠٨ ه ش — ١٤ اكتوبر سنة ١٩٢٨' (30
+  Rebiülahir 1347 / 14 Ekim 1928); c. 29, cüz 6 künyesi.
 verification_note: >-
-  Arapça metin s. 466 bölüm 3'te 'ma yatma' fihi Mustafa Kamal bi-najahih' başlığı altında; s. 456 imza satırı
-  olmaksızın birinci tekil şahısla 'urid al-yawm an uwajjih...' diye başlıyor; çeviri sondaki 'pek çok akıl
-  sahibinin sağlıksız bulduğu' yan cümlesini dışarıda bırakıyor (uygun); çelişkili kutupluluk geçerli; makale
-  sonu/imza satırı okunmadı.
+  Arapça metin s. 466 bölüm 3 'ma yatma' fihi Mustafa Kamal bi-najahih' içinde; s. 456 imzasız olarak birinci
+  tekil şahıs 'urid al-yawm an uwajjih...' ile başlıyor; çeviri sondaki 'birçok akıl sahibinin çürük gördüğü'
+  cümleciğini dışarıda bırakıyor (uygun); ikircikli tutum geçerliliğini koruyor; makale sonu/imza okunmadı.
+  Arapça metin 16 Kasım 2026'da ayrı bir okur tarafından sayfa görüntüsünden okunmuştur; o zamana kadar
+  alıntı, araştırma notundaki Arapçanın İngilizce çevirisiydi. İngilizce metin o sırada düzeltilmiştir.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -26,8 +31,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8500544dcf5c
   role: bb8d03d914df
-  quote: 757331be20d4
+  quote: a8f83d9ae613
   summary: 373fb3a4a0d0
-  caveat: c441e3554124
-  verification_note: a4376b84ea26
+  caveat: 4b5cdcd41280
+  verification_note: beeb92e36abc
   verification_method: 6190bebdb3a6

@@ -4,16 +4,23 @@
 id: muhammad-ali-gharib-1928
 voice: Muhammad Ali Gharib
 role: al-Fath yazarı
-quote: Mustafa Kemal'in İslam dinine karşı kinini ve ona olan nefretini pek umursamıyoruz
+quote: >-
+  Mustafa Kemal'in İslam dinine karşı beslediği kini ve ona duyduğu nefreti pek umursamıyoruz
 quote_kind: translated
 summary: >-
   Kemal'e sahte bir Robespierre, İslam'a nefreti pek önem taşımayan ve çocuksuluğuyla hatırlanacak sıradan bir
   adam der.
 caveat: >-
-  Alıntı, notun yer verdiği Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+  Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça
+  metin, dizgicinin atladığı hemzeler olmadan, basıldığı şekliyledir; taramadan okunmuştur (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1778, basılı s. 172 (sayı s. 6),
+  sağ sütun; künye PDF s. 1773); basılı tarih: 'العدد ١١٢ — القاهرة : ٢٢ ربيع الاول سنة ١٣٤٧ — ٦ سبتمبر سنة
+  ١٩٢٨ — السنة الثالثة' (sayı 112, 22 Rebiülevvel 1347 / 6 Eylül 1928).
 verification_note: >-
-  Arapça metin s. 172'de 'Tufulat al-za'im al-turki / Robespierre al-za'if' başlığı altında; makale sonunda
-  Muhammad Ali Gharib imzalı; sıradan adam/çocuksuluk teması mevcut; düşmanca kutupluluk geçerli.
+  Arapça metin s. 172'de 'Tufulat al-za'im al-turki / Robespierre al-za'if' başlığı altındadır; makale sonunda
+  Muhammad Ali Gharib imzalıdır; sıradan adam / çocukluk teması mevcuttur; düşmanca yönelim geçerliliğini
+  koruyor. Arapça metin 16 Kasım 2026'da ayrı bir okuyucu tarafından sayfa görüntüsünden okunmuştur; o zamana
+  kadar alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -21,8 +28,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 11176fcad84b
   role: 17988c957d53
-  quote: 1b776881718b
+  quote: 09d7c51c85f2
   summary: e52f462e3885
-  caveat: bd8d22c5ff7f
-  verification_note: 7b8ddbd19c04
+  caveat: a39455460f2e
+  verification_note: e78d1d4b7c6c
   verification_method: 6190bebdb3a6

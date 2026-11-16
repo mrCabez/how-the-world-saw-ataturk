@@ -15,11 +15,17 @@ evidence: P
 summary: >-
   Denies Kemal alone freed Turkey and treats his reforms as ordinary; says he feigned piety until Lausanne.
 quote:
-  text: those who freed Turkey were a band of which Mustafa Kemal was one
-  language: en
+  text: فالذين حرروا تركيا هم عصابة كان مصطفى كمال واحداً منهم
+  language: ar
+  translation: those who freed Turkey were a band of which Mustafa Kemal was one
+  translated_by: "machine: research agent"
 caveat: >-
   Author unnamed ('a great mujahid'); Arslan is only an inference. Quote is the note author's English
-  translation of the Arabic original, which the note prints.
+  translation of the Arabic original, which the note prints. The Arabic is as printed, without the hamzas the
+  typesetter left out; read on the scan (archive.org efath-moheb-elden-elkheeb,
+  001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1521, printed p. 721 (issue p. 1, which carries the masthead),
+  last three lines of the left-hand column); date as printed: 'العدد ٩٦ — القاهرة : الخميس ٢٧ ذي القعدة سنة
+  ١٣٤٦ — ١٧ مايو سنة ١٩٢٨ — السنة الثانية' (no. 96, Thursday 27 Dhu'l-Qa'da 1346 / 17 May 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -32,5 +38,7 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic on p.721 bottom; byline 'bi-qalam mujahid kabir huwa a'lam kuttab al-arabiyya bi-ahwal Turkiya'
-    unnamed; p.722 has feigning-piety-until-Lausanne passage; hostile holds.
+    unnamed; p.722 has feigning-piety-until-Lausanne passage; hostile holds. The Arabic was read on the page
+    image on 16 Nov 2026 by a separate reader; until then the quote was an English rendering of the Arabic in
+    the research note. 
   checked_on: "2026-10-30"

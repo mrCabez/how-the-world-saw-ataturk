@@ -5,19 +5,24 @@ id: rashid-rida-manar-1926
 voice: Rashid Rida
 role: Selefi ilahiyatçı; al-Manar editörü
 quote: >-
-  dünya, Mustafa Kemal'in tuttuğu bu yollarla Türkleri yeni bir yaratılış haline getirme girişiminden
-  Türklerin akıbetini öğrenecektir
+  ve dünya, Mustafa Kemal'in tuttuğu bu yollarla Türkleri yeni bir yaratılış haline getirme girişiminden
+  onların akıbetini öğrenecektir
 quote_kind: translated
 summary: >-
   Şapka fetvası: başlı başına caiz ama laikleştirici bir araç; dünya, Kemal'in yöntemleriyle yeniden
   biçimlendirilen Türklerin akıbetini görecektir.
 caveat: >-
-  İmzasız fetva sütunu, editör sıfatıyla Rida'ya atfedilmiştir. Alıntı, notta basılı olan Arapça özgün metnin
-  not yazarı tarafından yapılan İngilizce çevirisidir.
+  İmzasız fetva sütunu, editör olarak Rida'ya atfedilmiştir. Alıntı, notta basılı olan Arapça özgün metnin not
+  yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan
+  basıldığı gibidir; taramadan okunmuştur (archive.org Almanar, almanar26.pdf (al-Manar c. 26 kısım 7), PDF s.
+  384, basılı s. 498; kısım künyesi PDF s. 370 = basılı s. 481); basılı tarih: '٢٩ جمادى الآخرة سنة ١٣٤٤ — ٢٣
+  برج الجدي سنة ١٣٠٥ هش — ١٤ يناير سنة ١٩٢٦' (29 Cemaziyelahir 1344 / 14 Ocak 1926); c. 26, kısım 7 künyesi.
 verification_note: >-
-  s. 498'deki Arapça metin birebir aynı; Fatawa al-Manar sütunu, 'Takmilat fatwa al-libas wa al-zayy', imzasız
-  (Rida'nın sütunu); atıf yapılan yazının yazarı Alman bir yazardır (bir okur değil) ancak alıntı editörün
-  kendi yorumudur; hasmane tutum geçerlidir.
+  s. 498'de Arapça metin kelimesi kelimesine mevcuttur; Fatawa al-Manar sütunu, 'Takmilat fatwa al-libas wa
+  al-zayy', imzasız (Rida'nın sütunu); alıntılanan makalenin yazarı bir Alman yazardır (bir okur değil) ancak
+  alıntı editörün kendi yorumudur; karşıt tutum geçerlidir. Arapça metin 16 Kasım 2026'da ayrı bir okur
+  tarafından sayfa görüntüsünden okunmuştur; o zamana kadar alıntı, araştırma notundaki Arapça metnin
+  İngilizce çevirisiydi.
 verification_method: >-
   curl ile tam IA PDF'si indirildi; pdftoppm ile sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih
   için künyeler/kapaklar görüntülendi
@@ -25,8 +30,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8500544dcf5c
   role: bb8d03d914df
-  quote: 154b118dcd4f
+  quote: 613808fb568a
   summary: 3325cefcfb6a
-  caveat: ce283d064a60
-  verification_note: cd61e63d164d
+  caveat: aed115121614
+  verification_note: 4d0f2421baca
   verification_method: 6190bebdb3a6

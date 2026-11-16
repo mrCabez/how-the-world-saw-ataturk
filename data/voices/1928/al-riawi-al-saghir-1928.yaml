@@ -16,11 +16,18 @@ summary: >-
   Condemns a Jerusalem lecture praising Kemal as propaganda by the Turkish consulate; Palestine will not be
   Kemal's playground.
 quote:
-  text: >-
+  text: ان هذه المحاضرة لطخة عار وقذارة لُوّث بها المكان الذي القيت فيه
+  language: ar
+  translation: >-
     this lecture is a stain of shame and filth with which the place where it was given was defiled
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
-  Quote is the note author's English translation of the Arabic original, which the note prints.
+  Quote is the note author's English translation of the Arabic original, which the note prints. The Arabic is
+  as printed, without the hamzas the typesetter left out; read on the scan (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1897, printed p. 301 (issue p. 13),
+  foot of the left-hand column, just above the signature; masthead PDF p. 1885); date as printed: 'العدد ١١٩ —
+  القاهرة : ١١ جمادى الاولى سنة ١٣٤٧ — ٢٥ أكتوبر سنة ١٩٢٨ — السنة الثالثة' (no. 119, 11 Jumada al-Ula 1347 /
+  25 October 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -33,5 +40,6 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic 'lakhtat ar wa qadhara lawwathat biha al-makan' on p.301 under 'al-Da'aya lil-Atrak fi Filastin',
-    signed al-Ri'awi al-Saghir, Quds; hostile holds.
+    signed al-Ri'awi al-Saghir, Quds; hostile holds. The Arabic was read on the page image on 16 Nov 2026 by a
+    separate reader; until then the quote was an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-30"

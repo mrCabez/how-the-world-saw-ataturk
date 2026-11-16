@@ -18,12 +18,21 @@ summary: >-
   Kemalist propaganda.
 quote:
   text: >-
+    ومما يزيد فى الألم أن الصحف السورية بأجمعها قامت بوظيفة الدعاية للكماليين لمناسبة موت كمال أتاتورك
+  language: ar
+  translation: >-
     What adds to the pain is that the Syrian papers, all of them, performed the function of Kemalist
     propaganda on the occasion of Kemal Atatürk's death
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
   Author of the unsigned series Four Months in the Levant not named on the pages seen. Quote is the note
-  author's English translation of the Arabic original, which the note prints.
+  author's English translation of the Arabic original, which the note prints. The Arabic is as printed,
+  without the hamzas the typesetter left out; read on the scan (archive.org efath-moheb-elden-elkheeb,
+  631_730_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 79, printed p. 829 (issue p. 7), left-hand column; article
+  head PDF p. 78 = printed p. 828; end and signature PDF p. 80 = printed p. 830; cover PDF p. 73, masthead PDF
+  p. 75); date as printed: Cover: 'العدد ٦٣٤ (العام الثالث عشر) — الخميس : ٧ ذو القعدة ١٣٥٧'; masthead: '٦٣٤
+  (العام الثالث عشر) ... ٧ ذو القعدة ١٣٥٧' (no. 634, year 13, Thursday 7 Dhu'l-Qa'da 1357). No Gregorian date
+  is printed..
 node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -37,5 +46,6 @@ verification:
     فسودت الصحائف الطوال...' present; translation faithful. Funeral-prayer sentence present ('ولما مات أتاتورك
     أقام الدعاة صلاة الغائب ... في مسجد بني أمية وكادت تحدث ... فتنة'), but 'الدعاة' here are the Kemalist
     propagandists/callers in the surrounding context, so 'Syrian preachers' is a loose gloss. Issue
-    no./page/date not re-verified from image.
+    no./page/date not re-verified from image. The Arabic was read on the page image on 16 Nov 2026 by a
+    separate reader; until then the quote was an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-29"

@@ -16,14 +16,19 @@ summary: >-
   After beating the Greeks Kemal imagined himself master of the earth and his words scripture; mocks his
   Rousseau lecture.
 quote:
-  text: >-
+  text: ظن نفسه أصبح رجل الارض في الطول والعرض ، وأن كل ما يقوله صار آيات منزلة من السماء
+  language: ar
+  translation: >-
     thought himself to have become the man of the earth in length and breadth, and that all he says has become
     verses sent down from heaven
-  language: en
+  translated_by: "machine: research agent"
 mediated_by: al-Akhbar article by an unnamed 'prince of eloquence'
 caveat: >-
   Unsigned reprint. Quote is the note author's English translation of the Arabic original, which the note
-  prints.
+  prints. The Arabic is as printed, without the hamzas the typesetter left out; read on the scan (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1252, printed p. 452 (issue p. 4),
+  head of the right-hand column; masthead PDF p. 1249); date as printed: 'العدد ٧٩ — القاهرة : الخميس ١٩ رجب
+  سنة ١٣٤٦ — ١٢ يناير سنة ١٩٢٨ — السنة الثانية' (no. 79, Thursday 19 Rajab 1346 / 12 January 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -36,5 +41,7 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic on p.452 'al-Maghrur', 'min maqal fi al-Akhbar li-amir min umara' al-bayan yunimm qalamuhu alayh';
-    unsigned reprint; Rousseau mockery present; hostile holds.
+    unsigned reprint; Rousseau mockery present; hostile holds. The Arabic was read on the page image on 16 Nov
+    2026 by a separate reader; until then the quote was an English rendering of the Arabic in the research
+    note. 
   checked_on: "2026-10-30"

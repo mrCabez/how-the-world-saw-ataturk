@@ -4,16 +4,22 @@
 id: al-riawi-al-saghir-1928
 voice: al-Ri'awi al-Saghir
 role: al-Fath'ın Kudüs muhabiri
-quote: bu konferans, verildiği yerin kendisiyle kirletildiği bir utanç ve pislik lekesidir
+quote: Bu konferans, verildiği yeri kirleten bir utanç ve pislik lekesidir
 quote_kind: translated
 summary: >-
   Kemal'i öven bir Kudüs konferansını Türk konsolosluğunun propagandası olarak kınar; Filistin Kemal'in oyun
   alanı olmayacaktır.
 caveat: >-
-  Alıntı, notun yer verdiği Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+  Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça
+  metin, dizgicinin atladığı hemzeler olmadan, basıldığı şekliyledir; taramadan okunmuştur (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1897, basılı s. 301 (sayı s. 13),
+  sol sütunun alt kısmı, imzanın hemen üstü; künye PDF s. 1885); basılı tarih: 'العدد ١١٩ — القاهرة : ١١ جمادى
+  الاولى سنة ١٣٤٧ — ٢٥ أكتوبر سنة ١٩٢٨ — السنة الثالثة' (sayı 119, 11 Cemaziyelevvel 1347 / 25 Ekim 1928).
 verification_note: >-
   Arapça 'lakhtat ar wa qadhara lawwathat biha al-makan' ifadesi s. 301'de 'al-Da'aya lil-Atrak fi Filastin'
-  başlığı altında, al-Ri'awi al-Saghir, Kudüs imzalı; düşmanca kutupluluk geçerli.
+  başlığı altında yer alır, al-Ri'awi al-Saghir, Kudüs imzalıdır; düşmanca yönelim geçerliliğini koruyor.
+  Arapça metin 16 Kasım 2026'da ayrı bir okuyucu tarafından sayfa görüntüsünden okunmuştur; o zamana kadar
+  alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -21,8 +27,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 3727d0ea359d
   role: cdcf66b3f575
-  quote: f56394a3aeb0
+  quote: 439ed7423d8c
   summary: fe211d99e72c
-  caveat: bd8d22c5ff7f
-  verification_note: a8e1aab8ea8b
+  caveat: 1734d7c62f44
+  verification_note: 5836392a5a63
   verification_method: 6190bebdb3a6

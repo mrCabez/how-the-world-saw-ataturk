@@ -23,7 +23,7 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 206 kayıt vardır) |
 | Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 858 |
-| İngilizce olmayan alıntılar | 482; her birinin İngilizce çevirisi var: 469'u makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
+| İngilizce olmayan alıntılar | 500; her birinin İngilizce çevirisi var: 487'si makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
 | Kayıtlı kaynak doğrulaması bulunan kayıtlar | 987 (tümü) |
 | Türkçe çeviri dosyası bulunan kayıtlar | 987 (tümü) |
 
@@ -80,7 +80,7 @@ Bir söz önerebilir, bir hata bildirebilir, bir kaydı kaynağıyla karşılaş
 
 **Nereden başlayacağınızı mı düşünüyorsunuz?** Aşağıdakilerin hiçbiri özel bir erişim ya da yazılım gerektirmez:
 
-- **Bir İngilizce çeviriyi özgün metniyle karşılaştırın.** 30 dilde 469 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı; en kalabalık gruplar Türkçe, Fransızca, Almanca, Felemenkçe, Çince, İspanyolca, Arapça ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Bir İngilizce çeviriyi özgün metniyle karşılaştırın.** 30 dilde 487 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı; en kalabalık gruplar Türkçe, Fransızca, Almanca, Felemenkçe, Çince, İspanyolca, Arapça ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Bir Türkçe çeviriyi İngilizcesiyle karşılaştırın** ve kulağa yanlış geleni düzeltin. Türkçe metinlerin tamamı makine çevirisidir ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Bir kaynağı yeniden açın ve orada ne yazdığını bildirin.** Her kaydın ikinci bir okura ihtiyacı var; [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formu birkaç dakikanızı alır. Üç kayıt ise hiç açamadığımız bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - **Var olduğunu bildiğimiz ama ulaşamadığımız bir metni bulun:** Cinnah'ın Atatürk'ün ölümü üzerine açıklaması ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Roncalli'nin günlüğü ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze'nin Ankara günlüğü ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). Bu türden başka ipuçları [`research/candidates/`](research/candidates/) klasöründe ve [`research/HUNT.md`](research/HUNT.md) dosyasının "Open leads that need a person" başlığı altında.

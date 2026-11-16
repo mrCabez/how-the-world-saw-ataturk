@@ -4,18 +4,23 @@
 id: al-fath-1928-05
 voice: Al-Fath (sayı 96)
 role: Kahire'de yayımlanan haftalık Selefi dergi
-quote: Türkiye'yi kurtaranlar, Mustafa Kemal'in de içlerinden biri olduğu bir gruptu
+quote: Türkiye'yi kurtaranlar, Mustafa Kemal'in de içlerinden biri olduğu bir çeteydi
 quote_kind: translated
 summary: >-
   Türkiye'yi tek başına Kemal'in kurtardığını reddeder ve reformlarını sıradan görür; Lozan'a kadar dindarlık
   tasladığını söyler.
 caveat: >-
-  Yazar isimsiz ('büyük bir mücahit'); Arslan yalnızca bir çıkarımdır. Alıntı, notun yer verdiği Arapça özgün
-  metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+  Yazar adı belirtilmemiş ('büyük bir mücahit'); Arslan yalnızca bir çıkarımdır. Alıntı, notta basılı olan
+  Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin atladığı
+  hemzeler olmadan, basıldığı şekliyledir; taramadan okunmuştur (archive.org efath-moheb-elden-elkheeb,
+  001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1521, basılı s. 721 (künyeyi taşıyan sayı s. 1), sol sütunun
+  son üç satırı); basılı tarih: 'العدد ٩٦ — القاهرة : الخميس ٢٧ ذي القعدة سنة ١٣٤٦ — ١٧ مايو سنة ١٩٢٨ — السنة
+  الثانية' (sayı 96, Perşembe 27 Zilkade 1346 / 17 Mayıs 1928).
 verification_note: >-
-  Arapça metin s. 721'in alt kısmında; imza satırında isim verilmeden 'bi-qalam mujahid kabir huwa a'lam
-  kuttab al-arabiyya bi-ahwal Turkiya' yazılı; s. 722'de Lozan'a kadar dindarlık taslama pasajı yer alıyor;
-  düşmanca kutupluluk geçerli.
+  Arapça metin s. 721'in alt kısmındadır; 'bi-qalam mujahid kabir huwa a'lam kuttab al-arabiyya bi-ahwal
+  Turkiya' imzası isimsizdir; s. 722'de Lozan'a kadar dindar görünme pasajı yer alır; düşmanca yönelim
+  geçerliliğini koruyor. Arapça metin 16 Kasım 2026'da ayrı bir okuyucu tarafından sayfa görüntüsünden
+  okunmuştur; o zamana kadar alıntı, araştırma notundaki Arapça metnin İngilizce çevirisiydi.
 verification_method: >-
   Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
   künye/kapaklar görüntülendi
@@ -23,8 +28,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 025ea37ab978
   role: abf29e803c77
-  quote: 114a7496c286
+  quote: fc02a75fbaa5
   summary: d33374825369
-  caveat: d5ee53115aef
-  verification_note: 5c3195db289e
+  caveat: 7c21e8081031
+  verification_note: eee657b5bc67
   verification_method: 6190bebdb3a6

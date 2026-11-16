@@ -17,13 +17,23 @@ summary: >-
   and the Latin script.
 quote:
   text: >-
+    ان ما قام به الغازي مصطفى كمال باشا من الاعمال الباهرة التى هي فوز مبين على الدهر ، والتى هي انقلاب هائل
+    وتطور عظيم ، ما هي الا اسس فى الدين الاسلامي يجب الاقتداء به فيها
+  language: ar
+  translation: >-
     What al-Ghazi Mustafa Kemal Pasha has done of brilliant works, which are a clear victory over time and a
-    tremendous revolution and great development
-  language: en
+    tremendous revolution and great development, are nothing but foundations in the Islamic religion, in which
+    he ought to be followed.
+  translated_by: "machine: claude-fable-5-2"
 mediated_by: al-Fath no. 119 p. 301, signed al-Ri'awi al-Saghir (hostile report)
 caveat: >-
   Reported by a hostile correspondent; lecture itself not seen; date of lecture unknown (month of report).
-  Quote is the note author's English translation of the Arabic original, which the note prints.
+  Quote is the note author's English translation of the Arabic original, which the note prints. The Arabic is
+  as printed, without the hamzas the typesetter left out; read on the scan (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1897, printed p. 301 (issue p. 13),
+  head of the right-hand column, inside « »; masthead PDF p. 1885); date as printed: 'العدد ١١٩ — القاهرة : ١١
+  جمادى الاولى سنة ١٣٤٧ — ٢٥ أكتوبر سنة ١٩٢٨ — السنة الثالثة' (no. 119, 11 Jumada al-Ula 1347 / 25 October
+  1928); no date is printed for the lecture.
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -36,5 +46,7 @@ verification:
   note: >-
     Arabic quote opens report of lecture 'al-Tajaddud fi Turkiya wa al-Islam' by Hasan Sidqi al-Dajani,
     relayed by hostile correspondent; consul source, women/veil and Latin script points present; lecture date
-    not printed; mediated caveat accurate.
+    not printed; mediated caveat accurate. The Arabic was read on the page image on 16 Nov 2026 by a separate
+    reader; until then the quote was an English rendering of the Arabic in the research note. The English was
+    corrected then.
   checked_on: "2026-10-30"

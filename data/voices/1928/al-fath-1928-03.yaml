@@ -17,12 +17,18 @@ summary: >-
   from religion.
 quote:
   text: >-
+    مصطفى كمال الذى كنا نشيد باسمه وندعو له ونبارك عليه ونرجوه لرفعة الاسلام واعزازه يفعل هكذا بالاسلام
+  language: ar
+  translation: >-
     Mustafa Kemal, whom we used to extol, prayed for and blessed, and hoped would raise and honour Islam, acts
     thus towards Islam
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
   Unsigned; 1924 notes reprinted 1928. Quote is the note author's English translation of the Arabic original,
-  which the note prints.
+  which the note prints. The Arabic is as printed, without the hamzas the typesetter left out; read on the
+  scan (archive.org efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1369, printed p.
+  569 (issue p. 9), right-hand column; masthead PDF p. 1361); date as printed: 'العدد ٨٦ — القاهرة : الخميس ٩
+  رمضان المكرم سنة ١٣٤٦ — أول مارس سنة ١٩٢٨ — السنة الثانية' (no. 86, Thursday 9 Ramadan 1346 / 1 March 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -36,5 +42,6 @@ verification:
   note: >-
     Arabic printed on p.569 under 'Dhikra ilgha' al-khilafa' (notes of 3 Mar 1924); 'ندعو له' = prayed for;
     translation faithful; unsigned; Anatolian soldier/Indians-Afghans point also present. Polarity conflicted
-    holds.
+    holds. The Arabic was read on the page image on 16 Nov 2026 by a separate reader; until then the quote was
+    an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-30"

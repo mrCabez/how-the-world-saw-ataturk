@@ -17,11 +17,19 @@ summary: >-
   close ranks.
 quote:
   text: >-
+    انتهى مصطفى كمال من طيّ مراحل الشوط الاول فيما أخذه على عاتقه من تقويض معالم الاسلام في تركيا
+  language: ar
+  translation: >-
     Mustafa Kemal has finished traversing the stages of the first leg of what he took upon himself, the
     demolition of the landmarks of Islam in Turkey
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
-  Quote is the note author's English translation of the Arabic original, which the note prints.
+  Quote is the note author's English translation of the Arabic original, which the note prints. The Arabic is
+  as printed, without the hamzas the typesetter left out; read on the scan (archive.org
+  efath-moheb-elden-elkheeb, 001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1617, printed p. 17 (issue p. 1,
+  under the masthead), opening of the article 'مصطفى كمال والاسلام'; signature on PDF p. 1618 = printed p.
+  18); date as printed: 'العدد ١٠٢ — القاهرة : الخميس ١٠ المحرّم سنة ١٣٤٧ — ٢٨ يونيو سنة ١٩٢٨ — السنة الثالثة'
+  (no. 102, Thursday 10 Muharram 1347 / 28 June 1928).
 node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -34,5 +42,6 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic opens article 'Mustafa Kamal wa al-Islam' on p.17; signed Muhibb al-Din al-Khatib at end p.18, ends
-    'sawwu sufufakum'; hostile holds.
+    'sawwu sufufakum'; hostile holds. The Arabic was read on the page image on 16 Nov 2026 by a separate
+    reader; until then the quote was an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-30"

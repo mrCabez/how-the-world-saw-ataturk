@@ -1992,3 +1992,13 @@ Two readers who had not written the records read each passage on the BnF page im
 - Bareilles, Kayser: title and page data added. L'Humanité 1938: the 'libéra … califat' wording is a page-1 caption; 'répression féroce' is on p. 3.
 
 Not done: I have not re-read the crops myself; the Sèvres passages in Kayser, the 'acrobatie levantine' and Saladin passages in Bareilles, and p. 2 of the 12 Nov 1938 Action française remain unread.
+
+## Eighteen Arabic originals read on the scans (2026-11-16)
+
+A separate reader found the Arabic behind 18 English quotes in al-Manar (vols. 25, 26, 28, 29), al-Fath, al-Risala, al-Shihab and Shawqi's poems, read it on the page images and compared it with the English. The records now carry the Arabic as printed (without the hamzas the typesetters left out) and the English as its translation. Corrections: `ahmad-shawqi-1924` has 'mulhid' (atheist, heretic), not 'apostate'; `al-fath-1927` makes the Kemalists' 'hangers-on in Egypt', not the Kemalists in Ankara, the liars; `hasan-sidqi-al-dajani-1928` now has the whole sentence, whose predicate the English had left out; `rashid-rida-manar-1928-10` has 'condemn', not 'abhor'. Printed issue dates agree with the records, apart from the Gregorian dates the 1936 and 1938 al-Fath issues do not print.
+
+Left alone: `ben-badis-1924` (the English is stitched from three fragments of a secondary source; no scan of the original issue was seen).
+
+Not yet done: a second reading of the two Rashid Rida passages entered earlier today from my own reading (`rashid-rida-manar-1924`, `rashid-rida-manar-1925`); the reader has not reported. Nothing from this section has been re-read by a second person.
+
+Counts: 858 quotes, 500 not in English (487 by machine, 9 by a contributor, 4 the source's own).

@@ -16,12 +16,17 @@ evidence: P
 summary: >-
   Sociologists judge Kemal's leap more dangerous to his people; an old state flares up before dying.
 quote:
-  text: >-
+  text: يقدر أهل الرأي والبصيرة من علماء الاجتماع ان وثبة مصطفى كمال ستكون أشد خطراً على قومه
+  language: ar
+  translation: >-
     Sociologists of judgement and insight reckon that Mustafa Kemal's leap will be more dangerous to his people
-  language: en
+  translated_by: "machine: research agent"
 caveat: >-
   Unsigned; attributed to Rida as editor. Quote is the note author's English translation of the Arabic
-  original, which the note prints.
+  original, which the note prints. The Arabic is as printed, without the hamzas the typesetter left out; read
+  on the scan (archive.org Almanar, almanar28.pdf (al-Manar vol. 28 part 10), PDF p. 567, printed p. 785; part
+  masthead PDF p. 528 = printed p. 721); date as printed: '٣٠ رجب سنة ١٣٤٦ ه — ٢ برج الدلو سنة ١٣٠٧ ه ش — ٢٣
+  يناير سنة ١٩٢٨' (30 Rajab 1346 / 23 January 1928); masthead of part 10, vol. 28.
 node: Al-Manar 26–29 (1926–1928) — Rida on Kemal's Reforms
 sources:
   - url: https://archive.org/details/Almanar
@@ -33,5 +38,6 @@ verification:
     curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
   note: >-
     Arabic on p.785 in section on Afghan king's hat; unsigned editorial; translation faithful; old-state-flare
-    passage present; hostile holds.
+    passage present; hostile holds. The Arabic was read on the page image on 16 Nov 2026 by a separate reader;
+    until then the quote was an English rendering of the Arabic in the research note. 
   checked_on: "2026-10-30"

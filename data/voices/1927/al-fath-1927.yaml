@@ -17,11 +17,21 @@ summary: >-
   Answering al-Siyasa after Kemal's long speech: Ankara's Kemalists falsely claim intellectual freedom and
   would inflict conscience-torture on Egypt too.
 quote:
-  text: The Kemalists in Ankara are liars in their claim of 'intellectual freedom'
-  language: en
+  text: >-
+    يدل هذا المقال على أن أذناب الكماليين في مصر ـ كالكماليين في أنقرة ـ كاذبون في دعوى « الحرية الفكرية » .
+  language: ar
+  translation: >-
+    This article shows that the Kemalists' hangers-on in Egypt, like the Kemalists in Ankara, are liars in
+    their claim of “intellectual freedom”.
+  translated_by: "machine: claude-fable-5-2"
 caveat: >-
   Identification of the speech as the Nutuk is the note author's. Quote is the note author's English
-  translation of the Arabic original, which the note prints.
+  translation of the Arabic original, which the note prints. The Arabic is as printed, without the hamzas the
+  typesetter left out; read on the scan (archive.org efath-moheb-elden-elkheeb,
+  001_125_Efath_Moheb_Elden_Elkheeb.pdf, PDF p. 1080, printed p. 280 (issue p. 8): last line of the right-hand
+  column and first two lines of the left-hand column; masthead PDF p. 1073); date as printed: 'العدد ٦٨ —
+  القاهرة : الخميس ٢ جمادى الاولى سنة ١٣٤٦ — ٢٧ أكتوبر سنة ١٩٢٧ — السنة الثانية' (no. 68, Thursday 2 Jumada
+  al-Ula 1346 / 27 October 1927, year 2).
 node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
 sources:
   - url: https://archive.org/details/efath-moheb-elden-elkheeb
@@ -33,5 +43,7 @@ verification:
   method: downloaded PDF, rendered page image and read the Arabic
   note: >-
     Arabic 'الكماليين في أنقرة كاذبون في دعوى الحرية الفكرية' present; replies to al-Siyasa, mentions torment
-    of consciences. Issue date 27 Oct 1927 not re-read from masthead (not on this page).
+    of consciences. Issue date 27 Oct 1927 not re-read from masthead (not on this page). The Arabic was read
+    on the page image on 16 Nov 2026 by a separate reader; until then the quote was an English rendering of
+    the Arabic in the research note. The English was corrected then.
   checked_on: "2026-10-29"

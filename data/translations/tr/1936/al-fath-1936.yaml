@@ -4,24 +4,30 @@
 id: al-fath-1936
 voice: Al-Fath
 role: Kahire Selefi haftalık dergisi (Muhibb al-Din al-Khatib)
-quote: Atatürk Arapçayı Türklerin dilinden kovmaların en kötüsüyle kovdu
+quote: Zira «Atatürk» Arapçayı Türklerin dilinden en kötü şekilde kovdu
 quote_kind: translated
 summary: >-
   Atatürk Arapçayı Türkçeden sürdü; İran Şahı da onu izleyerek Arapça kelimeleri tasfiye etti.
 caveat: >-
-  Sayı tarihi çıkarımla belirlendi (1 Muharrem 1355 kapak yaprağı; 17 Mart 1936 tarihine atıf yapıyor).
-  Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+  Sayı tarihi çıkarımla belirlenmiştir (kapak yaprağında 1 Muharrem 1355; 17 Mart 1936'ya atıfta bulunur).
+  Alıntı, araştırma notunda basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce
+  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; tarama üzerinden
+  okunmuştur (archive.org efath-moheb-elden-elkheeb, 426_530_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1395 =
+  basılı s. 951 (sayı s. 3); makale PDF s. 1394 = basılı s. 950'de (sayı s. 2) başlar; kapak yaprağı PDF s.
+  1393); basılı tarih: Kapak yaprağı: 'القاهرة غرّة المحرّم ١٣٥٥' ve '(العام العاشر)' (Kahire, 1 Muharrem
+  1355, 10. yıl). Miladi tarih basılı değildir; sayı numarası cilt payında gizlenmiştir.
 verification_note: >-
-  Arapça 'فإن «أتاتورك» طرد العربية من لغة الأتراك شر طردة وقفاه في العام الماضي شاه العجم' mevcut; sadık
-  çeviri; sayfa al-Balagh 23 Zilhicce 1354 = 17/3/1936 tarihine atıf yapıyor, dolayısıyla tarih çıkarımı
-  sağlam.
+  Arapça 'فإن «أتاتورك» طرد العربية من لغة الأتراك شر طردة وقفاه في العام الماضي شاه العجم' mevcut; sadık;
+  sayfa al-Balagh 23 Zilhicce 1354 = 17/3/1936'ya atıfta bulunuyor, dolayısıyla tarih çıkarımı sağlam. Arapça
+  metin 16 Kasım 2026'da ayrı bir okur tarafından sayfa görüntüsünden okunmuştur; o zamana kadar alıntı,
+  araştırma notundaki Arapçanın İngilizce çevirisiydi.
 verification_method: sayfa görüntüsü işlendi ve Arapça OKUNDU
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 7411ffc047d5
   role: be8e56dfc3d1
-  quote: de01c30be81b
+  quote: 692c48c9ab28
   summary: efdf34884f5b
-  caveat: 3a589ef7897d
-  verification_note: 450fff365dbc
+  caveat: 070315392d58
+  verification_note: 0eb865e4d40b
   verification_method: df0261a47d12
