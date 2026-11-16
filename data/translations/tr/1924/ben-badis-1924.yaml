@@ -10,7 +10,12 @@ quote_kind: translated
 summary: >-
   Kemalistleri hilafete, halifeye, Osmanlı Hanedanı'na ve bizzat dine karşı suç işlemekle itham etti; daha
   önceki övgülerini kabul etti.
-caveat: Birincil kaynak tıpkıbasım olarak görülmedi; Guenn ve al-Sallabi üzerinden aktarılmıştır.
+caveat: >-
+  Birincil kaynak tıpkıbasım olarak görülmemiştir; Guenn ve al-Sallabi aracılığıyla. Makale, toplu eserlerinin
+  2007 tarihli yeniden basımında (c. 6, s. 24) '8 شعبان / عبد الحميد بن باديس' olarak imzalanmıştır ve
+  buradaki dipnot 28 Mart 1924 tarihli, 152 sayılı al-Najah'ı verir; bu pasajın söz konusu yeniden basım
+  sayfasında görülen ancak al-Najah taramasında görülmeyen Arapçası, birbirine eklenmiş İngilizce alıntının
+  aktardığından daha uzun bir metindir. Alıntı olduğu gibi bırakılmıştır.
 verification_note: >-
   Alıntı, Arapçadan ikincil kaynak aracılığıyla yapılan İngilizce çeviridir; "1924-03" ay bilgisi kaynakta yer
   almıyor (yalnızca "after the 1924 abolition" geçiyor); birincil kaynak görülmedi.
@@ -21,6 +26,6 @@ source_fingerprints:
   role: 0ee037d5fa73
   quote: 671be043f1b6
   summary: 0148a8c96b48
-  caveat: 931ee1672377
+  caveat: 287e8b724e19
   verification_note: 99050e558ed9
   verification_method: ad8cee67138e

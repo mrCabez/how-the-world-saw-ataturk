@@ -12,14 +12,16 @@ summary: >-
   Kemal, Abdülmecid dönemindeki orta yolu koruyabilirdi; bir zamanlar bizzat kendisi de hilafete talip olmuş,
   bundan yalnızca huzursuzluk çıkması korkusuyla geri durmuştu.
 caveat: >-
-  Rida'nın yeniden basımı aracılığıyla aktarılmıştır; üç al-Akhbar makalesinden hangisinden alıntı yapıldığı
+  Rida'nın yeniden basımı aracılığıyla aktarılmıştır; üç al-Akhbar makalesinden hangisinin alıntılandığı
   bilinmemektedir. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce
-  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; taramadan okunmuştur
-  (archive.org Almanar, almanar25.pdf (al-Manar c. 25 kısım 4), PDF s. 215, basılı s. 290; Rida'nın girişi PDF
-  s. 214 = basılı s. 289'da; kısım künyesi PDF s. 181 = basılı s. 241); basılı tarih: al-Manar 25(4) künyesi,
-  s. 241: '٣٠ رمضان ١٣٤٢ — ١٤ الثور ١٣٣٠ ه ش — ٤ مايو ١٩٢٤' (30 Ramazan 1342 / 4 Mayıs 1924; şemsi-hicri yıl
-  ١٣٣٠ olarak basılmıştır). s. 289'da verildiği şekliyle al-Akhbar sayısı: 'صدر في ٣ رجب الموافق ٦ مارث' (3
-  Recep / 6 Mart)..
+  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmaksızın basıldığı gibidir; tarama üzerinden
+  okunmuştur (archive.org Almanar, almanar25.pdf (al-Manar c. 25 bölüm 4), PDF s. 215, basılı s. 290; Rida'nın
+  girişi PDF s. 214 = basılı s. 289; bölüm künyesi PDF s. 181 = basılı s. 241); basılı tarih: al-Manar 25(4)
+  künyesi, s. 241: '٣٠ رمضان ١٣٤٢ — ١٤ الثور ١٣٣٠ ه ش — ٤ مايو ١٩٢٤' (30 Ramazan 1342 / 4 Mayıs 1924; hicri
+  şemsi yıl ١٣٣٠ olarak basılmıştır). s. 289'da verildiği şekliyle al-Akhbar sayısı: 'صدر في ٣ رجب الموافق ٦
+  مارث' (3 Recep / 6 Mart).. Rida (al-Manar 25(4), 4 Mayıs 1924 tarihli, s. 289) pasajı üç al-Akhbar
+  makalesinden ilkinin girişini takip eden kısım olarak sunar; söz konusu al-Akhbar sayısını '٣ رجب الموافق ٦
+  مارث' (6 Mart) olarak tarihlendirir ki künyenin kendi takvimine göre bu tarih 3 Recep değildir.
 mediated_by: >-
   al-Akhbar (Kahire), 6 Mart 1924 tarihli makaleler, al-Manar 25(4) s. 290'da aktarıldığı şekliyle
 verification_note: >-
@@ -34,7 +36,7 @@ source_fingerprints:
   role: 9c7878e68858
   quote: a2ed2363380f
   summary: 2e49f5431819
-  caveat: 2e53b403a789
+  caveat: 4bb0bcd43cab
   mediated_by: 8f19017d4172
   verification_note: f19e6a6c3c82
   verification_method: 54f3a294f263

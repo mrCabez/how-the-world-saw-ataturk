@@ -12,14 +12,17 @@ summary: >-
   Suriyeli vaizlerin Emeviye Camii'ndeki cenaze namazını ve Suriye gazetelerinin Atatürk'ü övmesini Kemalist
   propaganda olarak kınar.
 caveat: >-
-  İmzasız Four Months in the Levant dizisinin yazarının adı görülen sayfalarda belirtilmemiştir. Alıntı,
-  araştırma notunda basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir.
-  Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; tarama üzerinden okunmuştur
-  (archive.org efath-moheb-elden-elkheeb, 631_730_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 79, basılı s. 829
-  (sayı s. 7), sol sütun; makale başlığı PDF s. 78 = basılı s. 828; sonu ve imza PDF s. 80 = basılı s. 830;
-  kapak PDF s. 73, künye PDF s. 75); basılı tarih: Kapak: 'العدد ٦٣٤ (العام الثالث عشر) — الخميس : ٧ ذو القعدة
-  ١٣٥٧'; künye: '٦٣٤ (العام الثالث عشر) ... ٧ ذو القعدة ١٣٥٧' (sayı 634, 13. yıl, Perşembe 7 Zilkade 1357).
-  Miladi tarih basılı değildir.
+  İmzasız Four Months in the Levant dizisinin yazarı görülen sayfalarda belirtilmemiştir. Alıntı, notta basılı
+  olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça metin, dizgicinin
+  atladığı hemzeler olmaksızın basıldığı gibidir; tarama üzerinden okunmuştur (archive.org
+  efath-moheb-elden-elkheeb, 631_730_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 79, basılı s. 829 (sayı s. 7), sol
+  sütun; makale başlığı PDF s. 78 = basılı s. 828; sonu ve imza PDF s. 80 = basılı s. 830; kapak PDF s. 73,
+  künye PDF s. 75); basılı tarih: Kapak: 'العدد ٦٣٤ (العام الثالث عشر) — الخميس : ٧ ذو القعدة ١٣٥٧'; künye:
+  '٦٣٤ (العام الثالث عشر) ... ٧ ذو القعدة ١٣٥٧' (sayı 634, 13. yıl, 7 Zilkade 1357 Perşembe). Miladi tarih
+  basılı değildir.. Taramada makale s. 828'de başlamakta ve sonunda, s. 830'da, 'مصطفى حسنى السباعى' (Mustafa
+  Hasani al-Siba'i) imzasını taşımaktadır; sayıda (sayı 634, 13. yıl) yalnızca Hicri 7 Zilkade 1357 tarihi
+  basılıdır. Araştırma notunda 'الدعاية الكمالية' olarak geçen ifade, basılı metinde 'الدعاية للكماليين'
+  (Kemalistler için propaganda) şeklindedir.
 verification_note: >-
   Arapça 'ومما يزيد في الألم أن الصحف السورية بأجمعها قامت بوظيفة الدعاية الكمالية لمناسبة موت كمال أتاتورك
   فسودت الصحائف الطوال...' mevcut; çeviri sadık. Cenaze namazı cümlesi mevcut ('ولما مات أتاتورك أقام الدعاة
@@ -34,6 +37,6 @@ source_fingerprints:
   role: be8e56dfc3d1
   quote: 9c262d2121f3
   summary: 7e905b79a039
-  caveat: 73063573fc86
+  caveat: a95392a494d6
   verification_note: 6fa7729d2940
   verification_method: 3af31c9ca00f

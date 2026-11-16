@@ -9,13 +9,16 @@ quote_kind: translated
 summary: >-
   Atatürk Arapçayı Türkçeden sürdü; İran Şahı da onu izleyerek Arapça kelimeleri tasfiye etti.
 caveat: >-
-  Sayı tarihi çıkarımla belirlenmiştir (kapak yaprağında 1 Muharrem 1355; 17 Mart 1936'ya atıfta bulunur).
-  Alıntı, araştırma notunda basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce
-  çevirisidir. Arapça metin, dizgicinin atladığı hemzeler olmadan basıldığı gibidir; tarama üzerinden
-  okunmuştur (archive.org efath-moheb-elden-elkheeb, 426_530_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1395 =
-  basılı s. 951 (sayı s. 3); makale PDF s. 1394 = basılı s. 950'de (sayı s. 2) başlar; kapak yaprağı PDF s.
-  1393); basılı tarih: Kapak yaprağı: 'القاهرة غرّة المحرّم ١٣٥٥' ve '(العام العاشر)' (Kahire, 1 Muharrem
-  1355, 10. yıl). Miladi tarih basılı değildir; sayı numarası cilt payında gizlenmiştir.
+  Sayı tarihi çıkarımla belirlenmiştir (1 Muharrem 1355 kapak yaprağı; 17 Mart 1936 tarihine atıfta bulunur).
+  Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir. Arapça
+  metin, dizgicinin atladığı hemzeler olmaksızın basıldığı gibidir; tarama üzerinden okunmuştur (archive.org
+  efath-moheb-elden-elkheeb, 426_530_Efath_Moheb_Elden_Elkheeb.pdf, PDF s. 1395 = basılı s. 951 (sayı s. 3);
+  makale PDF s. 1394 = basılı s. 950'de (sayı s. 2) başlar; kapak yaprağı PDF s. 1393); basılı tarih: Kapak
+  yaprağı: 'القاهرة غرّة المحرّم ١٣٥٥' ve '(العام العاشر)' (Kahire, 1 Muharrem 1355, 10. yıl). Miladi tarih
+  basılı değildir; sayı numarası cilt payında gizlenmiştir.. Taramada makale imzasız olmayıp s. 950'de 'بقلم
+  حضرة صاحب الفضيلة الاستاذ الشيخ محمد سليمان نائب المحكمة العليا الشرعية' (Yüksek Şeriat Mahkemesi
+  नाइbi/vekil üyesi Şeyh Muhammad Sulayman) imzasını taşımaktadır; alıntının basılı sayfası 950 değil 951'dir.
+  Sayıda yalnızca 'غرّة المحرّم ١٣٥٥' (1 Muharrem 1355, 10. yıl) basılıdır.
 verification_note: >-
   Arapça 'فإن «أتاتورك» طرد العربية من لغة الأتراك شر طردة وقفاه في العام الماضي شاه العجم' mevcut; sadık;
   sayfa al-Balagh 23 Zilhicce 1354 = 17/3/1936'ya atıfta bulunuyor, dolayısıyla tarih çıkarımı sağlam. Arapça
@@ -28,6 +31,6 @@ source_fingerprints:
   role: be8e56dfc3d1
   quote: 692c48c9ab28
   summary: efdf34884f5b
-  caveat: 070315392d58
+  caveat: 70038c192609
   verification_note: 0eb865e4d40b
   verification_method: df0261a47d12
